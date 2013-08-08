@@ -188,7 +188,7 @@ long top_shop;
  * Tune the others only if you understand what you're doing.
  */
 //#define                       MAX_STRING      1048576
-long MAX_STRING = 2097152;
+long MAX_STRING = 4194304;
 
 #define			MAX_PERM_BLOCK	262144
 #define			MAX_MEM_LIST	13
@@ -1912,7 +1912,8 @@ bool is_relic(int vnum)
 
 bool is_artifact(int vnum)
 {
-	if(vnum >= 29500 && vnum != 29519 && vnum <= 29599&& vnum != 29520)
+	if(vnum >= 29500 && vnum != 29519 && vnum <= 29599
+&& vnum != 29520)
 		return TRUE;
 	return FALSE;
 }
