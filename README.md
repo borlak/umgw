@@ -24,6 +24,7 @@ Notable additions:
 	<li>Hackify and Colorize modes (changes all output in the game, gives EXP bonus)</li>
   <li>Trivia</li>
   <li>Voting</li>
+  <li>Bounties</li>
   <li>Random quest token drops (globally announced so players can hunt for them)</li>
   <li>Insult code (randomly makes 1 player insult another one)</li>
   <li>News board</li>
