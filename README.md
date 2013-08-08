@@ -33,3 +33,10 @@ Notable additions:
   <li>...and many little things I'm sure I've forgotten...</li>
 </ul>
 
+<hr>
+<h3>Setup and running the code</h3>
+This code is designed to be compiled and run on linux.  cd to the /src directory and type 'make'.  
+This should create the executable 'merc'.  I believe in order to get this to run correctly you have
+to cd to the /area directory and run merc from there, ie: ../src/merc &
+
+
