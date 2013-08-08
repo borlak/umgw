@@ -5,7 +5,7 @@ A <a href="http://en.wikipedia.org/wiki/Merc_(MUD)">MERC</a> <a href="http://en.
 <br>
 MERC was created by Michael Chastain ("Furey"), Michael Quan ("Kahn"), and Mitchell Tse ("Hatchet").
 <br>
-An extention to MERC called Godwars was created by Kavir.  
+An extention to MERC called Godwars was created by Kavir.
 <br>
 This particular version of Godwars has many new features created by myself and <a href="https://github.com/piptastic">Jason "Pip" Wallace</a>.
 <br>
