@@ -1,9 +1,13 @@
 umgw
 ====
 
-A <a href="http://en.wikipedia.org/wiki/Player_killing#Player_killing">PK</a> <a href="http://en.wikipedia.org/wiki/MUD">MUD</a> named Um...Godwars.
+A <a href="http://en.wikipedia.org/wiki/Merc_(MUD)">MERC</a> <a href="http://en.wikipedia.org/wiki/Player_killing#Player_killing">PK</a> <a href="http://en.wikipedia.org/wiki/MUD">MUD</a> named Um...Godwars.
 <br>
-The Godwars codebase was created by Kavir.  This particular version of Godwars has many new features created by myself and <a href="https://github.com/piptastic">Jason "Pip" Wallace</a>.
+MERC was created by Michael Chastain ("Furey"), Michael Quan ("Kahn"), and Mitchell Tse ("Hatchet").
+<br>
+An extention to MERC called Godwars was created by Kavir.  
+<br>
+This particular version of Godwars has many new features created by myself and <a href="https://github.com/piptastic">Jason "Pip" Wallace</a>.
 <br>
 We ran the MUD for several years starting back sometime in 1998.
 <br>
