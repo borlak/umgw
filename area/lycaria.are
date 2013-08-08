@@ -1,0 +1,740 @@
+#AREA	Orcania Lycaria~
+
+
+#MOBILES
+#3208
+Grendel~
+Grendel~
+Grendel the Shop Keeper Stands here waiting for a Customer.
+~
+A ugly necklace hangs from this mans neck. You wonder if the necklace is for sell.
+~
+64 8|32|128|512|8192 1000 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#3209
+Priest~
+Priest of Lycaria~
+A Priest of Lycaria stands here practicing his trades.
+~
+His clothes look of holy colors.Red,Blue, and even Green. You wish you could stand here and talk of lost battles but he gives you the look as if he wants to battle with you.
+~
+64 8|32|128|512|8192 1000 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#3210
+Guardian Lycaria~
+The Guardian of Lycaria~
+The Guardian of Lycaria stands here ready to attack.
+~
+How Dare you look at me with such a Look.
+~
+64 8|32|128|512|8192 1000 S
+350 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#3211
+Child~
+a Child from Lycaria~
+A child is standing here ready to jump at you.
+~
+I look innocent but my dagger doesn't.
+~
+32|64 8|32|128|512|8192 1000 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#3212
+Razor~
+Razor~
+The New and Aproved Pokemon Razor sits here waiting for you to attack.
+~
+The Pokemon beast with the name of Razor is made of pure Gold.His fangs and Razor tipped Claws are nothing to play around to.I wouldnt Say "I choose you" If I were you.
+~
+32|64 8|32|128|512|8192|524288 1000 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#3213
+Ghost~
+A ghost~
+A ghost calmly floats here staring back into your eyes.
+~
+Its transparent you dumbass.
+~
+32|64 8|32|128|512|8192|524288 1000 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#3214
+ghost~
+Ghost of Child~
+A Ghostly Figure of a child floats here.
+~
+The damn ghost is transparent.
+~
+32|64 8|32|128|512|8192|524288 -1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#3215
+Warrior~
+Warrior of the Sky~
+The Warrior of the sky prepares himself for Battle
+~
+Why Bother Looking at a great Skilled Warrior as myself.Prepare youself.
+~
+32|64 8|32|128|512|8192|524288 1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#3216
+King~
+The King of Lycaria~
+The King of Lycaria is running at your face.
+~
+He is covered in Fine clothes and Fully Equiped for this accasion.
+~
+32|64 8|32|128|512|8192|524288 1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#3217
+Citizen~
+a Citizen of Lycaria~
+A citizen walks about not knowing nothing.
+~
+A citizen from the city of Lycaria.This Man is shopping for food and armour.
+~
+32|64 8|32|128|512|8192|524288 1000 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#3208
+Sword of Shadows~
+sword of Shadows~
+A flicking sword has been carelessly dropped here.~
+~
+5 1|2|64 1|8192
+0 50 100 3 
+5 0 0
+A
+19 3
+A
+18 3
+#3209
+Axe  Time~
+the Axe of Time~
+A Glowing Axe lies here from a deadly Battle.~
+~
+5 1|2|64|1024|4096 1|8192
+0 10 50 1 
+5 0 0
+A
+18 0
+A
+19 0
+#3210
+Toilet~
+a Toliet~
+A Royal Toliet is sitting here for a Royal Flush.~
+~
+12 64 0
+0 1 6 11 
+5 0 0
+#3211
+Dagger~
+the Dagger of Space~
+A sword rests here.~
+~
+5 64|128|1024|4096 1|8192
+0 20 50 11 
+5 0 0
+#3212
+Backpack~
+a backpack~
+A backpack lies here~
+~
+15 0 1
+999 1 6 11 
+5 0 0
+E
+backpack~
+its just a backpack~
+#3213
+Dagger Inferno~
+the Dagger of Inferno~
+A Firery Dagger has been dropped here.~
+~
+5 1|16|64|512 1|8192
+0 30 40 11 
+5 0 0
+#3214
+Axe Sky~
+axe of the Sky~
+A Axe made of clouds has been left here.~
+~
+5 2|64|128|4096 1|8192
+0 30 50 1 
+5 0 0
+#3215
+Fountain~
+a Holy Fountain~
+A Holy Fountain floats here.~
+~
+25 2|64 0
+0 1 6 11 
+5 0 0
+#3216
+Sword Lycaria~
+the Sword of Lycaria~
+A Brilliant Sword has been dropped here.~
+~
+5 1|2|16|32|64|128|512|2048|4096 1|8192
+0 50 50 3 
+5 0 0
+A
+19 0
+A
+18 0
+A
+1 0
+#3217
+Armour Mars~
+the Armour of Mars~
+A armour from the planet mars lies here.~
+~
+9 1|2|16|32|64|128|512|2048|4096 1|8
+-50 1 6 11 
+5 0 0
+#0
+
+
+#ROOMS
+#3208
+Gates of Lycaria~
+You are standing before the great City of Lycaria.A Guard yells out from above what are you doing here.You can only answer "Come here and find out."
+~
+0 0 1
+D0
+~
+~
+0 -1 3209
+S
+#3209
+Lycaria Square~
+You are standing in the middle of the most beautiful city known to man.You can faintly see a sells man to the west and a priest to the east.Floating above your head is the Floating Castle of Lycaria
+~
+0 0 1
+D0
+~
+~
+0 -1 3212
+D1
+~
+~
+0 -1 3211
+D2
+~
+~
+0 -1 3208
+D3
+~
+~
+0 -1 3210
+S
+#3210
+Grendels Shop~
+You see before you a beastly man.He proudly says "Do you wish to buy anything?"
+~
+0 0 1
+D1
+~
+~
+0 -1 3209
+E
+Table~
+A Table made of Marble is sitting here Golden Armour on it.~
+S
+#3211
+The Guild of Priests~
+A spiritual energy fades into exsistance.A holy priest stands here practicing his skill.You notice the pictures on the Walls.They speak of lost battles and of holy poems.
+~
+0 0 1
+D3
+~
+~
+0 -1 3209
+E
+Picture~
+A picture of the holy Battle of Avalon.~
+S
+#3212
+A Street Corner~
+You are Astonished at the Beauty of this city. You can almost feel the golden power such the life from your very eyes.The castle above you makes this absurd sound while it passes above your head. You might want to Continue on your journey to the Main Entrance to the Kindom of Lycaria.
+~
+0 0 1
+D0
+~
+~
+2 -1 3213
+D2
+~
+~
+0 -1 3209
+S
+#3213
+The Main Entrance~
+You are standing before the Main entrance to the Kingdom of Lycaria.The Doors are made of a golden Sapphire, and the handles are made of bronze snakes.Above the door is a sign of King Lycaria himself, a Phoenix.
+~
+0 0 1
+D0
+~
+~
+2 -1 3214
+D2
+~
+~
+2 -1 3212
+S
+#3214
+Lycaria's Hallway~
+The rug beneath you feet is made up of golden dragon scales. Its leads in all four directions.To the west is the Bathroom, the east Daycare, the north is the Banquet Hall, and south the Main Entrance.
+~
+0 0 0
+D0
+~
+~
+0 -1 3217
+D1
+~
+~
+0 -1 3216
+D2
+~
+~
+2 -1 3213
+D3
+~
+~
+0 -1 3215
+S
+#3215
+A Bathroom~
+You are standing in the Royal Bathroom.The Toliet is made of diamonds and rare gems.You look at yourself in the mirror and say to yourself, "I need a damn bath."
+~
+0 0 0
+D1
+~
+~
+0 -1 3214
+S
+#3216
+DayCare~
+You hear a bunch of children Screaming, and you think to yourself you must be in the Daycare.Little children run amuck with no Care taker to boss them around, or tell them what to do.You find one of them staring at you with a dagger in his hand.Watch Out he is planing on using it.
+~
+0 0 0
+D3
+~
+~
+0 -1 3214
+S
+#3217
+A Banquet Hall~
+Food endless food from one side of the hall way to the next.There is nobody here to eat this wonderful food.You notice a secret passway underneath the table.
+~
+0 0 0
+D2
+~
+~
+0 -1 3214
+D5
+~
+~
+0 -1 3218
+E
+Magnificant Table~
+A large table that holds alot of Food.~
+S
+#3218
+Secret Stair Way~
+The Walls are Grimy and Slick.You dont want to fall down these stairs for they go down probally 20 feet.The Bottom looks faint but you can see a door at the bottom glowing with magic.
+~
+0 0 0
+D4
+~
+~
+0 -1 3217
+D5
+~
+~
+0 -1 3219
+E
+Grime~
+Slimy aint it.~
+S
+#3219
+The Bottom of the Secret Stair Way~
+Phew took long enough didn't it, the door here looks locked.Do you have the key or do you even need one.Use the powers that came with your birth.You can pass through this door for sure.
+~
+0 0 0
+D1
+~
+~
+0 -1 3220
+D4
+~
+~
+0 -1 3218
+S
+#3220
+A Long Fucking Hallway~
+This Hallway must go on forever.The slime on these walls must be atleast Six centuries old.You can see the endless Carcasses of the past Survivers who have made it to this point.You wonder what could have done something like this.
+~
+0 0 0
+D1
+~
+~
+0 -1 3221
+D3
+~
+~
+0 -1 3219
+E
+Wall~
+My bad Seven Centuries.~
+S
+#3221
+Smelly Hallway~
+The stench in this hallway has become great.The floor is covered in blood and guts and parts of the anatomy have been left here to rot.You can faintly hear the Roar of some kind of beast.Do you dare continue or do you turn back.
+~
+0 0 0
+D1
+~
+~
+0 -1 3222
+D3
+~
+~
+0 -1 3220
+S
+#3222
+The Beasts Lair~
+The great Beasts stands before you ready to tear out your heart.But you realize it hasnt attacked yet.Is this the beast that could of done this to those poor beings.It couldn't of have, it's only four feet tall.But remeber size doesn't count.
+~
+0 0 0
+D3
+~
+~
+0 -1 3221
+D4
+~
+~
+0 -1 3223
+S
+#3223
+Secret Stairs~
+These stairs are going back up.You wonder where you are gonna come out at, and you notice the grim on the walls are nolonger there.Wierd isn't it.
+~
+0 0 0
+D4
+~
+~
+0 -1 3224
+D5
+~
+~
+0 -1 3222
+S
+#3224
+Top of Secret Stairs~
+You are at the top of the secret stairs.A door made of Solid Gold lies right in front of you.Behind this door is beyond your sight.
+~
+0 0 0
+D0
+~
+~
+2 -1 3225
+D5
+~
+~
+0 -1 3223
+S
+#3225
+The Hidden Kingdom of Lycaria~
+You are in the hidden kingdom of Lycaria.What a relief there must be someone in this place that can help you get out of here.You pray for a recall but it seems you cannot get out that way.Better start looking for someone.
+~
+0 8192 0
+D0
+~
+~
+0 -1 3226
+D2
+~
+~
+2 -1 3224
+S
+#3226
+Hidden Kingdom~
+You cannot find your way out of this place.Shhhhh you can hear a faint sound to the west.Should you go check it out, why not doesn't everyone else.
+~
+0 8192 0
+D0
+~
+~
+0 -1 3229
+D1
+~
+~
+0 -1 3228
+D2
+~
+~
+0 -1 3225
+D3
+~
+~
+0 -1 3227
+S
+#3227
+Slimy Bathroom~
+A Bathroom of Grim and Dirt is infront of your eye's.It looks almost Identical to the one of the other Castle.A ghost comes out from the Toilet, how fucking sick is that.
+~
+0 8192 0
+D1
+~
+~
+0 -1 3226
+S
+#3228
+A Daycare~
+You are back into the same Daycare you were just at, except for the fact that the child is now a ghost with immense power.Damn is has the fucking dagger.Wonder if it is as powerful as it seems.
+~
+0 8192 0
+D3
+~
+~
+0 -1 3226
+S
+#3229
+The Entrance to the Floating Castle~
+The Entrance to the Floating Castle is beyond your grasps.The mighty door looks like it could carry the world alone.There is no key hole and there are the bolts that it is attached to.The door is floating around 2 inches off the ground.Enter if you may for it might be the last thing you ever do.
+~
+0 8192 0
+D0
+~
+~
+0 -1 3230
+D2
+~
+~
+0 -1 3226
+E
+Door~
+The door is made of a material not known the world of today. It has a futuristic look to it.A blue aura has engulfed the door enabling it to float.~
+S
+#3230
+Stairs~
+Stairs again, how dull can you get.All this climbing has probally made your legs grow into a stomping force.Atleast your kicks are harder or were they ever.
+~
+0 8192 0
+D2
+~
+~
+0 -1 3229
+D4
+~
+~
+0 -1 3231
+S
+#3231
+Stairs~
+More Stairs, when are they gonna end.You have to be atleast 600 feet above the ground.You can even feel the air getting thiner.The less air the less you live.Hopefully you dont run out.
+~
+0 8192 0
+D4
+~
+~
+0 -1 3232
+D5
+~
+~
+0 -1 3230
+S
+#3232
+Stairs~
+You are finally at the top of the Stairs.You can see a Door once again blocking your wall.This door is not floating thou and is quite normal.Written on the door is Lyc Dra Ryeash Kakeure.The translation is not even known to you. what can this mean you ask yourself.
+~
+0 8192 0
+D0
+~
+~
+2 -1 3233
+D5
+~
+~
+0 -1 3231
+S
+#3233
+Sky Road~
+You are on a very high road.You look down and you can faintly see the city you were just at.The thin air makes you wanna pass out but you might not wanna do that.Its not a short fall.You see a sign on a pole beside you.
+~
+0 8192 0
+D0
+~
+~
+0 -1 3234
+D2
+~
+~
+2 -1 3232
+E
+Sign~
+Welcome to the Great City of Lycanesia.
+You are Welcomed to stay as long as you survive.
+
+Signed Warlord Lycarical~
+S
+#3234
+Sky Road~
+Wow you sure are high.But you are getting used to the thin air up here.A Warrior stands before you asking for a Spar.Do you take it or do you even have a choice.
+~
+0 8192 0
+D0
+~
+~
+0 -1 3235
+D2
+~
+~
+0 -1 3233
+S
+#3235
+Kingdom Entrance~
+You are once again at some Gates.This better be the last gates you think to youself.A fountain floats silently here.Why dont you have a drink or is it poison.
+~
+0 8192 0
+D0
+~
+~
+0 -1 3236
+D2
+~
+~
+0 -1 3234
+S
+#3236
+The Main Hallway~
+A Glittering Hallway sits before you.This is nothing compared to the Kingdoms of anything you have seen.Its made of Bronze, and Golden book Cases.There is only one way you can go and that is to the North.
+~
+0 8192 0
+D0
+~
+~
+0 -1 3237
+D2
+~
+~
+0 -1 3235
+S
+#3237
+The Doorway~
+You are at a doorway with two guards blocking you from entering.There must be something really important in there for you not to be allowed.
+~
+0 8192 0
+D0
+~
+~
+0 -1 3238
+D2
+~
+~
+0 -1 3236
+S
+#3238
+The Kings Bedroom~
+The King stands before you giving you the look of all time.He says in a deep tone,"Why have you bothered me in my chambers.You shall die for such an out cry." Then he climbs out of his bed in full gear and comes at you at full speed.
+~
+0 8192 0
+D2
+~
+~
+0 -1 3237
+S
+#0
+
+
+#RESETS
+*
+*
+*
+M 1 3208 1 3210			Grendel to Grendels Shop
+E 1 3208 100 16
+O 1 3208 100 3210			Sword of Shadows to Grendels Shop
+*
+M 1 3209 1 3211			Priest of Lycaria to The Guild of Priests
+*
+M 1 3210 1 3208			The Guardian of Lycaria to Gates of Lycaria
+E 1 3209 100 16
+*
+M 1 3210 2 3213			The Guardian of Lycaria to The Main Entrance
+E 1 3209 100 16
+O 1 3208 100 3213			Sword of Shadows to The Main Entrance
+O 1 3210 100 3215			a Toliet to A Bathroom
+*
+M 1 3211 3 3216			a Child from Lycaria to DayCare
+E 1 3211 100 16
+*
+M 1 3212 1 3222			Razor to The Beasts Lair
+E 1 3209 100 16
+G 1 3212 100
+O 1 3210 100 3227			a Toliet to A room
+*
+M 1 3213 1 3227			A ghost to Slimy Bathroom
+*
+M 1 3214 3 3228			Ghost of Child to A Daycare
+E 1 3213 100 16
+G 1 3212 100
+*
+M 1 3215 1 3234			Warrior of the Sky to Sky Road
+E 1 3214 100 16
+G 1 3212 100
+O 1 3215 100 3235			a Holy Fountain to Kingdom Entrance
+*
+M 1 3215 2 3237			Warrior of the Sky to The Doorway
+E 1 3214 100 16
+*
+M 1 3215 2 3237			Warrior of the Sky to The Doorway
+E 1 3214 100 16
+*
+M 1 3216 1 3238			The King of Lycaria to The Kings Bedroom
+E 1 3217 100 5
+E 1 3216 100 16
+G 1 3212 100
+*
+M 1 3217 3 3209			a Citizen of Lycaria to Lycaria Square
+*
+M 1 3217 1 3210			a Citizen of Lycaria to Grendels Shop
+*
+M 1 3217 1 3215			a Citizen of Lycaria to A Bathroom
+*
+M 1 3217 4 3212			a Citizen of Lycaria to A Street Corner
+*
+M 1 3217 5 3217			a Citizen of Lycaria to A Banquet Hall
+*
+M 1 3217 2 3214			a Citizen of Lycaria to Lycaria's Hallway
+S
+
+
+#SHOPS
+3208 5 9 0 0 0 100 100 0 23			(mobile is from another zone)
+0
+
+
+#$

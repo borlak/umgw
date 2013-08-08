@@ -1,0 +1,19 @@
+trivia
+how many different kinds of mentos are there?~ 12~ Pip~ None~ 0 2 0 25
+trivia
+who says narf?~ pinky~ Pip~ Borlak~ 2 2 115 25
+trivia
+what bleeds the same to me?~ mobiles and players~ Pip~ None~ 0 2 0 25
+trivia
+how many fingers (total) did Hannibal Lecter have on his hands before the movie/book "Hannibal"?~ 11~ Pip~ Genek~ 8 2 100 20
+trivia
+A part of heaven though it touches the earth, some say it's valuable, others no worth. What is it?~ rainbow~ Blackheart~ Genek~ 7 2 80 37
+trivia
+who is brucelee's character named after?~ bruce lee~ Borlak~ Saburwulf~ 2 2 115 100
+trivia
+who is 5th best!!?~ brucelee~ Borlak~ Pip~ 2 2 115 100
+trivia
+You break it even if you name it, what is it?~ silence~ Blackheart~ None~ 0 2 0 50
+
+end
+

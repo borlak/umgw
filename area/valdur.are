@@ -1,0 +1,2309 @@
+#AREA  Cadmoori Vale of Aldur~
+
+#MOBILES
+#4281
+Eriond god child~
+Eriond, the child god, is here~
+Eriond, the youngest and newest god, stands before you and smiles
+~
+Eriond looks at you and smiles as your whole life history unfolds before 
+him.
+~
+2|64 128 1000 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4282
+bird lark~
+a lark~
+A small lark chirps loudly
+~
+The small lark looks at you with docile eyes.
+~
+64 32768|524288 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4283
+hummingbird bird~
+a hummingbird~
+A small hummingbird flutters from flower to flower
+~
+The hummingbird is moving too fast for you to have a good look.
+~
+64 32768|524288 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4284
+small deer~
+a small deer~
+There is a small deer here.
+~
+The deer takes one look at you and hops to a safer distance.
+~
+64 32768 0 S
+12 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4285
+large deer buck~
+a large buck~
+A large buck is here grazing slowly
+~
+The large buck stares at you and dares you to attack
+~
+64 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4286
+large doe~
+a large doe~
+A large doe is here looking for its young
+~
+The large doe does not seem to be bothered by you.
+~
+64 0 0 S
+17 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4287
+bright blue bird~
+a bright blue bird~
+There is a bird blue bird hovering here
+~
+The bird seems to ignore you.
+~
+64 524288 0 S
+6 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4288
+badger small~
+a small badger~
+A small badger scampers away from you.
+~
+The small badger seems to be afraid of you.
+~
+64 524288 0 S
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4289
+durnik blacksmith sorcerer~
+Durnik~
+Durnik the blacksmith sorcerer is here
+~
+Durnik looks at you and smiles.
+~
+2|64 0 50 S
+235 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4290
+polgara sorceress~
+Polgara~
+Polgara the sorceress is here, tending to her house.
+~
+Polgara looks at you and asks, 'Who are you?'
+~
+2|64 0 100 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4291
+belgarath sorcerer~
+Belgarath~
+Belgarath the sorcerer looks at you and smiles a toothy grin
+~
+Belgarath asks, 'What is it laddie?'
+~
+2|64 0 50 S
+310 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4292
+owl spotted~
+a spotted owl~
+A spotted owl hoots at you.
+~
+The spotted owl glares at you with its big eyes.
+~
+64 524288 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4293
+robin red~
+a red robin~
+A small red robin flies around you.
+~
+The red robin pecks you on the nose and flies away
+~
+64 524288 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4294
+cuckold bird~
+a cuckold bird~
+A cuckold bird is here
+~
+The cuckold bird screeches loudly and flies away.
+~
+4|64 524288 0 S
+7 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4295
+small worm~
+a small worm~
+There is a small grubby worm here
+~
+The small worm chews contentedly on the grass
+~
+4|64 32768|65536 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4296
+rabbit~
+a small white rabbit~
+A small white rabbit is here, nibbling on the grass
+~
+The rabbit seems to be tame.
+~
+64 0 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4297
+small fish~
+a small fish~
+There is a small fish in the streams
+~
+You can't get a good look at the fish as it darts around in the waters.
+~
+2|64 0 0 S
+6 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4298
+fish~
+a fish~
+A fish is here, swimming in the stream
+~
+The fish refuses to stay still for you to have a good look.
+~
+2|64 0 0 S
+8 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4299
+pike large~
+a large pike~
+There is a large pike lurking underwater.
+~
+The large pike seems to watch you with interest.
+~
+2|64 0 0 S
+6 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4300
+nightingale~
+a nightingale~
+A small nightingale is here, chirpping endlessly
+~
+The small nightingale seems to be singing to you!
+~
+2|64 524288 0 S
+12 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4301
+rat~
+a small rat~
+A small rat scampers away from you.
+~
+The rat flees into a hole the moment it sees you.
+~
+2|64 65536 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4302
+aldur god~
+Aldur~
+Aldur is here, looking at you with benevolence.
+~
+Aldur's presence encompasses you as you stare into his eyes.
+~
+2|64 128|8192 1000 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4303
+chamdar raven black~
+Chamdar~
+Chamdar, morphed in the form of a black raven, is here.
+~
+Chamdar stares at you and sneers.
+~
+64 2|32768|65536|524288|1048576 -1000 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4304
+poledra wife~
+Poledra~
+Poledra, the wife of Belgarath, is here.
+~
+Poledra looks at you with warm brown eyes and gives you a hug.
+~
+2|64 524288 20 S
+175 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4305
+beltira sorcerer~
+Beltira~
+Beltira the sorcerer is here
+~
+Beltira looks at you and chuckles happily.
+~
+2|64 8|32 10 S
+197 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4306
+belkira sorcerer~
+Belkira~
+Belkira the sorcerer is here
+~
+Belkira looks at you and frowns.
+~
+2|64 8|32 10 S
+197 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4307
+beldin sorcerer~
+Beldin~
+Beldin, a stunted, grotesque man, stands before you.
+~
+Despite Beldin's ugly appearances, his nature is kind and his powers, great.
+~
+2|64 8192 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#4281
+sled~
+a small sled~
+There is a small sled here~
+~
+12 0 1
+0 1 6 11
+15 0 0
+#4282
+shimmering sphere~
+a small shimmering sphere~
+A small shimmering sphere hovers above you.~
+~
+1 1|1024 1|16384
+0 1 -1 11
+1 0 0
+#4283
+parchment empty~
+an empty parchment~
+A small piece of parchment flaps gently in the wind~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#4284
+turnip~
+a turnip~
+A small turnip is lying on the ground~
+~
+19 0 1|16384
+10 1 6 11
+2 0 0
+#4285
+iron rose~
+an iron rose~
+A small rose made of iron is here~
+~
+8 1024 1|16384
+0 1 6 11
+1 0 0
+A
+4 0
+#4286
+blacksmith hammer~
+a blacksmith's hammer~
+A large hammer stained with sweat is on the ground~
+~
+5 1024 1|8192
+0 1 6 7
+20 0 0
+#4287
+anvil~
+an anvil~
+A small anvil is here~
+~
+13 0 1
+0 1 6 11
+20 0 0
+#4288
+red rose~
+a red rose~
+A small red rose lies half-buried in the ground.~
+~
+13 0 1|16384
+0 1 6 11
+2 0 0
+#4289
+ladle large soup~
+a large soup ladle~
+There is a large soup ladle here~
+~
+5 0 1|8192
+0 1 6 0
+2 0 0
+#4290
+dining table~
+a small dining table~
+A small dining table is here, ladled with food~
+~
+12 0 8192
+0 1 6 11
+20 0 0
+#4291
+bookshelf shelf~
+a large bookshelf~
+There is a large bookshelf here~
+~
+15 0 8192
+9999 0 -1 11
+2000 0 0
+#4292
+tome knowledge~
+tome of Knowledge~
+A tome is here, humming gently.~
+~
+8 2 1|16384
+0 1 6 11
+3 0 0
+A
+4 1
+A
+3 1
+#4293
+book spells~
+a book of spells~
+A slightly tattered book is here~
+~
+8 1 1|16384
+0 1 6 11
+2 0 0
+A
+12 0
+#4294
+mrin codex~
+the Mrin Codex~
+A large book filled with words lies at your feet~
+~
+8 64 1|16384
+0 1 6 11
+7 0 0
+A
+5 2
+#4295
+hyacinth water~
+a small water hyacinth~
+There is a small water hyacinth here.~
+~
+13 0 1
+0 1 6 11
+3 0 0
+#4296
+tree world~
+tree of the world~
+There is a large tree here, anchored to the very essence of the world.~
+~
+27 0 0
+4328 0 0 0
+2000 0 0
+#4297
+hole~
+~
+~
+~
+27 0 0
+4329 0 0 0
+2000 0 0
+#4298
+table~
+a large dining table~
+There is a large dining table here.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4299
+rack~
+a rack~
+There is a rack here, holding Aldur's artifacts~
+~
+15 1 0
+9999 0 -1 11
+2000 0 0
+#4300
+everglowing glowing sphere~
+an everglowing sphere~
+A small sphere floats in mid-air pulsating with radiance~
+~
+1 1 1|16384
+0 1 -1 11
+1 0 0
+A
+2 1
+#4301
+scrying mirror~
+a scrying mirror~
+A small mirror is here, reflecting off light~
+~
+8 1 1|16384
+0 1 6 11
+3 0 0
+E
+mirror scrying~
+The scrying mirror does not seem to be working.~
+#4302
+darkbane sword~
+the sword 'Darkbane'~
+A sword lies at your feet, humming softly~
+~
+5 2 1|8192
+0 3 10 1
+1 0 0
+A
+1 1
+A
+2 1
+A
+3 1
+A
+4 1
+A
+5 1
+#4303
+endless water decanter~
+a decanter of endless water~
+There is a small decanter of water here~
+~
+17 1 1|16384
+99999 99999 0 0
+10 0 0
+#4304
+bookshelf shelf~
+a bookshelf~
+There is a bookshelf here.~
+~
+15 0 0
+9999 0 -1 11
+2000 0 0
+#4305
+book truths~
+book of Truths~
+A large book has been left open at your feet.~
+~
+8 1 1|16384
+0 1 6 11
+2 0 0
+A
+4 1
+#4306
+candlestick everyburning~
+a ever-burning candlestick~
+Someone has left a candlestick here.~
+~
+1 1 1|16384
+0 1 -1 11
+2 0 0
+#4307
+book faith~
+book of Faith~
+A small book is here.~
+~
+8 0 1|16384
+0 1 6 11
+2 0 0
+A
+3 1
+#4308
+history world book~
+a book on the history of the world~
+A large history book lies open at your feet~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#4309
+scrying pool~
+a scrying pool~
+There is a scrying pool here.~
+~
+12 1 0
+0 1 6 11
+2000 0 0
+#4310
+tabletop~
+a table~
+There is a small table here, with many curious items on it.~
+~
+15 0 0
+99999 0 -1 11
+2000 0 0
+#4311
+small vial~
+a small vial~
+There is a small vial on the ground~
+~
+17 0 1|16384
+1 0 0 0
+2 0 0
+#4312
+quill~
+a quill~
+There is a quill on the ground~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#4313
+inkwell~
+an inkwell~
+There is an inkwell here.~
+~
+8 0 1|16384
+0 1 6 11
+2 0 0
+#4314
+tube farseeing~
+a tube of farseeing~
+There is a long thing tube here, tapered to one end.~
+~
+8 0 1|16384
+0 1 6 11
+2 0 0
+#4315
+key aldur~
+aldur's key~
+There is a small key here~
+~
+18 1 1|16384
+0 1 6 11
+2 0 0
+#4316
+cufflinks godly~
+a pair of godly cufflinks~
+A pair of cufflinks forged by Aldur himself lies here.~
+~
+9 1 1|128
+10 1 6 11
+2 0 0
+#4317
+flaming sword of energy sabre~
+a flaming sword of energy~
+A large sabre glows aflamed at your feet~
+~
+5 1|2|1024 1|8192
+0 5 12 3
+2 0 0
+A
+18 1
+A
+19 1
+#4318
+statue beldaran~
+a statue of Beldaran~
+The statue of Beldaran, Belgarath's long dead daughter, is here.~
+~
+8 0 0
+0 1 6 11
+2000 0 0
+#4319
+string piece~
+a piece of string~
+A small piece of string~
+~
+13 0 1
+0 1 6 11
+2 0 0
+#4320
+bonnet cloth~
+a cloth bonnet~
+A piece of cloth lies on the ground at your feet~
+~
+9 0 1|16
+10 1 6 11
+5 0 0
+#4321
+bookshelf~
+a bookshelf~
+There is a bookshelf to the west of the room~
+~
+15 0 0
+99999 0 -1 11
+2000 0 0
+#4322
+large double bed~
+a large double bed~
+There is a large double bed here~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4323
+bed~
+a bed~
+There is a bed here~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4324
+large couch~
+a large couch~
+There is comfortable looking couch here.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4325
+mage robes~
+the robes of a mage~
+There is a robe on the ground.~
+~
+9 0 1|8
+10 1 6 11
+10 0 0
+#4326
+serving platter~
+a serving platter~
+Someone has left a serving platter on the ground~
+~
+15 0 1|16384
+10 0 -1 11
+5 0 0
+#4327
+extensive bookshelf~
+an extensive bookshelf~
+There is a large extensive bookshelf here.~
+~
+15 0 0
+99999 0 -1 11
+2000 0 0
+#4328
+darine codex book~
+the Darine Codex~
+A small book lies on the ground opened in the middle.~
+~
+8 64 1|16384
+0 1 6 11
+2 0 0
+A
+4 2
+#4329
+scroll blood~
+a scroll penned in blood~
+There is a scroll penned in blood here~
+~
+2 1|64 1|16384
+10 63 39 32
+1 0 0
+#4330
+old bed~
+an old bed~
+An old bed creaks loudly when you examine it.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4331
+feather silvery-blue blue falcon~
+the feather of a silvery-blue falcon~
+a small feather lies at your feet.~
+~
+8 64 1
+0 1 6 11
+0 0 0
+#4332
+gnarled walking stick~
+a gnarled walking stick~
+there is a walking stick here.~
+~
+4 1|64 1|16384
+10 5 5 201
+3 0 0
+#0
+
+
+#ROOMS
+#4281
+Entrance to the Vale of Aldur~
+You stand to the north of a great vale.  Bordered on three sides by steep 
+escarpments, the vale is the home of Aldur, god of magic and protector of 
+the world.
+
+There is a sign planted on the ground here.
+~
+0 0 2
+D2
+~
+~
+0 -1 4283
+D3
+~
+~
+0 -1 4282
+E
+signpost~
+This area is designed and created by Cadmoori.  Names of characters and 
+items are drawn from both David Eddings' Belgariad series and from a wild 
+imagination.  The area has no monster of great powers, except Aldur and 
+Eriond, and is suitable for those of low-mid levels.~
+S
+#4282
+Cave of the Gods~
+The gods were rumoured to have spent days in this very cave when the world 
+was first created by their father, UL.  Although the cave is myriad in its 
+shapes, colours and sounds, it is, now, just an ordinary cave.  However, 
+many adventurers have sworn by their honour that merely being in this cave 
+can be beneficial to one's luck.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 4281
+S
+#4283
+The Vale of Aldur~
+You are in a large vale, surrounded on three sides by steep escarpments.  
+Even though you are still far from Aldur's tower, you can feel his presence 
+here, protecting you.
+~
+0 0 2
+D0
+~
+~
+0 -1 4281
+D1
+~
+~
+0 -1 4284
+D2
+~
+~
+0 -1 4301
+D3
+~
+~
+0 -1 4293
+S
+#4284
+The Tree of the world~
+You are in a large vale, surrounded on three sides by steep escarpments.  
+There is a large tree near you.  Although it looks like any other large 
+tree, a sense of age and wisdom emanates from it, leaving you gasping in 
+wonder.
+~
+0 0 2
+D1
+~
+~
+0 -1 4285
+D2
+~
+~
+0 -1 4300
+D3
+~
+~
+0 -1 4283
+S
+#4285
+A small clearing~
+You are standing in a small clearing within the Vale of Aldur.  The air is 
+crisp with the smell of freshly baked cookies drifting from the north.  
+Birds of all kinds chirp loudly, greeting you with their songs.  The sounds 
+of a trickling stream comes from the south.
+~
+0 0 2
+D0
+~
+~
+0 -1 4286
+D1
+~
+~
+0 -1 4288
+D2
+~
+~
+0 -1 4299
+D3
+~
+~
+0 -1 4284
+S
+#4286
+Outside a small wooden cottage~
+You stand before a small cottage.  A small garden sprawls lazily in front of 
+the cottage, with freshly planted turnips smiling happily at you.  The warm 
+smells of a oven drifts to you from the north.
+~
+0 0 2
+D0
+~
+~
+1 -1 4287
+D2
+~
+~
+0 -1 4285
+S
+#4287
+Inside Polgara and Durnik's cottage~
+You are inside the cottage of Polgara the sorceress and her husband, Durnik 
+the blacksmith-sorcerer.  Although the couple are a kindly lot, it is not 
+advisable to incur their wrath!
+~
+0 8 0
+D2
+~
+~
+1 -1 4286
+S
+#4288
+A small clearing~
+You are standing in a small clearing within the Vale of Aldur.  Birds of all 
+kinds chirp loudly, greeting you with their songs.
+~
+0 0 2
+D2
+~
+~
+0 -1 4289
+D3
+~
+~
+0 -1 4285
+S
+#4289
+Foot of Belgarath's tower~
+You are standing at the foot of Belgarath's tower.  Rumoured as the most 
+powerful sorcerer in the world, Belgarath's tower greatly diminishes the 
+myths behind the wizened old man.
+~
+0 0 2
+D0
+~
+~
+0 -1 4288
+D4
+~
+~
+1 -1 4290
+S
+#4290
+1st floor of Belgarath's tower~
+You are standing on the 1st floor of Belgarath's tower.  Even though the 
+sorcerer is widely known to be unkempt and untidy, the view of his tower 
+shocks even you.
+~
+0 8 0
+D4
+~
+~
+0 -1 4291
+D5
+~
+~
+1 -1 4289
+S
+#4291
+2nd floor of Belgarath's tower~
+You are standing on the 2nd floor of Belgarath's tower.  Even though the 
+sorcerer is widely known to be unkempt and untidy, the view of his tower 
+shocks even you.
+~
+0 8 0
+D4
+~
+~
+1 -1 4292
+D5
+~
+~
+0 -1 4290
+S
+#4292
+Top of Belgarath's tower~
+You are standing on the top floor of Belgarath's tower.  Even though the 
+sorcerer is widely known to be unkempt and untidy, the view of his tower 
+shocks even you.
+~
+0 8 0
+D5
+~
+~
+1 -1 4291
+S
+#4293
+The Vale of Aldur~
+You are in a large vale, surrounded on three sides by steep escarpments.  
+Even though you are still far from Aldur's tower, you can feel his presence 
+here, protecting you.
+~
+0 0 2
+D1
+~
+~
+0 -1 4283
+D2
+~
+~
+0 -1 4303
+D3
+~
+~
+0 -1 4294
+S
+#4294
+The Vale of Aldur~
+You are in a large vale, surrounded on three sides by steep escarpments.  
+Even though you are still far from Aldur's tower, you can feel his presence 
+here, protecting you.
+~
+0 0 2
+D1
+~
+~
+0 -1 4293
+D2
+~
+~
+0 -1 4295
+S
+#4295
+Western reaches of the Vale of Aldur~
+You are in the western area of the Vale of Aldur.  Animals of all shapes and 
+sizes run freely within this haven and as you watch the tame and docile 
+animals, you feel at peace with the world.
+~
+0 0 2
+D0
+~
+~
+0 -1 4294
+D1
+~
+~
+0 -1 4303
+D2
+~
+~
+0 -1 4296
+D3
+~
+~
+0 -1 4333
+S
+#4296
+Western reaches of the Vale of Aldur~
+You are in the western area of the Vale of Aldur.  Animals of all shapes and 
+sizes run freely within this haven and as you watch the tame and docile 
+animals, you feel at peace with the world.
+~
+0 0 2
+D0
+~
+~
+0 -1 4295
+D1
+~
+~
+0 -1 4304
+D2
+~
+~
+0 -1 4298
+D3
+~
+~
+0 -1 4297
+S
+#4297
+Western reaches of the Vale of Aldur~
+You are in the western area of the Vale of Aldur.  Animals of all shapes and 
+sizes run freely within this haven and as you watch the tame and docile 
+animals, you feel at peace with the world.
+~
+0 0 2
+D0
+~
+~
+0 -1 4333
+D1
+~
+~
+0 -1 4296
+D2
+~
+~
+0 -1 4334
+S
+#4298
+The Vale of Aldur~
+You are in a large vale, surrounded on three sides by steep escarpments.  
+Even though you are still far from Aldur's tower, you can feel his presence 
+here, protecting you.
+~
+0 0 2
+D0
+~
+~
+0 -1 4296
+D1
+~
+~
+0 -1 4310
+D2
+~
+~
+0 -1 4313
+D3
+~
+~
+0 -1 4334
+S
+#4299
+Head of a small stream~
+You are at the head of a small stream.  Although the ground is flat 
+throughout the vale, the stream still flows unhindered towards the 
+south-west.  The water seems to be seeping out of a small crack in the 
+ground.  The stream continues towards the west.
+~
+0 0 2
+D0
+~
+~
+0 -1 4285
+D2
+~
+~
+0 -1 4306
+D3
+~
+~
+0 -1 4300
+S
+#4300
+A small stream~
+You are on a small stream.  Although the ground is flat throughout the vale, 
+the stream still flows unhindered towards the south-west.  The water seems 
+to be seeping out of a small crack in the ground.  The stream continues 
+towards the west.
+~
+0 0 2
+D0
+~
+~
+0 -1 4284
+D1
+~
+~
+0 -1 4299
+D2
+~
+~
+0 -1 4305
+D3
+~
+~
+0 -1 4301
+S
+#4301
+A stream~
+As the stream flows towards the south-west, it slowly widens, it is becoming 
+hard for you to trek along the stream, and you fear you'll have to swim 
+soon.
+~
+0 0 2
+D0
+~
+~
+0 -1 4283
+D1
+~
+~
+0 -1 4300
+D2
+~
+~
+0 -1 4302
+D3
+~
+~
+0 -1 4303
+S
+#4302
+A stream~
+As the stream flows towards the south-west, it slowly widens, it is 
+impossible for you to wade along the stream now as the water flow is too 
+strong.
+~
+0 0 7
+D0
+~
+~
+0 -1 4301
+D1
+~
+~
+0 -1 4305
+D2
+~
+~
+0 -1 4309
+D3
+~
+~
+0 -1 4304
+S
+#4303
+Central plains of the Vale of Aldur~
+You are in the central plains of the Vale of Aldur.  The merry trinkling of 
+a stream can be heard to the east and you wonder just how long it will be 
+before you encounter it.
+~
+0 0 2
+D0
+~
+~
+0 -1 4293
+D1
+~
+~
+0 -1 4301
+D2
+~
+~
+0 -1 4304
+D3
+~
+~
+0 -1 4295
+S
+#4304
+Central plains of the Vale of Aldur~
+You are in the central plains of the Vale of Aldur.  The merry trinkling of 
+a stream can be heard to the south and east and you wonder just how long it 
+will be before you encounter it.
+~
+0 0 2
+D0
+~
+~
+0 -1 4303
+D1
+~
+~
+0 -1 4302
+D2
+~
+~
+0 -1 4310
+D3
+~
+~
+0 -1 4296
+S
+#4305
+Eastern wilderness of the Vale of Aldur~
+You are in a forest in the eastern parts of the Vale of Aldur.  Fueled by 
+the stream to the north and west, the forest flourishes.  Myriad members of 
+the animal kingdom frolick around you, completely oblivious to your 
+presence.
+~
+0 0 3
+D0
+~
+~
+0 -1 4300
+D1
+~
+~
+0 -1 4306
+D2
+~
+~
+0 -1 4308
+D3
+~
+~
+0 -1 4302
+S
+#4306
+Eastern wilderness of the Vale of Aldur~
+You are in a forest in the eastern parts of the Vale of Aldur.  Fueled by 
+the stream to the north and west, the forest flourishes.  Myriad members of 
+the animal kingdom frolick around you, completely oblivious to your 
+presence.
+~
+0 0 3
+D0
+~
+~
+0 -1 4299
+D1
+~
+~
+0 -1 4321
+D2
+~
+~
+0 -1 4307
+D3
+~
+~
+0 -1 4305
+S
+#4307
+Eastern wilderness of the Vale of Aldur~
+You are in a forest in the eastern parts of the Vale of Aldur.  Fueled by 
+the stream to the north and west, the forest flourishes.  Myriad members of 
+the animal kingdom frolick around you, completely oblivious to your 
+presence.
+~
+0 0 3
+D0
+~
+~
+0 -1 4306
+D1
+~
+~
+0 -1 4320
+D2
+~
+~
+0 -1 4337
+D3
+~
+~
+0 -1 4308
+S
+#4308
+Eastern wilderness of the Vale of Aldur~
+You are in a forest in the eastern parts of the Vale of Aldur.  Fueled by 
+the stream to the north and west, the forest flourishes.  Myriad members of 
+the animal kingdom frolick around you, completely oblivious to your 
+presence.
+~
+0 0 3
+D0
+~
+~
+0 -1 4305
+D1
+~
+~
+0 -1 4307
+D2
+~
+~
+0 -1 4322
+D3
+~
+~
+0 -1 4309
+S
+#4309
+A stream~
+As the stream flows towards the south-west, it slowly widens, it is 
+impossible for you to wade along the stream now as the water flow is too 
+strong.
+~
+0 0 7
+D0
+~
+~
+0 -1 4302
+D1
+~
+~
+0 -1 4308
+D2
+~
+~
+0 -1 4323
+D3
+~
+~
+0 -1 4310
+S
+#4310
+A stream~
+As the stream flows towards the south-west, it slowly widens, it is 
+impossible for you to wade along the stream now as the water flow is too 
+strong.
+~
+0 0 7
+D0
+~
+~
+0 -1 4304
+D1
+~
+~
+0 -1 4309
+D2
+~
+~
+0 -1 4311
+D3
+~
+~
+0 -1 4298
+S
+#4311
+A stream~
+As the stream flows towards the south-west, it slowly widens, it is 
+impossible for you to wade along the stream now as the water flow is too 
+strong.
+~
+0 0 7
+D0
+~
+~
+0 -1 4310
+D2
+~
+~
+0 -1 4312
+D3
+~
+~
+0 -1 4313
+S
+#4312
+A stream~
+As the stream flows towards the south-west, it slowly widens, it is 
+impossible for you to wade along the stream now as the water flow is too 
+strong.
+~
+0 0 7
+D0
+~
+~
+0 -1 4311
+D3
+~
+~
+0 -1 4314
+S
+#4313
+A cut-off in the stream~
+You are standing at a cut-off in the stream which runs through the Vale of 
+Aldur.  The sand here is muddy and makes trekking difficult.
+~
+0 0 4
+D0
+~
+~
+0 -1 4298
+D1
+~
+~
+0 -1 4311
+D2
+~
+~
+0 -1 4314
+D3
+~
+~
+0 -1 4335
+S
+#4314
+A stream~
+As the stream flows towards the south-west, it slowly widens, it is 
+impossible for you to wade along the stream now as the water flow is too 
+strong.
+~
+0 0 7
+D0
+~
+~
+0 -1 4313
+D1
+~
+~
+0 -1 4312
+D2
+~
+~
+0 -1 4316
+D3
+~
+~
+0 -1 4315
+S
+#4315
+Small pond~
+The stream terminates at a small pond on which you are on.  Although the 
+pond is rich in aquatic life, its serenity is unbroken and you feel a sense 
+of peace.
+~
+0 0 7
+D1
+~
+~
+0 -1 4314
+S
+#4316
+A stream~
+You are nearing the ends of the stream and as you move along the stream, it 
+slowly thins out.  It won't be long before it you reach land.
+~
+0 0 7
+D0
+~
+~
+0 -1 4314
+D2
+~
+~
+0 -1 4317
+D3
+~
+~
+0 -1 4319
+S
+#4317
+A small stream~
+The stream is shallow enough for you to wade slowly along it now.  Although 
+you are not keen on getting wet, the feel of water gently brushing past your 
+feet sends a sensation of thrill up your spine.
+~
+0 0 2
+D0
+~
+~
+0 -1 4316
+D3
+~
+~
+0 -1 4318
+S
+#4318
+End of a stream~
+You are standing at the end of the small stream.  As mysteriously as the 
+stream had originated at its head, it disappears into the ground through a 
+small crack.
+~
+0 0 2
+D0
+~
+~
+0 -1 4319
+D1
+~
+~
+0 -1 4317
+S
+#4319
+A small island~
+You are standing atop a small island.  Created by Aldur in his early days as 
+a god, this is his personal sanctuary.  Although Aldur is not here, you can 
+still sense his presence keenly.
+~
+0 0 2
+D1
+~
+~
+0 -1 4316
+D2
+~
+~
+0 -1 4318
+S
+#4320
+Eastern wilderness of the Vale of Aldur~
+You are in a forest in the eastern parts of the Vale of Aldur.  Fueled by 
+the stream to the north and west, the forest flourishes.  Myriad members of 
+the animal kingdom frolick around you, completely oblivious to your 
+presence.  The forest seems to be thinning out to the east.
+~
+0 0 3
+D0
+~
+~
+0 -1 4321
+D1
+~
+~
+0 -1 4325
+D3
+~
+~
+0 -1 4307
+S
+#4321
+A small glade in the wilderness~
+You stand upon the lands of a small glade in the eastern wilderness of the 
+vale.  The sounds of animals are plenty and myriad, mixing and matching 
+together in a seamless song of earthly peace and wonder.
+~
+0 0 2
+D2
+~
+~
+0 -1 4320
+D3
+~
+~
+0 -1 4306
+S
+#4322
+Southern plains of the Vale of Aldur~
+You are out of the forest and in the southern plains of the Vale of Aldur.  
+Even though you are out of the forest, the sounds of whispering leaves and 
+chattering animals constantly fills your ears.
+~
+0 0 2
+D0
+~
+~
+0 -1 4308
+D3
+~
+~
+0 -1 4323
+S
+#4323
+Southern plains of the Vale of Aldur~
+You are out of the forest and in the southern plains of the Vale of Aldur.  
+Even though you are out of the forest, the sounds of whispering leaves and 
+chattering animals constantly fills your ears.
+~
+0 0 2
+D0
+~
+~
+0 -1 4309
+D1
+~
+~
+0 -1 4322
+D2
+~
+~
+0 -1 4324
+S
+#4324
+Southern plains of the Vale of Aldur~
+You are out of the forest and in the southern plains of the Vale of Aldur.  
+Even though you are out of the forest, the sounds of whispering leaves and 
+chattering animals constantly fills your ears.
+~
+0 0 2
+D0
+~
+~
+0 -1 4323
+D1
+~
+~
+0 -1 4336
+S
+#4325
+A path leading to Aldur's tower~
+The forest thins out and a path begins here.  Although not marked in any 
+significant way, the pebbled cobblestone path and the air around the area 
+suggests that this leads to Aldur's tower.
+~
+0 0 1
+D2
+~
+~
+0 -1 4326
+D3
+~
+~
+0 -1 4320
+S
+#4326
+A path leading to Aldur's tower~
+You are walking along a path.  Made with cobblestone, the path has the air 
+of uncountable age to it, yet still seems remarkably new.  Shaking your head 
+at the seeming paradox, you continue on your way.
+~
+0 0 1
+D0
+~
+~
+0 -1 4325
+D2
+~
+~
+0 -1 4327
+S
+#4327
+A path leading to Aldur's tower~
+You are walking along a path.  Made with cobblestone, the path has the air 
+of uncountable age to it, yet still seems remarkably new.  Shaking your head 
+at the seeming paradox, you continue on your way.
+~
+0 0 1
+D0
+~
+~
+0 -1 4326
+D2
+~
+~
+0 -1 4330
+D3
+~
+~
+0 -1 4332
+S
+#4328
+Inside the Tree~
+You are inside the Tree.  Enclosed on all sides by thick wood, you realise 
+that you have no way out!
+~
+0 1|4|8|1024 0
+S
+#4329
+Glaring lights~
+You are stranded in a place of strange glaring brightness.  There is no way 
+out!
+~
+0 4|8|1024|16384 0
+S
+#4330
+A path leading to Aldur's tower~
+You are walking along a path.  Made with cobblestone, the path has the air 
+of uncountable age to it, yet still seems remarkably new.  Shaking your head 
+at the seeming paradox, you continue on your way.
+~
+0 0 1
+D0
+~
+~
+0 -1 4327
+D2
+~
+~
+0 -1 4338
+D3
+~
+~
+0 -1 4331
+S
+#4331
+A small clearing~
+You are at a small clearing beside the path which leads to Aldur's tower.  
+Set here by Aldur himself in the days when the world was being created.  
+This clearing is meant for travellers to wait as well as to freshen up 
+before meeting with Aldur himself.
+~
+0 0 2
+D0
+~
+~
+0 -1 4332
+D1
+~
+~
+0 -1 4330
+S
+#4332
+A small clearing~
+You are at a small clearing beside the path which leads to Aldur's tower.  
+Set here by Aldur himself in the days when the world was being created.  
+This clearing is meant for travellers to wait as well as to freshen up 
+before meeting with Aldur himself.
+~
+0 0 2
+D1
+~
+~
+0 -1 4327
+D2
+~
+~
+0 -1 4331
+S
+#4333
+Entrance to the Twin Towers~
+You are standing before the entrance of the Twin Towers, where Belkira and 
+Beltira, the twin sorcerers live.  No one else other than themselves can 
+tell them apart, and the twins encourage this by wearing the same clothes 
+and living in the same tower.
+~
+0 0 2
+D1
+~
+~
+0 -1 4295
+D2
+~
+~
+0 -1 4297
+D4
+~
+~
+1 -1 4348
+S
+#4334
+Door to Belsambar's tower~
+Belsambar left the Vale (and the world) early in the histories of the vale.  
+Being one of the brightest students of Aldur, he was well-loved by the other 
+members of the vale.  After his death, his tower was left abandoned, guarded 
+and maintained by magic alone.
+~
+0 0 2
+D0
+~
+~
+0 -1 4297
+D1
+~
+~
+0 -1 4298
+D4
+~
+~
+1 -1 4345
+S
+#4335
+Beldin's castle~
+You stand afront of Beldin's tower.  Although called a tower, the rich 
+ornaments and beautiful architecture brings to mind the castle of the 
+richest kings of the world.  Being ugly and deformed, Beldin seeks to 
+beautify the world and his tower is his prized work.
+~
+0 0 2
+D1
+~
+~
+0 -1 4313
+D4
+~
+~
+1 -1 4354
+S
+#4336
+The doorway to Belmakor's tower~
+You are standing in front of an abandoned tower.  Its owner, Belmakor, was a 
+sorcerer who lived milleniums ago.  A true friend to Belsambar, both of them 
+died within the same year, one due to an enemy attack, the other due to 
+grief.  Now, the tower is kept in order by the magic of the vale and of 
+Aldur.
+~
+0 0 2
+D3
+~
+~
+0 -1 4324
+D4
+~
+~
+2 -1 4351
+S
+#4337
+A ruined tower~
+You stand before the ruined tower that was once home to Belzedar, disciple 
+of Aldur.  Although originally devoted to the teachings of Aldur, Belzedar 
+took a risk and became a spy for Torak.  When Belzedar first came into 
+contact with the Will of Torak, his mind shattered and he became a slave to 
+the mad god.  In response to his betrayal, his tower was burnt and left a 
+smothering ruin.
+~
+0 0 2
+D0
+~
+~
+0 -1 4307
+D4
+~
+~
+0 -1 4344
+S
+#4338
+The Tower of Aldur~
+As the tallest tower in the entire vale, this tower has been dedicated to 
+the god and patron of the vale, Aldur.  A direct son of the father of all 
+gods, UL, Aldur took an active part in discovering the mysteries of magic 
+and of life.  All his disciples are accomplished sorcerers who wield 
+incredible power.
+~
+0 0 2
+D0
+~
+~
+0 -1 4330
+D4
+~
+~
+1 -1 4340
+D5
+~
+~
+1 -1 4339
+S
+#4339
+The cellar of Aldur's tower~
+You are in the cellar of Aldur's tower.  Although a cellar, the room is lit 
+by unseen torches, filling the room with a cheery pale yellow glow.
+~
+0 8 0
+D4
+~
+~
+1 -1 4338
+S
+#4340
+1st storey of the Tower of Aldur~
+You are standing on the 1st storey of Aldur's tower.  The meticulously clean 
+room seems to have been recently swept, though you can see no sign of a 
+broom.
+~
+0 8 0
+D4
+~
+~
+0 -1 4341
+D5
+~
+~
+1 -1 4338
+S
+#4341
+2nd storey of Aldur's tower~
+You are on the 2nd storey of Aldur's tower.  The room is fashioned after a 
+contemporary dining hall.  Even though Aldur himself has no need for food, 
+his visitors do and this room is set to cater to their needs.
+~
+0 8 0
+D4
+~
+~
+0 -1 4342
+D5
+~
+~
+0 -1 4340
+S
+#4342
+3rd storey of Aldur's tower~
+The 3rd storey of Aldur's tower is devoted to his studies in the Will and 
+the Word, or more commonly known as magic.  Unlike the 1st floor which 
+houses his library, the 3rd floor contains the spell components he requires 
+for his spells as well as his personal scrying pool.
+~
+0 8 0
+D4
+~
+~
+2 -1 4343
+D5
+~
+~
+0 -1 4341
+S
+#4343
+Aldur's sanctum~
+You are on the top of Aldur's tower and in his personal sanctum.  As the 
+gods have no need for sleep, the room is used more as an observatory than 
+for other purposes.
+~
+0 8 0
+D5
+~
+~
+2 -1 4342
+S
+#4344
+Top of Belzedar's ruined tower~
+You stand atop of Belzedar's ruined tower.  After the betrayal of Belzedar, 
+his tower has been burnt and the formerly three tiered tower is now a 
+smothering ruin.
+~
+0 0 1
+D5
+~
+~
+0 -1 4337
+S
+#4345
+Level 1 of Belsambar's tower~
+Although Belsambar has been dead for milleniums, his tower has been kept 
+clean by magic and this room clearly reflects that fact.  There seems to be 
+nothing in the room.
+~
+0 8 0
+D4
+~
+~
+0 -1 4346
+D5
+~
+~
+1 -1 4334
+S
+#4346
+Level 2 of Belsambar's tower~
+Although Belsambar has been dead for milleniums, his tower has been kept 
+clean by magic and this room clearly reflects that fact.  The bookshelf to 
+the west wall seems to be the only thing in the room.
+~
+0 8 0
+D4
+~
+~
+1 -1 4347
+D5
+~
+~
+0 -1 4345
+S
+#4347
+Belsambar's personal chambers~
+You are in Belsambar's personal chambers.  The room has been kept clean by 
+magic, but the lack of a owner left the room a hollow husk of its former 
+glory.
+~
+0 8 0
+D5
+~
+~
+1 -1 4346
+S
+#4348
+Tier 1 of the Twin Towers~
+You are on tier 1 of the Twin Towers, home to Beltira and Belkira, the twin 
+sorcerers.  This tier is set aside for visiting guests and is the largest 
+room in the entire tower.
+~
+0 8 0
+D4
+~
+~
+0 -1 4349
+D5
+~
+~
+1 -1 4333
+S
+#4349
+Tier 2 of the Twin Towers~
+You are standing on tier 2 of the Twin Towers.  Not many people get the 
+fortune to visit the library of the twins and for a good reason, for the 
+shelves of this room are lined from end to end with precious books.
+~
+0 8 0
+D4
+~
+~
+1 -1 4350
+D5
+~
+~
+0 -1 4348
+S
+#4350
+Bedroom of the twins~
+You are in the bedroom of the twins, Belkira and Beltira.  The room is bare 
+of furniture except for a bed which the twins share.
+~
+0 8 0
+D5
+~
+~
+1 -1 4349
+S
+#4351
+Floor 1 of Belmakor's tower~
+Belmakor has been dead for milleniums and the only reason his tower has been 
+kept so clean over the years is because the vale and Aldur magic has been 
+keeping an eye on it.  This is floor 1 of Belmakor's tower, and from the 
+looks of things, it is empty except for a bookshelf.
+~
+0 8 0
+D4
+~
+~
+0 -1 4352
+D5
+~
+~
+2 -1 4336
+S
+#4352
+Floor 2 of Belmakor's tower~
+Belmakor has been dead for milleniums and the only reason his tower has been 
+kept so clean over the years is because the vale and Aldur magic has been 
+keeping an eye on it.  This is floor 2 of Belmakor's tower, and from the 
+looks of things, it is empty.
+~
+0 8 0
+D4
+~
+~
+1 -1 4353
+D5
+~
+~
+0 -1 4351
+S
+#4353
+Belmakor's sleeping chambers~
+Belmakor has been dead for milleniums and the only reason his tower has been 
+kept so clean over the years is because the vale and Aldur magic has been 
+keeping an eye on it.  This is Belmakor's sleeping chambers and it is empty 
+except for an old bed.
+~
+0 8 0
+D5
+~
+~
+1 -1 4352
+S
+#4354
+Guest room of Beldin's tower~
+Beldin's tower (more suitably known as a castle) is the most magnificient 
+tower you have ever seen.  Covering the inside walls are myriad patterns of 
+colours and lights playing with your senses.  Although seemingly random, the 
+resulting pattern relieves your senses tremendously.
+~
+0 8 0
+D4
+~
+~
+0 -1 4355
+D5
+~
+~
+1 -1 4335
+S
+#4355
+Dining room of Beldin's tower~
+The dining room of Beldin's tower is laviously set with expensive candeliars 
+hanging from the ceilings.  Old tapertries depicting historical battles 
+between the murgos and the other races lined the four walls, creating a 
+unlikely, but nevertheless, calming ambience.
+~
+0 8 0
+D4
+~
+~
+2 -1 4356
+D5
+~
+~
+0 -1 4354
+S
+#4356
+Beldin's bedroom~
+Although Beldin himself is grotesque and badly deformed, his room is heavily 
+decorated with expensive ornaments and a lavish bed.  Despite his ugliness, 
+Beldin is determined to bring beauty to the world and his tower is the best 
+proof of that.
+~
+0 8 0
+D5
+~
+~
+2 -1 4355
+S
+#0
+
+
+#RESETS
+D 1 4290 5 1            ; This area file is copyright 1999 Cadmoori
+*
+M 1 4281 1 4282            Eriond, the child god, is here to Cave of the Gods
+E 1 4282 100 17
+G 1 4281 100
+G 1 4283 100
+*
+*
+M 1 4282 20 4284            a lark to The Tree of the world
+*
+M 1 4283 20 4284            a hummingbird to The Tree of the world
+*
+M 1 4288 25 4284            a small badger to The Tree of the world
+O 1 4284 100 4286            a turnip to A small wooden cottage
+O 1 4284 100 4286            a turnip to A small wooden cottage
+*
+M 1 4289 1 4286            Durnik to Outside a small wooden cottage
+E 1 4286 100 16
+G 1 4285 100
+G 1 4287 100
+G 1 4287 100
+*
+M 1 4290 1 4287            Polgara to Inside Polgara and Durnik's cottage
+E 1 4289 100 16
+G 1 4288 100
+O 1 4290 100 4290            a small dining table to 1st floor of Belgarath's tower
+O 1 4291 100 4291            a large bookshelf to 2nd floor of Belgarath's tower
+P 1 4292 0 4291
+P 1 4293 0 4291
+D 1 4292 5 2            ; Top of Belgarath's tower Lock Down
+*
+M 1 4291 1 4292            Belgarath to Top of Belgarath's tower
+E 1 4294 100 17
+*
+M 1 4284 20 4293            a small deer to The Vale of Aldur
+*
+M 1 4286 20 4293            a large doe to The Vale of Aldur
+*
+M 1 4295 17 4296            a small worm to Western reaches of the Vale of Aldur
+*
+M 1 4297 5 4299            a small fish to A small stream
+*
+M 1 4298 6 4302            a fish to A stream
+*
+M 1 4292 10 4307            a spotted owl to Eastern wilderness of the Vale of Aldur
+*
+M 1 4285 1 4305            a large buck to Eastern wilderness of the Vale of Aldur
+*
+M 1 4298 6 4309            a fish to A room
+*
+M 1 4297 6 4310            a small fish to A stream
+*
+M 1 4298 6 4310            a fish to A stream
+*
+M 1 4294 12 4298            a cuckold bird to The Vale of Aldur
+*
+M 1 4293 20 4314            a red robin to A cut-off in the stream
+*
+M 1 4299 1 4315            a large pike to Small pond
+O 1 4295 100 4315            a small water hyacinth to Small pond
+*
+*
+M 1 4287 12 4318            a bright blue bird to End of a stream
+*
+M 1 4296 10 4319            a small white rabbit to A small island
+*
+M 1 4296 10 4295            a small white rabbit to Western reaches of the Vale of Aldur
+*
+M 1 4288 20 4320            a small badger to Eastern wilderness of the Vale of Aldur
+*
+M 1 4300 1 4321            a nightingale to A small glade in the wilderness
+*
+M 1 4287 10 4324            a bright blue bird to Southern plains of the Vale of Aldur
+O 1 4297 100 4328            to Inside the Tree
+O 1 4296 100 4284            tree of the world to The Tree of the world
+O 1 4298 100 4287            a large dining table to Inside Polgara and Durnik's cottage
+*
+M 1 4301 4 4291            a small rat to 2nd floor of Belgarath's tower
+*
+M 1 4301 4 4339            a small rat to The cellar of Aldur's tower
+O 1 4299 100 4339            a rack to The cellar of Aldur's tower
+P 1 4300 100 4299            an everglowing sphere to container rack
+P 1 4301 100 4299            a scrying mirror to container rack
+P 1 4302 100 4299            The sword 'Darkbane' to container rack
+P 1 4303 100 4299            A decanter of endless water to container rack
+O 1 4304 100 4340            a bookshelf to 1st storey of the Tower of Aldur
+P 1 4305 100 4304            Book of Truths to container bookshelf shelf
+P 1 4306 100 4304            a ever-burning candlestick to container bookshelf shelf
+P 1 4307 100 4304            Book of Faith to container bookshelf shelf
+P 1 4308 100 4304            A book on the history of the world to container bookshelf shelf
+O 1 4298 100 4341            a large dining table to 2nd storey of Aldur's tower
+O 1 4309 100 4342            a scrying pool to 3rd storey of Aldur's tower
+O 1 4310 100 4342            a table to 3rd storey of Aldur's tower
+P 1 4311 100 4310            a small vial to container tabletop
+P 1 4283 100 4310            an empty parchment to container tabletop
+P 1 4283 100 4310            an empty parchment to container tabletop
+P 1 4312 100 4310            a quill to container tabletop
+P 1 4313 100 4310            an inkwell to container tabletop
+*
+M 1 4302 1 4343            Aldur to Aldur's sanctum
+E 1 4316 100 9
+E 1 4314 100 17
+E 1 4317 100 16
+G 1 4315 100
+*
+M 1 4301 4 4337            a small rat to A ruined tower
+*
+M 1 4301 4 4344            a small rat to Top of Belzedar's ruined tower
+*
+M 1 4285 20 4306            a large buck to Eastern wilderness of the Vale of Aldur
+*
+M 1 4285 20 4295            a large buck to Western reaches of the Vale of Aldu
+O 1 4318 100 4289            A statue of Beldaran to Foot of Belgarath's tower
+*
+M 1 4304 1 4292            Poledra to Top of Belgarath's tower
+E 1 4320 100 6
+G 1 4319 100
+D 1 4345 5 2            ; Level 1 of Belsambar's tower Lock Down
+D 1 4340 5 1            ; 1st storey of the Tower of Aldur Close Down
+D 1 4339 4 1            ; The cellar of Aldur's tower Close Up
+D 1 4343 5 2            ; Aldur's sanctum Lock Down
+O 1 4321 100 4346            a bookshelf to Level 2 of Belsambar's tower
+O 1 4322 100 4292            A large bed to Top of Belgarath's tower
+O 1 4323 100 4347            a bed to Belsambar's personal chambers
+D 1 4347 5 1            ; Belsambar's personal chambers Close Down
+D 1 4333 4 1            ; Entrance to the Twin Towers Close Up
+*
+M 1 4305 1 4348            Beltira to Tier 1 of the Twin Towers
+E 1 4325 100 5
+E 1 4326 100 17
+O 1 4324 100 4348            a large couch to Tier 1 of the Twin Towers
+O 1 4290 100 4348            a small dining table to Tier 1 of the Twin Towers
+O 1 4322 100 4350            a large double bed to Bedroom of the twins
+*
+M 1 4306 1 4350            Belkira to Bedroom of the twins
+E 1 4325 100 5
+G 1 4301 100
+O 1 4327 100 4349            an extensive bookshelf to Tier 2 of the Twin Towers
+P 1 4294 100 4327            the Mrin Codex to container extensive bookshelf
+P 1 4328 100 4327            the Darine Codex to container extensive bookshelf
+P 1 4308 100 4327            a book on the history of the world to container extensive bookshelf
+P 1 4329 100 4327            a scroll penned in blood to container extensive bookshelf
+O 1 4321 100 4351            a bookshelf to Floor 1 of Belmakor's tower
+O 1 4330 100 4353            an old bed to Belmakor's sleeping chambers
+D 1 4351 5 2            ; Floor 1 of Belmakor's tower Lock Down
+D 1 4353 5 1            ; Belmakor's sleeping chambers Close Down
+D 1 4350 5 0            ; Bedroom of the twins Open Down
+D 1 4354 5 1            ; Guest room of Beldin's tower Close Down
+O 1 4298 100 4355            a large dining table to Dining room of Beldin's tower
+D 1 4356 5 1            ; Beldin's bedroom Close Down
+O 1 4322 100 4356            a large double bed to Beldin's bedroom
+*
+M 1 4307 1 4356            Beldin to Beldin's bedroom
+E 1 4332 100 17
+G 1 4331 100
+G 1 4328 100
+S
+
+
+
+#$
+

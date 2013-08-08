@@ -1,0 +1,76 @@
+
+- {CTue Oct  5 12:10:20 1999{x - Highlanders get a huge hit/dam/ac bonus for train
+{x{x                             ing generation now.
+
+- {CWed Oct  6 13:07:31 1999{x - Mobs are now not limited to 30000 hit points.  It
+{x{x                              is purely level based.  
+
+- {CWed Oct  6 13:07:50 1999{x - Because of new Mob Hit Point system, experience f
+{x{x                             or status has increased by 25%.
+
+- {CWed Oct  6 13:24:41 1999{x - The King Pin now loads with a random number of ar
+{x{x                             tifacts.
+
+- {CWed Oct  6 13:58:33 1999{x - You can now turn on/off color of the auto-mapper 
+{x{x                             using the Map command.  This should speed it up co
+{x{x                             nsiderably for those with slower connections.
+
+- {CWed Oct  6 16:03:33 1999{x - Beware murdering mobs in Redlight!
+
+- {CWed Oct  6 16:43:08 1999{x - Demon's LEECH does 500-1500 every two rounds.
+
+- {CWed Oct  6 21:45:11 1999{x - Redlight flag on who for players who are in Redli
+{x{x                             ght area.
+
+- {CThu Oct  7 08:05:27 1999{x - Fixed some Quest bugs that were giving bogus obje
+{x{x                             cts and also no items in Redlight will be quest it
+{x{x                             ems.
+
+- {CThu Oct  7 11:40:10 1999{x - GRAFT for demons works.  You need Apprentice demo
+{x{x                             n to use it.
+
+- {CThu Oct  7 13:31:07 1999{x - Fixed a big error in calculating damage.  Werewol
+{x{x                             ves now take 1/2 damage with BOAR 3.
+
+- {CThu Oct  7 13:32:24 1999{x - Furthermore, Vampires are stronger at night and w
+{x{x                             eaker at day.
+
+- {CThu Oct  7 13:36:52 1999{x - Drows, Ninja, and Demons now get the appropriate 
+{x{x                             damage bonus for their corresponding class powers.
+
+- {CThu Oct  7 13:37:01 1999{x - Werewolves SILVER TOLERANCE now works correctly.
+
+- {CThu Oct  7 21:22:40 1999{x - Highlander headquarters now has a portal to Redli
+{x{x                             ght.
+
+- {CFri Oct  8 09:24:08 1999{x - Demons get a parry bonus for each grafted arm wie
+{x{x                             lding a weapon.
+
+- {CFri Oct  8 20:02:14 1999{x - Fixed strange training bug thanks to Bogdon.
+
+- {CSun Oct 10 09:14:49 1999{x - Fixed a crash bug.
+
+- {CSun Oct 10 09:58:29 1999{x - Flaming/poison now does as it should and reduces 
+{x{x                             healing by 75% instead of 100%.  Mobs are immune t
+{x{x                             o flaming/poison now.
+
+- {CSun Oct 10 10:03:13 1999{x - Mobs regeneration has been randomized and halved 
+{x{x                             during combat.
+
+- {CSun Oct 10 16:27:24 1999{x - Kakusa no longer works during combat.  Die of cha
+{x{x                             nce for apprentice Ninjas.  Type dice.
+
+
+- {CSun Oct 10 22:00:57 1999{x - Decapitating players now shows who assisted, how 
+{x{x                             much damage they did, % damage, and splits up the 
+{x{x                             points.
+
+
+- {CMon Oct 11 09:37:05 1999{x - Vampires get a higher damcap during the night.  N
+{x{x                             on-Demons in hell get their damcap halved.
+
+
+- {CMon Oct 11 10:08:09 1999{x - Master Ninja can kakusu during combat.
+
+
+

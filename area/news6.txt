@@ -1,0 +1,90 @@
+- {CMon Jun 18{x - you can now see area on where. this should help with mappin
+{x{x               g areas.
+
+- {CMon Jun 18{x - enter/exit/login/logout now show up under the {Wlevel{x com
+{x{x               mand.
+
+- {CTue Jun 19{x - I have reduced exp back to what it was, as well as the "new
+{x{x               bie exp".  Starting hp/mana/move is now 666 as well.
+
+- {CTue Jun 19{x - Put back in double experience for the first 5 hours.
+
+- {CTue Jun 19{x - New Swordtech.  Truevision:  Apprentice Highlander required
+{x{x               .  Gives... Truevision!
+
+- {CTue Jun 19{x - Master Highlanders now get restored after a decapitate.
+
+- {CTue Jun 19{x - Minimum swordtech moves required is now 850.  Newbloods wil
+{x{x               l have to PK a few people!
+
+- {CTue Jun 19{x - for any old players, note to an imm and we may be able to r
+{x{x               etrieve your old pfile
+
+- {CWed Jun 20{x - takes longer to get sucked into limbo now.
+
+- {CWed Jun 20{x - Half the mobs will be safe from portal every reboot.
+
+- {CWed Jun 20{x - Map improvement.  No longer shows walls behind walls.
+
+- {CWed Jun 20{x - Zuloform and Dragonform no longer have a HP bonus.
+
+- {CThu Jun 21{x - King Pin now has sanctuary again.
+
+- {CThu Jun 21{x - A pfile corruption bug fixed.
+
+- {CSun Jun 24{x - a bunch of bugs fixed.
+
+- {CMon Jun 25{x - new colors for exits and stuff. if it looks too ugly, let m
+{x{x               e know, but if you let me know, SUGGEST better colors.
+
+- {CThu Jun 28{x - Fixed a minor map bug.
+
+- {CSun Jul  1{x - Random code echo is in.  The longer you play, the more secr
+{x{x               ets you will find out!
+
+- {CSun Jul  1{x - Interesting fact:  As of right now our code contains 98,229
+{x{x                lines of code!
+
+- {CSun Jul  1{x - If you want to build, use the MZF at our website:
+{x{x               http://umgw.genesismuds.com/-pip
+{x{x               Of course, the '-' is really a tilde.
+
+- {CMon Jul  2{x - The freevnums file on the website looks much better now, an
+{x{x               d the binary file is back up.  The binary file now shows tot
+{x{x               als for ones/zeros and even an average!
+
+- {CMon Jul  2{x - Updated freevnums to only show vnums if there are more than
+{x{x                49 free vnums in a row.
+
+- {CMon Jul  2{x - Added a memory watching program, memwatch.
+{x{x               http://www.linkdata.se/sourcecode.html if you're interested!
+
+- {CMon Jul  2{x - Another improvement on map.  Now the names are cut off at 2
+{x{x               0 characters so the map doesn't look all funky when there's 
+{x{x               mobs with long names.
+
+- {CTue Jul  3{x - king pin slightly buffed.
+
+- {CWed Jul  4{x - Anti-spam on channels coded.
+
+- {CSun Jul  8{x - The answer command now works the same as "trivia answer".
+
+- {CSun Jul  8{x - If at least 3 players on, there is a chance of random quest
+{x{x                tokens being handed to a random mob for a race between play
+{x{x               ers.
+
+- {CTue Jul 10{x - added primal,exp,weapon,spell,stance,hp,mana,move and rando
+{x{x               m tokens(in addition to quest)
+
+- {CTue Jul 10{x - locate object spell shows more now
+
+- {CTue Jul 10{x - webpage updates
+
+- {CTue Jul 10{x - Wow, we are {breally{x giving away our code now!
+{x{x               http://destiny.genesismuds.com/~pip/snippets/
+
+- {CWed Jul 11{x - Removed memwatch.  Wasn't doing what I needed!
+
+- {CWed Jul 11{x - webpage now has an online who
+
+

@@ -1,0 +1,2733 @@
+#AREA Cadmoori Firetop Mountain~
+
+#MOBILES
+#4786
+spotted deer~
+a spotted deer~
+A spotted deer prances about
+~
+The deer seems to be running away from you.
+~
+64 0 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4787
+black raven~
+a black raven~
+A black raven eyes you
+~
+The raven eyes you with an evil glint
+~
+64 524288 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4788
+crow black~
+a black crow~
+A black crow caws loudly at you
+~
+The crow seems to be taunting you!
+~
+64 524288 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4789
+huge python~
+a huge python~
+A huge python, almost 10 metres in length, snarls at you
+~
+The python seems ready to attack!
+~
+2|32|64 65536 -5 S
+230 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4790
+brown bear~
+a brown bear~
+A brown bear swipes its paws at you
+~
+The brown bears howls loudly and attacks!
+~
+32|64 0 0 S
+102 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4791
+black bear~
+a black bear~
+A black bear growls at your passing
+~
+The bear seems eager to see you gone.
+~
+64|128 0 0 S
+107 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4792
+maggot~
+a maggot~
+A small maggot crawls at your feet
+~
+The maggot seems to be chewing on something
+~
+64|128 32768 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4793
+huge worm~
+a huge worm~
+A huge worm, the size of a small snake is here, chewing on some leaves
+~
+The worm seems to ignore you and continues eating its leaves
+~
+64|128 32768 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4794
+rocrabbit rabbit~
+a roc rabbit~
+A roc rabbit is here, nose twitching at you.
+~
+The roc rabbit seems to be shy.
+~
+64|128 0 0 S
+11 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4795
+kingfisher~
+a kingfisher~
+A blue kingfisher is here
+~
+The kingfisher ignores you
+~
+64 524288 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4796
+pigeon~
+a pigeon~
+A small pigeon pecks gingerly at the ground.
+~
+The pigeon is oblivious to your presence.
+~
+64 524288 0 S
+7 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4797
+mountain goat~
+a mountain goat~
+A mountain goat bleats at you
+~
+The goat seems more intent of stay alive than fighting!
+~
+64|128 0 0 S
+34 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4798
+rat~
+a rat~
+A rat scampers out of sight
+~
+The rat runs down a hole when you try to look at it.
+~
+64|128 32768|65536 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4799
+huge beetle~
+a huge beetle~
+A huge beetle is here, chewing on some forgotten body part
+~
+The beetle is too busy eating to notice you.
+~
+64 32768 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4800
+ghost adventurer~
+the ghost of an adventurer~
+The ghost of a long-dead adventurer stares at you and moans
+~
+The ghost moans loudly.
+~
+64 256|32768|524288 -50 S
+432 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4801
+hunter trow~
+a trow hunter~
+A trow hunter screams at you and throws his spear
+~
+The trow hunter seems to be hungry.. VERY hungry.
+~
+32|64 32768|65536 0 S
+642 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4802
+trow warrior~
+a trow warrior~
+A trow warrior raises his sword and charges!
+~
+The trow warrior seems to like your head... in his trophy room.
+~
+32|64 0 0 S
+682 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4803
+trow citizen male~
+a male trow citizen~
+A male trow citizen looks at you
+~
+The trow citizen seems to ignore you and carry on his daily business
+~
+4|64|128 0 0 S
+579 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4804
+female trow citizen~
+a female trow citizen~
+A female trow citizen flutters her eyelids at you
+~
+The trow seems interested in you
+~
+64|128 0 0 S
+522 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4805
+trow beggar~
+a trow beggar~
+A trow beggar reaches his hands out to you
+~
+The trow seems rather pathetic
+~
+4|64|128 0 0 S
+510 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4806
+trow slave~
+a trow slave~
+A trow slave looks at you with pleading eyes
+~
+The slave seems to be begging you for help.
+~
+4|64|128 0 0 S
+510 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4807
+captive bear~
+a captive bear~
+There is a bear here, bound with ropes
+~
+The bear looks to be in a sorrowful state
+~
+2|64 0 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4808
+trow guard~
+a trow guard~
+A trow guard asks you your business in the city
+~
+The trow guard seems to be suspicious of you
+~
+2|64 0 0 S
+642 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4809
+trow scout~
+a trow scout~
+A trow scout is here, looking out from the tower
+~
+The trow scout seems to be ignoring you
+~
+2|64 0 0 S
+578 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4810
+trow cleaner~
+a trow cleaner~
+A trow cleaner is here, sweeping the floor
+~
+The trow cleaner tells you, 'Scam buster!'
+~
+4|64 0 0 S
+544 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4811
+old weaponsmith~
+An old weaponsmith~
+An old weaponsmith is here, lamenting his lack of business
+~
+The weaponsmith looks at you and asks if you want to buy anything.
+~
+2|64 0 0 S
+572 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4812
+armourer trow~
+a trow armourer~
+A trow armourer sits on his stool, looking as the world go by
+~
+The trow armourer seems to be bored.
+~
+2|64 0 0 S
+542 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4813
+king trow~
+the king of the trows~
+The king of the trows stares at you and waits for you to bow
+~
+The king of the trows is an able fighter!
+~
+2|64 0 0 S
+753 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4814
+trow priest~
+a trow priest~
+A trow priest looks towards the sky, chanting endlessly
+~
+The trow priest is too busy chanting!
+~
+2|64 0 0 S
+600 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4815
+trow devoted~
+a devoted trow~
+A devoted trow kneels down, praising his god
+~
+The trow seems to be in a vulnerable position....
+~
+2|64 0 0 S
+610 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4816
+drunk trow~
+a drunk trow~
+A drunk trow slurs badly.
+~
+The drunk trow seems to both see and not see you at the same time.
+~
+2|64 0 0 S
+579 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#4786
+mangled corpse~
+a mangled corpse~
+There is a mangled corpse lying on the ground here.~
+~
+8 0 0
+0 1 6 11
+70 0 0
+#4787
+decapitated body~
+a decapitated body~
+There is a decapitated body lying in a gruesome pile here.~
+~
+8 0 0
+0 1 6 11
+80 0 0
+#4788
+head adventurer~
+the head of an adventurer~
+The head of a past adventurer lies on the ground, grinning dumbly~
+~
+8 0 1|16384
+0 1 6 11
+7 0 0
+#4789
+carcass unknown animal~
+the carcass of an unknown animal~
+The carcass of an animal you cannot identify is here.~
+~
+8 0 0
+0 1 6 11
+70 0 0
+#4790
+dead body trow~
+the dead body of a trow~
+The dead body of a trow is here~
+~
+15 0 0
+9999 0 -1 11
+120 0 0
+#4791
+skeletal remains~
+skeletal remains~
+The skeletal remains of SOMETHING is here.~
+~
+8 0 0
+0 1 6 11
+70 0 0
+#4792
+trap animal~
+an animal trap~
+There is a small animal trap here.~
+~
+8 0 1
+0 1 6 11
+5 0 0
+#4793
+small bow~
+a small bow~
+A small bow lies on the ground~
+~
+5 0 1|8192
+0 1 6 0
+3 0 0
+#4794
+small lamp~
+a small lamp~
+A small lamp flares brightly on the ground~
+~
+1 1 1|16384
+0 1 20 11
+2 0 0
+#4795
+backpack~
+a backpack~
+A small backpack~
+~
+15 0 1|8
+10 0 -1 11
+5 0 0
+#4796
+camouflage paints~
+some camouflage paints~
+Some camouflage paints lie on the ground~
+~
+8 0 1|16384
+0 1 6 11
+3 0 0
+#4797
+feathery helm~
+a feathery helm~
+A small helm made of feathers lie here.~
+~
+9 0 1|16
+5 1 6 11
+2 0 0
+#4798
+bone necklace~
+a bone necklace~
+A necklace made of bones is here~
+~
+9 0 1|4
+5 1 6 11
+2 0 0
+#4799
+feathered bracelet~
+a feathered bracelet~
+There is a bracelet lined with bright feathers here.~
+~
+9 0 1|4096
+6 1 6 11
+3 0 0
+#4800
+belt pouches~
+a belt of pouches~
+A belt with many pouches lie on the ground~
+~
+15 0 1|2048
+6 0 -1 11
+3 0 0
+#4801
+feathered legband feathers~
+a feathered legband~
+There is a legband covered with feathers here.~
+~
+9 0 1|32
+5 1 6 11
+2 0 0
+#4802
+huge broadsword~
+a huge broadsword~
+There is a huge broadsword on the ground~
+~
+5 0 1|8192
+0 3 10 3
+11 0 0
+#4803
+glinting shield~
+a glinting shield~
+A large glinting shield is here~
+~
+9 0 1|512
+10 1 6 11
+3 0 0
+#4804
+full plate~
+a full plate~
+A full plate rests here~
+~
+9 0 1|8
+13 1 6 11
+50 0 0
+#4805
+dark grey helm~
+a dark grey helm~
+A dark grey helm is here~
+~
+9 0 1|16
+4 1 6 11
+2 0 0
+#4806
+metal gauntlets~
+a pair of metal gauntlets~
+A pair of metal gauntlets lie on the ground, forgotten.~
+~
+9 0 1|128
+3 1 6 11
+2 0 0
+#4807
+medal honour~
+a medal of honour~
+There is a small medal on the ground~
+~
+9 1 1|4
+2 1 6 11
+1 0 0
+#4808
+medal faith~
+a medal of faith~
+There is a small medal on the ground~
+~
+9 1 1|4
+2 1 6 11
+1 0 0
+#4809
+medal loyalty~
+a medal of loyalty~
+There is a small medal on the ground.~
+~
+9 1 1|4
+2 1 6 11
+1 0 0
+#4810
+rusty blade~
+a rusty blade~
+A rusty blade rests here.~
+~
+5 0 1|8192
+0 1 6 11
+5 0 0
+#4811
+eyeglass~
+an eyeglass~
+An eyeglass rests here~
+~
+8 0 1|16384
+0 1 6 11
+3 0 0
+#4812
+map~
+a map of Firetop Mountain~
+There is a map here~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#4813
+chalk piece~
+a piece of chalk~
+There is a piece of chalk here~
+~
+5 0 1|8192
+0 1 3 11
+1 0 0
+#4814
+concealing cloak~
+a concealing cloak~
+A dark cloak is here~
+~
+9 0 1|1024
+4 1 6 11
+2 0 0
+#4815
+signet ring guard~
+the signet ring of the Guard~
+A small ring lies in the dirt~
+~
+9 0 1|2
+2 1 6 11
+1 0 0
+#4816
+trow sleeves~
+a pair of trow sleeves~
+A pair of grey sleeves lie on the ground~
+~
+9 0 1|256
+2 1 6 11
+4 0 0
+#4817
+trow boots~
+a pair of trow boots~
+A pair of grey boots lie on the ground~
+~
+9 0 1|64
+4 1 6 11
+2 0 0
+#4818
+trow shield~
+a trow shield~
+A grey shield lies on the ground.~
+~
+9 0 1|512
+3 1 6 11
+7 0 0
+#4819
+helm guard~
+helm of the Guard~
+A grey helm is on the ground~
+~
+9 0 1|16
+2 1 6 11
+4 0 0
+#4820
+trow ring~
+a small trow ring~
+A small ring lies half buried in the ground~
+~
+9 0 1|2
+1 1 6 11
+1 0 0
+#4821
+few coins~
+a few coins~
+A few coins is scattered on the ground~
+~
+8 0 1
+0 1 6 11
+1 0 0
+#4822
+wooden stake~
+a wooden stake~
+A wooden stake lies on the ground.~
+~
+5 0 1|8192
+0 1 6 11
+2 0 0
+#4823
+beggar's cup~
+a beggar's cup~
+A small cup lie on the ground~
+~
+15 0 1|16384
+2 0 -1 11
+2 0 0
+#4824
+tattered rags~
+some tattered rags~
+Some tattered rags are on the ground.~
+~
+9 0 1|8
+1 1 6 11
+1 0 0
+#4825
+broom~
+a broom~
+A broom lies here~
+~
+5 0 1|8192
+0 1 6 7
+3 0 0
+#4826
+dirty uniform~
+a dirty uniform~
+There is a dirty uniform here~
+~
+9 0 1|8
+3 1 6 11
+2 0 0
+#4827
+loin cloth~
+a loin cloth~
+A small piece of cloth lie on the ground~
+~
+9 0 1|2048
+2 1 6 11
+3 0 0
+#4828
+homemade skirt~
+a homemade skirt~
+There is a skirt on the ground~
+~
+9 0 1|2048
+2 1 6 11
+2 0 0
+#4829
+royal bastard sword~
+a royal bastard sword~
+A sword lie on the ground, glinting gold~
+~
+5 1 1|8192
+0 5 12 1
+3 0 0
+A
+18 2
+#4830
+royal cross shield~
+a royal cross shield~
+There is a shield on the ground with a cross on it.~
+~
+9 0 1|512
+5 1 6 11
+5 0 0
+#4831
+gold ring~
+a gold ring~
+There is a small ring on the ground~
+~
+9 1 1|2|4096|8192
+2 1 6 11
+1 0 0
+#4832
+glinting helmet~
+a glinting helmet~
+A helmet lies on the round, glinting~
+~
+9 1 1|16
+4 1 6 11
+3 0 0
+#4833
+imperial plate~
+an imperial plate~
+An imperial plates lie on the ground~
+~
+9 0 1|8
+12 1 6 11
+15 0 0
+#4834
+trow seal ebony~
+an ebony trow seal~
+An ebony trow seal is here~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#4835
+silver-plated leggings~
+a pair of silver-plated leggings~
+A pair of silver-plated leggings lie on the ground~
+~
+9 1 1|32
+3 1 6 11
+2 0 0
+#4836
+royal gauntlets~
+a pair of royal gauntlets~
+A pair of gauntlets lie on the ground~
+~
+9 0 1|128
+3 1 6 11
+2 0 0
+#4837
+holy symbol~
+a holy symbol~
+There is a holy symbol on the ground~
+~
+9 0 1|16384
+3 1 6 11
+2 0 0
+#4838
+priestly robe~
+a priestly robe~
+There is a priestly robe on the ground~
+~
+9 0 1|8
+2 1 6 11
+2 0 0
+#4839
+sceptre faith~
+a sceptre of faith~
+A small glowing sceptre lies on the ground~
+~
+9 1 1|16384
+4 1 6 11
+3 0 0
+#4840
+throne opulent~
+an opulent throne~
+There is an opulent throne to the back of the room~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4841
+mug ale~
+a mug of ale~
+There is a mug here.~
+~
+17 0 1|16384
+2 2 3 0
+3 0 0
+#4842
+table~
+a long table~
+There is a long table here~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4843
+reception table~
+a reception table~
+There is a large reception table here, with a bell on top~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4844
+bunker beds~
+bunker beds~
+There are a few bunker beds here~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4845
+statue god~
+The statue of a trow god~
+The statue of a trow god stands behind a table of offering~
+~
+8 0 0
+0 1 6 11
+2000 0 0
+#4846
+dirty well~
+a dirty well~
+There is a dirty well here~
+~
+8 0 0
+0 1 6 11
+2000 0 0
+#0
+
+
+#ROOMS
+#4786
+Entrance to Firetop Mountain~
+Standing before the entrance to Firetop Mountain, you cannot help but be 
+revelled in the view.  More than 7000 feet above sea level, Firetop Mountain 
+is the tallest mountain in the western Realms.  Home to the huge trows, 
+Firetop Mountain is a place of great beauty... and cruel death.
+
+There is a signpost here.
+~
+0 4 1
+D3
+~
+~
+0 -1 4787
+E
+signpost~
+This area is made by Cadmoori.  Called Firetop Mountain, it is where 
+D'argen, the trow city is.  Trows being the fearsome warriors that they are, 
+this is a highly dangerous area.  Keep out if you are not relatively 
+high-level.~
+S
+#4787
+Beginnings of the border trail~
+Firetop Mountain is as its name imply, a place of great dangers.  Teetering 
+along the narrow ledge of the border of the mountain, you sneak a glance to 
+the portal to the east from which you entered.  Too bad the path to the 
+north and south are not so safe.
+~
+0 0 1
+D0
+~
+~
+0 -1 4788
+D1
+~
+~
+0 -1 4786
+D2
+~
+~
+0 -1 4792
+S
+#4788
+Walking along the eastern border~
+Taking the cue of a few foolhardy raven which attacked you, you quickly go 
+on your way and run along the path.  Even though your haste, the boney 
+remains of a past adventurer did not miss your glance.
+~
+0 0 1
+D0
+~
+~
+0 -1 4789
+D2
+~
+~
+0 -1 4787
+S
+#4789
+Eastern border of Firetop Mountain~
+You are walking along the eastern border of Firetop Mountain.  Even with the 
+constant cawing of ravens and crows, the peaceful serenity of the 
+mountainside is not lost.
+~
+0 0 1
+D0
+~
+~
+0 -1 4790
+D2
+~
+~
+0 -1 4788
+S
+#4790
+Eastern border of Firetop Mountain~
+You are walking along the eastern border of Firetop Mountain.  Even with the 
+constant cawing of ravens and crows, the peaceful serenity of the 
+mountainside is not lost.
+~
+0 0 1
+D0
+~
+~
+0 -1 4791
+D2
+~
+~
+0 -1 4789
+S
+#4791
+A north-east turn in the trail~
+You arrive at a sharp turn on the trail which leads north and east.  
+Although the sight of corpses are beginning to go down more comfortably with 
+you, the sight of the headless carcass, crawling with maggots and rotting 
+badly, sends a chill down your spine.
+~
+0 0 1
+D2
+~
+~
+0 -1 4790
+D3
+~
+~
+0 -1 4822
+S
+#4792
+Walking along the eastern border~
+Taking the cue of a few foolhardy raven which attacked you, you quickly go 
+on your way and run along the path.  Even though your haste, the carcass of 
+an unknown animal lying on the path did not miss your glance.
+~
+0 0 1
+D0
+~
+~
+0 -1 4787
+D2
+~
+~
+0 -1 4793
+S
+#4793
+Down the eastern border~
+You are walking along the eastern border of Firetop Mountain.  Even with the 
+constant cawing of ravens and crows, the peaceful serenity of the 
+mountainside is not lost.
+~
+0 0 1
+D0
+~
+~
+0 -1 4792
+D2
+~
+~
+0 -1 4794
+S
+#4794
+Eastern border of Firetop Mountain~
+You are walking along the eastern border of Firetop Mountain.  Even with the 
+constant cawing of ravens and crows, the peaceful serenity of the 
+mountainside is not lost.
+~
+0 0 1
+D0
+~
+~
+0 -1 4793
+D2
+~
+~
+0 -1 4795
+S
+#4795
+Near the south-eastern corner~
+The road here has become more narrow and the already thin ledge becomes 
+almost a streak.  Feeling like a tight-rope walker in a bizzare circus, you 
+brave the way slowly.
+~
+0 0 1
+D0
+~
+~
+0 -1 4794
+D2
+~
+~
+0 -1 4796
+S
+#4796
+South-eastern corner~
+The south-eastern corner offers the loviest view.  Standing high above the 
+sea of swords, the view of the coast and the bordering shoreline is simply 
+magnificient.
+~
+0 0 1
+D0
+~
+~
+0 -1 4795
+D3
+~
+~
+0 -1 4797
+S
+#4797
+The southern border~
+The southern border of Firetop Mountain faces the great wilderness of the 
+Anarouch desert.  With the strong and dry desert wind blowing from the side, 
+walking along the narrow ledge is made all the more dangerous.
+~
+0 0 1
+D1
+~
+~
+0 -1 4796
+D3
+~
+~
+0 -1 4798
+S
+#4798
+Balancing on the southern border~
+Over the years, the strong desert wind from the south has chipped away a 
+healthy part of the ledge.  All that is left behind is barely wider than 
+your shoes.
+~
+0 0 1
+D1
+~
+~
+0 -1 4797
+D3
+~
+~
+0 -1 4799
+S
+#4799
+The southern border~
+The southern border of Firetop Mountain faces the great wilderness of the 
+Anarouch desert.  With the strong and dry desert wind blowing from the side, 
+walking along the narrow ledge is made all the more dangerous.
+~
+0 0 1
+D1
+~
+~
+0 -1 4798
+D3
+~
+~
+0 -1 4800
+S
+#4800
+The southern border~
+The southern border of Firetop Mountain faces the great wilderness of the 
+Anarouch desert.  With the strong and dry desert wind blowing from the side, 
+walking along the narrow ledge is made all the more dangerous.
+~
+0 0 1
+D1
+~
+~
+0 -1 4799
+D3
+~
+~
+0 -1 4801
+S
+#4801
+Chancing the southern border~
+As you sidestepped carefully along the southern border, you cannot help but 
+swear at the constant cawing of the overhead ravens.  Praying that their 
+presence does not foretell your death, you hurry along.
+~
+0 0 1
+D1
+~
+~
+0 -1 4800
+D3
+~
+~
+0 -1 4802
+S
+#4802
+Widening of the southern trail~
+The trail here seems to be widenning.  Even though the trail is still too 
+narrow for you to be walking straight, at least it's not so precarious.
+~
+0 0 1
+D1
+~
+~
+0 -1 4801
+D3
+~
+~
+0 -1 4803
+S
+#4803
+A wide ledge~
+The southern trail has widened into a spacious ledge.  Finally able to walk 
+straight, you can't help but give a sigh when you realise that the path 
+ahead is thinning out again.
+
+There is another path to the north which leads into the center of the 
+mountain.  Perhaps you should take that path.
+~
+0 4 1
+D0
+~
+~
+0 -1 4834
+D1
+~
+~
+0 -1 4802
+D3
+~
+~
+0 -1 4804
+S
+#4804
+Widening of the southern trail~
+The trail here seems to be widenning.  Even though the trail is still too 
+narrow for you to be walking straight, at least it's not so precarious.
+~
+0 0 1
+D1
+~
+~
+0 -1 4803
+D3
+~
+~
+0 -1 4805
+S
+#4805
+The south-western corner~
+Even though the breath-taking scenery of the countryside, Firetop Mountain 
+is still a dangerous place and the sight of another corpse reinforced your 
+fears.
+~
+0 0 1
+D0
+~
+~
+0 -1 4806
+D1
+~
+~
+0 -1 4804
+S
+#4806
+Western runway~
+You are standing along a wide strip of well-troddened land.  Recognising 
+that this is a runway, where animals can be chased along the path into an 
+eventual trap, you cannot help but wonder -- are you the hunter, or the 
+hunted?
+~
+0 0 1
+D0
+~
+~
+0 -1 4807
+D2
+~
+~
+0 -1 4805
+S
+#4807
+Western runway~
+You are standing along a wide strip of well-troddened land.  Recognising 
+that this is a runway, where animals can be chased along the path into an 
+eventual trap, you cannot help but wonder -- are you the hunter, or the 
+hunted?
+~
+0 0 1
+D0
+~
+~
+0 -1 4808
+D2
+~
+~
+0 -1 4806
+S
+#4808
+Western runway~
+You are standing along a wide strip of well-troddened land.  Recognising 
+that this is a runway, where animals can be chased along the path into an 
+eventual trap, you cannot help but wonder -- are you the hunter, or the 
+hunted?
+~
+0 0 1
+D0
+~
+~
+0 -1 4809
+D2
+~
+~
+0 -1 4807
+S
+#4809
+Western runway~
+You are standing along a wide strip of well-troddened land.  Recognising 
+that this is a runway, where animals can be chased along the path into an 
+eventual trap, you cannot help but wonder -- are you the hunter, or the 
+hunted?  To the north, you can see a fork in the road.
+~
+0 0 1
+D0
+~
+~
+0 -1 4810
+D2
+~
+~
+0 -1 4808
+S
+#4810
+End of the western runway~
+This is the end of the runway.  Apparently, a fork in the road allows the 
+hunters to drive the animals to the east, into a steep ravine.  A very 
+clever trick, you think to yourself.
+~
+0 0 1
+D0
+~
+~
+0 -1 4811
+D1
+~
+~
+0 -1 4828
+D2
+~
+~
+0 -1 4809
+S
+#4811
+Western runway~
+You are standing along a wide strip of well-troddened land.  Recognising 
+that this is a runway, where animals can be chased along the path into an 
+eventual trap, you cannot help but wonder -- are you the hunter, or the 
+hunted?
+~
+0 0 1
+D0
+~
+~
+0 -1 4812
+D2
+~
+~
+0 -1 4810
+S
+#4812
+Western runway~
+You are standing along a wide strip of well-troddened land.  Recognising 
+that this is a runway, where animals can be chased along the path into an 
+eventual trap, you cannot help but wonder -- are you the hunter, or the 
+hunted?
+~
+0 0 1
+D0
+~
+~
+0 -1 4813
+D2
+~
+~
+0 -1 4811
+S
+#4813
+Western runway~
+You are standing along a wide strip of well-troddened land.  Recognising 
+that this is a runway, where animals can be chased along the path into an 
+eventual trap, you cannot help but wonder -- are you the hunter, or the 
+hunted?
+~
+0 0 1
+D0
+~
+~
+0 -1 4814
+D2
+~
+~
+0 -1 4812
+S
+#4814
+The north-west turning~
+Known as the north-west turning, this corner of Firetop Mountain serves to 
+link the widest trail of the north and west together.
+~
+0 0 1
+D1
+~
+~
+0 -1 4815
+D2
+~
+~
+0 -1 4813
+S
+#4815
+Northern road~
+The northern path of the mountain is the widest of all the four.  However, 
+this also lands it the name of the most dangerous, for with the wider road, 
+battles are more easily fought... and won.  There is a trail to the south of 
+here.
+~
+0 0 1
+D1
+~
+~
+0 -1 4816
+D2
+~
+~
+0 -1 4823
+D3
+~
+~
+0 -1 4814
+S
+#4816
+Northern road~
+The northern path of the mountain is the widest of all the four.  However, 
+this also lands it the name of the most dangerous, for with the wider road, 
+battles are more easily fought... and won.
+~
+0 0 1
+D1
+~
+~
+0 -1 4817
+D3
+~
+~
+0 -1 4815
+S
+#4817
+Entrance to Trow City~
+Trow City is the single largest city the trows have ever made.  Named 
+D'argen after it's founder, the 'city' is nothing bigger than a large 
+village.  However, the trows being one of the strongest races (and largest), 
+no one has ever bothered to argue with them.
+~
+0 4 1
+D1
+~
+~
+0 -1 4818
+D2
+~
+~
+0 -1 4839
+D3
+~
+~
+0 -1 4816
+S
+#4818
+View of the north~
+To the north of Firetop Mountain is the famous city of Waterdeep.  Blinking 
+lights flashing like mad beacons oh hope, you stare in awe at the beautiful 
+city of splendors, the city that never sleeps.
+~
+0 0 1
+D1
+~
+~
+0 -1 4819
+D3
+~
+~
+0 -1 4817
+S
+#4819
+View of the north~
+To the north of Firetop Mountain is the famous city of Waterdeep.  Blinking 
+lights flashing like mad beacons oh hope, you stare in awe at the beautiful 
+city of splendors, the city that never sleeps.
+~
+0 0 1
+D1
+~
+~
+0 -1 4820
+D3
+~
+~
+0 -1 4818
+S
+#4820
+View of the north~
+To the north of Firetop Mountain is the famous city of Waterdeep.  Blinking 
+lights flashing like mad beacons oh hope, you stare in awe at the beautiful 
+city of splendors, the city that never sleeps.
+~
+0 0 1
+D1
+~
+~
+0 -1 4821
+D3
+~
+~
+0 -1 4819
+S
+#4821
+Northern road~
+The northern path of the mountain is the widest of all the four.  However, 
+this also lands it the name of the most dangerous, for with the wider road, 
+battles are more easily fought... and won.
+~
+0 0 1
+D1
+~
+~
+0 -1 4822
+D3
+~
+~
+0 -1 4820
+S
+#4822
+Northern road~
+The northern path of the mountain is the widest of all the four.  However, 
+this also lands it the name of the most dangerous, for with the wider road, 
+battles are more easily fought... and won.
+~
+0 0 1
+D1
+~
+~
+0 -1 4791
+D3
+~
+~
+0 -1 4821
+S
+#4823
+Beginnings of the Wandering Trail~
+The Wandering Trail is the single longest natural trail on Firetop Mountain. 
+  Even though it is well-troddened by animals, its length has never before 
+been stepped on by trows for simple superstitious reasons.
+~
+0 4 1
+D0
+~
+~
+0 -1 4815
+D2
+~
+~
+0 -1 4824
+S
+#4824
+The Wandering Trail~
+The Wandering Trail used to lead across from the northern road to the 
+southern ledge.  However, as trees and other vegetation slowly colonise the 
+animal trek, the link has been severed.
+~
+0 4 1
+D0
+~
+~
+0 -1 4823
+D2
+~
+~
+0 -1 4825
+S
+#4825
+The Wandering Trail~
+The Wandering Trail used to lead across from the northern road to the 
+southern ledge.  However, as trees and other vegetation slowly colonise the 
+animal trek, the link has been severed.
+~
+0 0 1
+D0
+~
+~
+0 -1 4824
+D1
+~
+~
+0 -1 4826
+S
+#4826
+The Wandering Trail~
+The Wandering Trail used to lead across from the northern road to the 
+southern ledge.  However, as trees and other vegetation slowly colonise the 
+animal trek, the link has been severed.
+~
+0 0 1
+D2
+~
+~
+0 -1 4827
+D3
+~
+~
+0 -1 4825
+S
+#4827
+End of the Wandering Trail~
+To the south of here, you can see the southern ledge through the trees.  
+However, even if light can pass through the thick foliage, you realise with 
+dismay that your body certainly cannot.
+~
+0 0 1
+D0
+~
+~
+0 -1 4826
+S
+#4828
+A dirt path~
+This path you stand on is well-troddened.  As the trap of the western 
+runway, it is bordered on both sides by steep escarpments and the only way 
+through is onwards... towards death.
+~
+0 0 1
+D2
+~
+~
+0 -1 4829
+D3
+~
+~
+0 -1 4810
+S
+#4829
+A dirt path~
+This path you stand on is well-troddened.  As the trap of the western 
+runway, it is bordered on both sides by steep escarpments and the only way 
+through is onwards... towards death.
+~
+0 0 1
+D0
+~
+~
+0 -1 4828
+D2
+~
+~
+0 -1 4830
+S
+#4830
+A turning in the dirt path~
+This path you stand on is well-troddened.  As the trap of the western 
+runway, it is bordered on both sides by steep escarpments and the only way 
+through is onwards... towards death.  The path turns sharply inland here.
+~
+0 0 1
+D0
+~
+~
+0 -1 4829
+D1
+~
+~
+0 -1 4831
+S
+#4831
+A fork in the dirty path~
+You stand before a 3 way fork in the dirt path.  Without a clear view of 
+what lies north and south of here, you are hesitant to continue.
+~
+0 0 1
+D0
+~
+~
+0 -1 4832
+D2
+~
+~
+0 -1 4833
+D3
+~
+~
+0 -1 4830
+S
+#4832
+End of the dirt path~
+You are at the end of the dirt path.  Even without your sight, you can tell 
+that numerous slaughtering of animals have occurred here -- the stench of 
+death is simply overwhelming.
+~
+0 0 1
+D2
+~
+~
+0 -1 4831
+S
+#4833
+End of the dirt path~
+You are at the end of the dirt path.  Even without your sight, you can tell 
+that numerous slaughtering of animals have occurred here -- the stench of 
+death is simply overwhelming.
+~
+0 0 1
+D0
+~
+~
+0 -1 4831
+S
+#4834
+A fork in the mountain trail~
+Happy to be finally out of the narrow southern ledge, you carefully tread 
+along the much wider mountain trail.  There is a fork here, leading both 
+west and east.
+~
+0 0 1
+D1
+~
+~
+0 -1 4837
+D2
+~
+~
+0 -1 4803
+D3
+~
+~
+0 -1 4835
+S
+#4835
+Mountain trail~
+Happy to be finally out of the narrow southern ledge, you carefully tread 
+along the much wider mountain trail.  There is a cave to the north of here.
+~
+0 0 1
+D0
+~
+~
+0 -1 4836
+D1
+~
+~
+0 -1 4834
+S
+#4836
+A dark cave~
+You stand in a dark cave.  A deep growling can be heard to the back of the 
+cave and as your hair begin to stand on ends, you wonder just who is in the 
+cave with you.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 4835
+S
+#4837
+Mountain trail~
+Happy to be finally out of the narrow southern ledge, you carefully tread 
+along the much wider mountain trail.
+~
+0 0 1
+D0
+~
+~
+0 -1 4838
+D3
+~
+~
+0 -1 4834
+S
+#4838
+End of the mountain trail~
+You are at the end of the mountain trail.  There seems to be nothing of 
+interest here.
+~
+0 0 1
+D2
+~
+~
+0 -1 4837
+S
+#4839
+Tumbleweed Lane~
+You are walking along Tumbleweed Lane of Trow City.  Even though the seeming 
+tidiness of the road, your prejudice against the fearsome trow race is not 
+diminished.  To the south, there is a small guardhouse.
+~
+0 0 1
+D0
+~
+~
+0 -1 4817
+D1
+~
+~
+0 -1 4841
+D2
+~
+~
+0 -1 4843
+D3
+~
+~
+0 -1 4840
+S
+#4840
+End of Tumbleweed Lane~
+You are at the western end of Tumbleweed Lane in Trow City.  Even though the 
+seeming tidiness of the road, your prejudice against the fearsome trow race 
+is not diminished.
+~
+0 0 1
+D1
+~
+~
+0 -1 4839
+S
+#4841
+Junction of Tumbleweed Lane and Poor's Avenue~
+You stand at the junction between Tumbleweed Lane and Poor's Avenue.  To the 
+west and east, Tumbleweed Lane continues while to the south, Poor's Avenue 
+starts.
+~
+0 0 1
+D1
+~
+~
+0 -1 4842
+D2
+~
+~
+0 -1 4845
+D3
+~
+~
+0 -1 4839
+S
+#4842
+Eastern end of Tumbleweed Lane~
+This is the end of Tumbleweed Lane.  To the west, Tumbleweed Lane starts and 
+to the south, Crumbledown Avenue runs parallel to Tumbleweed Lane.
+~
+0 0 1
+D2
+~
+~
+0 -1 4856
+D3
+~
+~
+0 -1 4841
+S
+#4843
+Guardhouse of D'argen~
+This is the guardhouse of D'argen, the largest trow city.  Even though 
+called a guardhouse, it is empty, except for a few drunken or sleeping 
+guards.  Trows, being the fearsome warriors that they are, have no fear of 
+intruders to their city!
+~
+0 8 0
+D0
+~
+~
+0 -1 4839
+D4
+~
+~
+0 -1 4844
+S
+#4844
+Top of the guard tower~
+You are at the top of the guard tower.  Facing the north, you look at the 
+tiny lights to the far horizon which mark the city of Waterdeep, city of 
+splendors.
+~
+0 0 1
+D5
+~
+~
+0 -1 4843
+S
+#4845
+Junction of Poor's Avenue and Crumbledown Avenue~
+You stand at the junction of Poor's Avenue and Crumbledown Avenue.  To the 
+east, Crumbledown Avenue continues while to the south is the infamous Poor's 
+Avenue.
+~
+0 0 1
+D0
+~
+~
+0 -1 4841
+D1
+~
+~
+0 -1 4856
+D2
+~
+~
+0 -1 4846
+S
+#4846
+Poor's Avenue~
+The poor and destitute lies along the length of this road.  Lined on both 
+sides by dilapidated houses or even makeshift tents, Poor's Avenue serves as 
+the resort of the poor and the slaves.
+~
+0 0 1
+D0
+~
+~
+0 -1 4845
+D1
+~
+~
+1 -1 4855
+D2
+~
+~
+0 -1 4847
+D3
+~
+~
+1 -1 4854
+S
+#4847
+Poor's Avenue~
+The poor and destitute lies along the length of this road.  Lined on both 
+sides by dilapidated houses or even makeshift tents, Poor's Avenue serves as 
+the resort of the poor and the slaves.
+~
+0 0 1
+D0
+~
+~
+0 -1 4846
+D1
+~
+~
+1 -1 4853
+D2
+~
+~
+0 -1 4848
+D3
+~
+~
+1 -1 4852
+S
+#4848
+Poor's Avenue~
+The poor and destitute lies along the length of this road.  Lined on both 
+sides by dilapidated houses or even makeshift tents, Poor's Avenue serves as 
+the resort of the poor and the slaves.
+~
+0 0 1
+D0
+~
+~
+0 -1 4847
+D2
+~
+~
+0 -1 4849
+D3
+~
+~
+0 -1 4851
+S
+#4849
+End of Poor's Avenue~
+The poor and destitute lies along the length of this road.  Lined on both 
+sides by dilapidated houses or even makeshift tents, Poor's Avenue serves as 
+the resort of the poor and the slaves.  This is the end of Poor's Avenue.
+~
+0 0 1
+D0
+~
+~
+0 -1 4848
+D3
+~
+~
+0 -1 4850
+S
+#4850
+A makeshift tent~
+You are in a small makeshift tent in Poor's Avenue.  From the look of the 
+furnishings, the tenants of this tent are runaway slaves, meaning to hide 
+from their cruel masters.
+~
+0 8 0
+D1
+~
+~
+0 -1 4849
+S
+#4851
+A makeshift tent~
+You are in a small makeshift tent in Poor's Avenue.  From the look of the 
+furnishings, the tenants of this tent are runaway slaves, meaning to hide 
+from their cruel masters.
+~
+0 8 0
+D1
+~
+~
+0 -1 4848
+S
+#4852
+A crumbling hut~
+You are in a small hut.  The walls of the hut are crumbling due to neglect 
+and lack of repairs.  However, even though its sad, dilapidated looks, it is 
+still one of the better off huts along Poor's Avenue.
+~
+0 8 0
+D1
+~
+~
+1 -1 4847
+S
+#4853
+A very small hut~
+You are in a one-room hut, barely large enough to fit two full-size trows.  
+The room is not furnished except for a piece of mat on the floor which, you 
+guess, serves as a bed.
+~
+0 8 0
+D3
+~
+~
+1 -1 4847
+S
+#4854
+A very small hut~
+You are in a one-room hut, barely large enough to fit two full-size trows.  
+The room is not furnished except for a piece of mat on the floor which, you 
+guess, serves as a bed.
+~
+0 8 0
+D1
+~
+~
+1 -1 4846
+S
+#4855
+A very small hut~
+You are in a one-room hut, barely large enough to fit two full-size trows.  
+The room is not furnished except for a piece of mat on the floor which, you 
+guess, serves as a bed.
+~
+0 8 0
+D3
+~
+~
+1 -1 4846
+S
+#4856
+Crumbledown Avenue~
+Crumbledown Avenue of D'argen is well-named after the crumbling houses along 
+its length.  The oldest road in the city after Tumbleweed Lane, it is, 
+itself, crumbling.
+~
+0 0 1
+D0
+~
+~
+0 -1 4842
+D1
+~
+~
+0 -1 4857
+D3
+~
+~
+0 -1 4845
+S
+#4857
+Junction of Crumbledown Avenue and Link Road~
+This is the junction of Crumbledown Avenue and Link Road.  To the east and 
+west, Crumbledown Avenue continues its length while to the south, Link Road 
+serves as a link between Crumbledown Avenue and Upland Road.
+~
+0 0 1
+D0
+~
+~
+1 -1 4863
+D1
+~
+~
+0 -1 4858
+D2
+~
+~
+0 -1 4864
+D3
+~
+~
+0 -1 4856
+S
+#4858
+Crumbledown Avenue~
+Crumbledown Avenue of D'argen is well-named after the crumbling houses along 
+its length.  The oldest road in the city after Tumbleweed Lane, it is, 
+itself, crumbling.  To the north, there is a small building.
+~
+0 0 1
+D0
+~
+~
+1 -1 4862
+D1
+~
+~
+0 -1 4859
+D3
+~
+~
+0 -1 4857
+S
+#4859
+End of Crumbledown Avenue~
+Crumbledown Avenue of D'argen is well-named after the crumbling houses along 
+its length.  This is the end of Crumbledown Avenue.  To the north, there is 
+a small building.
+~
+0 0 1
+D0
+~
+~
+1 -1 4860
+D3
+~
+~
+0 -1 4858
+D5
+~
+~
+0 -1 4861
+S
+#4860
+A small hut~
+You are in a small hut.  Surrounded on four sides by thin mud walls, you 
+cannot help but shake your head at the sad state of the architecture.
+~
+0 8 0
+D2
+~
+~
+1 -1 4859
+S
+#4861
+Bottom of a well~
+You are at the bottom of a well.  Looking up, you can see and hear the trows 
+of D'argen milling about on their daily business.
+~
+0 1|8 0
+D4
+~
+~
+0 -1 4859
+S
+#4862
+A small shop~
+You are in a small shop.  Even though a shop, the dilapidated building 
+serves as better more than a shelter for the storms.  The shopkeeper is 
+nowhere to be found.
+~
+0 8 0
+D2
+~
+~
+1 -1 4858
+S
+#4863
+A small abandoned temple~
+Originally the only temple in D'argen, as the city grew in size, this temple 
+has been abandoned.  Now, all the temples of D'argen are located on Holy 
+Lane, to the south of Link Road.
+~
+0 8 0
+D2
+~
+~
+1 -1 4857
+S
+#4864
+Link Road~
+This is the Link Road, the link between Crumbledown Avenue and Upland Road.  
+Even as this road links the other two, it also links the poor in the 
+northern parts of the city to the rich in the southern.
+~
+0 0 1
+D0
+~
+~
+0 -1 4857
+D1
+~
+~
+1 -1 4865
+D2
+~
+~
+0 -1 4866
+S
+#4865
+A small hut~
+Even though away from the poorer areas of D'argen, the effects of the poor 
+can still be felt as you stand in a small hut along Link Road.
+~
+0 8 0
+D3
+~
+~
+1 -1 4864
+S
+#4866
+Link Road~
+This is the Link Road, the link between Crumbledown Avenue and Upland Road.  
+Even as this road links the other two, it also links the poor in the 
+northern parts of the city to the rich in the southern.
+~
+0 0 1
+D0
+~
+~
+0 -1 4864
+D1
+~
+~
+1 -1 4867
+D2
+~
+~
+0 -1 4868
+S
+#4867
+An armoury~
+The trows have made this armoury in the early days of the city.  However, as 
+the city grew in size, so did the intrigue of the city.  No longer is it 
+possible for the people to live in peace among themselves as cliques form, 
+thus each trow is charged with his own protection, leaving the armoury a 
+useless place.
+~
+0 8 0
+D3
+~
+~
+1 -1 4866
+S
+#4868
+Link Road~
+This is the Link Road, the link between Crumbledown Avenue and Upland Road.  
+Even as this road links the other two, it also links the poor in the 
+northern parts of the city to the rich in the southern.
+~
+0 0 1
+D0
+~
+~
+0 -1 4866
+D2
+~
+~
+0 -1 4870
+D3
+~
+~
+0 -1 4869
+S
+#4869
+The weaponsmith's shop~
+As with the armoury, when the city began to take caution itself, the trows 
+have taken to their own defenses... and offenses.  The weaponsmith is now a 
+barely recognisable place, with a lack of business and an abundance of rats.
+~
+0 8 0
+D1
+~
+~
+0 -1 4868
+S
+#4870
+Junction of Link Road and Upland Road~
+This is the junction of Link Road and Upland Road.  To the north, Link Road 
+leads to Crumbledown Avenue while to the west and east, Upland Road 
+continues.
+~
+0 0 1
+D0
+~
+~
+0 -1 4868
+D1
+~
+~
+0 -1 4872
+D3
+~
+~
+0 -1 4871
+S
+#4871
+Junction of Upland Road and Holy Lane~
+You are at the junction of Upland Road and Holy Lane.  To the souhh of here 
+is the Holy Lane which replaced the old temple on Crumbledown Avenue.  To 
+the east, Upland Road continues.
+~
+0 0 1
+D1
+~
+~
+0 -1 4870
+D2
+~
+~
+0 -1 4883
+S
+#4872
+The fork of Upload Road~
+You stand on the fork of Upland Road.  to the west and east, Upland Road 
+continues, inclining upwards slightly.  To the south is Royal Pavement, 
+where the king resides.
+~
+0 0 1
+D1
+~
+~
+0 -1 4873
+D2
+~
+~
+0 -1 4877
+D3
+~
+~
+0 -1 4870
+S
+#4873
+Junction of Upland Road and Brownstone Street~
+This is the junction of Upland Road and Brownstone Street.  To the north is 
+Brownstone Street while to the west, Upland Road continues.
+~
+0 0 1
+D0
+~
+~
+0 -1 4874
+D3
+~
+~
+0 -1 4872
+S
+#4874
+Brownstone Street~
+Brownstone Street, named after the brown stones on which the road was paved, 
+is where the Dragon Keep tavern and inn is.  To the west, Dragon Keep tavern 
+beckons with its rowdy patrons while a staircase leading up beside the 
+tavern shows the way to Dragon Keep inn.
+~
+0 0 1
+D2
+~
+~
+0 -1 4873
+D3
+~
+~
+1 -1 4876
+D4
+~
+~
+0 -1 4875
+S
+#4875
+Dragon Keep inn~
+You are at the entrance of Dragon Keep inn.  A large sign above the entrance 
+states clearly that the inn is full.  Perhaps you should come back later.
+~
+0 8 0
+D5
+~
+~
+0 -1 4874
+S
+#4876
+Dragon Keep tavern~
+Dragon Keep tavern is the only place in D'argen where one can get a good 
+drink... and a pretty lass.  Even though the rowdiness of its patrons, it is 
+quite a posh place as taverns go.
+~
+0 8 0
+D1
+~
+~
+1 -1 4874
+S
+#4877
+Royal Pavement~
+You are on Royal Pavement, the path leading to the palace.  To the west and 
+east, the rich and powerful of D'argen build their houses.
+~
+0 0 1
+D0
+~
+~
+0 -1 4872
+D1
+~
+~
+1 -1 4881
+D2
+~
+~
+0 -1 4878
+D3
+~
+~
+0 -1 4882
+S
+#4878
+Royal Pavement~
+You are on Royal Pavement, the path leading to the palace.  To the west, the 
+rich and powerful of D'argen build their houses, while to the east, the 
+royal palace stands, silhouetted against a blue sky.
+~
+0 0 1
+D0
+~
+~
+0 -1 4877
+D1
+~
+~
+2 -1 4879
+D3
+~
+~
+1 -1 4880
+S
+#4879
+The royal palace~
+You are in the royal palace of D'argen, the largest trow city.  Even without 
+the customary palace guards common to all other palaces, you can tell that 
+the place is well defended -- the king is a trow.
+~
+0 8 0
+D3
+~
+~
+2 -1 4878
+S
+#4880
+A large house~
+You are in a huge house, ostentatiously decorated with all manners of 
+finery, from Cormyr carpets to Waterdeep wine bottles.  The owner of the 
+house must be one rich trow!
+~
+0 8 0
+D1
+~
+~
+1 -1 4878
+S
+#4881
+A huge house~
+You are in a huge house, ostentatiously decorated with all manners of 
+finery, from Cormyr carpets to Waterdeep wine bottles.  The owner of the 
+house must be one rich trow!
+~
+0 8 0
+D3
+~
+~
+1 -1 4877
+S
+#4882
+A spacious garden~
+You are standing in a spacious garden.  To the west, there is a house locked 
+and barred from entry.
+
+There is a signpost here.
+~
+0 0 1
+D1
+~
+~
+0 -1 4877
+E
+signpost~
+The sign reads 'Keep off the grass!'~
+S
+#4883
+Holy Lane~
+Holy Lane is where the devout and the priests live.  Housing the temples of 
+the city, Holy Lane is as its name implies, holy.
+~
+0 0 1
+D0
+~
+~
+0 -1 4871
+D2
+~
+~
+0 -1 4885
+D4
+~
+~
+0 -1 4884
+S
+#4884
+A temple on Holy Lane~
+You are in a temple along the length of Holy Lane.  Priests and the devoted 
+rush about on their business, completely ignoring you.  Just as well, for 
+you realise that you may not be welcomed.
+~
+0 8 0
+D5
+~
+~
+0 -1 4883
+S
+#4885
+Holy Lane~
+Holy Lane is where the devout and the priests live.  Housing the temples of 
+the city, Holy Lane is as its name implies, holy.
+~
+0 0 1
+D0
+~
+~
+0 -1 4883
+D4
+~
+~
+0 -1 4886
+S
+#4886
+A dormitory~
+You are in a large dormitory.  Priest robes and other religious relics cover 
+the beds and tabletops of the room.  Apparently, the priests of Holy Lane 
+reside here.
+~
+0 8 0
+D5
+~
+~
+0 -1 4885
+S
+#0
+
+
+#RESETS
+* This area file is copyright 1999 Cadmoori
+D 1 4860 2 1
+D 1 4862 2 0
+D 1 4853 3 1
+D 1 4855 3 0
+D 1 4876 1 0
+D 1 4881 3 2
+D 1 4880 1 2
+D 1 4879 3 2
+O 1 4790 100 4790
+O 1 4790 100 4802
+O 1 4789 100 4802
+O 1 4789 100 4796
+O 1 4789 100 4808
+O 1 4786 100 4823
+O 1 4789 100 4829
+O 1 4786 100 4832
+O 1 4787 100 4798
+O 1 4788 100 4798
+O 1 4791 100 4801
+O 1 4787 100 4811
+O 1 4788 100 4822
+O 1 4791 100 4820
+O 1 4786 100 4834
+O 1 4791 100 4827
+*
+M 1 4789 1 4836
+O 1 4788 100 4836
+*
+M 1 4786 4 4787
+*
+M 1 4791 4 4795
+*
+M 1 4794 10 4797
+*
+M 1 4794 6 4799
+*
+M 1 4792 1 4802
+*
+M 1 4788 5 4803
+*
+M 1 4796 3 4834
+*
+M 1 4796 3 4837
+*
+M 1 4788 7 4835
+*
+M 1 4788 7 4804
+*
+M 1 4786 4 4806
+*
+M 1 4799 2 4808
+*
+M 1 4793 2 4810
+*
+M 1 4790 4 4828
+*
+M 1 4790 4 4812
+*
+M 1 4797 3 4812
+*
+M 1 4797 3 4811
+*
+M 1 4787 6 4814
+*
+M 1 4798 5 4816
+*
+M 1 4798 5 4821
+*
+M 1 4787 5 4821
+*
+M 1 4795 6 4790
+*
+M 1 4795 6 4790
+*
+M 1 4795 6 4788
+*
+M 1 4794 10 4788
+*
+M 1 4801 5 4810
+E 1 4794 100 0
+E 1 4795 100 5
+E 1 4793 100 16
+E 1 4797 100 6
+E 1 4798 100 3
+E 1 4798 100 4
+E 1 4799 100 14
+E 1 4799 100 15
+E 1 4800 100 13
+E 1 4801 100 7
+G 1 4796 100
+G 1 4792 100
+*
+M 1 4801 2 4829
+E 1 4794 100 0
+E 1 4798 100 3
+E 1 4798 100 4
+E 1 4797 100 6
+E 1 4801 100 7
+E 1 4800 100 13
+E 1 4799 100 14
+E 1 4799 100 15
+E 1 4793 100 16
+G 1 4796 100
+G 1 4792 100
+*
+M 1 4802 4 4816
+E 1 4803 100 11
+E 1 4802 100 16
+E 1 4804 100 5
+E 1 4805 100 6
+E 1 4806 100 9
+E 1 4807 100 4
+*
+M 1 4802 4 4819
+E 1 4803 100 11
+E 1 4802 100 16
+E 1 4804 100 5
+E 1 4805 100 6
+E 1 4806 100 9
+E 1 4808 100 4
+*
+M 1 4802 4 4818
+E 1 4803 100 11
+E 1 4802 100 16
+E 1 4804 100 5
+E 1 4805 100 6
+E 1 4806 100 9
+E 1 4809 100 4
+*
+M 1 4792 4 4826
+*
+M 1 4791 5 4826
+*
+M 1 4807 1 4843
+*
+M 1 4809 1 4844
+E 1 4811 100 17
+E 1 4813 100 16
+E 1 4794 100 0
+E 1 4814 100 12
+E 1 4795 100 5
+E 1 4817 100 8
+E 1 4820 100 1
+G 1 4812 100
+*
+M 1 4808 1 4843
+E 1 4810 100 16
+E 1 4815 100 2
+E 1 4816 100 10
+E 1 4817 100 8
+E 1 4818 100 11
+E 1 4819 100 6
+E 1 4820 100 1
+*
+M 1 4806 2 4850
+E 1 4822 100 16
+*
+M 1 4806 2 4851
+E 1 4824 100 5
+G 1 4821 100
+*
+M 1 4805 3 4848
+E 1 4823 100 17
+E 1 4824 100 5
+*
+M 1 4810 2 4845
+E 1 4826 100 5
+E 1 4825 100 16
+*
+M 1 4810 2 4877
+E 1 4825 100 16
+E 1 4826 100 5
+*
+M 1 4803 4 4839
+E 1 4827 100 13
+*
+M 1 4804 4 4858
+E 1 4828 100 13
+*
+M 1 4803 4 4866
+E 1 4827 100 13
+*
+M 1 4804 4 4866
+E 1 4828 100 13
+*
+M 1 4803 4 4872
+E 1 4827 100 13
+*
+M 1 4804 4 4881
+E 1 4828 100 13
+*
+M 1 4803 4 4863
+E 1 4827 100 13
+*
+M 1 4804 4 4864
+E 1 4828 100 13
+*
+M 1 4812 1 4867
+G 1 4818 100
+G 1 4816 100
+G 1 4817 100
+G 1 4804 100
+*
+M 1 4811 1 4869
+E 1 4825 100 16
+G 1 4802 100
+G 1 4810 100
+*
+M 1 4813 1 4879
+E 1 4829 100 16
+E 1 4830 100 11
+E 1 4831 100 1
+E 1 4820 100 2
+E 1 4832 100 6
+E 1 4833 100 5
+E 1 4834 100 17
+E 1 4835 100 7
+E 1 4836 100 9
+*
+M 1 4814 2 4886
+E 1 4839 100 17
+E 1 4838 100 5
+*
+M 1 4814 2 4884
+E 1 4838 100 5
+E 1 4839 100 17
+*
+M 1 4815 2 4884
+E 1 4837 100 17
+*
+M 1 4815 2 4885
+E 1 4837 100 17
+O 1 4840 100 4879
+*
+M 1 4816 1 4876
+E 1 4824 100 5
+E 1 4841 100 17
+G 1 4821 100
+O 1 4842 100 4876
+O 1 4843 100 4875
+O 1 4844 100 4886
+O 1 4845 100 4884
+O 1 4846 100 4859
+S
+
+#$
+

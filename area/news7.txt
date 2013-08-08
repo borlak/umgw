@@ -1,0 +1,127 @@
+
+- {CThu Jul 12{x - Monk's Almighty Favor should wear off properly.
+
+
+- {CThu Jul 12{x - Fixed background for the web "who", and added in the random
+{x{x                color ({{K) for the titles on it.
+
+
+- {CThu Jul 12{x - All mobs now have a small chance to MURDER.  Redlight still
+{x{x                remains the most deadly area, however.
+
+
+- {CThu Jul 12{x - We now log chats in game and on the web!  Use the chatlog c
+{x{x               ommand.  Type chatlog help for syntax.
+
+
+- {CFri Jul 13{x - You can now do chatlog grepping (find).  Basically search f
+{x{x               or a word, and it will give you the last 20 chats with that 
+{x{x               word in it.
+
+
+- {CFri Jul 13{x - two socials added: woot and urinate
+
+
+- {CFri Jul 13{x - New system to help keep more newbies!  It's evil, but I thi
+{x{x               nk it will work!
+
+
+- {CSat Jul 14{x - chatlog <word> [line #] added... also shows total lines of 
+{x{x               whole file and for certain words
+
+
+- {CSat Jul 14{x - Borlak is redoing the entire mud...from scratch!
+
+
+- {CSat Jul 14{x - multi-line echo for immortals added.
+
+
+- {CSun Jul 15{x - help file echoing enabled for imms.
+
+
+- {CMon Jul 16{x - 7% chance of showing a chat from chatlog during code update
+
+
+- {CThu Jul 19{x - Chat log temporarily disabled.
+
+
+- {CThu Jul 19{x - The authors of the SMAUG codebase are starting a RL mud mag
+{x{x               azine, check it out! http://www.mudcompanion.com/
+
+- {CTue Jul 31{x - new score format.
+
+
+- {CSat Aug  4{x - Mob Tournament is in.  Mobs can have a tournament of their 
+{x{x               own!
+
+
+- {CMon Aug  6{x - minor embrace bug fixed.
+
+
+- {CTue Aug  7{x - WW talon does more damage based on the WW's max HP.
+
+
+- {CWed Aug  8{x - locating objs on people no longer show room/area, still doe
+{x{x               s for mobs
+
+
+- {CFri Aug 10{x - Swordtech truesight removed.  Swordtech stun added.
+
+
+- {CFri Aug 10{x - Swordtech decapitate in.  Instantly decapitate your opponen
+{x{x               t (no PK gains).
+
+
+- {CSat Aug 11{x - werewolves: rage and calm for apprentice/master work faster
+{x{x               .  master gets +150 rage.
+
+
+- {CSat Aug 11{x - quest obj container (works for containers) adds more weight
+{x{x                to container capacity.
+
+
+- {CSat Aug 11{x - quest create back in.
+
+
+- {CSat Aug 11{x - Input length doubled.  You can have longer chats/says/etc n
+{x{x               ow.
+
+
+- {CTue Aug 14{x - Ported this code base to Windows!  Now we can compile this 
+{x{x               under Win32 or unix.
+
+
+- {CTue Aug 14{x - great pk pic added to website! check it out!
+
+
+- {CSun Aug 26{x - Drow whip is now in -- drowcreate whip
+
+
+- {CSun Aug 26{x - Astralwalk and shadowstep fixed.  Summon command for non-va
+{x{x               mps works properly as well.
+
+
+- {CSun Aug 26{x - Rating improved.
+
+
+- {CTue Aug 28{x - Mud now has infinite loop checking.  In case of infinite lo
+{x{x               op/hanging, we will hotreboot.
+
+
+- {CThu Aug 30{x - Non-quest random tokens are more common now, and the amount
+{x{x               s for the tokens have been increased some.
+
+
+- {CSat Sep  1{x - mobs don't flee anymore, they ain't scared of you.
+
+
+- {CSun Sep  2{x - demon points now show for kills
+
+
+- {CSun Sep  2{x - new language added: speak hack (it's funny as hell)
+
+
+- {CSun Sep  2{x - \^/h47 do you m34n i7$ Funny?  7his 4int fuNnY!  |t$ el|7e!
+{x{x               !!!!
+
+

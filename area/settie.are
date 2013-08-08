@@ -1,0 +1,1389 @@
+#AREA	{ All } Arkyn   The Temple of Set~
+
+
+#MOBILES
+#400
+fingolfin ghost~
+The Ghost of Fingolfin~
+A Ghost is wandering around as if keeping watch on things
+~
+The Ghost inspires such fear in you that you quickly turn away!
+~
+4 2|8|32|128|512|8192|32768|524288|1048576 -1000 S
+225 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#401
+priestess cleric healer~
+The High Priestess of Set~
+The High priestess of Set is kneeling before the altar.
+~
+She seems to be deep in concentration.
+Perhaps she is communicating with Set himself.
+~
+2|128 8|32|128|512 -750 S
+40 -25 -21 48d48+500 4d10+20
+0 0
+8 8 2
+#402
+cat panther~
+Shaddai's cat~
+Shaddai's huge lean panther.
+~
+You see a statue of a panther.  12' tall at the shoulder and carved out a single crystal form.
+~
+2|32|64 8|32|128|512|8192 0 S
+125 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#403
+asp snake~
+A horrible asp~
+A small, poisonous asp slithers over your feet.
+~
+The asp is a small, smooth-scaled snake the color of worn pottery.
+The poison bite of this snake has felled many a mighty pharoah.
+~
+1|32|64 0 0 S
+5 14 8 5d5+50 1d6+1
+10 0
+8 8 0
+#404
+initiate set guard~
+The Initiate of Set~
+The Initiate of Set seems to be on  guard duty here.
+~
+The Initiate of Set looks back at you!
+~
+2|64 8|32|512 -500 S
+19 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#400
+key~
+a small key~
+A small key made of gold lies here.~
+~
+18 32|128 1|16384
+0 0 0 0 
+5 0 0
+#401
+pannel~
+a secret pannel~
+~
+~
+15 0 8192
+10 5 -1 11 
+5 0 0
+#402
+sword sepent~
+the Sword of the Snake~
+A sword who's hilt is shaped in the form of a snake rests here.~
+~
+5 1|2|16|64|512 1|8192
+0 8 16 3 
+5 0 0
+A
+2 2
+A
+18 8
+A
+19 6
+A
+14 300
+#403
+key~
+the key to the Inner Shrine~
+A plain looking silver key rests here.~
+~
+8 64|128 1|8192
+0 1 6 11 
+5 0 0
+#404
+blood~
+the altar of Caine~
+A marble altar lies here dedicated to Caine.~
+~
+15 0 8192
+500 5 -1 11 
+5 0 0
+#405
+sarcophagus~
+a huge golden sarcophagus~
+A huge golden sarcophagus lies here.~
+~
+15 16|64 8192
+500 13 401 11 
+5 0 0
+#406
+key~
+a silver key~
+A silver key has been droped here here.~
+~
+18 0 1|8192
+0 1 6 11 
+5 0 0
+#407
+dagger~
+a Serpentine dagger~
+A Serpentine dagger rests here.~
+~
+5 16|512 1|8192
+0 1 6 11 
+5 0 0
+A
+2 1
+A
+18 3
+A
+19 1
+A
+19 0
+#408
+staff serpent~
+the Staff of the Serpent~
+A staff rests here and almost seems to twist about on it's own.~
+~
+4 0 1|16384
+40 10 10 33 
+5 0 0
+A
+12 50
+A
+24 5
+#409
+coffin~
+a coffin~
+A large coffin rests on the wall.~
+~
+12 16|64 8192
+0 1 6 11 
+5 0 0
+#410
+vial potion~
+a vial of blue liquid~
+A small vial of blue liquid lies here~
+~
+10 0 1|8192
+20 28 28 14 
+5 0 0
+#411
+scroll rune~
+a piece of enruned paper~
+A a sheet of parchment lies here.~
+~
+2 0 1|16384
+40 26 65 68 
+5 0 0
+E
+rune~
+A sigil of fire is inscribed here.~
+#412
+skin~
+a skin of blood~
+A skin of blood lies here.~
+~
+17 0 1
+5 3 13 0 
+5 0 0
+#413
+potion vial~
+a small stoppered vial~
+A small stoppered vial is restign on a shelf~
+~
+10 0 1|8192
+15 64 -1 -1 
+5 0 0
+#414
+potion beaker~
+a large beaker~
+A large beaker is here on a counter.~
+~
+10 0 1|8192
+20 82 68 -1 
+5 0 0
+#415
+altar blood~
+a large altar~
+A large altar rests here.~
+~
+25 0 8192
+0 1 6 11 
+500 0 0
+E
+altar~
+This seems to be a sacrificial altar. A bowl of blood is carved into the front.~
+#416
+column~
+columns~
+There are a set of columns around the edge of this courtyard~
+~
+12 0 8192
+0 1 6 11 
+5 0 0
+E
+capital capitals~
+The capitals are decroated with elaborate flower patterns.~
+E
+column columns~
+There seem to be a total of 32 columns around the edge of this courtyard.  They are topped with capitals.~
+#0
+
+
+#ROOMS
+#400
+Before the Temple~
+You are standing before a great temple made out of limestone.  Directly ahead of you is a large entry leading to the forecourt.  Flanking the entry are two great pylons covered in runes, glyphs and bas reliefs.
+~
+0 0 10
+D3
+~
+~
+0 -1 401
+E
+reliefs relief~
+There are many Bas reliefs of Snake headed humans.~
+S
+#401
+The Entrance to the Temple of Set~
+You are standing between the two pylons. 
+There are some runes enscribed here.
+To the East is a path to the great dessert.
+To the West lies the Forecourt.
+~
+0 0 1
+D1
+~
+~
+0 -1 400
+D3
+~
+~
+0 -1 402
+E
+sign rune runes~
+Engraved in old runes is a sign that says, "Welcome to the Temple of Set and his followers."
+It is signed -Ashura- Grand Architect of the Kindred.~
+S
+#402
+The Forecourt~
+You are standing in the forecourt. This large open court stretches over 100 feet across and has columns around the parameter.
+~
+0 0 2
+D0
+~
+~
+0 -1 405
+D1
+~
+~
+0 -1 401
+D2
+~
+~
+0 -1 408
+D3
+~
+~
+0 -1 403
+S
+#403
+The Forecourt~
+You are standing in the forecourt. This large open court stretches over 100 feet across and has columns around the parameter.
+~
+0 0 2
+D0
+~
+~
+0 -1 406
+D1
+~
+~
+0 -1 402
+D2
+~
+~
+0 -1 409
+D3
+~
+~
+0 -1 404
+S
+#404
+The Forecourt~
+You are standing in the forecourt. This large open court stretches over 100 feet across and has columns around the parameter.
+~
+0 0 2
+D0
+~
+~
+0 -1 407
+D1
+~
+~
+0 -1 403
+D2
+~
+~
+0 -1 410
+D3
+~
+~
+0 -1 411
+S
+#405
+The Forecourt~
+You are standing in the forecourt. This large open court stretches over 100 feet across and has columns around the parameter.
+~
+0 0 2
+D1
+~
+~
+1 -1 462
+D2
+~
+~
+0 -1 402
+D3
+~
+~
+0 -1 406
+S
+#406
+The Forecourt~
+You are standing in the forecourt. This large open court stretches over 100 feet across and has columns around the parameter.
+~
+0 0 2
+D1
+~
+~
+0 -1 405
+D2
+~
+~
+0 -1 403
+D3
+~
+~
+0 -1 407
+S
+#407
+The Forecourt~
+You are standing in the forecourt. This large open court stretches over 100 feet across and has columns around the parameter.
+~
+0 0 2
+D1
+~
+~
+0 -1 406
+D2
+~
+~
+0 -1 404
+D3
+~
+~
+0 -1 414
+S
+#408
+The Forecourt~
+You are standing in the forecourt. This large open court stretches over 100 feet across and has columns around the parameter.
+~
+0 0 2
+D0
+~
+~
+0 -1 402
+D1
+~
+~
+0 -1 463
+D3
+~
+~
+0 -1 409
+S
+#409
+The Forecourt~
+You are standing in the forecourt. This large open court stretches over 100 feet across and has columns around the parameter.
+~
+0 0 2
+D0
+~
+~
+0 -1 403
+D1
+~
+~
+0 -1 408
+D3
+~
+~
+0 -1 410
+S
+#410
+The Forecourt~
+You are standing in the forecourt. This large open court stretches over 100 feet across and has columns around the parameter.
+~
+0 0 2
+D0
+~
+~
+0 -1 404
+D1
+~
+~
+0 -1 409
+D3
+~
+~
+0 -1 428
+S
+#411
+The Vestibule~
+You are standing in a room decorated with 12 columns suporting a ceiling with astronomical representations.
+On the north end of the room is a Library On the south end is The Hall of Concecration.
+~
+0 8 1
+D0
+~
+~
+0 -1 412
+D1
+~
+~
+0 -1 404
+D2
+~
+~
+0 -1 413
+D3
+~
+~
+0 -1 415
+E
+column columns~
+They are high stone columns here decorated with elaborate flower capitals.~
+E
+ceiling stars astronomical representations~
+You see on the ceiling there is a very accurate star chart.  Perhaps it was used for calanders or maps...~
+S
+#412
+The Library~
+You are standing in a small library.
+~
+0 8 1
+D0
+~
+~
+0 -1 414
+D2
+~
+~
+0 -1 411
+S
+#413
+The Hall of Concecration~
+You are standing in room the Hall of Concecration.  The purpose of this hall remains a mystery to you.
+A small altar and some releifs are on the East wall.
+~
+0 8 1
+D0
+~
+~
+0 -1 411
+E
+altar~
+A small altar rests here on the wall.  Upon close examination you see old dried blood stains.~
+E
+releif releifs~
+Bas releifs of what seems to be a snake-headed god valiantly battling a falcon-headed god are here.~
+S
+#414
+Inner Passage~
+You are standing in narrow passage that semms to circumscribe the temple.
+~
+0 1|8|512|8192|4194304 0
+D1
+~
+~
+0 -1 407
+D2
+~
+~
+0 -1 412
+D3
+~
+~
+0 -1 425
+S
+#415
+Hypostyle Hall~
+You are standing in the Hypostyle Hall.  12 columns support the ceiling. 
+A small chamber seems to lie on either side.
+~
+0 8|4194304 1
+D0
+~
+~
+0 -1 416
+D1
+~
+~
+0 -1 411
+D2
+~
+~
+0 -1 417
+D3
+~
+~
+0 -1 420
+S
+#416
+a small chamber~
+You are standing in a small chamber.
+~
+0 8|512|8192|16384 0
+D0
+~
+~
+0 -1 425
+D2
+~
+~
+0 -1 415
+D3
+~
+~
+0 -1 418
+S
+#417
+a small chamber~
+You are standing in a small chamber.
+To the east is a small lab.
+To the south is a dark corridor.
+~
+0 8|512|8192|16384 0
+D0
+~
+~
+0 -1 415
+D2
+~
+~
+0 -1 427
+D3
+~
+~
+0 -1 419
+S
+#418
+a small chamber~
+You are standing in a small chamber.
+To the south is The First Antechamber.
+~
+0 8|512|8192|16384 0
+D1
+~
+~
+0 -1 416
+D2
+~
+~
+0 -1 420
+S
+#419
+A small Laboratory~
+You are standing in small laboratory.  The exact purpose of it is unkown to you, but the chemicals used here have a very strong smell.
+Various vials and beakers lie about.
+~
+0 8|512|8192|16384 0
+D1
+~
+~
+0 -1 417
+S
+#420
+First Antechamber~
+You are standing in the First Antechamber.  There are reliefs of a procession of preist with lead to the Second Antechamber decorating this chamber.
+To the south is a stairwell
+~
+0 8|8192|4194304 0
+D0
+~
+~
+0 -1 418
+D1
+~
+~
+0 -1 415
+D2
+~
+~
+0 -1 421
+D3
+~
+~
+0 -1 423
+S
+#421
+a stairwell~
+You are standing in a narrow stairwell leading down.
+~
+0 8|512|8192|4194304 0
+D0
+~
+~
+0 -1 420
+D5
+~
+~
+0 -1 422
+S
+#422
+stairs~
+You are standing in a narrow satirwell.
+~
+0 1|8|512|8192|4194304 0
+D4
+~
+~
+0 -1 421
+D5
+~
+~
+0 -1 452
+S
+#423
+Second Antechamber~
+You are standing in the Second Antechamber. The refiels here seem to continue into the Sanctuary to the west.
+To the North and South are small corridors.
+~
+0 8|8192|4194304 0
+D0
+~
+~
+0 -1 431
+D1
+~
+~
+0 -1 420
+D2
+~
+~
+0 -1 435
+D3
+~
+~
+0 -1 424
+S
+#424
+The Sancuary~
+You are standing in The Sancuary.  Within this room is the altar of Set.  All about the room are releifs of Set and the past leaders of his cult.
+~
+0 8|1024 0
+D1
+~
+~
+0 -1 423
+S
+#425
+Inner Passage~
+You are standing in narrow passage that semms to circumscribe the temple.
+~
+0 1|8|512|8192|4194304 0
+D1
+~
+~
+0 -1 414
+D2
+~
+~
+0 -1 416
+D3
+~
+~
+0 -1 426
+S
+#426
+Inner Passage~
+You are standing in narrow passage that semms to circumscribe the temple.
+~
+0 1|8|512|8192|4194304 0
+D1
+~
+~
+0 -1 425
+D2
+~
+~
+0 -1 430
+S
+#427
+Inner Passage~
+You are standing in narrow passage that semms to circumscribe the temple.
+~
+0 1|8|512|8192|4194304 0
+D0
+~
+~
+0 -1 417
+D1
+~
+~
+0 -1 428
+D3
+~
+~
+0 -1 429
+S
+#428
+Inner Passage~
+You are standing in narrow passage that semms to circumscribe the temple.
+~
+0 1|8|512|8192|4194304 0
+D1
+~
+~
+0 -1 410
+D3
+~
+~
+0 -1 427
+S
+#429
+Inner Passage~
+You are standing in narrow passage that semms to circumscribe the temple.
+~
+0 1|8|512|8192|4194304 0
+D0
+~
+~
+0 -1 430
+D1
+~
+~
+0 -1 427
+S
+#430
+Inner Passage~
+You are standing in narrow passage that semms to circumscribe the temple.
+~
+0 1|8|512|8192|4194304 0
+D0
+~
+~
+0 -1 426
+D2
+~
+~
+0 -1 429
+S
+#431
+a corridor~
+You are standing stone corridor lit with torches.
+~
+0 8 0
+D0
+~
+~
+0 -1 440
+D2
+~
+~
+0 -1 423
+D3
+~
+~
+0 -1 432
+S
+#432
+a corridor~
+You are standing stone corridor lit with torches.
+~
+0 8 0
+D0
+~
+~
+0 -1 441
+D1
+~
+~
+0 -1 431
+D3
+~
+~
+0 -1 433
+S
+#433
+a corridor~
+You are standing stone corridor lit with torches.
+~
+0 8|8192|4194304 0
+D0
+~
+~
+0 -1 442
+D1
+~
+~
+0 -1 432
+D3
+~
+~
+0 -1 434
+S
+#434
+a corridor~
+You are standing stone corridor lit with torches.
+~
+0 8|8192|4194304 0
+D0
+~
+~
+0 -1 443
+D1
+~
+~
+0 -1 433
+D2
+~
+~
+0 -1 439
+D3
+A stone door is here and look unmoveable.
+
+~
+door~
+2 406 444
+S
+#435
+a corridor~
+You are standing stone corridor lit with torches.
+~
+0 8|8192|4194304 0
+D0
+~
+~
+0 -1 423
+D2
+~
+~
+0 -1 451
+D3
+~
+~
+0 -1 436
+S
+#436
+a corridor~
+You are standing stone corridor lit with torches.
+~
+0 8|8192|4194304 0
+D1
+~
+~
+0 -1 435
+D2
+~
+~
+0 -1 450
+D3
+~
+~
+0 -1 437
+S
+#437
+a corridor~
+You are standing stone corridor lit with torches.
+~
+0 8|8192|4194304 0
+D1
+~
+~
+0 -1 436
+D2
+~
+~
+0 -1 449
+D3
+~
+~
+0 -1 438
+S
+#438
+a corridor~
+You are standing stone corridor lit with torches.
+~
+0 8|8192|4194304 0
+D0
+~
+~
+0 -1 439
+D1
+~
+~
+0 -1 437
+D2
+~
+~
+0 -1 448
+D3
+A large ornate door is here.
+
+~
+door~
+1 -1 447
+S
+#439
+a corridor~
+You are standing stone corridor lit with torches.
+~
+0 8|8192|4194304 0
+D0
+~
+~
+0 -1 434
+D2
+~
+~
+0 -1 438
+D3
+A large set of double doors is here.
+
+~
+door~
+1 -1 446
+S
+#440
+A Guard House~
+You are standing in small guard house.  It seems rather plain and there is nothing of intrest here.
+~
+0 8|4194304 0
+D2
+~
+~
+0 -1 431
+S
+#441
+a small alcove~
+You are standing in small alcove.
+~
+0 8|512 0
+D2
+~
+~
+0 -1 432
+S
+#442
+a small alcove~
+You are standing in small alcove.
+~
+0 8 0
+D2
+~
+~
+0 -1 433
+S
+#443
+a small alcove~
+You are standing in small alcove.
+~
+0 8 0
+D2
+~
+~
+0 -1 434
+S
+#444
+The entrance to the Crypts~
+You are standing in small dark room.  There is a door to the North.
+~
+0 1|8|8192|4194304 0
+D0
+A small door.
+~
+door~
+1 -1 445
+D1
+A stone door is here and look unmoveable.
+~
+door~
+2 -1 434
+D5
+~
+~
+0 -1 465
+S
+#445
+a storage room~
+You are standing what appears to be an old storage room.  Empty shelves are all that is here.
+~
+0 8 0
+D2
+~
+~
+1 -1 444
+S
+#446
+The Clan Hall~
+You are in what apears to be a large meeting room.  A huge table and many murals adorn this room.
+~
+0 8|1024 0
+D1
+A large set of double doors is here.
+~
+door~
+1 -1 439
+S
+#447
+The Den~
+You are standing in a a well decorated den.  There is a door to the SOuth.
+~
+0 8 0
+D1
+A large ornate door is here~
+door~
+1 400 438
+D2
+~
+~
+1 -1 464
+S
+#448
+a small alcove~
+You are standing in small alcove.
+~
+0 8 0
+D0
+~
+~
+0 -1 438
+S
+#449
+a small alcove~
+You are standing in small alcove.
+~
+0 8 0
+D0
+~
+~
+0 -1 437
+S
+#450
+a small alcove~
+You are standing in small alcove.
+~
+0 8 0
+D0
+~
+~
+0 -1 436
+S
+#451
+A Guard House~
+You are standing in small guard house.  It seems rather plain and there is nothing of intrest here.
+~
+0 8|4194304 0
+D0
+~
+~
+0 -1 435
+S
+#452
+The Shrines~
+You are come into a large room with three shrines to the East, South, and West.
+~
+0 8|1024|4194304 0
+D1
+~
+~
+0 -1 456
+D2
+~
+~
+0 -1 453
+D3
+~
+~
+0 -1 454
+S
+#453
+The Shrine of Caine~
+You are standing in the shrine of Caine first of the Kindred.  You feel a sense of power here and think you'd better leave.
+~
+0 8|1024 0
+D0
+~
+~
+0 -1 452
+S
+#454
+The Shrine of Shaddai~
+You are standing in the shrine of Shaddai sire of Fin.  There is an Altar to the West
+~
+0 8|1024 0
+D1
+~
+~
+0 -1 452
+D3
+An Altar rests here dedicated to Shaddai
+as the founder of the kindred of US Godwars
+
+You see an inscription which says
+"Keep out"--Shaddai..
+~
+~
+2 -1 455
+E
+altar~
+An Altar rests here dedicated to Shaddai
+as the founder of the kindred of US Godwars
+
+You see an inscription which says
+"Keep out"--Shaddai..~
+S
+#455
+Shaddai's Inner Sanctum~
+You enter a large alcove with a huge statue of a panther on the far end.
+~
+0 1|2|8|64|128|512|16384|4194304 0
+D1
+~
+~
+2 -1 454
+E
+dt~
+A blast of primal energy fills the room and numbs your soul!
+You fool you should have stayed out!~
+S
+#456
+The Shrine of Fin~
+You are standing in the shrine of Fin useper of the Settie.  There is an mirror to the East.
+~
+0 8|1024 0
+D1
+A large full length mirror is on this wall
+~
+mirror~
+2 -1 457
+D3
+~
+~
+0 -1 452
+S
+#457
+A Dark Hall~
+You are standing in a dark hall.
+~
+0 8|2097152 0
+D1
+~
+~
+0 -1 458
+D3
+~
+~
+2 -1 456
+S
+#458
+A Dark Hall~
+You are standing in a dark hall.
+~
+0 8|2097152 0
+D1
+~
+~
+0 -1 459
+D3
+~
+~
+0 -1 457
+S
+#459
+A Dark Hall~
+You are standing in a dark hall.
+~
+0 8|2097152 0
+D1
+~
+~
+0 -1 460
+D3
+~
+~
+0 -1 458
+S
+#460
+A Dark Hall~
+You are standing in a dark hall.  There is a door to the East.
+~
+0 1|8 0
+D1
+a large forboding set of double doors block you
+from going further.
+~
+door~
+2 400 461
+D3
+~
+~
+0 -1 459
+S
+#461
+The Crypt of Fin~
+You are standing in the Crypt of Fin.  It is unadorned except for a large sarcophigus.
+~
+0 1|8|512 0
+D0
+~
+~
+2 -1 424
+D3
+a large forboding set of double doors block you
+from going further.
+
+~
+door ~
+2 400 460
+S
+#462
+The Pylon~
+You are standing in the great pylon.  This tower is over 50' high. and has Arrow Slits to view the entrance and the Great Desert before the temple.
+~
+0 8|1024 1
+D1
+~
+~
+0 -1 400
+D2
+~
+~
+0 -1 401
+D3
+~
+~
+1 -1 405
+S
+#463
+The Pylon~
+You are standing in the great pylon.  This tower is over 50' high. and has Arrow Slits to view the entrance and the Great Desert before the temple.
+~
+0 8|1024 1
+D0
+~
+~
+0 -1 401
+D1
+~
+~
+0 -1 400
+D3
+~
+~
+0 -1 408
+S
+#464
+The Office~
+You are standing in a large office.  a desk is here, but not much else.
+~
+0 4|8|512 1
+D0
+~
+~
+1 -1 447
+S
+#465
+The Crypts~
+You are standing in a dark crypt. this place is lined with coffins!
+~
+0 2|8|64|128|512|16384|2097152|4194304|8388608 1
+D4
+~
+~
+0 -1 444
+E
+dt~
+An intese cold sepll hits you!~
+S
+#0
+
+
+#RESETS
+*
+M 1 402 1 455			Shaddai's cat to Shaddai's Inner Sanctum
+*
+M 1 401 1 424			The High priestess of Set to The Sancuary
+E 1 407 100 16
+E 1 408 100 17
+*
+M 1 400 1 412			Zoar the Master Vampire to Library
+E 1 402 100 16
+E 1 408 100 17
+G 1 410 100
+G 1 411 100
+G 1 412 100
+D 1 454 3 2			; The Shrine of Shaddai Lock West
+D 1 456 1 2			; The Shrine of Fin Lock East
+D 1 461 3 2			; The Crypt of Fin Lock West
+O 1 401 100 460			a secret pannel to A Dark Hall
+D 1 461 0 2			; The Crypt of Fin Lock North
+*
+M 1 403 6 400			a small asp to Before the Temple
+O 1 404 100 453			the altar of Caine to The Shrine of Caine
+P 1 400 100 401			a small key to container pannel
+D 1 460 1 2			; A Dark Hall Lock East
+D 1 464 0 1			; The Office Close North
+D 1 447 2 2			; The Den Lock South
+D 1 439 3 1			; a corridor Close West
+D 1 446 1 1			; The Clan Hall Close East
+D 1 434 3 2			; a corridor Lock West
+D 1 444 1 1			; The entrance to the Crypts Close East
+D 1 444 0 1			; The entrance to the Crypts Close North
+D 1 438 3 1			; a corridor Close West
+D 1 447 1 1			; The Den Close East
+*
+M 1 404 10 431			The Initiate os Set to a corridor
+E 1 407 100 16
+*
+M 1 404 10 431			The Initiate os Set to a corridor
+E 1 407 100 16
+O 1 409 100 465			a coffin to The Crypts
+*
+M 1 404 10 435			The Initiate os Set to a corridor
+E 1 407 100 16
+*
+M 1 404 10 435			The Initiate os Set to a corridor
+E 1 407 100 16
+*
+M 1 404 10 439			The Initiate of Set to a corridor
+D 1 405 1 1			; The Forecourt Close East
+O 1 413 100 419			a small stoppered vial to A small Laboratory
+O 1 414 100 419			a large beaker to A small Laboratory
+O 1 410 100 419			a vial of blue liquid to A small Laboratory
+O 1 415 100 424			a large altar to The Sancuary
+O 1 416 100 405			columns to The Forecourt
+O 1 416 100 406			columns to The Forecourt
+O 1 416 100 407			columns to The Forecourt
+O 1 416 100 410			columns to The Forecourt
+O 1 416 100 409			columns to The Forecourt
+O 1 416 100 408			columns to The Forecourt
+O 1 405 100 461			a huge golden sarcophagus to The Crypt of Fin
+S
+
+
+#SHOPS
+400 8 2 5 9 24 100 250 0 23			Zoar
+0
+
+
+
+
+
+#$

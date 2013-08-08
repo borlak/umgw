@@ -1,0 +1,5257 @@
+#HELPS
+-1 CLAN REQS~
+.
+Please see help {Wkingdom{x or help {Wleader{x.
+~
+
+-1 FAQ FREQUENTLY ASKED QUESTIONS~
+{Y
+Here are some of the frequently asked questions by newbies and oldies alike.
+{x
+{R1Q.{x  What is all this gibberish letters and symbols and crap at the top of my
+screen every time I move around?
+
+{R1A. {Wthat is our custom map.  type [{Gmap{W] to see how to turn it off.
+{x
+{R2Q.{x Sometimes I see stuff flash across the screen like stuff about random 
+tokens or crap that looks like lines of code.  What's going on here, am I 
+stupid or what?
+
+{R2A.{x {Wwell, we can't say for sure.. but the token stuff is our randomized 
+token system to help really bad/lazy questers.  we have a [{Gfindmobs{W]
+command to even further help them.  the random lines of code are just that,
+random lines of code, for shits and giggles. 
+{x
+{R3Q.{x I suck at this game, every single mob in Midgaard whoops me and the players
+laugh at me sometimes.  I've had this problem on every single other mud, but is
+there something I can do on here to help too?
+
+{R3A.{x {Wyes, you probably do suck at it.. but here's some neat tips.  first off, 
+mob levels are randomized... this may be a bit tricky at first, but once you 
+get a little strong, it will really help you gather exp.  type area for a list 
+of areas, and con mobs before you start attacking them. {x
+
+{R4Q.{x If I don't have a brain and I want to get good real fast, can I ask Borlak
+and Pip or even some other Immortal for cool shit, and to rig me up?
+
+{R4A. {Wyou can, but only if you want to be eaten alive.  see [{Ghelp policy{W] 
+for more information on those type questions. 
+
+{wSee {YHELP FAQ2{w for more questions.
+~
+
+-1 FAQ2~
+
+{YMore Frequently Asked Questions{x.
+
+{R5Q.{x Ok, I'm no rocket scientist, but I want to be an immortal and do some cool
+shit.  What kind of stuff can I do?
+
+{R5A.{W well, the only way to be an immortal on here is to build.  see [{Ghelp build{W]
+for those types of helpfiles.
+
+{R6Q.{x  Wait a second...  how the hell are FOUR imms going to run the whole game?  
+Even I couldn't slay that many people with just three other guys...
+
+{R6A.{W to answer your question: borlak and pip are the only ones who actually do
+any admin stuff on the game.  the other two imms are just for show.  
+
+{R7Q.{x  Um.. that can't be right... two guys are going to run the whole show?  How
+the hell they gonna have time to do all that.
+
+{R7A.{W they have perfected the fine art of having no life.
+
+{R8Q.{x  Well.. ok... One more question until we go to faq3... Why is this mud code so old, heh?
+
+{R8A.{W cuz that's how long we've had it up...  ta-da!
+~
+
+
+-1 BP BODYPARTS~
+
+/* Body Part Definitions
+   by: pip.  
+*/
+#define BP_BODY         0;
+#define BP_HEAD         1;
+#define BP_RARM         2;
+#define BP_LARM         3;
+#define BP_RHAND        4;
+#define BP_LHAND        5;
+#define BP_RLEG         6;
+#define BP_LLEG         7;
+#define BP_RFOOT        8;
+#define BP_LFOOT        9;
+                                // above definitions should be obvious r = right, l = left.
+#define BP_RTF          10;     // right thumb finger    (i realize thumb != finger, but simple.
+#define BP_RIF          11;     // right index finger
+#define BP_RMF          12;     // right middle finger
+#define BP_RRF          13;     // right ring finger
+#define BP_RPF          14;     // right pinky finger
+                                // below are the left equivalent to the right above
+#define BP_LTF          15;
+#define BP_LIF          16;
+#define BP_LMF          17;
+#define BP_LRF          18;
+#define BP_LPF          19;
+                                // now come toes, equivalent to fingers
+#define BP_RTT          20;     // right thumb toe (big toe!)
+#define BP_RIT          21;
+#define BP_RMT          22;
+#define BP_RRT          23;
+#define BP_RPT          24;
+                                // left toes
+#define BP_LTT          25;
+#define BP_LIT          26;
+#define BP_LMT          27;
+#define BP_LRT          28;
+#define BP_LPT          29;
+                                // head parts
+#define BP_REAR         30;     // right ear, not ass.
+#define BP_LEAR         31;
+#define BP_NOSE         32;
+#define BP_REYE         33;
+#define BP_LEYE         34;
+#define BP_TEETH        35;     // all teeth inclusive
+#define BP_HAIR         36;     // for hair pulling!
+
+/*
+ * end of body parts
+ * this should equal a whole human, for game purposes
+ * make additions as needed
+ * pip
+*/
+~
+
+-1 GENERATION GEN~
+Generation is how far removed you are from the most potent crap.
+make sense? no? who cares.
+
+on who list-
+ no color - gen 3
+ dark blue - gen 2
+ bright cyan - gen 1
+
+So what do you get?
+ damcap mostly.
+ some special stuff per class.
+     i.e. highlanders can do quicker swordtechs.
+     demons can blink in combat.
+     etc.
+~
+
+-1 BUILDER BUILDING~
+*First off, take a look at the MUD's website:
+*
+*		- {Wumgw.genesismuds.com/^pip{x -
+*                  
+
+*Email your areas to borlak@home.com AND jwallace120@home.com
+
+*Your areas must be in theme, go to the web site to find out the theme.
+
+*They must include a good amount of mobs, NO bullshit items, but a good
+amount of items too.  Lots of side items like desks, lynch trees, etc.
+are a good bonus.
+
+*Rewards consist of a one of the following: a low-level builder, QP, HP,
+or experience.  Rewards are generous but highly depend on the area.
+
+*Experience wise, here is a little table:
+
+Rank		Level
+----		-----
+Newbie		5-75
+Staff		100
+Daycare		400
+Atlantis	700
+Sphinx		800
+Redlight	1250
+
+*You _can_ make an area stronger or as strong than redlight, but it must 
+be damn good and damn big to go in.  Typically, dont make monsters
+higher than level 1000.
+
+*DO NOT give mobs special functions, this mud doesn't have any.
+
+*I prefer you use the version of MZF on my website, the newer ones
+do wierd shit that I have to manually fix.
+
+*Keep your mob levels all about the same, dont make level 500 mobs, then
+level 50 mobs, etc.  Keep them within a given range, generally within 200
+levels.
+
+*Be careful with the PROTECT flag for mobs.  This will not let monks
+celestial path to them, therefore it should be used sparingly and only
+in "RP Like" situations.  An area with all PROTECT mobs will be rejected.
+
+*Duplicated areas will NOT be accepted.  If your area exists on another
+mud dont submit it, or face our wrath!
+
+SEE ALSO: findvnums, bullshit, portals, tips
+
+
+~
+
+
+-1 QUITMESSAGE~
+{X
+
+
+
+{D                _/    _/   _/_/  _/_/
+{X               _/    _/   _/ _/_/ _/
+{W              _/    _/   _/  _/  _/
+{X             _/    _/   _/      _/
+{D            _/_/_/_/   _/      _/  _/_/_/
+{X 
+{D          _/_/_/_/  _/_/_/_/  _/_/_/    _/      _/      _/     _/_/_/    _/_/_/_/
+{X         _/        _/    _/  _/   _/   _/      _/     _/_/    _/   _/   _/
+{W        _/        _/    _/  _/    _/  _/  _/  _/    _/  _/   _/_/_/    _/_/_/_/
+{X       _/  _/_/  _/    _/  _/   _/   _/ _/_/ _/   _/_/_/_/  _/   _/         _/
+{D      _/_/_/_/  _/_/_/_/  _/_/_/    _/_/  _/_/  _/      _/ _/    _/  _/_/_/_/
+{X                                                                              
+{D    _/_/    _/_/_/  _/_/_/  _/_/_/            _/_/_/  _/_/_/  _/_/_/ _/_/_/   
+{X     _/    _/  _/  _/  _/  _/  _/                _/  _/  _/  _/  _/     _/
+{W    _/    _/_/_/  _/_/_/  _/_/_/  _/_/_/_/  _/_/_/  _/  _/  _/  _/ _/_/_/
+{X   _/        _/      _/      _/            _/      _/  _/  _/  _/ _/
+{D_/_/_/  _/_/_/  _/_/_/  _/_/_/            _/_/_/  _/_/_/  _/_/_/ _/_/_/
+{x
+
+
+~
+
+
+-1 HOMER~
+.   ___  _____
+ .'/,-Y"     "--.
+ l.Y             ^.
+ /\               _\_
+i            ___/"   "\
+|          /"   "\   o !
+l         ]     o !__./
+ \ _  _    \.___./    "-\           Doh!
+  X \/ \            ___./       leaving so soon?
+ ( \ ___.   _..----"   -`-.   oh well, at least you won't get
+  ` Z,--   /               \     my butterfinger
+    \__.  (   /       ______)
+      \   l  /-------" /
+       Y   \          /
+       |    "x______.^
+       |           \
+       j            Y
+~
+-1 MERMAID~
+.
+                          /nnnnnnnnn,####nnnnn\
+                       /nnnnnnnnnn,####nnnnnnmnnnn\
+                     nnnnnnnn,######nnnnnnnnnnnn,nn\
+                    nnnnnn,#####nnnnnnnnnnnnnn,nnnn|
+                   nnnnnnnnnnnnnnnnnnnnnn/;;;\nnn/
+                  nnnnnnnnnnnnnnnnnnnn/;;;;;;;nnnnn\
+                 nnnnnnnnnnnnnnnnn/;;;;;;;;;;;nnnnnnn
+                nnnnnnnnnnnnnn;(((;;;;;;;;)));nnnnnnn
+              nnnnnnnnnnnn/;;;;/""\;;;;; /""\;\nnnn/
+           nnnnnnnnnnn,nn/;;;;#    ;;;; #    ;;nnn/
+     /nnnnnnnnnnnnnn,nnnnn;;;;#    /;;; #    /;nnn\
+  /nnnnn##nnnnnnnn,nnnnn;\n;;;;;;;;;;;;; ;;;;;/nnnnnn\
+ nnnnn###nnnnnnnn,nnnnnn;;;;;;;;;/\;;;;;;/\;;;nnnnnnnnnnnnn\
+ nnnn###nnnnn,nnnnnnnnnnn\/\;;;/;@###@@###@;\;nnnnnnnn,nnnnnnn\
+  nnn#nnn,nnnnnnnnnnnnn,nnnnn\;;;;;\@#@#@/;;/nnnnnnnnnn,nn#nnnnnnn\
+  nnnnn,nnnnnnnnnnn,nnnnnnnnnn\;;;;;;;;;;;/nnnnnnnnnnnnn,nn##nnn,nnn
+ nnnn,nnnnnnnnn,nnnnnnnnnnnnnn'\'''''''/nnnnnnnnnnnnnnn,nnnn##nnn,nnn
+ nnnnn,nnnn,nnnn/;;;;;;;,,,/;;;;;;;;;;;|nnnnnnnnnnnnnnnnnnnnn#nnnn,nn
+ \nnnnnnnn,nnn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,\nnnnnnnnnn/ |n
+  \nnnnnnnn,n;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;\,,,,,,,,\nnnnnn/  n/
+   nnnnnnnnnn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;);;;;\,,,,\nnnn
+    nnnnnnnnn;;;;;;;';;;;;;;;;;;;;;;;);;;;;;;;;;;;;);;;\,,,,\nnn
+     nnnnnnnnn;;;;;;';;;/@@@@@@@@@@\;;);;;;/@@@@@@@@);;|,,,,,nnn
+ /n\  nnnnnnnn;;;;;;;';@@@@@@@@@@@@@@\;);/@@@@@@@@@@@|;|,,,,,|nn\  /n
+ nnnnnnnnn,nnn;;;;;;;'@@@@@@@@@@@@@@@@\;/@@@@@@@@@@@@|;|,,,,,|nnnunnn
+ nnnnnnnnnnnnnn;;;;;;';;@@@@@@@@@@@@@/;;;\@@@@@@@@@@/ \|,,,,,|nnnnnnn
+  \nnnnn,nnnnnn;;;;;;; ;;@@@@@@@@@@/;;;;;;;\@@@@@@@/    \,,,,|\nnnn/
+    n,nnnnnnnnn;;;;;;;   ;;;;;;;;;;;;;;;;;;;;;;/         \,,,|
+ n\ nnnnnnnnnnnn;;;;;;     \;;;;;;;;;;;;;;;;;;/           \,/
+ nnnnnnnnnnnnnnn;;;;;;      *;;;;;;;;;;;;;;;;;***
+ \nnnnnnnnnnnnnn;;;;;;    ***;;;;;;;;;;;;;;;;;*****
+ nnnnnnn,nnnnnnn;;;;;;   ****;;;;;;;;;;;;;;;;;;*****
+ nnnnnn,nnn#nnnn ;;;;;   ****;;;;;;;;;;;;;;;;;;;****
+ nnnnn,nnn##nnn/ ;;;;;    ****;;;;;;;;;;;;;;;;;;****==\
+ nnnn,nnn##nnn|   ;;;;     ****;;;;;;;;;;;;;;;;;***======\
+ nnnn,nn#nnnn/    ;;;;       *****;;;;;;;;;.;;;**==========\
+ \nn/\nnnnnn|     ;;;;       /=********;;;;;;;;*=============\
+  \n| \nnnn/      ;;;;      /=====***********;*================\
+   \n |nnn|      ;;;;;     |=====================================\
+      |nnn\/n\ /;;;;;;\     \=========##=========---===============\
+       \nnnnnn|^^^^^^^^^^    \==========###========----=============|
+      ^^\nnn/^^^^^^^^^^^^^^    \==========####======-----===========/
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^    \========####====----==========/
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   |======###===----========/  ^^^
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ /=======####====---=======/   ^^^^^^
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^ /=========###======-====/      ^^^^^^^^^
+ ^^^^^^^^^^^^^^^^^^^^^^^^  /==========#===========/     ^^^^^^^^^^^^^
+  ^^^^^^^^^^^^^^^^^^^^^ /==================/        ^^^^^^^^^^^^^^
+   ^^^^^^^^^^^^^^^^^^  =============/        ^^^^^^^^^^^^^^^^^^^^^^^
+ ^^^^^^^^^^^^^^^^^^^   \======/       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ ^^^^^^^^^^^^^^^^^^^^  (=====)  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ -- ^^^^^^^^^^^^^^ --  ((====))       ---- ^^^^^^^^^^^^^^^^^^^^^^^^-
+   ----                 ,((==)),               ---  ^^^^^^^^^^^^^
+       ---- --  --   ((,(,((.),),)    ---
+                  (,((,(,(((.)),)),)      ---           ----        -
+  -----        ((,((,((,((((.))),)),))
+             ((,(((,((,((((.)))),))),))        ----            ----
+     --    ((,(((,(((,((((.)))),))),))   --            -----        --
+          ((,(((,((((,((( )))),))),))
+           ((,((,((((((   ))),))),)       ------
+  ----       (,((,((       ),)))                ---        ---      --
+              ((((         )))
+       ---      (     --    )                ---            ---
+    --                              ---                -----
+                       --                     --
+          ---------           ------               --          ---
+
+
+~
+-1 UNF~
+% 
+>
+>                         .e$$$$$$$$$$$bee..
+>                        "        ^"""**$$$$$$$e.
+>                        .ed$$$$$e.    zc ^*$$$$$$$c
+>                      z$$$$$$$$$$$$e 4$$$.   "$$$$$$b.
+>                    .$$$$$$$$$$$$$$".$$$$$P    "$$$$$$b.
+>                   d$$$$$$$$$$$$$$% $$$$$$      ^$$$$$$$c
+>                 .$$$$$$$P""""*$$F $$$$$$        ^$$$$$$$b
+>                4$$$$$$P"       ^ d$$$$$"         3$$$$$$$b
+>               .$$$$$$"          J$$$$$%           $$$$$$$$r
+>               $$$$$$           4$$$$$F d$c        $$$$$$$$$
+>              4$$$$$           .$$$$$P J$$$b.      $$$$$$$$$
+>              4$$$$F           """"""  *$$$$$b "$$$$$$$$$$$$
+>              4$$$$    $$$$$$$$$$$$$$$c ^$$$$$$c "$$$$$$$$$%
+>               $$$$   J$$$$$$$$$$$$$$$$$. "$$$$$$. *$$$$$*"
+>               ^$$$L .$$$$$$$$$$$$$$$$$$$b  *$$$$$b          .
+>                 *$$.        eeeeeee         ^$$$$$$c       zF
+>                  "$$       J$$$$$$$           "$$$$$$.   .d$
+>                    ^*.     $$$$$$$$b                   .d$$F
+>                            *$$$$$$$$$c..           .zd$$$$F
+>                             *$$$$$$$$$$$$$$$$$$$$$$$$$$$$"
+>                              "$$$$$$$$$$$$$$$$$$$$$$$$*"
+>                                 "*$$$$$$$$$$$$$$**""      Gilo94'
+~
+
+-1 GUY~
+.
+         ___      ,
+        f   Y    f|
+        l`_'j    ||
+        _HHH_    ||
+  ,--.'"._V_,"`. ||
+ /o  o\ ._I_,   \||_
+(o () o)._I_,    {}
+ \o  o/ ._I_,    `'
+  `--'  ( W )
+        /`-'\
+       f     Y
+       j     l
+    -=='     `==-
+~
+-1 ZOMBIE~
+.
+                                          .....
+                                         C C  /
+                                        /<   /
+                         ___ __________/_#__=o
+                        /(- /(\_\________   \
+                        \ ) \ )_      \o     \
+                        /|\ /|\       |'     |
+                                      |     _|
+                                      /o   __\
+                                     / '     |
+                                    / /      |
+                                   /_/\______|
+                                  (   _(    <
+                                   \    \    \
+                                    \    \    |
+                                     \____\____\
+                                   ____\_\__\_\
+                                  /`   /`     o\
+                                  |___ |_______|.. . 
+~
+
+-1 MERLIN~
+.
+             .  *  .
+      :     *  ( .*) *                 __  *  __
+     .:.  .(* ) .*  ) .    |\ /|  /\  / _` | /  `
+    .:M:.   (.*( * )       | ` | /--\ \__/ | \__/
+      "        /.   *            __   __   __       __    |
+  .::.^.::..../       |__|  /\  |__) |__) |_  |\ | /__`   |
+ .::::.::''''         |  | /--\ |    |    |__ | \| .__/   |
+ :: :::::                                                 *
+ `  :::::
+    :::::             Love, Light, Laughter, AND Magic!
+    :::::
+    :::::                        __  __      *
+   .:::::.                |\ /| |_  |__) |   | |\ |
+   :::::::           ---  | ` | |__ |  \ |__ | | \|  ---
+jgs`':::''
+
+                                          
+~
+-1 BAT~
+.
+          =,    (\_/)    ,=
+           /`-'--(")--'-'\
+          /     (___)     \
+         /.-.-./ " " \.-.-.\
+
+~
+-1 HOOP~
+.
+          o
+/|   o         o
+\|=--            o
+   ##
+                   \\
+                /   \O
+               O_/   T
+               T    /|
+               |\  | |
+_______________|_|________
+~
+
+-1 GUY2~
+.         ___
+        f   Y
+        l`_'j
+        _HHH_      ,-.
+  ,--.'"._V ,"`. ,f   Y
+ /o  o\ ._I_,   \||   ;
+(o () o)._I_,    {}   ;
+ \o  o/ ._I_,    `'   ;
+  `--'  ( W )       . ; ,
+        /`-'\       -{_}-
+       f     Y      ' | `
+       j     l
+    -=='     `==-
+~
+
+-1 JAPANESE~
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!f`4!!!!!!!!!!!!!!!!!!!!!!!!!`!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`   `!!!!!!!!!!!!!!!!!!!!!!!!   !!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!`````  ..::<!!!!!!!!!!!!!!!!!!!!!!!!!  !!!!!!`!!!!!!
+!!!!!!(```!!!``````  .   :!!!!!!!!!!!!!!!!```!!!!!!!!!!!!!!> '!!!!!` '`!!!!
+!!!!!!!h.  `! .::<!!!` .!!!!!!!``!!!!!!!!!!.  `!!!!!`!!!!!`  '`       :!!!!
+!!!!!!!!!:  !!!!!!!!` :!!!!!!!  .:!!!!!!!!!!:  '!!!!     ..::<!!!!!  !!!!!!
+!!!!!!!!!!:<!!!!!!` ..`!!!!!!  <!!!!!!!!!!!!!: .!!!!  !!!!!!!!!!!!!  !!!!!!
+!!!!!!!!!!!!!!!!!` <!!.'!!!! .!!!!!!!!!!!!!!!!!!!!!> <!!!!!!!!!!!!!  !!!!!!
+!!!!!!!!!!!!!!!` :!!!!  '!! :!!!!!!!!!!!!!!!!!!!! !  !!!!!!!!`````   !!!!!!
+!!!!:. ``!!!!` :!!!!` .! ` <!!!!!!!!!!!!!!!!!!!!`.!  ````  ...::<!!  !!!!!!
+!!!!!!h.  !!!<!!!!!` :!!  !!!!!!!!!!!!!`!!!!!!!! !!  ::!!!!!!!!!!!!  !!!!!!
+!!!!!!!!:.!!!!!!!` :!!!!  `4!!!!!!!!!!!!  `4!!! :!!  !!!!!!!!!!!!!! '!!!!!!
+!!!!!!!!!!!!!!!!`.!!!!!   !. `!!!!!!!!!!!   !!! !!!  !!!!!!!!!!!!!` '!!!!!!
+!!!!!!!!!!!!!!`.<!!!!` .! !!h  `!!!!!!!!!!  !! :!!!  !!!``````  ..  '`!!!!!
+!!!!!!!!!!!!!:!!!!!!` <!! !!!!.  `!!!!!!!!!!!` !!!!    ..: <!!!!!!!:   `!!!
+!!!!!!!!` '4!!!!!!! .!!!! !!!!!:  !!!!!!!!!!f !!!!!  !!!!!. !!!!!!!  .::!!!
+!!!``` ..  <!!!!!` :!!!!  !!!!!!: !!!!!!!!!! .!!!!!  !!!!!! `!!!!`  <!!!!!!
+!!!:!!!!! !!!!!` :!!!!!!  !!!!!!!!!!!!!!!!!` !!!!!! '!!!!!!: 4!!` :!!!!!!!!
+!!!!!!!!> !!!` :!!!!!!!! '!!!!!!!!!!!!!!!!f <!!!!!! '!!!!!!!  `.:!!!!!!!!!!
+!!!!!!!!> !!.:!!!!!!!!!  !!!!!!!!!!!!!!!!!  !!!!!!! '!!!!!!!!  `!!!!!!!!!!!
+!!!!!!!!  !!!!!!!`````  .!!!!!!!!!!!!!!!!` :!!!!!!!  !!!!!!`!!  '`!!!!!!!!!
+!!!!!!!!  !!!!!!!!:.   :!!!!!!!!!!!!!!!`   !!!!!!!!  !!!!` :!!!:   `4!!!!!!
+!!!!!!!!  !!!!!!!!!!::!!!!!!!```` !!!!!!:  !!!!!!!!  !`` .!!!!!!:     ```!!
+!!!!!!!`.: `!!!!!!!!!!!````      !!!!!!!!  !!!!!!!!    :!!!!!!!!!!:.   :!!!
+!!!!!` :!!!:. `````        ..::!!!!!!!!!!  '!!!!``  .<!!!!!!!!!!!!!!!:<!!!!
+!!!` .<!!!!!!!:::.::::<!!!!!!!!!!!!!!!!!!  '!!    :!!!!!!!!!!!!!!!!!!!!!!!!
+!!L  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!   !!  !!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!:.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  <!!!.!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"Chasing the Wave"
+~
+
+-1 PATIENCE~
+.
+          ____________________________________________________________
+         / o                                                        o \
+         |                                                            |
+         |                          _ap@@@@@@b                        |
+         |                     _ap@@@@@@@@@@@@@b                      |
+         |                  @@@@@@P@@@P     -@@@i                     |
+         |                   ----   @@@      @@@I                     |
+         |                   ,qq,   @@@      @@@I                     |
+         |                   --P@b,d@@      d@@@                      |
+         |                       .d@@    ._d@@@                       |
+         |                     .aPP       -@@P                        |
+         |                  .       ,_          .__                   |
+         |                dP   @     @@b   _,     -P@be.              |
+         |               @@   I@      P@@@@@-   e_  -P@@b             |
+         |              @@@    @@b     `--'     I@b   @@@             |
+         |              `@P     @@@@eeeeeeeeeee@@@'   P-              |
+         |                        ---PPPPPPPPPPP-                     |
+         |                                                            |
+         |                                                            |
+         |         P  .  A  .  T  .  I  .  E  .  N  .  C  .  E        |
+         |                                                            |
+         | o                                                        o |
+         \____________________________________________________________/
+
+~
+
+-1 THECOUNT~
+.
+                 /######\
+               /##########\
+              /   \###/    \
+             /     \#/      \
+          /\|               |/\
+          | | \ ==\    /== / | |
+           \|  \<|>\  /<|>/  |/     /|
+    \__     |    -   \  -    |     /#|
+     \#\     |        |      |   /###|
+      \##\   |       \|     |  /#####|
+       \###\  |   _______  | /######|
+        \####\ | / \/ \/ \|/#######|
+        |######\|        |#########|
+        |########\______/##########|
+        |#########\    /##########/
+        |##########\  |#########/\
+        /###########\/########/###\
+    /################\######/########\
+   /##################\###/###########\
+  /###################\#/##############\
+ /####################/#################\
+/###################/####################
+~
+-1 FAIRY~
+.  dOOoo..
+  d       OOoo.           ,;;;
+  q            Oo.       ,;;;;;
+  q               Oo    ,`';;;    | Um... Godwars!
+  q                 O ,;;';';    -*-
+  q                  ;;;;;;;;;    | We allow you to kill fairies!
+   q                ';;'d;;';;;  o-(but only if they have status)
+   qOOOOOOooooooooo''  O ; q.P. dp
+            ...ooooOOOd   .  qOp
+     ...ooOOO    .pO d     b
+   .d         .oOp .o  .oqqo'
+  d        .oOp   O   .
+ d        .op    d   p
+ q      .op      q    'o.
+ q   ...p        oq..    o
+  qoop           q  'OO   O.
+                 l  l  ''O b,
+                  q p    d p
+                  q l    lp'
+                  l l   .Op
+                  .p    Op
+                 dO'   dp
+                .dp   (O
+                op     l
+               c'     ;
+               ;
+               '
+
+~
+
+-1 TIPS~
+
+Basically when making an area its all about atmosphere.  Know what you
+want to build before hand, and go with it.
+
+There should be a lot of creatures and objects to make it feel real,
+if its a space station there should be computers lying around, parts,
+etc.  Droids walking around, that sort of thing.  Things that add
+atsmopher to your area and dont really have anything to do with the
+whole "idea".
+
+When making room descriptions just take that picture from your mind
+and write what it looks like, for me that's a hell of a lot easier
+than trying to draw it.
+
+It's all about atmosphere, make the player think they are there
+and know whats going on.
+
+You can use ANSI in rooms.  This is not required or enforced or anything,
+I just noticed nobody has yet.
+
+
+~
+
+-1 FINDVNUMS 'FIND VNUM' FREEVNUMS 'FREE VNUM'~
+
+Vnum means virtual number, each room has its own vnum.
+
+Syntax: findvnum <how many vnums you want> <# to start at>
+
+Look at the note board to see whos currently building, 
+someone may already be using some vnums that show up using
+this command.
+
+If you decide to build, post a note which vnums you are
+using.  
+~
+
+-1 BULLSHIT BULL SHIT~
+
+Bullshit items are basically just common sense.  Look at
+what is good, and dont copy it.  Oath's of Vengeance, and
+Aura's of Power come to mind.  If you decide to make an
+excellent item like these, your area better be good :)
+
+More specifically, dont make items with more than 5dam,
+5hit, 100hp/mana/move.  And none should have a combination
+of these.  And NO items with negative stats.  
+
+~
+
+
+
+-1 RANK RANKS~
+
+Status Male     Female
+----------------------
+0      Peasant  Peasant
+1-10   Knight   Knight
+11-15  Lord     Lady
+16-20  Baron    Baroness
+21-30  Sir      Sir
+31-40  Master   Mistress
+41-50  Viscount Viscountess
+51-60  Count    Countess
+61-70  Duke     Duchess
+71-79  Prince   Princess
+80     King     Queen
+
+~
+
+
+-1 MAP~
+
+Syntax: map
+
+This will turn on or off a map that is automatically
+drawn for you of the surrounding area.  Whenever you
+move, type look, etc, this map will be drawn.
+
+Unlike the usual "wilderness" on muds, each "room" 
+consists of TWO characters.  So ".." would be one 
+room.
+
+Due to the nature of the way rooms are linked in
+this mud, the map is not perfect, but still gives a
+pretty good description of the surrounding rooms.
+You are in the center, or the "<>".  The "[]" rooms
+are basically "walls", or they just symbolize that
+nothing is there.  You can also see doors on the
+map, which are shown as " |", " | ", "__", "--", 
+according to what direction they are facing you.
+
+This map can be very confusing in mazes. :)
+
+The map now also shows players and mobs.  It only
+shows two chars per line so you still won't see
+everything, and the room has to be visible to you
+first.  
+
+The map will show how much HP a person has in a
+"HP-Bar" format. [*****] is full or near-full HP,
+[*----] is near-dead.  This hp-bar appears after
+the letter representing the person.
+
+Here is an example map:
+
+[][][][][][][]
+[][]%C[][][][] C [*****] a mage              
+[][]%E[]____[] E [****-] Jake
+ |%%%A*D%%%%|  A [*----] a mage               D [*****] a mage              
+[][]%B[]----[] B [***--] the golem           
+[][][][][][][]
+[][][][][][][]
+
+As you can see, this map shows doors, players, and
+the HP-Bar.
+
+Players are shown before mobs on the map, so if a 
+player and a mob take up the same space, the player
+is shown.
+
+You can change the viewable area as well,
+-> Help vision
+
+~
+
+-1 SWORDTECH~
+
+Only Highlanders can use sword techs.
+They are special moves that can only be used with the Katana.
+
+Once a swordtech manuever has been initiated, they cannot
+do another manuever until a certain amount of ticks.
+
+The higher generation you are the shorter they last (the more
+you can do in a shorter period of time), and also your chances
+of completing a manuever increases.
+
+Each swordtech manuever costs 600 movement points.
+
+~
+
+-1 VISION~
+
+Syntax: vision <3, 5, 7>
+
+You can change the viewable area of the map with the
+vision command.  The options for mortals are 3, 5,
+and 7.  Which is just the number of rooms you will
+see. (7x7 for instance).  It can go up higher than
+this but only an immortal or spells/abilities can
+change that.
+
+~
+
+-1 'POWER OF WIND' WIND~
+Syntax: mantra 'power of wind' <direction>
+Example: mantra 'power of wind' east
+
+North wind: Improves Armor Class
+South wind: Improves Armor Class, Damroll, and Hitroll
+East wind:  Improves Hitroll
+West wind:  Improves Damroll
+
+These improvements take affect when you use godbless.
+South Wind improves all, but not close to the same
+power as the other three do in their area.
+
+~
+
+
+-1 REQUIREMENT REQUIREMENTS LEADER~
+
+Anyone may now create a kingdom if they have 1000 qp.
+Syntax (DO NOT MESS THIS UP!): kingdom create <name WITH ansi> <name WITHOUT ansi>
+I suggest you SAY the name a few times to make SURE THE ANSI IS CORRECT.
+And if you dont put a final {{x your kingdom will be DELETED.
+
+But there is now UPKEEP to having a kingdom.
+Once a kingdom amasses 1000 or more points, they
+start having to pay up, at the cost of 250 KP per
+real life day.
+
+Guess what happens if you get below 0...No more
+kingdom :)
+
+You can still lose a kingdom by getting killed
+repeatedly by others.
+
+~
+
+-1 WHY~
+1) You ask imm question.
+2) Imm says no.
+3) You ask why.
+4) You die.
+5) Why?
+6) You die again.
+~
+
+-1 DIKU~
+.                    Original game idea, concept, and design:
+
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+
+                     Additional contributions from:
+
+Michael Curran  - the player title collection and additional locations.
+Ragnar Loenn    - the bulletin board.
+Bill Wisner     - for being the first to successfully port the game,
+                  uncovering several old bugs, uh, inconsistencies,
+                  in the process.
+
+And: Mads Haar and Stephan Dahl for additional locations.
+
+Developed at: DIKU -- The Department of Computer Science
+                      at the University of Copenhagen.
+
+~
+
+-1 RUNESPELLS RUNE~
+-
+*--------------------------------------------------------*
+|    Rune    |          Glyph          |        Sigil    |
+*--------------------------------------------------------*
+ EARTH                DESTRUCTION               AREA  
+ AIR                  DESTRUCTION               AREA 
+ MIND                 CONTROL                   TARGETING  
+ WATER                PROTECTION                SELF 
+ SPIRIT               TRANSPORTATION            SELF 
+ SPIRIT               PROTECTION                OBJECT  
+ LIGHT                CREATION                  AREA 
+ DARK                 ENHANCEMENT               TARGETING 
+ MIND                 ENHANCEMENT               TARGETING  
+ SPIRIT               ENHANCEMENT               TARGETING  
+ LIFE                 SUMMONING                 AREA
+ FIRE                 DESTRUCTION               TARGETING
+ LIFE                 ENHANCEMENT               TARGETING  
+ DEATH                SUMMONING                 AREA
+ MIND                 INFORMATION               OBJECT 
+----------------------------------------------------------
+These are the combos for rune spells. Guess and test.
+~
+
+-1 VNUM VNUMS~
+Name of Area            Vnums           Connected to           Priority
+--------------------------------------------------------------------------
+abode.are               29100-29199
+air.are                 1000-1099
+alice.are               29701-29799
+animal.are              5600-5699
+anonplis.are            14200-14299
+arachnos.are            6301-6399
+bazaar.are              14100-14199
+canyon.are              9201-9299
+catacomb.are            2001-2100
+chapel.are              3400-3499
+chess.are               30600-30699
+darkl.are               6640-6700
+daycare.are             6600-6639
+db.are                  30700-30799
+deathdun.are            18000-18099
+donjon.are              15100-15199
+draconia.are            2200-2299                                              
+dream.are               8600-8699
+drow.are                5100-5199
+dwarven.are             6500-6599
+dylan.are               9101-9199
+eastern.are             5000-5100
+firenewt.are            2901-2999
+firetop.are             5735-5800
+futzone.are             22100-22199
+galaxy.are              9301-9399
+gilligan.are            32101-32199                                            
+See help 'Vnums2' for more Vnums
+~
+
+
+
+-1 VNUMS2~
+Name of Area            Vnums           Connected to           Priority
+--------------------------------------------------------------------------     
+gnome.are               1500-1599
+grave.are               3600-3699
+green.are               3725-3799
+grove.are               8900-8999
+gtown.are               8100-8199
+gyard.are               32301-32399
+halls.are               6640-6699
+haon.are                6000-6100
+hell.are                1234-1299
+hitower.are             1300-1399                                              
+hllywd.are              17600-17699                                          
+hood.are                2101-2199
+jher.are                32700-32799
+juargan.are             4700-4799
+kavir.are               30000-30099
+kender.are              14900-14999
+khang.are               30799-30899
+limbo.are               0-99
+mage.are                20000-20099
+magetest.are            28000-28099
+mahntor.are             2300-2399
+malathar.are            400-500
+marsh.are               8301-8399
+mega1.are               8000-8099
+midennir.are            3500-3599
+midgaard.are            3000-3100
+mirkwood.are            8800-8900
+mirror.are              5300-5399
+mobfact.are             9401-9500
+moria.are               4000-4099                                              
+See help 'vnums3' for more vnums
+~
+
+
+
+-1 VNUMS3~
+Name of Area            Vnums           Connected to           Priority
+--------------------------------------------------------------------------     
+mtdoom.are              14700-14799                                            
+ofcol.are               5550-5599
+ofcol2.are              600-699
+olympus.are             901-999
+pblood.are              9550-9599
+pground.are             3725-3799
+plains.are              300-399
+prehist.are             15400-15499
+pyramid.are             2600-2699
+quest.are               29500-29599
+redferne.are            7900-7999
+relic.are               29600-29699
+rotain.are              6640-6699
+rshouse.are             14600-14699
+school.are              3700-3799
+sesame.are              24000-24099
+seven.are               30665-30699
+sewer.are               7000-7099
+sfield.are              31100-31199
+shire.are               1100-1199                                              
+spirit.are              6031-6099
+start.are               25000-25099
+tcwnn2.are              31200-31299
+tcwnn.are               31000-31099
+thalos.are              5200-5299
+torcal.are              6071-6099
+trollden.are            2800-2899
+troy.are                29500-29599
+ultima.are              2400-2499
+under.are               14000-14099
+unholy.are              30800-30899
+vallandar.are           30300-30399
+vally.are               7800-7899
+villa.are               14100-14199
+warkeep.are             15700-15799
+warner.are              15000-15099
+weed.are                30232-30299
+weirdan.are             14300-14399
+wyvern.are              1601-1699                                              
+~
+
+
+-1 MERC~
+[Note: this entry may not be removed or altered.  See our license.txt.]
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.  Merc 2.1
+is available as Merc_21.tar.gz from ftp.tcp.com and ftp.math.okstate.edu.
+E-mail to 'merc-request@kpc.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+
+Share and enjoy.
+~
+
+
+
+-1 BEAR~
+Level 1 - Flex - Ability to break ropes (when tied up)
+Level 2 - Rage - Ability to rage while out of combat
+Level 3 - Steel Claws - (auto) Ability to parry attacks with claws
+Level 4 - Hibernation - (auto) Improved regen while sleeping.
+~
+
+
+
+-1 BOAR~
+Level 1 - Shatter - Break through closed doors (auto)
+Level 2 - Charge - Get an extra attack when you attack someone (auto)
+Level 3 - Toughness - Half damage from attacks (auto)
+Level 4 - Immovability - Immunity to hurl and punch (auto)
+~
+
+-1 LYNX~
+Level 1 - Light Footed - Cannot be tracked (auto)
+Level 2 - Stalker - Hunt command (Currently Broken)
+Level 3 - Combat Speed - Combat Bonuses (auto)
+LEvel 4 - Lightning Claws - Extra attack (auto)
+~
+
+
+
+-1 OWL~
+Level 1 - Vanish - Invisible to mobs, and mortals
+Level 2 - Shield - Immune to scry and readaura
+Level 3 - Shadowplane - Switch into the Shadowplane.
+Level 4 - Channel - Spells cost normal price while raged
+~
+
+
+
+-1 SPIDER~
+Level 1 - Poisonous Bite - Infect your opponent with poison (auto)(broken)
+Level 2 - Web - Coat the target with a web, preventing them from moving
+Level 3 - Poison Immunity - Immunity to poison
+~
+
+
+
+-1 WOLF~
+Level 1 - Claws - Grow a pair of talons
+Level 2 - Fangs - Grow a pair of fangs
+Level 3 - Calm - Calm from rage (Need to use it several times)
+Level 4 - Spirit of Fenris - Increased Max Rage (Starts at 220)
+~
+
+
+
+-1 HAWK~
+Level 1 - Nightsight - Ability to see at night
+Level 2 - Shadowsight - Ability to see people in shadowplane
+Level 3 - Truesight - Ability to see all other players
+~
+
+
+
+-1 MANTIS~
+Level 1 - Agility - Parry\Dodge bonuses (auto)
+Level 2 - Intuition - Parry\Dodge bonuses (auto)
+Level 3 - Speed of the Fenris - Parry\Dodge bonuses (auto)
+Level 4 - Dance of Fenris - Parry\Dodge bonuses (auto)
+~
+
+
+
+-1 WIZLIST~
+----------------------------------------------------------------------
+               {W            Um...   Godwars.{x
+----------------------------------------------------------------------
+
+  			{W --- {GIMPLEMENTORS{W --- 
+			    ==============	
+
+{Y                   Pip          Borlak         Scooby
+{R		
+		            Visiting Imps: 
+			    {W-=-=-=-=-=-=-=-
+
+{Y                          Jbee          Crystal
+{x
+----------------------------------------------------------------------   
+~
+
+
+-1 PUMGWGREETING~
+.
+[0m
+[1;34m                  UUUUU      UUUUU      M[1;31mMMMMM        MMMMMM
+[1;34m                  UUUUU      UUUUU     MM[1;31mMMMMMMM     MMMMMMMM
+[1;34m                  UUUUU      UUUUU     MM[1;37mMMMM  MMM MMM MMMMMM
+[1;34m                  UUUUU      UUUUU     MM[1;37mMMMM   MMMM   MMMMMM
+[1;34m                  UUUUU      UUUUU     MM[1;31mMMMM     M    MMMMMM
+[1;34m                  UUUUU      UUUUU     MM[1;31mMMMM          MMMMMM
+[1;34m                  UUUUU\    /UUUUU     MM[1;37mMMMM          MMMMMM
+[1;34m                  UUUUUUUUUUUUUUUU     MM[1;37mMMMM          MMMMMM      _    _    _
+[1;34m                   UUUUUUUUUUUUUU      MM[1;31mMMMM          MMMMMM     |.|  |.|  |.|
+                    
+                   
+[1;34m    GGGGGGGG      OOOOOO    DDDDDDD    WW[1;37m            WW       AA        RRRRRRR     SSSSSSS
+[1;34m   GGGGGGGGGG    OOOOOOOO    DD   DD   WW[1;37m            WW    AAA  AAA    RR     RR   SS     SS
+[1;31m   GGG     GG    00    00    DD    DD   WW          WW    AA      AA   RR     RR   SS
+[1;31m   GG            00    00    DD    DD   WW          WW    AA      AA   RR    RR    SS
+[1;37m   GG            00    00    DD    DD    WW        WW     AAAAAAAAAA   RRRRRR       SSSSSSS
+[1;37m   GG   GGGGG    00    00    DD    DD    WW   WW   WW     AA      AA   RR  RR             SS
+[1;31m   GGG     GG    00    00    DD    DD    WW WWWWWW WW     AA      AA   RR   RR            SS
+[1;31m   GGGGGGGGGG    00000000    DD   DD     WWWW    WWWW     AA      AA   RR    RR    SS     SS
+[1;37m    GGGGGGGG      000000    DDDDDDD      WW/      \WW     AA      AA   RR     RR    SSSSSSS
+
+[1;37m-------------------------------------------------------------------------------------------------
+[0m                                yes, that really is the name.
+[1;37m-------------------------------------------------------------------------------------------------
+[0m
+                    umgw.genesismuds.com 5666     169.207.182.235 5666
+                    
+                 All hail the creators of Diku.  Godwars created by KaVir
+                 
+                               Maintained by Borlak and Pip.
+
+~
+-1 HACKGREET~
+.
+                           Um... 9odWar5
+------------------------------------------------------------------
+		    [This means hackify is on!]
+
+                     umgW.g3n3si5muD5.c0m 5666
+
+		       169.207.182.235 5666
+
+                           ver5ion 1.0
+
+	              r3star73D |n maY 2001
+
+------------------------------------------------------------------
+                   Ye5, 7hat r34LlY |5 the nam3.
+------------------------------------------------------------------
+                  4Ll ha|l 7he Cr3a70rs of d|ku.
+                    90dW4R5 cr3at3d bY k4v|r.
+ma|nta|ned 8Y b0rfL4p d4 l0rd 0f d4 p1mp$ and p|p d4 4LM|G+Y G4wD!!!.
+
+
+~
+
+-1 UNFGREETING~
+.
+
+[0m
+[1;34m                 **********[1;31m--------------------
+[1;34m                 **********[1;37m--------------------
+[1;34m                 **********[1;31m--------------------
+[1;34m                 **********[1;37m--------------------
+[1;34m                 **********[1;31m--------------------
+[1;37m                 ------------------------------
+[1;31m                 ------------------------------
+[1;37m                 ------------------------------
+[1;31m                 ------------------------------
+[0m
+
+        http://www.visionxtreme.net/images/unclesam.jpg
+
+
+------------------------------------------------------------------
+                  All Hail the Creators of Diku.
+                    GodWars created by KaVir.
+                  Maintained by Borlak and Pip.
+
+
+~
+
+
+-1 GREETING~
+.
+                           Um... Godwars
+------------------------------------------------------------------
+
+
+                       umgw.borlak.org 5666
+		
+		         68.35.239.5 5666
+
+                            version 1.0
+
+  		          since Oct, 1999
+
+------------------------------------------------------------------
+                   yes, that really is the name.
+------------------------------------------------------------------
+                  All Hail the Creators of Diku.
+                    GodWars created by KaVir.
+                  Maintained by Borlak and Pip.
+
+
+~                             
+    
+
+
+-1 MOTD~
+.
+- Diku Mud created by:
+{WKatja Nyboe		Tom Madsen	Hans Henrik Staerfeldt	
+Michael Seifert		Sebastian Hammer{x
+
+- Merc created by:
+{WMichael Chastain	Michael Quan	Mitchell Tse{x
+
+- Read {Whelp policy{x, it just may save your life.
+
+\--------------------------------------------------------/
+ |  {WAttention newbies:                                 {x |
+ |  {W When you save, you will be forced to quit.  This  {x |
+ |  {W is a one-time only thing.                         {x |
+ |  {GRead {WHELP STARTING {Gand {WHELP FAQ                    {x |
+ |  {G This is NOT your typical mud OR godwars.          {x |
+/--------------------------------------------------------\
+
+{W Webpage: {xhttp://umgw.borlak.org/{x
+
+{G -=-=Type NEWS for the latest..news!=-=-{x
+~
+
+-1 ESCUBA~
+[---------------------------------------]
+[                                       ]
+[     Do you like to {Bscuba dive{w?        ]
+[       would you like to learn         ]
+[       more about scuba diving?        ]
+[                                       ]
+[       {Gvisit{W www.escuba.com{w            ]
+[    {WWill be open by Jan. 15, 2000{w      ]
+[                                       ]
+[---------------------------------------]
+                 
+~
+
+-1 FLAG~
+
+{B     **********{R--------------------
+{B     **********{W--------------------
+{B     **********{R--------------------
+{B     **********{W--------------------
+{B     **********{R--------------------
+{W     ------------------------------
+{R     ------------------------------
+{W     ------------------------------
+{R     ------------------------------{X
+
+~
+-1 XMAS~
+.
+              \|/
+            ---+---
+              /|\
+               ^
+              /|\
+             / '.\
+            /@. \ \
+           /  /@  @\
+          / '    \  \
+         /  ./. ` @` \
+        / @'  @'  \. .\
+       /.   /  ..`  ` .\
+      /  '@   '. . \@   \
+     / @ . /    @`    `  \
+    /.  '   @ '     \ @   \
+   /  @ . /. . . @` . . '  \
+  `'``'`'''`'``''`'`'`'''`''
+      & |    | | |-------&
+   |&----|=========&  |-----|
+
+
+	Merry Christmas
+
+  --by Knife
+
+
+{B**********{R--------------------
+{B**********{W--------------------
+{B**********{R--------------------
+{B**********{W--------------------
+{B**********{R--------------------
+{W------------------------------
+{R------------------------------
+{W------------------------------
+{R------------------------------{X
+
+~
+
+-1 KINGDOM KINGDOMS KING KINGS~
+on April 25th, 1999 Borlak added kingdom code.
+
+To get a listing of kingdoms, type [{Wklist{w].
+To get a list of warring kingdoms, type [{Wklist wars{w].
+To get a list of treatied kingdoms, type [{Wklist treaties{w].
+
+Kingdom leaders can use the following:
+
+Syntax: kingdom invite <player>
+        kingdom outcast <member>
+        kingdom war <kingdom ID>
+        kingdom treaty <kingdom ID>
+        kingdom rank <member> <rank>
+        kingdom trustee <member>
+	kingdom recall (costs 100 points)
+
+Kingdom leaders and trustees may use the following:
+
+Syntax: kingdom scry <player> (costs 75 points)
+
+Players may be a leader and control a Kingdom.  You may
+choose its name, invite members, and make treaties or 
+wars with other kingdoms.  
+
+Kingdoms may collect points by killing/decapitating
+players.  These points are to be used for special kingdom
+powers or favors from the imms.
+
+If you are warring against another kingdom and kill one
+of its members, you will get double points.  However, if
+you are at war with another kingdom, and they happen to
+kill one of YOUR members, you LOSE points.  This is the 
+only way you can lose points aside from using them.
+
+As a kingdom you get your own chat channel, used via the
+"ktalk" command.  If you are treatied with another kingdom,
+you can hear their channel as well.  Other than mutual
+trust, there is no other benefit from forming a treaty.
+You may still kill kingdoms you are treatied with.
+
+If a kingdom has reached a total of 50 PKILLS and PDEATHS
+combined (pks+pds=50), and their rating is BELOW 50, they
+are ready for destruction.  If you kill a member of a 
+kingdom who has less than 50 rating, and less than 50 
+pks+pds, their kingdom will automatically be destroyed,
+by you!
+
+To apply for a leadership spot, type [{Ghelp leader{w].
+
+~
+
+
+
+-1 CHANGES~
+
+TYPE NEWS
+
+~
+-1 NEWS PLANS~
+
+TYPE NEWS
+
+~
+
+-1 TRIVIA~
+Immortals may start a trivia question, and mortals can guess it to get quest points
+as a reward.  The reward amount is set by immortals.  Immortals may turn trivia to
+player mode, where players can set trivia answers, but obviously there is no reward
+if a player makes a trivia question.  
+
+Syntax:
+trivia answer <answer>
+or
+answer <answer>
+
+"trivia show" shows past trivias.
+"trivia" by itself shows the current trivia (if any) going on.
+
+You may not guess trivia if you started it, wow thats a smart one.
+
+~
+
+
+-1 VOTE VOTING~
+Players can now "vote" on topics chosen by the immortals.  Basically how it works
+is an immortal chooses a topic and a time limit(in seconds) for how long the topic
+should be voted on.  like this:
+> vote topic <time in seconds> <topic>
+example:
+> vote topic 120 can borlak code?
+This would give players 2 minutes to vote whether or not borlak can code.  You can
+vote yes or no, and after the time runs out, the votes are counted up and displayed
+to the mud.  Players can only vote once, Immortals cannot vote at all. 
+
+"vote show" will show previous votes you may have missed and how many people voted
+for what, and the total votes for each topic.
+
+Typing "vote" by itself will show the current vote going on, if any, and how many
+seconds are left.
+
+To vote simply type "vote yes" or "vote no".
+
+Created by: Borlak.
+Totals added by: Pip.
+~
+
+-1 STARTING NEWBIE NEWPLAYER~   
+NEWBIE NEWPLAYER STARTING
+
+= {GFor any newplayer{X:  Areas are randomized each reboot.  That means that 
+midgaard might be super tough or super easy this reboot.  Type {GAREAS{X to find a 
+good area to hunt in.  
+Tips for getting to areas:
+   There is a portal room east of the temple altar.  Type {GLOOK SIGN{X in this 
+room, and then {GSAY <location>{X.
+   Use the portal spell.  You can {GCAST PORTAL <mob>{X to make a portal/gate to 
+that mob.  If you are not sure what mobs are in an area, use the {GFINDMOBS{X 
+command.
+
+- {GFor total mud newbies{X, walk through mud school(the area north of where you start.)
+and read all the signs, do what they say, etc.  Try the "commands" command and start
+playing with the commands until you figure them out.
+
+- {GFor godwars mud newbies{X, try looking at the files under {WGWHELP{x help file.
+These should include godwars specific stuff like "stance", "advancedstance", "decapitate",
+"crack", "status", "class", "skill", "claim", etc. help files.  These should provide
+some insight into the different mud style.  Also, try the "level" command.  Other than
+that, just play around with it, try to figure it out.  If there are some classed
+players on, try asking for some "black shimmering eq" over chat.  Its good starting
+equipment, and most players will be willing to help.  Don't pester them however.
+
+- useful commands:
+level     	autostance	artifact
+transport	summon		nosummon
+clear		decapitate	train
+stance		practice	affect
+help		
+
+- Ask players or immortals for help if you need it.
+
+Pip.                  
+~                 
+-1 STORY~
+There was a bunch of different classes roaming these "areas".
+They decided they would get really really good, then kill each other.
+It seemed like a plan, they called it um... godwars.
+
+ - story by Pip.
+~
+
+0 POLICY~
+.
+
+                 Our policy follows the eye for an eye deal.
+-----------------------------------------------------------------------------------
+      RULE                                           Penalty
+  -=-=-=-=-=-=-=-                               -=-=-=-=-=-=-=-=-=-
+
+* No Multiplaying. `!'                               deletion.
+
+* No sharing characters. '!!'                        deletion.
+
+* No spam-channeling.                                deletion.
+      
+* No Bug abuse, report them.                         deletion.
+  
+* No botting, besides spells.                        deletion.
+ 
+* No unwarrented torture of newbies.                 deletion.
+
+* No asking to be rigged in any way.                 deletion.
+
+* No creating of "status characters". `!!!'          deletion.
+
+* No giving decaps for percentage of bounty.         deletion.
+
+* No messing up the chatlog!		        evil, evil things.
+
+`!' - multiplaying is defined as: having two or more player characters in the game
+at one time.  that includes link dead players.  so um, don't do it.
+
+`!!' - you can't give your character away permanently or temporarily.  you can't
+give out your password, etc.  no exceptions to this rule, absolutely no char 
+sharing.
+
+`!!!' - status characters are defined as any cooperation between two players, spoken
+or not, that results in one player gaining status repeatedly off the other with no
+real game play involvement.                   
+
+for swapping eq, drop it in a bag somewhere where no one will get it.
+then type QUIT, log on your other char, and get it.
+
+besides getting someone to hold it for you, it's the only way.
+-----------------------------------------------------------------------------------
+~
+
+-1 SUMMARY~
+The old help file system sucked.
+
+Here are the main categories of help files.
+Anything in all caps is a help file.
+One word helps will be listed out in groups of three.
+Any help with more than one word will have it's own line.
+
+
+{WFULLHELPLIST{x - a list of all help files (long list)
+
+{WMUD{x     - contains a list of normal help files that would
+              be the same in pretty much any diku/merc mud.
+
+{WGWHELP{x  - a list of specific godwars help files.
+
+{WSPELLS{x  - a list of help files for all spells.
+
+{WSKILLS{x  - a list of help files for all skills.
+
+{WUMGW{x    - a list of help files that pertain to Um... Godwars
+              all by itself.
+
+{WMISC{x    - a list of miscalleanous help files.
+
+{WIMMHELP{x - a list of immortal help files.
+~
+
+-1 MISC~
+- Miscalleanous help files.
+
+HOMER
+BP BODYPARTS
+ESCUBA
+FLAG
+XMAS
+~
+
+-1 DETECT-SPELLS~
+'DETECT EVIL' 
+'DETECT HIDDEN'   
+'DETECT INVIS'  
+'DETECT MAGIC'  
+'DETECT POISON'
+~
+-1 CREATE-SPELLS~
+'CREATE FOOD'
+'CREATE SPRING'
+'CREATE WATER'
+~
+-1 CURE-SPELLS~
+'CURE BLINDNESS'
+'CURE POISON'
+'CURE LIGHT' 'CURE SERIOUS' 'CURE CRITICAL' HEAL
+~
+
+-1 SPELLS~
+- These are all the spells in the game.
+
+DETECT-SPELLS
+CREATE-SPELLS
+CURE-SPELLS
+
+ARMOR                BLESS                 BLINDNESS
+CURSE                DARKBLESSING          EARTHQUAKE
+FLAMESTRIKE          FLY                   FRENZY
+GATE                 GUARDIAN              IDENTIFY
+IMPROVE              INFRAVISION           MANA
+MOUNTSPELL           POISON                PORTAL
+PRESERVE             QUESTSPELL            REFRESH
+RESISTANCE           SLEEPSPELL            SOULBLADE
+SPELLPROOF           SUMMON                TELEPORT   
+TRANSPORT            VENTRILOQUATE         VOODOO
+WEAKEN               'KNOW ALIGNMENT'      'LOCATE OBJECT'   
+'PASS DOOR'          'GIANT STRENGTH'      'CALL LIGHTNING'
+'CHANGE SEX'         'CHARM PERSON'        'CHILL TOUCH'
+'DISPEL EVIL'        'CONTINUAL LIGHT'     'CONTROL WEATHER'
+'DISPEL MAGIC'       'ENCHANT WEAPON'      'ENERGY DRAIN'  
+'FAERIE FIRE'        'FAERIE FOG'          'FIND FAMILIAR' 
+'WORD OF RECALL'     'REMOVE CURSE'        'MINOR CREATION'
+
+SCANSPELL REPAIR
+SHIELD 'STONE SKIN'
+REGENERATE CLOT MEND
+PROTECTION SANCTUARY
+INVIS 'MASS INVIS'
+BREW SCRIBE CARVE ENGRAVE BAKE
+'CAUSE LIGHT' 'CAUSE SERIOUS' 'CAUSE CRITICAL' HARM
+'ACID BLAST' 'BURNING HANDS' 'COLOUR SPRAY' FIREBALL 'LIGHTNING BOLT' 'MAGIC MISSILE' 'SHOCKING GRASP'
+'ACID BREATH' 'FIRE BREATH' 'FROST BREATH' 'GAS BREATH' 'LIGHTNING BREATH'
+~
+
+
+-1 UMGW~
+- These help files are specific to the Um... Godwars mud.
+  These have been developed by Pip & Borlak.
+
+CLAN REQS
+NEWBIE NEWPLAYER
+BUILDER BUILDING
+TIPS
+FINDVNUMS 'FIND VNUMS' FREEVNUMS 'FREE VNUM'
+BULLSHIT BULL SHIT
+MAP
+PORTALS PORTALROOM
+EXAMPLE#1
+EXAMPLE#2
+WHY
+VNUM VNUMS
+VNUMS2
+VNUMS3
+WIZLIST
+GREETING
+MOTD
+KINGDOM KINGDOMS KING KINGS
+TRIVIA
+VOTE VOTING
+STORY
+POLICY
+QUEST-TYPES
+SAFE SAFETY 'SAFE ROOM'
+TERMS
+~
+
+-1 IMMHELP~
+- These help files are for immortals only.  
+  But you can take a look if you want.
+
+TRUST         FORCE           USERS
+OCLONE        OTRANSFER       MCLEAR
+QTRUST        PURGE           RESTORE
+SLAY          TRANSFER        AT
+GOTO          MEMORY          MWHERE
+PEACE         SLOOKUP         WIZHELP
+ALLOW BAN
+REBOOT SHUTDOWN WIZLOCK
+DENY DISCONNECT FREEZE
+MLOAD OLOAD PLOAD
+MSET OSET RSET SSET QSET
+NOEMOTE NOTELL SILENCE
+ECHO RECHO
+HOLYLIGHT INVIS
+MFIND OFIND
+MSTAT OSTAT RSTAT QSTAT
+BAMFIN BAMFOUT
+LOG SNOOP
+SWITCH RETURN OSWITCH ORETURN
+IMMTALK :
+~
+
+
+-1 SKILLS~
+- These help files contain all skills in the game.
+  excluding class-specific skills, which are
+  grouped under GWHELP.
+
+FASTDRAW
+HURL
+HIDE SNEAK VISIBLE
+STEAL
+BACKSTAB BERSERK BS DISARM KICK PUNCH KILL
+PEEK
+~
+
+
+-1 GWHELP~
+- These help files are specific to a godwars mud.
+
+---------------
+GODWARS
+GODWARS-HISTORY
+GODWARS-INFO  
+GODWARS-TREE
+---------------
+SORA               SWORDTECH          CHIKYU
+NINGENNO           SPEAK	      SKILL
+CRACK              ESCAPE             QUESTS 
+GODLESS            HOME               STANCE
+ADVANCESTANCE      STANCETABLE        PRIMAL
+MAGE 		   BEAST              STATUS
+DIAGNOSE           SMOTHER            BEAR
+BOAR               LYNX               OWL
+SPIDER             WOLF               HAWK
+MANTIS             PRINCIPLES
+
+NINJA NINJAS
+RANK RANKS
+SPELL SPELLS
+FIGHT STYLE FIGHTSTYLE
+SCAN SPY THROW
+WEREWOLF WEREWOLVES
+CLASS CLASSES
+'POWER OF WIND' WIND
+HIGHLANDER HIGHLANDERS
+MONK MONKS
+MANTRA MANTRAS
+CLAIM CALL GIFT LOCATE
+DECAPITATE DECAP TEAR
+MOUNT DISMOUNT
+QUEST TOKEN
+QUESTCARD COMPLETE RECHARGE
+KLAIVE 'GREATER KLAIVE' GREATERKLAIVE
+VAMPIRE VAMPIRES
+DEMON DEMONS CHAMPION CHAMPIONS
+FAVOUR SIRE PRINCE
+TOTEM TOTEMS
+DISCIPLINE DISCIPLINES
+IMMUNE IMMUNITY IMMUNITIES RESISTANCE
+TIE UNTIE GAG BLINDFOLD
+~
+-1 MAGE~
+Mages are not currently in game play.
+But here is a list of their spell helpfiles.
+
+RUNESPELLS RUNE SPELLS
+MAGESPELLS 
+MAGESPELLS1
+MAGESPELLS2
+MAGESPELLS3   
+MAGESPELLS4
+MAGESPELLS5
+MAGESPELLS6
+MAGESPELLS7
+MAGESPELLS8    
+MAGESPELLS9 
+MAGESPELLS10
+MAGESPELLS11
+MAGESPELLS12  
+MAGESPELLS13
+MAGESPELLS14
+MAGESPELLS15  
+MAGESPELLS16
+MAGESPELLS17
+MAGESPELLS18
+MAGESPELLS19
+MAGESPELLS20
+MAGESPELLS21
+MAGESPELLS22
+MAGESPELLS23
+MAGESPELLS24
+~
+
+-1 MUD~
+- These help files are normal for any diku/merc mud.
+
+DIKU          MERC          DAMAGE
+DEATH         TICK          !
+CAST          EXITS         COMPARE
+ORDER         NOTE          CHANNELS
+CONFIG        CREDITS       PROMPTS
+WHO           WHERE         HELP
+DESCRIPTION   PASSWORD      TITLE
+WIMPY         SACRIFICE     CONSIDER
+SPLIT         PRACTICE      TRAIN
+ANSI COLOUR
+EXPERIENCE XP
+PET PETS
+NORTH SOUTH EAST WEST UP DOWN
+DROP GET GIVE PUT TAKE
+EQUIPMENT INVENTORY
+FLEE RESCUE
+EXAMINE LOOK
+REST SLEEP STAND WAKE
+GTELL ; REPLY SAY TELL
+AUCTION CHAT . MUSIC QUESTION ANSWER SHOUT YELL
+EMOTE , POSE SOCIAL
+HOLD REMOVE WEAR WIELD
+BUG IDEA TYPO
+REPORT SCORE TIME WEATHER
+AREAS COMMANDS SOCIALS
+PROMPT CPROMPT
+OPEN CLOSE LOCK UNLOCK PICK
+DRINK EAT FILL EMPTY
+BUY LIST SELL VALUE
+BRANDISH QUAFF RECITE ZAP
+FOLLOW GROUP
+QUIT RENT SAVE
+RECALL /
+~
+
+
+
+
+-1 FULLHELPLIST~
+BP BODYPARTS
+BUILDER BUILDING
+HOMER
+TIPS
+FINDVNUMS 'FIND VNUMS' FREEVNUMS 'FREE VNUM'
+BULLSHIT BULL SHIT
+RANK RANKS
+MAP
+SWORDTECH
+VISION
+'POWER OF WIND' WIND
+WHY
+DIKU
+RUNESPELLS RUNE SPELLS
+VNUM VNUMS
+VNUMS2
+VNUMS3
+MERC
+BEAR
+BOAR
+LYNX
+OWL
+SPIDER
+WOLF
+HAWK
+MANTIS
+WIZLIST
+GREETING
+MOTD
+ESCUBA
+FLAG
+XMAS
+KINGDOM KINGDOMS KING KINGS
+CHANGES
+NEWS PLANS
+TRIVIA
+VOTE VOTING
+NEWBIE NEWPLAYER
+STORY
+POLICY
+SUMMARY
+CLASS CLASSES
+HIGHLANDER HIGHLANDERS
+MONK MONKS
+MANTRA MANTRAS
+SPEAK
+DAMAGE
+CLAIM CALL GIFT LOCATE
+DECAPITATE DECAP TEAR
+CRACK
+DEATH
+ESCAPE
+MOUNT DISMOUNT
+QUESTS
+QUEST TOKEN
+QUESTCARD COMPLETE RECHARGE
+QUEST-TYPES
+EXPERIENCE XP
+STATUS
+SKILL
+SPELL SPELLS
+GODLESS
+HOME
+SAFE SAFETY 'SAFE ROOM'
+PET PETS
+TICK
+!
+CAST
+EXITS
+NORTH SOUTH EAST WEST UP DOWN
+DROP GET GIVE PUT TAKE
+EQUIPMENT INVENTORY
+COMPARE
+BACKSTAB BERSERK BS DISARM KICK PUNCH KILL
+FASTDRAW
+ANSI COLOUR
+STANCE
+ADVANCEDSTANCE
+STANCETABLE
+FIGHT STYLE FIGHTSTYLE
+HURL
+SCAN SPY THROW
+FLEE RESCUE
+EXAMINE LOOK
+ORDER
+REST SLEEP STAND WAKE
+GTELL ; REPLY SAY TELL
+NOTE
+AUCTION CHAT . MUSIC QUESTION ANSWER SHOUT YELL
+EMOTE , POSE SOCIAL
+HOLD REMOVE WEAR WIELD
+CHANNELS
+CONFIG
+BUG IDEA TYPO
+CREDITS
+REPORT SCORE TIME WEATHER
+AREAS COMMANDS SOCIALS
+PROMPT CPROMPT
+PROMPTS
+PRIMAL
+WEREWOLF WEREWOLVES
+KLAIVE 'GREATER KLAIVE' GREATERKLAIVE
+VAMPIRE VAMPIRES
+MAGESPELLS
+MAGESPELLS1
+MAGESPELLS2
+MAGESPELLS3
+MAGESPELLS4
+MAGESPELLS5
+MAGESPELLS6
+MAGESPELLS7
+MAGESPELLS8
+MAGESPELLS9
+MAGESPELLS10
+MAGESPELLS11
+MAGESPELLS12
+MAGESPELLS13
+MAGESPELLS14
+MAGESPELLS15
+MAGESPELLS16
+MAGESPELLS17
+MAGESPELLS18
+MAGESPELLS19
+MAGESPELLS20
+MAGESPELLS21
+MAGESPELLS22
+MAGESPELLS23
+MAGESPELLS24
+DEMON DEMONS CHAMPION CHAMPIONS
+BEAST
+FAVOUR SIRE PRINCE
+TOTEM TOTEMS
+DISCIPLINE DISCIPLINES
+PROTEAN
+CELERITY
+FORTITUDE
+POTENCE
+OBFUSCATE
+OBTENEBRATION
+SERPENTIS
+AUSPEX
+DOMINATE
+IMMUNE IMMUNITY IMMUNITIES RESISTANCE
+TIE UNTIE GAG BLINDFOLD
+DIAGNOSE
+TERMS
+WHO
+WHERE
+HELP
+DESCRIPTION
+PASSWORD
+TITLE
+WIMPY
+OPEN CLOSE LOCK UNLOCK PICK
+DRINK EAT FILL EMPTY
+BUY LIST SELL VALUE
+SACRIFICE
+SMOTHER
+BRANDISH QUAFF RECITE ZAP
+CONSIDER
+FOLLOW GROUP
+HIDE SNEAK VISIBLE
+QUIT RENT SAVE
+RECALL /
+SPLIT
+STEAL
+PRACTICE
+TRAIN
+TRUST
+ALLOW BAN
+REBOOT SHUTDOWN WIZLOCK
+DENY DISCONNECT FREEZE
+FORCE
+USERS
+MLOAD OLOAD PLOAD
+MSET OSET RSET SSET QSET
+OCLONE
+OTRANSFER
+MCLEAR
+QTRUST
+NOEMOTE NOTELL SILENCE
+PURGE
+RESTORE
+SLAY
+TRANSFER
+AT
+ECHO RECHO
+GOTO 
+HOLYLIGHT INVIS
+MEMORY
+MFIND OFIND
+MSTAT OSTAT RSTAT QSTAT
+MWHERE
+PEACE
+BAMFIN BAMFOUT
+SLOOKUP
+LOG SNOOP
+SWITCH RETURN OSWITCH ORETURN
+IMMTALK :
+WIZHELP
+ARMOR
+BLESS
+BLINDNESS
+BREW SCRIBE CARVE ENGRAVE BAKE
+'ACID BLAST' 'BURNING HANDS' 'COLOUR SPRAY' FIREBALL 'LIGHTNING BOLT' 'MAGIC MISSILE' 'SHOCKING GRASP'
+'CALL LIGHTNING'
+'CAUSE LIGHT' 'CAUSE SERIOUS' 'CAUSE CRITICAL' HARM
+'CHANGE SEX'
+'CHARM PERSON'
+'CHILL TOUCH'
+'CONTINUAL LIGHT'
+'CONTROL WEATHER'
+'CREATE FOOD'
+'CREATE SPRING'
+'CREATE WATER'
+'CURE BLINDNESS'
+'CURE POISON'
+'CURE LIGHT' 'CURE SERIOUS' 'CURE CRITICAL' HEAL
+CURSE
+DARKBLESSING
+'DETECT EVIL'
+'DETECT HIDDEN'
+'DETECT INVIS'
+'DETECT MAGIC'
+'DETECT POISON'
+'DISPEL EVIL'
+'DISPEL MAGIC'
+EARTHQUAKE
+'ENCHANT WEAPON'
+'ENERGY DRAIN'
+'FAERIE FIRE'
+'FAERIE FOG'
+'FIND FAMILIAR'
+FLAMESTRIKE
+FLY
+FRENZY
+GATE
+'GIANT STRENGTH'
+GUARDIAN
+IDENTIFY
+IMPROVE
+INFRAVISION
+INVIS 'MASS INVIS'
+'KNOW ALIGNMENT'
+'LOCATE OBJECT'
+MANA
+'MINOR CREATION'
+MOUNTSPELL
+'PASS DOOR'
+POISON
+PORTAL
+PORTALS PORTALROOM
+EXAMPLE#1
+EXAMPLE#2
+PRESERVE
+PROTECTION SANCTUARY
+QUESTSPELL
+REFRESH
+'REMOVE CURSE'
+REGENERATE CLOT MEND
+RESISTANCE
+SCANSPELL REPAIR
+SHIELD 'STONE SKIN'
+SLEEPSPELL
+SOULBLADE
+SPELLPROOF
+SUMMON
+TELEPORT
+TRANSPORT
+VENTRILOQUATE
+VOODOO
+WEAKEN
+'WORD OF RECALL'
+'ACID BREATH' 'FIRE BREATH' 'FROST BREATH' 'GAS BREATH' 'LIGHTNING BREATH'
+PEEK
+NINJA NINJAS
+PRINCIPLES
+SORA
+CHIKYU
+NINGENNO
+GODWARS
+GODWARS-HISTORY
+GODWARS-INFO
+GODWARS-TREE
+
+~
+
+0 CLASS CLASSES~
+These are the following classes we have at the moment:
+
+Drow
+Demon
+Highlander
+Monk
+Ninja
+Vampire
+Werewolf
+
+Also check out HELP KINGDOM.
+~
+
+0 HIGHLANDER HIGHLANDERS~
+
+Highlanders are elite combatants. They are weaponmasters. Their power lies
+in there one weapon, the katana. They are able to get your weapon skills
+up to 240. Highlanders have the unique ability to train there 
+wis,str,int,dex,con to 25, which is the max. Highlanders can create there
+very own katana for the price of 60 primal.
+
+Commands :
+
+Swordtech - see help {Wswordtech{x
+Katana - Creates your very own katana. ( 60 Primal)
+~
+
+0 MONK MONKS~
+
+Monks are buddhist warriors, they truly live in peace, but if you do
+something bad to one, you'll regret it. They have amazing powers which
+they receive from there god buddha. They truly are one of the most amazing
+warriors that ever lived. 
+
+Misc. Monk Commands:
+ 
+              Guide - Creates another monk. ( Abbots Only )
+         
+              Mantra - A list of monk powers.
+
+              Monkarmor - Shows a list of monk armour.
+
+* Check help 'mantra' for more information on the powers.
+~
+
+0 MANTRA MANTRAS~
+ _________________________________________________________________________
+|Powers            |Price|Does                                            |
+|------------------|-----|------------------------------------------------|
+|Eyes of God       |10   |Gives you a holy vision that sees all.          |
+|Trio Mantra       |20   |Readaura/Scry/Shield.                           |
+|Sacred Invis      |30   |Vanish from existance.                          |
+|Heart of Oak      |40   |Toughness.                                      |
+|Adamantium Hands  |50   |Your hands turn adamantium, parry fast.         |
+|Steel Shield      |60   |Make yourself unattackable.                     |
+|Almighty Favor    |70   |You get bless which gives you extra hit/dam/ac. |
+|Dark Blaze        |80   |Blinds your opponent.                           |
+|Celestial Path    |90   |Astral or goto mobs, or people with summon on.  |
+|Fists of Fury     |100  |Counter-attack your opponents parries.          |
+|Cloak of Life     |110  |Regen a bit faster when morted.                 |
+|Power of Wind     |120  |Learn one of the ancient arts of the Wind forms.|
+|__________________|_____|________________________________________________| 
+
+ Price meaning amout of Primal Needed.
+~
+
+0 SPEAK~
+You have three different ways of speaking. The default is Common.
+The other type of languages are Bad and Olde. You can change the way
+you speak by using the following syntax.
+
+Syntax: speak <language>
+~
+
+0 DAMAGE~
+When someone attacks someone else, a damage message is displayed to give 
+you an idea of how much damage you have caused.  The following messages 
+represent the following amounts of damage.
+
+If you missed, then you did 0 points of damage.
+If you lightly hit, then you did 1 to 25 points of damage.   
+If you hit, then you did 26 to 50 points of damage.
+If you hit hard, then you did 51 to 100 points of damage.
+If you hit kinda hard, then you did 101 to 250 points of damage.
+If you hit insanely hard, then you did 251 to 500 points of damage.
+If you hit fucking hard, then you did 500 to 1000 points of damage.
+If you hit castratingly HARD, then you did 1001 to 1500 points of damage.
+If you hit UNBELIEVABLY goddamn HARD, then you did 1501 or more damage.
+
+Your final blow will be a death move, depending on your weapon type.
+~
+
+
+
+0 CLAIM CALL GIFT LOCATE~
+Syntax: claim <object>
+Syntax: call <object>
+Syntax: call all
+Syntax: gift <object> <player>
+Syntax: locate
+
+By claiming an object (which costs 500 exp), that object becomes your 
+personal property.  Using the 'locate' command you can find what items 
+currently belong to you and where they are in the mud.  If you are not 
+carrying the item, you can get it back by calling it with the 'call' 
+command.  You can change the ownership of your own items by use of the 
+'gift' command.
+~
+
+
+
+0 DECAPITATE DECAP TEAR~
+Do this to another avatar when they are mortally wounded, and you will 
+suck out some of their lifeforce (represented by 1000exp), making them 
+mortal again.  You may also loot their corpse, of course, and if you are 
+hungry you can even eat their head ;)
+Decapitation alone is not enough to completely destroy another avatar 
+however, for their head will retain their remaining lifeforce.  To truely 
+kill them, you must crack open their head and eat (or in some other way 
+destroy) their brain.
+
+Syntax: decap <victim>    Must wield a weapon.
+Syntax: tear <victim>     For WW only.
+~
+
+
+
+0 CRACK~
+While holding a head in either your left or right hand, typing 'crack' 
+will crack the head open, spilling the brains out onto the floor.
+~
+
+
+
+0 DEATH~
+When your character dies, you are reincarnated back at the Altar of the Temple
+of Midgaard.  Your corpse is left behind in the room where you were killed,
+together with all of your equipment.  Your gold stays with you.
+
+Any spells which were affecting you are canceled by death.
+
+Following and groups are not affected by death.
+
+You lose experience points for dying.  The amount you lose is half of your 
+current amount, so it's a good idea not to hoard exp.
+
+Corpses decay after time, and the objects inside corpses decay with them.
+Player corpses last *roughly* 30 hours of game time (15 minutes of real time).
+~
+
+
+
+0 ESCAPE~
+This command allows you to transport to the temple of midgaard when 
+mortally wounded.  Unfortunately, it also reduces both your mana and move 
+to 0, and informs everyone else on the mud that you are lying defenseless 
+at recall...so be careful how you use it.
+~
+
+
+
+0 MOUNT DISMOUNT~
+Syntax: mount <creature>
+Syntax: dismount
+
+This allows the character to mount the specified creature.  Only 
+creatures such as horses and the like may be mounted, and they will aid 
+their rider in combat.
+
+For information on the MOUNT spell, type 'help mountspell'.
+~
+
+
+
+0 QUESTS~
+Quest Makers (and occasionally higher levels) can set quests for one or 
+more players to participate in.  The rewards for such quests can be in 
+the form of specially modified equipment.  A number of quest points-worth 
+will be allocated depending on the difficulty of the quest, using the 
+following guidelines for point costs (QP's = Quest Points):
+
+Stats (Str/Dex/Int/Wis/Con): 20 QP's per +1, max allowed is +3 per stat.
+Hp/Mana/Move: 5 QP per +1, max allowed is +25 on each.
+Hitroll/Damroll: 30 QP's per +1, max allowed is +5 on each.
+Ac: 10 QP's per -1, max allowed is -25.
+
+Once a certain affect (str, hitroll, ac, etc) is selected, it cannot be 
+chosen again for that item even if you didn't select the maximum allowed 
+amount.  Choosing to have penalties on an item will not decrease its 
+cost, although some Quest Makers may allow extra points if you select a 
+few disadvantages on the item.
+
+For more information, type 'quest'.
+~
+
+
+
+0 QUEST TOKEN~
+Syntax: quest <field> <value>
+Syntax: token <value>
+
+QUEST will allow you to spend any quest points you might have.  For a 
+list of the cost (in quest points), type 'quest'.
+
+TOKEN will allow you to create a quest token, with the value of the token 
+set to the value specified.  The tokens value must be within 1 and 50, 
+and it cannot be greater than the number of quest points you currently 
+have.
+
+For information on the QUEST spell, type 'help questspell'.
+~
+
+
+
+0 QUESTCARD COMPLETE RECHARGE~
+Syntax: complete card
+Syntax: complete card <object>
+Syntax: recharge card machine
+
+A quest card requires 4 objects to complete.  To find out what 4 objects 
+you need, type 'complete card'.  When you find these items, you should 
+type 'complete card <object>'.  Once you have completed all 4 items on 
+the card you will be told that you have completed the card.  Then you 
+should go and find the dark crypt, where there is a machine, and type 
+'recharge card machine'.  You will receive a quest token reward, which 
+you should eat, and the card will be recharged with 4 new items to find.
+
+HINT:  Vallandar's tomb can be found by going 2 south, 7 east, 2 north 
+from recall.  Once you have found that area, you should look for the 
+guardian and solve his riddle, enter the portal he creates, and you'll be 
+in the dark crypt.
+~
+
+
+
+0 QUEST-TYPES~
+The following are a few examples of quest types:
+* Find the object/s.  Examples: Find 5 different coloured potions, Find a 
+  pitch black longsword that flames brightly, Find a dragon dagger, belt 
+  and bracer, etc.
+* Kill the mob/s.  These can be hunt down and kill, or simple placing the 
+  player in the same room as the mob/s.  Can also be combined with finding 
+  objects - Example: Find and kill two different dragons and bring me 
+  their claws.
+* Solve a puzzle.  For example find a certain room, solve a riddle in an 
+  area, or successfully get out of a maze.  These are particularly good 
+  when several players of different ability are competing in the quest.
+* Duel: A one-on-one fight pitting either a player against a mob, or 
+  (more usually) a player against another player.  The conditions will be 
+  decided beforehand, and can include any conditions that both sides 
+  agree on.  Example: No sanctuary, no potions (or maybe a limited number),
+  no spells, no weapons, or whatever.
+* Skirmishes: Like a duel, but involves several players on either side.  
+  Although the sides don't have to be equal in number, it is generally a 
+  good idea to make sure they are roughly equal in power.
+* There are also several more obscure quests that can be run - for 
+  example you could require that the player brings you 3 small green 
+  eggs, then load mob 30005 into the players room.  Another battle might 
+  involve no melee - all combat must be with missile weapons.
+~
+
+
+
+0 EXPERIENCE XP~
+Your character advances in power by gaining experience.
+
+You gain experience by being part of a group that kills someone/something.
+
+You lose experience by dying or being decapitated.
+
+The experience you get from a kill depends on several things: how many players
+are in your group; your alignment versus your opponent's alignment; how 
+many of this monster have been killed lately (if they are an NPC); and 
+some random variation.
+
+See also help on 'status' and 'statustable'
+~
+
+
+
+0 STATUS~
+
+This represents the 'danger' of the player.  You only have a status if 
+you are level 3.  It grants no extra powers, but is a good measure of 
+how deadly that player is in combat.  Each time you decapitate an 
+Immortal+ (or an Avatar if you are also an Avatar) your status goes up by 
+one and their status goes down by one (to a minimum of zero).  The 
+following shows how many kills (minus deaths) you need for each status:
+
+Remember, if your status is Immortal or above you gain nothing for 
+decapitating an Avatar (except a free loot, a head, and an enemy).
+
+
+~
+
+0 SKILL~
+Syntax: skill | skill <player>
+
+This shows the target player's skill with the weapon they are currently 
+wielding and the stance they are in (if it's a specialized stance).
+
+Weapon skill				 Stance skill
+
+ 1) Totally unskilled.			 1) Totally unskilled.
+ 2) Slightly skilled.			 2) An apprentice.
+ 3) Reasonable.				 3) A trainee.
+ 4) Fairly competent.			 4) A student.
+ 5) Highly skilled.			 5) Fairly experienced.
+ 6) Very dangerous.			 6) Well trained.
+ 7) Extremely deadly.			 7) Highly skilled.
+ 8) An expert.				 8) An expert.
+ 9) A master.				 9) A master.
+10) A grandmaster.			10) A grandmaster.
+
+Note that these are only rough estimates; one master might well be 
+slightly more skilled than another master, and so on.
+~
+
+
+
+0 SPELL SPELLS~
+Syntax: spells | spell <colour>
+
+This shows your spell casting ability with the various types of magic.
+
+1) Untrained.				 6) An adept.
+2) An apprentice.			 7) A mage.
+3) A student.				 8) A warlock.
+4) A scholar.				 9) A master wizard.
+5) A magus.				10) A grand sorcerer.
+
+Note that these are only rough estimates; one master wizard might well be 
+slightly more skilled than another master wizard, and so on.
+~
+
+
+
+0 GODLESS~
+By typing this, you will no longer be affected by most god commands, 
+including restore, force, slay, mset, transfer, deny, freeze, etc.  You 
+can toggle your godless flag on and off at will, and everyone in the mud 
+is informed each time you do this.
+~
+
+
+
+0 HOME~
+To set your recall point, enter the desired room and type 'home here'.  
+From that point on you will recall to that point rather than the Temple 
+of Midgaard (although you still go to the Templar Altar if you die).
+
+A home cannot be a safe room.
+~
+
+
+0 SAFE SAFETY 'SAFE ROOM'~
+
+If you need to go afk or be safe, type "safe" in a safe room.
+
+There is no majesty, gaia, steelshield, etc.
+
+You cannot fight or be fought while safe.
+
+You can only GO safe if you havent fought a player within so many ticks.
+
+You cant move/cast spells while safe.
+
+~
+
+
+0 PET PETS~
+You can buy pets in the pet shop.  Your pet-buying opportunities do not 
+accumulate; use them or lose them.  This policy prevents wholesale abuse 
+of pets.
+~
+
+
+
+0 TICK~
+Many of the game actions are based upon interval timers, including combat,
+most autonomous monster actions, hp/mana/move regeneration, spell duration,
+weather, and area resetting.
+
+Of these timers, the hp/mana/move regeneration timer is popularly called the
+'tick'.  Ticks on this mud average 30 seconds of real time, but the actual
+amount varies randomly from 15 seconds to 45 seconds.
+
+Area resetting happens roughly every 3 minutes if no one is in the area; less
+often (15 minutes) if some one is.  Also note that objects lying on the ground
+will not be regenerated if anyone is in the area when it resets.
+~
+
+
+
+0 !~
+Syntax: !
+
+! repeats the last command you typed.
+~
+
+0 NORTH SOUTH EAST WEST UP DOWN~
+Syntax: north
+Syntax: south
+Syntax: east
+Syntax: west
+Syntax: up
+Syntax: down
+
+Use these commands to walk in a particular direction.
+~
+
+0 CAST~
+Syntax: cast <spell> <target>
+
+Before you can cast a spell, you have to practice it.  The more you practice,
+the higher chance you have of success when casting.  Casting spells costs mana.
+The mana cost decreases as your magical ability increases.
+
+The <target> is optional.  Many spells which need targets will use an
+appropriate default target, especially during combat.
+
+If the spell name is more than one word, then you must quote the spell name.
+Example: cast 'cure critic' frag.  Quoting is optional for single-word spells.
+You can abbreviate the spell name.
+
+When you cast an offensive spell, the victim usually gets a saving throw.
+The effect of the spell is reduced or eliminated if the victim makes the
+saving throw successfully.
+
+See also the help sections for individual spells.
+~
+
+0 EXITS~
+Syntax: exits
+
+Tells you the visible exits of the room you are in.  Not all exits are visible.
+You can use the 'bump' technique to find hidden exits.  (Try to walk in a
+certain direction and see what you bump into).
+~
+
+0 DROP GET GIVE PUT TAKE~
+Syntax: drop <object>
+Syntax: drop <amount> coins
+Syntax: get  <object>
+Syntax: get  <object> <container>
+Syntax: give <object> <character>
+Syntax: give <amount> coins <character>
+Syntax: put  <object> <container>
+
+DROP drops an object, or some coins, on the ground.
+
+GET gets an object, either lying on the ground, or from a container, or even
+from a corpse.  TAKE is a synonym for get.
+
+GIVE gives an object, or some coins, to another character.
+
+PUT puts an object into a container.
+
+DROP, GET and PUT understand the object names 'ALL' for all objects and
+'ALL.object' for all objects with the same name.
+~
+
+0 EQUIPMENT INVENTORY~
+Syntax: equipment
+Syntax: inventory
+
+EQUIPMENT lists your equipment (armor, weapons, and held items).
+INVENTORY lists your inventory.
+~
+
+0 COMPARE~
+Syntax: compare <object-1> <object-2>
+Syntax: compare <object>
+
+COMPARE compares two objects in your inventory.  If both objects are weapons,
+it will report the one with the better average damage.  If both objects are
+armor, it will report the one with the better armor class.
+
+COMPARE with one argument compares an object in your inventory to the object
+you are currently wearing or wielding of the same type.
+
+COMPARE doesn't consider any special modifiers of the objects.
+~
+
+0 BACKSTAB BERSERK BS DISARM KICK PUNCH KILL~
+Syntax: backstab <character>
+Syntax: berserk
+Syntax: disarm
+Syntax: kick
+Syntax: punch    <character>
+Syntax: kill     <character>
+
+KILL starts a fight, and, hopefully, kills something.  BACKSTAB is another way
+to start a fight, used by thieves.  BS is a synonym for BACKSTAB.
+
+BERSERK will make you strike out at every creature in the room.  It will 
+hit players as well as mobiles, so it's a good idea not to use this skill 
+while you are grouped.
+DISARM is an auxiliary fighting command to disarm your opponent.  Similarly,
+KICK will inflict more damage during combat by kicking.
+PUNCH will inflict a small amount of damage, and stun your opponent for a 
+short period of time.  It also has a chance of breaking your opponents 
+nose or jaw.
+
+In order to BACKSTAB, DISARM, KICK or PUNCH successfully, you must practice
+the appropriate skill.
+~
+
+0 FASTDRAW~
+
+FASTDRAW is automatic, if you have it.  If another player attacks you 
+while you have any sheathed weapons, you will draw them out with 
+lightning speed and strike your opponent before they are able to land any 
+blows on you.  If you have any items in your hands at the time, you will 
+throw them aside before drawing your weapons.
+~
+
+0 ANSI COLOUR COLOR~
+Syntax: ansi
+
+This will show things in colour.  Spells will appear in their appropriate 
+colour, and important messages will be highlighted.  Your exp (or opponents
+condition if you're fighting), hp, mana and move are shown in scaled colour.
+Scaled colour is represented as follows:
+
+Cyan   : Maximum.
+Yellow : 75% to just below maximum.
+Green  : 50% to just below 75%
+Blue   : 25% to just below 50%
+Red    : Below 25%
+
+Ansi colour can be toggled on and off with the 'ansi' or 'config' commands.
+~
+
+0 STANCE~
+Syntax: stance <style>
+
+In combat, the stance of the fighter plays a very important role; you 
+can't just stand there and exchange blow for blow unless you are very 
+confident of your ability.  Each fighting stance has advantages and 
+disadvantages, the basic outline of which follows:
+VIPER: A very fast and aggressive style of combat, concentrating on 
+striking your opponent before they have the chance to avoid or block you.
+CRANE: A wide, sweeping style of combat, which concentrates on a very 
+strong blocking defence.
+CRAB: A low, defensive fighting stance which uses agile footwork and 
+rolling with attacks in order to reduce your injuries.
+MONGOOSE: A light-footed stance, which relies on leaps and acrobatics to 
+ensure that by the time your opponent makes their attack, you've moved 
+out of the way.
+BULL: A low aggressive stance which concentrates purely on physical power.
+
+See also help on 'advancedstance' and 'stancetable' and 'autostance'.
+~
+
+0 ADVANCEDSTANCE~
+Syntax: stance <style>
+
+Advanced stances can be learned after you have become a grand master in 
+two normal stances.  These stances are much better than the others.
+MANTIS: Requires CRANE and VIPER before it can be learned.  This stance 
+combines a very strong defence with lightning fast counter attacks.
+DRAGON: Requires BULL and CRAB before it can be learned.  This stance 
+uses very powerful attacks, as well as protecting the fighter from injury.
+TIGER: Requires BULL and VIPER before it can be learned.  Probably the 
+most aggressive of all the stances, this style utilizes very powerful and
+lightning fast attacks.
+MONKEY: Requires CRANE and MONGOOSE before it can be learned.  The only 
+affect of this stance is to completely nullify the advantages of your 
+opponents stance.
+SWALLOW: Requires MONGOOSE and CRAB before it can be learned.  This is 
+the most defensive of all the stances, combining agile dodges with the 
+ability to 'roll' with an attack, helping prevent injury.
+
+See also help on 'stance' and 'stancetable' and 'autostance'.
+~
+
+0 STANCETABLE~
+
+The following table is a rough comparison of stances, giving a value 
+between 10 and -10, where the higher the number the better your chance of 
+victory.  Cross-reference your stance from the left with your opponents 
+stance from along the top.  Please remember these are only rough 
+estimates, and may not be completely accurate...
+
+          None Vipr Cran Mmgs Bull Crab Mnts Tigr Drgn Mnky Swlw 
+None        0   -4   -5   -5   -5   -5   -9   -9   -10   0   -10 
+Viper      +4    0   +3   +3   -2   -2   -2   -7   -9    0   -4  
+Crane      +5   -3    0    0   +2   +2   -8   -6   -1    0   -3  
+Mongoose   +5   -3    0    0   +2   +2   -8   -6   -1    0   -3  
+Bull       +5   +2   -2   -2    0   +2   -5   -3   -3    0   -5  
+Crab       +5   +2   -2   -2   -2    0   -5   -5   -7    0   -7 
+Mantis     +9   +2   +8   +8   +5   +5    0   -3    0    0   +3  
+Tiger      +9   +7   +6   +6   +3   +5   +3    0   -2    0   +1  
+Dragon     +10  +9   +1   +1   +3   +7    0   +2    0    0   -2  
+Monkey      0    0    0    0    0    0    0    0    0    0    0  
+Swallow    +10  +4   +3   +3   +5   +7   -3   -1   +2    0    0  
+~
+
+0 FIGHT STYLE FIGHTSTYLE~
+Syntax: fightstyle <number> <style>
+
+This is used for unarmed combat, and it allows the fighter to decide on 
+their style of unarmed attack.  Many different types of attack are 
+possible, each with different advantages and disadvantages.  Your first 
+attack in combat always uses the first number slot.  If you have a second 
+attack, this will draw a fighting technique from slots 1 to 4.  If you 
+have a third attack, it will draw a fighting technique from slots 5 to 
+8.  Any other attacks are randomly drawn from any of slots 1 to 8.  If 
+the slot is blank (0) then the attack is a standard unarmed attack.
+~
+
+0 HURL~
+Syntax: hurl <name>
+Syntax: hurl <name> <direction>
+
+This ability allows you to hurl the target into walls, through exits, or 
+through doors.  Hurling someone through an exit does a little damage.  
+Hurling them into walls does twice as much, and hurling them through 
+doors does three times as much.  If you don't specify a direction to hurl 
+the target, it will be random (north, south, east or west).  You cannot 
+hurl someone who is already injured.
+~
+
+0 SCAN SPY THROW~
+Syntax: scan
+Syntax: spy   <direction>
+Syntax: throw <direction> <target>
+
+SCAN allows you to see all the mobs/players within 1 room of you.
+
+SPY allows you to see all the mobs/players within 3 rooms in a specified 
+direction.
+
+THROW allows you to hurl an object you are holding (in your right hand, 
+or if that's empty left hand) to a target mob/player in a specified 
+direction.  The object can be throw up to 3 rooms.  If it fails to reach 
+the target by that time it will land on the floor.
+
+For information on the SCAN spell, type 'help scanspell'.
+~
+
+0 FLEE RESCUE~
+Syntax: flee
+Syntax: rescue   <character>
+
+Once you start a fight, you can't just walk away from it.  If the fight
+is not going well, you can attempt to FLEE, or another character can
+RESCUE you.  (You can also RECALL, but this is less likely to work,
+and costs more experience points, then fleeing).
+
+If you lose your link during a fight, then your character will keep
+fighting, and will attempt to RECALL from time to time.  Your chances
+of making the recall are reduced, and you will lose much more experience.
+
+In order to RESCUE successfully, you must practice the appropriate skill.
+~
+
+0 EXAMINE LOOK~
+Syntax: look
+Syntax: look    <object>
+Syntax: look    <character>
+Syntax: look    <direction>
+Syntax: look    <keyword>
+Syntax: look in <container>
+Syntax: look in <corpse>
+Syntax: examine <container>
+Syntax: examine <corpse>
+
+LOOK looks at something and sees what you can see.
+
+EXAMINE is short for 'LOOK container' followed by 'LOOK IN container'.
+~
+
+0 ORDER~
+Syntax: order <character> command
+Syntax: order all command
+
+ORDER orders one or all of your charmed followers (including pets) to
+perform any command.  The command may have arguments.  You are responsible
+for the actions of your followers, and others who attack your followers
+will incur the same penalty as if they attacked you directly.
+
+Most charmed creatures lose their aggresive nature (while charmed).
+
+If your charmed creature engages in combat, that will break the charm.
+~
+
+0 REST SLEEP STAND WAKE~
+Syntax: rest
+Syntax: sleep
+Syntax: stand
+Syntax: wake
+
+These commands change your position.  When you REST or SLEEP, you 
+regenerate hit points, mana points, and movement points faster.
+However, you are more vulnerable to attack, and if you SLEEP,
+you won't hear many things happen.
+
+Use STAND or WAKE to come back to a standing position.  You can
+also WAKE other sleeping characters.
+
+For info on the sleep spell, type: 'help sleepspell'.
+~
+
+0 GTELL ; REPLY SAY TELL~
+Syntax: gtell <message>
+Syntax: say   <message>
+Syntax: tell  <character> <message>
+
+All of these commands send messages to other players.  GTELL sends a message to
+all of the characters in your group, wherever they are, even if they are
+sleeping or stunned or dying.  ';' is a synonym for GTELL.
+
+SAY sends a message to all awake players in your room.  The single quote '''
+is a synonym for SAY.
+
+TELL sends a message to one awake player anywhere in the world.
+
+REPLY sends a message to the last player who sent you a TELL.  REPLY will work
+even if you can't see the player, and without revealing their identity.  This
+is handy for talking to invisible or switched immortal players.
+~
+
+0 NOTE~
+Syntax: note list
+Syntax: note read    <number>
+Syntax: note read    all
+Syntax: note +       <message>
+Syntax: note subject <string>
+Syntax: note to      <to-list>
+Syntax: note clear
+Syntax: note show
+Syntax: note post
+Syntax: note remove  <number>
+
+NOTE LIST lists notes which you can read.  NOTE READ reads one or all notes.
+
+NOTE SUBJECT sets the subject line of a new note.  NOTE TO sets the list of
+recipients.  The recipient ALL means all players, and the recipient IMMORTAL
+means all immortals.  Use NOTE + to write message lines onto the note, one line
+at a time.  NOTE SHOW shows your note in progress; NOTE CLEAR starts over.
+
+NOTE POST posts your note for reading.  Posting is not automatic.
+
+NOTE REMOVE removes the entire note if you are the sender, or just removes you
+from the to-list if you are a recipient.
+~
+0 AUCTION CHAT . MUSIC QUESTION ANSWER SHOUT YELL~
+Syntax: auction  <message>
+Syntax: chat     <message>
+Syntax: music    <message>
+Syntax: question <message>
+Syntax: answer   <message>
+Syntax: shout    <message>
+Syntax: yell     <message>
+
+These commands send messages through communication channels to other players.
+
+SHOUT sends a message to all awake players in the world.  To curb excessive
+shouting, SHOUT imposes a three-second delay on the shouter.
+
+AUCTION, CHAT, MUSIC, and QUESTION and ANSWER also send messages to all
+interested players.  '.' is a synonym for CHAT.  The QUESTION and ANSWER
+commands both use the same 'question' channel
+
+YELL sends a message to all awake players within your area.
+
+You can use the CHANNELS command to hear, or not hear, any of these channels.
+~
+
+0 EMOTE , POSE SOCIAL~
+Syntax: emote <action>
+Syntax: pose
+
+EMOTE is used to express emotions or actions.  Besides EMOTE, there are
+several dozen built-in social commands, such as CACKLE, HUG, and THANK.
+
+POSE is a variant of EMOTE.
+~
+
+0 HOLD REMOVE WEAR WIELD~
+Syntax: hold   <object>
+Syntax: remove <object>
+Syntax: wear   <object>
+Syntax: wear   all
+Syntax: wield  <object>
+
+Three of these commands will take an object from your inventory and start using
+it as equipment.  HOLD is for light sources, wands, and staves.  WEAR is for
+armor.  WIELD is for weapons.
+
+WEAR ALL will attempt to HOLD, WEAR, or WIELD each suitable item in your
+inventory.
+
+You may not be able to HOLD, WEAR, or WIELD an item if its alignment does not
+match yours, if it is too heavy for you, or if you are not experienced enough
+to use it properly.
+
+REMOVE will take any object from your equipment and put it back into your
+inventory.
+~
+
+0 CHANNELS~
+Syntax: channels
+Syntax: channels +<channel>
+Syntax: channels -<channel>
+
+With no options, CHANNELS shows you your current channels.  With a plus or
+minus sign and an option, CHANNELS turns that channel on or off.
+~
+
+0 CONFIG~
+Syntax: config
+Syntax: config +<option>
+Syntax: config -<option>
+
+This command configures some of your character behavior.  With no options,
+CONFIG shows you your current settings.  With a plus or minus sign and
+an option, CONFIG turns that option on or off.
+
+The options are:
+
+    ANSI      You view things in colour.
+    AUTOEXIT  You automatically see exits.
+    AUTOLOOT  You automatically loot corpses.
+    AUTOSAC   You automatically sacrifice corpses.
+    BLANK     You have a blank line before your prompt.
+    BRIEF     You see brief descriptions only.
+    COMBINE   You see object lists in combined format.
+    PROMPT    You have a prompt.
+    TELNETGA  You receive a telnet GA sequence.
+~
+
+0 BUG IDEA TYPO~
+Syntax: bug <message>
+Syntax: idea <message>
+Syntax: typo <message>
+
+These commands will take your message and record it into a file as feedback
+to the mud implementors.
+~
+
+0 CREDITS~
+Syntax: credits
+
+This command shows the list of the original Diku Mud implementors.
+~
+
+0 REPORT SCORE TIME WEATHER~
+Syntax: report
+Syntax: score
+Syntax: time
+Syntax: weather
+
+REPORT shows your current statistics to you and also announces them to other
+players in the room.
+
+SCORE shows detailed statistics to you only.
+
+TIME shows the game time, as well as the time the mud was last started,
+and the current local time for the host computer.
+
+WEATHER shows the current game weather.
+~
+
+0 AREAS COMMANDS SOCIALS~
+Syntax: areas
+Syntax: commands
+Syntax: socials
+
+AREAS shows you all the areas in the game, with the author's name and the
+levels of the mobs that inhabit that area.
+
+COMMANDS shows you all the (non-social) commands available to you.
+
+SOCIALS shows you all the social commands available to you.
+~
+
+0 PROMPT CPROMPT~
+
+This command allows you to configure your prompt.  The PROMPT command 
+will set your standard prompt.  You also have the option of having a 
+combat prompt, CPROMPT, which will appear while fighting.  If no cprompt 
+is defined, the standard prompt will be used for both conditions.
+The following options are available:
+
+%a %A = Alignment (word/numeric).   %b %B = Beast/Blood.
+%c    = Armour Class.               %f %F = Condition of opponent/tank. 
+%g    = Gold.                       %h %H = Current hp/Max hp.          
+%m %M = Current mana/Max mana.      %n %N = Name of opponent/tank.      
+%p %P = Plus Hitroll/Plus Damroll.  %q    = Quest points.
+%r %R = Room name/Rage.             %s %S = Status (word/numeric).
+%v %V = Current move/Max move.      %x    = Exp.
+
+To switch your prompt on and off, use 'prompt on' and 'prompt off'.
+For some examples, type 'help prompts'.
+~
+
+0 PROMPTS~
+
+There are many possible prompts, and everyone will have their own 
+favoured setups.  However, to get you going, here are some examples:
+
+Original normal prompt: [%x exp] <%h/%Hhp %m/%Mm %v/%Vmv>
+Original combat prompt: [%f] <%h/%Hhp %m/%Mm %v/%Vmv>
+Simple prompt: [%hH/%mM/%vV]
+Vampire prompt: [%B Blood] <%hhp %mm %vmv>
+Werewolf prompt: [%R Rage] <%hhp %mm %vmv>
+Combat prompt: [%N:%F/%n:%f]
+Stat prompt: [%xX] [+%pHIT/+%PDAM] [%cAC] [%hH/%mM/%vV]
+
+Remember, you can switch between the default prompts and your customised
+prompts with 'prompt on' and 'prompt off'.  Doing this will not destroy 
+your customised prompts.
+~
+
+0 PRIMAL~
+
+Primal energy is the ultimate form of energy in the multiverse, the one 
+from which all other energies are derived.  Unfortunately, unlike mana, 
+primal energy is only one use, and is generally used for very powerful 
+spells, such as 'voodoo' (which uses 5 points) and 'quest' (which uses 
+between 1 and 50 points).
+~
+
+0 WEREWOLF WEREWOLVES~
+
+At the beginning of things, Gaia - the world and the spirit that embodies 
+it - set all things in a balance that would maintain and encourage life.  
+Near the top of this chain of being was humanity, and above them were the 
+Garou - the sacred warriors of the spirit.  They were appointed to be the 
+crusaders against the Wyrm, who spreads its cancer through the humans.  
+They are the preservers of the raw essence of life, of nature's diversity 
+and purity.  They are the Earth's immune system, fighting the disease of 
+the Wyrm.  They are the werewolves, and they fight and destroy the 
+children of the Wyrm (such as the vampires) at every opportunity.
+
+* Claw - Transforms target into a werewolf, but costs 10000 exp. 
+* Introduce - Informs everyone in the room of your werewolf lineage.
+* Howl - A special channel that only werewolves can understand.
+* Tribe - Shows information on other werewolves logged on.
+* Totem - Lists the current totem powers you have at your control.
+* Klaive - Create your very own piercing weapon that you can wield.
+
+In addition, all werewolves can gain totem powers, which grant additional 
+powers.  For more information, type 'help totems'.
+~
+
+-1 KLAIVE 'GREATER KLAIVE' GREATERKLAIVE~
+
+Wield the lesser klaive, and type klaive to create the greater klaive.
+It costs 50 more primal.
+
+You MUST WIELD THE LESSER KLAIVE IN THE RIGHT HAND.
+You screw up, too bad :P
+
+~
+
+0 VAMPIRE VAMPIRES~
+
+Vampires are the creatures of the night and thus take damage if exposed 
+to daylight.  Vampires cannot eat food, or drink any liquids except for 
+blood.  If they cannot drink blood for a long duration of time they will 
+start taking damage or maybe even go berserk, so it's a good idea to store 
+some blood in a drinking container.  Vampires take half damage from cold, 
+none from gas, and double from fire, although those with the Heat 
+immunity take normal fire damage rather than double.  Other abilities:
+
+* Fangs - Gives a free bite attack in combat, and required to 'bite' people.
+* Bite - Transforms target into a vampire, but costs the vampire 1000 exp.
+* Order - As if target lower generation vampire of your clan was charmed.
+* Introduce - Informs everyone in the room of your vampire lineage.
+* Vamptalk - A special vampire channel which distinguishes between clans.
+* Regenerate - Vampire cannot regenerate naturally; they need to use this.
+* Vclan - Shows information on the other members of a vampires clan.
+* Feed - For feeding other vampires with your blood.
+* Favour - Make a vampire a Prince, allow them to sire a childe, accepts 
+  or inducts them into the clan, or outcasts them from the clan.
+* Clandiscipline (cland) shows all your clan disciplines.
+* Power shows all of your current powers.
+
+In addition, all vampires get 3 or more disciplines, each of which grant 
+one or more extra powers.  For more information type 'help disciplines'.
+The VAMPIRE command toggles on/off whether vampires may bite/feed you.
+~
+
+0 MAGE MAGES WARLOCK~
+
+Mages are those who study the greatest of magicks.  Their spells are far 
+greater than those of a non-mage, as well as far more flexible.  Some of 
+the main features of mages are as follows:
+
+* Extra spells - Extra spells unavailable to non-mages, including spells 
+  such as 'find familiar', 'polymorph', 'major creation', etc.
+* Rune spells - Combinations of runes allow the mage to construct new spells.
+* Advanced spells - Available to the more powerful of mages, this ability 
+  allows the mage to create their own spells from scratch.  Such a task is 
+  very difficult as well as time consuming, however.
+* Teach - Allows the mage to make an apprentice.
+* Spheres - Shows a list of spheres you can learn. 
+	Syntax: sphere <name> learn
+* Magearmor - Create armor using primal.
+
+Please check out help 'magespells', it shall teach you how to create 
+marvelous spells that you can use.
+~
+
+0 MAGESPELLS~
+
+Power of Evil.
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+apply: hit
+apply: dam
+bonus: 100
+duration: 5
+affect: web
+affect: curse
+affect: contraception
+reversed
+message.1: You taint $N with the power of evil!
+message.2: Mephisto's hellfyre hits you incredibly hard!
+message.3: Mephisto commands a gout of hellfyre to erupt from the ground
+beneath $N!
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells1' to continue.
+~
+
+0 MAGESPELLS1~
+
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+apply: hit
+apply: dam
+bonus: 100
+duration: 5
+reversed
+message.1: You taint $N with the power of evil!
+message.2: Mephisto's hellfyre hits you incredibly hard!
+message.3: Mephisto commands a gout of hellfyre to erupt from the ground
+beneath $N!
+next.page
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells2' to continue.
+~
+
+0 MAGESPELLS2~
+
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+apply: hit
+apply: dam
+bonus: 100
+duration: 5
+reversed
+message.1: You taint $N with the power of evil!
+message.2: Mephisto's hellfyre hits you incredibly hard!
+message.3: Mephisto commands a gout of hellfyre to erupt from the ground
+beneath $N!
+next.page
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells3' to continue.
+~
+
+0 MAGESPELLS3~
+
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+apply: hit
+apply: dam
+bonus: 100
+duration: 5
+reversed
+message.1: You taint $N with the power of evil!
+message.2: Mephisto's hellfyre hits you incredibly hard!
+message.3: Mephisto commands a gout of hellfyre to erupt from the ground
+beneath $N!
+next.page
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells4' to continue.
+~
+
+0 MAGESPELLS4~
+
+Page 5:Detects.
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+global.target
+affect: shadowsight
+affect: detect.invis
+affect: detect.hidden
+duration: 50
+message.1: red eyes
+message.2: red eyes
+message.3: red eyes
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells5' to continue.
+~
+
+0 MAGESPELLS5~
+
+Life-Force Drain.
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+affect: blind
+affect: curse
+affect: contraception
+apply: hp
+apply: ac
+reversed
+message.one: You grin evilly as the lifeforce is drained from $n.
+message.two: You feel dizzy as your lifeforce is drained.
+message.three: $n grins evilly as he drains the lifeforce from $N.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells6' to continue
+~
+
+0 MAGESPELLS6~
+
+Healing.
+----------------------------------------------------------------------------
+Start.damage.spell
+victim.target
+min.damage: 500
+max.damage: 1000
+reversed
+message.one: You feel the burning warmth of hell.
+message.two: You feel HEALTHY.
+message.three: $n heals $N with the powers of hell.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells7' to continue.
+~
+
+0 MAGESPELLS7~
+
+Dark Summons.
+----------------------------------------------------------------------------
+Start.action.spell
+victim.target
+global.target
+move
+reversed
+message.1: You are grabbed roughly by a hideous demon and carried off.
+message.2: A scream pierces the air as a hunched demon lands in the room,
+grabbing someone and flying away.
+message.3: A growl pierces the air as a hideous demon flies into the room,
+carrying someone on its back.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells8' to continue.
+~
+
+0 MAGESPELLS8~
+
+----------------------------------------------------------------------------
+Start.damage.spell
+victim.target
+min.damage: 500
+max.damage: 1000
+message.one: You call on the demons of hell to torment $N
+message.two: $N is torn to pieces by satanic demons.
+message.three: $n calls forth demons from hell to destroy $N
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells9' to continue.
+~
+
+0 MAGESPELLS9~
+
+Nightmares.
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+global.target
+affect: sleep
+duration: 50
+message.1: You drag $N into the world of nightmares.
+message.2: You feel a slight tug on your shoulder as sleep overcomes you.
+message.3: Mephisto closes his eyes and presses a hand to his temple.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells10' to continue.
+~
+
+0 MAGESPELLS10~
+
+Paths of Hellfyre.
+----------------------------------------------------------------------------
+Start.action.spell
+victim.target
+global.target
+move
+message.1: You vanish in a searing flash of hellfyre and acrid smoke.
+message.2: Mephisto vanishes in a searing flash of hellfyre and acrid smoke.
+message.3: A flash of hellfyre rips through the room as Mephistopheles
+appears.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells11' to continue.
+~
+
+0 MAGESPELLS11~
+
+:Spider Fetch.
+----------------------------------------------------------------------------
+Start.action.spell
+object.target
+global.target
+move
+reversed
+message.1: You order a spider like demon to retrieve something for you.
+message.2: A large, spider-like creature scuttles through the room.
+message.3: The spider returns, dropping an object onto the ground.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells12' to continue.
+~
+
+0 MAGESPELLS12~
+
+Dark Retrieval.
+----------------------------------------------------------------------------
+Start.action.spell
+object.target
+global.target
+move
+message.1: You vanish in a searing flash of hellfyre and acrid smoke.
+message.2: Mephisto vanishes in a searing flash of hellfyre and acrid smoke.
+message.3: A flash of hellfyre rips through the room as Mephistopheles
+appears.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells13' to continue.
+~
+
+0 MAGESPELLS13~
+
+Purple Sorcery.
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+global.target
+apply: hp
+apply: mana
+apply: move
+apply: hit
+apply: dam
+apply: ac
+apply: save
+bonus: 100
+duration: 50
+message.1: You invoke the raw power of Purple Sorcery.
+message.2: Your skin toughens, becoming more durable than cured leather.
+message.3: Mephisto's skin toughens, becoming more durable than cured
+leather.
+----------------------------------------------------------------------------
+
+Check out help 'magespells14' to continue.
+~
+
+0 MAGESPELLS14~
+
+Red Train.
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+apply: hp
+apply: mana
+apply: move
+reversed
+bonus: 100
+duration: 5
+message.1: You invoke the power of the Red Train.
+message.2: Red light radiates forth from Mephisto.
+message.3: Red light radiates forth from Mephisto.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells15' to continue.
+~
+
+0 MAGESPELLS15~
+
+Temptation.
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+global.target
+affect: charm
+affect: curse
+duration: 50
+message.1: You beckon, tempting others as only the Devil's messanger can.
+message.2: You grin evilly as you fall victim to the temptations of the
+Devil's Advocate.
+message.3: Mephisto smiles, tempting all around him as only the Devil's
+messanger can.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells16' to continue.
+~
+
+0 MAGESPELLS16~
+
+Demon Shadows.
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+global.target
+affect: shadowplane
+affect: shadowsight
+duration: 50
+message.1: You command the shadows to engulf $N.
+message.2: You vanish from view, the shadows rising up and engulfing you.
+message.3: Demon shadows flicker...
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells17' to continue.
+~
+
+0 MAGESPELLS17~
+
+Mists
+----------------------------------------------------------------------------
+Start.affect.spell
+victim.target
+global.target
+affect: ethereal
+affect: shadowsight
+duration: 50
+message.1: You command the mists to engulf $N.
+message.2: You vanish, dissolving into a cloud of mist.
+message.3: The mists swirl around Mephisto.
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells18' to continue.
+~
+
+0 MAGESPELLS18~
+
+Big Blast.
+----------------------------------------------------------------------------
+Start.damage.spell
+victim.target
+global.target
+min.damage: 500
+max.damage: 1000
+message.1: You blast $N
+message.2: $N is blasted by Mephisto
+message.3: Mephisto blasts $N
+next.page
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells19' to continue.
+~
+
+0 MAGESPELLS19~
+
+Big Blast II.
+----------------------------------------------------------------------------
+Start.damage.spell
+victim.target
+global.target
+min.damage: 500
+max.damage: 1000
+message.1: BOOM
+message.2: BOOM
+message.3: BOOM
+next.page
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells20' to continue.
+~
+
+0 MAGESPELLS20~
+
+Big Blast III.
+----------------------------------------------------------------------------
+Start.damage.spell
+victim.target
+global.target
+min.damage: 500
+max.damage: 500
+message.1: BOOM
+message.2: BOOM
+message.3: BOOM
+next.page
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells21' to continue.
+~
+
+0 MAGESPELLS21~
+
+Big Blast IV.
+----------------------------------------------------------------------------
+Start.damage.spell
+victim.target
+global.target
+min.damage: 500
+max.damage: 1000
+message.1: BOOM
+message.2: BOOM
+message.3: BOOM
+next.page
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells22' to continue.
+~
+
+0 MAGESPELLS22~
+
+Big Blast V.
+----------------------------------------------------------------------------
+Start.damage.spell
+victim.target
+global.target
+min.damage: 500
+max.damage: 500
+message.1: BOOM
+message.2: BOOM
+message.3: BOOM
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells23' to continue.
+~
+
+0 MAGESPELLS23~
+
+Quest machine.
+----------------------------------------------------------------------------
+Start.action.spell
+object: The quest-making machine
+message.1: quest machine
+message.2: quest machine
+message.3: quest machine
+end.spell
+----------------------------------------------------------------------------
+
+Check out help 'magespells24' to continue.
+~
+
+0 MAGESPELLS24~
+
+Thunder bolt.
+----------------------------------------------------------------------------
+Start.action.spell
+object: The Thunder Bolt
+message.1: thunder bolt
+message.2: thunder bolt
+message.3: thunder bolt
+end.spell
+----------------------------------------------------------------------------
+
+This is the end of the mage spells list.
+~
+
+0 DEMON DEMONS CHAMPION CHAMPIONS~
+
+These fiends are the damned ones.  They have sold their souls in exchange 
+for power, and they improve this power by draining the souls of their 
+victims.  Their powers are mysterious, but the following facts are known:
+
+* Each Champion, Demon, or Demon Prince follows a specific Demon Lord.  
+  They are able to channel the souls of their victims to their Demon Lord, 
+  who in turn can use that power to grant favours to his/her followers.
+* Demonic armour improves the combat ability of the wearer, the more 
+  armour worn the better the improvement.
+* Many demons are able to transport themselves to each other at will.
+* Most demons are able to assume the form of a weapon.
+* The demons power over death is such that even after they have been 
+  decapitated, they are still able to employ a selection of powers.
+* The powers of a specific demon vary considerably.  Some are barely more 
+  powerful than a common avatar, while others are as strong as the greatest 
+  of werewolves or vampires.
+* While in hell, a demon is virtually unkillable.
+* Inpart and Upkeep are a demons 2 main commands.
+~
+
+0 BEAST~
+
+Vampires, like mortals, are creatures of instinct.  However, the 
+instincts of the vampire are those of a hunter, not a gatherer.  Vampires 
+are the ultimate predators and stand at the apex of the food chain.  
+They are highly developed killing machines - the harbringers of death.
+For vampires to survive in modern society, however, they must learn to 
+keep the Beast in check.  The instincts of violence (the Beast) so 
+essential in the wild serve only to endanger the vampire in today's 
+complex world.  The Beast's rage has its uses, but the blindness it 
+creates far outweighs its benefits.
+Vampires struggle to suppress the Beast, but, no matter how hard they 
+try, they do not always prevail, and when it gets loose, the havoc it 
+creates goes far beyond the horror of any mortal rage.
+~
+
+0 FAVOUR SIRE PRINCE~
+Syntax: favour <target> <sire/prince>
+
+Favour is an ability available to second generation vampires and vampire 
+princes.
+
+SIRE allows the target vampire of your clan to sire another vampire.  
+Once a single vampire has been created the power is lost, but can be 
+granted again if the Antediluvian or Prince so desire.  A childe sired 
+without permission is known as an Anarch.
+
+PRINCE turns the target vampire into a prince, who is then able to allow 
+other vampires the ability to sire more vampires still.  Only an 
+Antediluvian has the power to make some a prince (or to remove the 
+prince's powers).
+
+ACCEPT will accept a childe into the clan, making them a Neonate.
+
+INDUCT and OUTCAST will accept an Anarch into the clan or outcast a member.
+~
+
+0 TOTEM TOTEMS~
+
+Every werewolf is able to learn special totem powers from various 
+spirits.  Each of the spirits teaches a different type of power, and the 
+werewolf is able to gain use of these powers through the expenditure of 
+primal energy.
+
+The following totem animals exist.
+
+* Bear   - Flex, Rage, Steel Claws, Hibernate.
+* Boar   - Shatter, Charge, Toughness, Immovability.
+* Lynx   - Light Footed, Stalker, Combat Speed, Lightning Claws.
+* Owl    - Vanish, Shield, Shadowplane, Channel.
+* Spider - Poisonous Bite, Web, Poison Immunity.
+* Wolf   - Claws, Fangs, Calm, Spirit of Fernis.
+* Hawk   - Nightsight, Shadowsight, Truesight.
+* Mantis - Agility, Intuition, Speed of the Fenris, Dance of Fernis.
+* Tiger  - Speed, Agility, Talon, Fangs.
+* Gaia   - Improved Damcap and Gaia shield.
+
+     **Type totem <name> to see a list of powers for each totem**
+~
+
+0 DISCIPLINE DISCIPLINES~
+
+PROTEAN 
+CELERITY
+FORTITUDE
+POTENCE
+OBFUSCATE
+OBTENEBRATION
+SERPENTIS  
+AUSPEX
+DOMINATE   
+Each vampire has three clan disciplines from which their powers come.  In 
+addition to these basic three, vampires are allowed to select additional 
+disciplines by spending primal; the first extra discipline costs 10, the 
+second costs 20, and so on.  Only the three clan disciplines are passed 
+on to later generations.
+
+Use the command 'powers' to see a list of current powers and
+clandiscipline (cland) to see a list of your current disciplines.
+
+~
+
+0 PROTEAN~
+
+This Discipline allows a vampire to transform either their entire body or 
+a part of their body into something inhuman.  The vampire can thus grow 
+claws, turn into a bat, transform into a wolf or dissolve into a fine 
+mist.  A vampire can use most other Disciplines while shapeshifted, but 
+may not cast spells.  Full transformation is not possible during combat, 
+although claws can be grown if you are fighting.  While shapeshifted the 
+vampire cannot wear any equipment.
+
+The powers available to this Discipline are as follows:
+* Nightsight: Gives the vampire full night vision, which is much better 
+than normal infravision.
+* Claws: Enables the user to grow inch-long claws on each finger.  These 
+claws have no effect if the vampire is armed, however if not they cause 
+considerably more damage than a normal unarmed attack.
+* Change: Allow the vampire to transform into bat, wolf or mist.  Bat 
+form can fly and detect almost everything (invis, hidden, etc).  While in 
+wolf form, the vampire enjoys the benefit of an extra 500hp and greatly 
+enhanced combat abilities.  Mist form is impervious to attacks and can 
+pass through doors.  Beware though, for two vampires in mist form CAN 
+attack each other.
+~
+
+0 CELERITY~
+
+This Discipline explains the legendary superior quickness of vampires.  
+Using the Celerity Discipline allows a vampire to move extremely quickly 
+and have extra attacks in the same round.
+~
+
+0 FORTITUDE~
+
+Fortitude describes a type of supernatural toughness and vigor which
+allows Kindred to resist harm.  Many vampires are very tough and are able
+to withstand a lot of injury inflicted by weapons and spells.  However 
+with the Fortitude power, they resist damage even further by often keeping 
+the weapons from harming them at all.
+~
+
+0 POTENCE~
+
+This Discipline defines the superior strength that vampires often 
+possess.  This physical might allows the user to inflict much larger 
+amounts of damage in combat than normal.
+~
+
+0 OBFUSCATE~
+
+Kindred with this Discipline excel at hiding among and away from crowds.  
+When they do not wish to be seen, others rarely notice them even if they 
+are standing in plain view.  Though this Discipline affects others minds 
+and does not actually render the users invisible, the end result is much 
+the same.  Obfuscate is the opposing Discipline to Auspex, and they 
+cancel out many of each others powers.
+
+Kindred with this power gain the following advantages:
+* Mask: Allows you to disguise yourself as another player.
+* Shield: Protects you from the Auspex 'scry' and 'readaura' powers.
+* Mortal: Switches between vampire and mortal mode.  While in mortal 
+  form, you loose all vampire advantages and disadvantages, and are 
+  undetectable from a normal mortal.
+~
+
+0 OBTENEBRATION~
+
+Obtenebration allows the user to manipulate the powers of darkness.  By 
+using their powers they are able to switch between the normal world and 
+the plane of shadows at will.  They may also view things in both planes 
+simultaneously if they so wish.
+~
+
+0 SERPENTIS~
+
+Serpentis is the art of temptation and corruption.  Vampires with this 
+Discipline have the ability to tear out their own hearts, rendering 
+themselves immune to being staked.  Serpentis users also gain the ability 
+to transform themselves into a giant serpent and back at will.  The third 
+ability available to vampires with this Discipline is the ability to run 
+their tongues along weapons, coating them with a deadly snake venom.
+~
+
+0 AUSPEX~
+
+This Discipline is one of extrasensory awareness, empathy and 
+perception.  Those using this Discipline tend to be strongly affected by 
+environmental phenomena.  Vampires with Auspex are able to see and sense 
+things most other people cannot.  Auspex is the opposing Discipline to 
+Obfuscate, and they cancel out many of each others powers.
+
+This Discipline allows the following powers:
+* Truesight: The user can see everything, whether invisible or whatever.
+* Scry: Allows you to view the room that the specified target is in.
+* Readaura: Gives you detailed information about a creature or object.
+~
+
+0 DOMINATE~
+
+This discipline reflects the mystical ability of vampires to influence 
+the minds and actions of others.  Dominate is an aspect of the power of 
+the mind and the will.
+
+This Discipline allows the following powers:
+* Evileye: The user gains a lot of control over people foolish enough to 
+  look at them.  Not yet fully working.
+* Command: The user can issue a command that the target will be compelled 
+  to obey.  This will only work on those who's minds are much weaker than 
+  the vampire's.
+* Shield: Protects you from the Auspex 'scry' and 'readaura' powers.
+* Ghoul: By feeding a mob some of his/her blood, the vampire can create a 
+  ghoul - a loyal servant to act as their eyes and ears.
+~
+
+0 IMMUNE IMMUNITY IMMUNITIES RESISTANCES~
+
+Immunities and resistances give you protection from the following:
+Slash     : Slashing/Slicing weapon damage reduced by 1-100% per blow.
+Stab      : Stabbing/Piercing weapon damage reduced by 1-100% per blow.
+Smash     : Blasting/Crushing/Pounding damage reduced by 1-100% per blow.
+Beast     : Clawing/Biting weapon damage reduced by 1-100% per blow.
+Grab      : Grepping/Whipping/Sucking damage reduced by 1-100% per blow.
+Charm     : You are no longer affected by the Charm Person spell.
+Heat      : You are unaffected by Burning Hands, Fireball, etc.
+Cold      : You are unaffected by Frost Breath, Chill Touch, etc.
+Lightning : You are unaffected by Lightning bolt, Call Lightning, etc.
+Acid      : You are unaffected by Acid Blast, Acid Breath, etc.
+Drain     : You are unaffected by the Energy Drain spell.
+Summon    : You cannot be summoned or portaled to, nor can you teleport.
+Hurl      : You cannot be hurled.
+Backstab  : You cannot be backstabbed.
+Kick      : Kicks do no damage whatsoever to you.
+Disarm    : You cannot be disarmed by other players or by mobs.
+Steal     : Other players and mobs cannot steal from you.
+Bite      : Vampires may not bite you or feed you blood.
+Stake     : If you're a vampire with this, you cannot be staked down.
+~
+
+0 TIE UNTIE GAG BLINDFOLD~
+Syntax: tie <target>
+Syntax: untie <target>
+Syntax: gag <target>
+Syntax: blindfold <target>
+
+TIE allows you yo tie up another player, who must be stunned, 
+incapitated, or mortally wounded.  While tied up, a players actions are 
+limited - they cannot move, quit, or do many other commands.
+
+UNTIE will untie a player who is currently tied up.  A player cannot 
+untie themself.
+
+GAG places a gag over the mouth of the target player, who must first be 
+tied up.  This command will also remove a gag.  A player can only remove 
+a gag from themself if they are no longer tied up.  It is not possible 
+to talk or use any of the channels while gagged.
+
+BLINDFOLD places a blindfold over the eyes of the target player, who must 
+first be tied up.  The blindfold can also be removed with this command.  
+A player can only remove a blindfold from themself if they are no longer 
+tied up.  Unsurprisingly, blindfolded players cannot see.
+~
+
+0 DIAGNOSE~
+Syntax: diagnose <target>
+
+This will show you any injuries received by the target player or mob.  If 
+that person is bleeding to death, this will also be shown.
+~
+
+0 TERMS~
+There are many terms and abbreviations used in muds.  Here are a few to 
+help you along...
+AFK     : Away From Keyboard.          BBL     : Be Back Later.
+BRB     : Be Right Back.               BRT     : Be Right There.
+CYA     : See you later/goodbye.       IRL     : In Real Life.
+L8R     : Later/goodbye.               LO      : Hello.
+TTYL    : Talk To You Later.           BF/GF   : Boyfriend/Girlfriend.
+BS      : Backstab                     ROFL    : Roll On Floor Laughing.
+TANK    : The person (in a group) who takes the damage in combat.
+STABBER : A (usually decent) backstabbing weapon.
+DUPING  : An illegal method of copying items by crashing the mud.
+MULTI   : The process of playing more than one character at a time.
+MAXED   : At maximum.  Eg: "I'm maxed" (hitpoints, mana and move at max), 
+          or "my stats are maxed" (your five stats are all trained to 18).
+~
+
+0 WHO~
+Syntax: who
+Syntax: who <avatar/god>
+
+WHO shows the people currently in the game.  Some people may choose to
+remain unseen and won't appear on the WHO
+ 
+WHO without any arguments shows all of the (visible) people currently playing.
+
+With arguments, WHO can show avatars (level 3's) or gods (level 4's and 5's).
+~
+
+0 WHERE~
+Syntax: where
+Syntax: where <character>
+
+WHERE without an argument tells you the location of visible players in the same
+area as you are.
+
+WHERE with an argument tells you the location of one character with that name
+within your area, including monsters.
+~
+
+0 HELP~
+Syntax: help
+Syntax: help <keyword>
+
+HELP without any arguments shows a one-page command summary.
+
+HELP <keyword> shows a page of help on that keyword.  The keywords include
+all the commands, spells, and skills listed in the game.
+~
+
+0 DESCRIPTION~
+Syntax: description <string>
+Syntax: description + <string>
+
+Sets your long description to the given string.  If the description string
+starts with a '+', the part after the '+' is appended to your current
+description, so that you can make multi-line descriptions.
+~
+
+0 PASSWORD~
+Syntax: password <old-password> <new-password>
+
+PASSWORD changes your character's password.  The first argument must be
+your old password.  The second argument is your new password.
+
+The PASSWORD command is protected against being snooped or logged.
+~
+
+0 TITLE~
+Syntax: title <string>
+
+Sets your title to a given string.
+
+The game supplies a title when your character is created.  You can use 
+TITLE to set your title to something else. 
+~
+
+0 WIMPY~
+Syntax: wimpy
+Syntax: wimpy <number>
+
+WIMPY sets your wimpy value.  When your character takes damage that reduces
+your hit points below your wimpy value, you will automatically attempt to flee.
+
+WIMPY with no argument sets your wimpy value to 20% of your maximum hit points.
+
+Some monsters are wimpy.
+~
+
+0 OPEN CLOSE LOCK UNLOCK PICK~
+Syntax: open   <object|direction>
+Syntax: close  <object|direction>
+Syntax: lock   <object|direction>
+Syntax: unlock <object|direction>
+Syntax: pick   <object|direction>
+
+OPEN and CLOSE open and close an object or a door.
+
+LOCK and UNLOCK lock and unlock a closed object or door.  You must have
+the requisite key to LOCK or UNLOCK.
+
+PICK can open a lock without having the key.  In order to PICK successfully,
+you must practice the appropriate skill.
+~
+
+0 DRINK EAT FILL EMPTY~
+Syntax: drink <object>
+Syntax: eat   <object>
+Syntax: fill  <object>
+
+When you are thirsty, DRINK something.
+
+When you are hungry, EAT something.
+
+FILL fills a drink container from a fountain.
+
+EMPTY empties the container onto the floor.
+~
+
+0 BUY LIST SELL VALUE~
+Syntax: buy   <object>
+Syntax: list
+Syntax: list  <object>
+Syntax: sell  <object>
+Syntax: value <object>
+
+BUY buys an object from a shop keeper.
+
+LIST lists the objects the shop keeper will sell you.  LIST <object> lists
+just the objects with that name.
+
+SELL sells an object to a shop keeper.
+
+VALUE asks the shop keeper how much he, she, or it will buy the item for.
+~
+
+0 SACRIFICE~
+Syntax: sacrifice <object>
+
+SACRIFICE drains the energy matter from an object, transferring the 
+energy to you in the form of exp.
+
+The number of exp gained vary according to the value of the object.
+~
+
+0 SMOTHER~
+Syntax: smother <name>
+
+This is used to try and smother the flames on a burning player or mob.  
+You cannot do this on yourself, and it may take several attempts to 
+work.  Also, there is a small chance that the person smothering might 
+catch on fire as well...
+~
+
+0 BRANDISH QUAFF RECITE ZAP~
+Syntax: brandish
+Syntax: quaff    <potion>
+Syntax: recite   <scroll> <target>
+Syntax: zap      <target>
+Syntax: zap
+
+BRANDISH brandishes a magical staff.  QUAFF quaffs a magical potion (as opposed
+to DRINK, which drinks mundane liquids).  RECITE recites a magical scroll; the
+<target> is optional, depending on the nature of the scroll.  ZAP zaps a
+magical wand at a target.  If the target is not specified, and you are fighting
+someone, then that character is used for a target.
+
+You must HOLD a wand or a staff before using BRANDISH or ZAP.
+
+All of these commands use up their objects.  Potions and scrolls have a single
+charge.  Wands and staves have multiple charges.  When a magical object has no
+more charges, it will be consumed.
+~
+
+0 CONSIDER~
+Syntax: consider <character>
+
+CONSIDER tells you what your chances are of killing a character, taking 
+into account hitroll, damroll, armour class and hit points, and giving 
+you an overview of your chances.  If you are considering a player, you 
+will also be informed how skilled they are with their weapon/s, and which 
+stance they are currently using (if any) and how good they are at it.
+
+Please remember that this is only a rough estimate.
+~
+
+0 FOLLOW GROUP~
+Syntax: follow <character>
+Syntax: group
+Syntax: group <character>
+
+FOLLOW starts you following another character.  To stop following anyone else,
+just FOLLOW <yourself>.
+
+GROUP <character> makes someone who is following you a member of your group.
+Group members share experience points from kills and may use the GTELL and
+SPLIT commands.  If anyone in your group is attacked, you will automatically
+join the fight.
+
+If the <character> is already a member of your group, then GROUP will
+kick out the <character> from your group.  Characters can also leave your
+group by using a FOLLOW command to stop following you.
+
+GROUP with no argument shows statistics for each character in your group.
+~
+
+0 HIDE SNEAK VISIBLE~
+Syntax: HIDE
+Syntax: SNEAK
+Syntax: VISIBLE
+
+If you successfully HIDE, then other characters can't see you.  If you 
+attack while hidden, the surprise attack will inflict one and a half 
+times your normal damage (assuming your opponent cannot see you).
+
+If you successfully SNEAK, then you can move in and out of rooms without
+being noticed.
+
+In order to HIDE or SNEAK successfully, you must practice the appropriate
+skill.
+
+VISIBLE cancels your hiding and sneaking, as well as any invisibility,
+making you visible again.
+~
+
+0 QUIT RENT SAVE~
+Syntax: QUIT
+Syntax: RENT ... not!
+Syntax: SAVE
+
+SAVE saves your character and objects.  You must be a mortal or avatar to
+save.  The game will auto-save your character every few minutes whether you
+save or not.
+
+Some objects, such as keys and potions, may not be saved.
+
+QUIT leaves the game.  You may QUIT anywhere, although there is an experience
+penalty for quitting outside of Midgaard.  When you re-enter the game you will
+be back in the same room.
+
+QUIT automatically does a SAVE, so you can safely leave the game with just one
+command.  Nevertheless it's a good idea to SAVE before QUIT.  If you get into
+the habit of using QUIT without SAVE, and then you play some other mud that
+doesn't save before quitting, you're going to regret it.
+
+There is no RENT in this mud.  Just SAVE and QUIT whenever you want to leave.
+~
+
+0 RECALL /~
+Syntax: RECALL
+
+RECALL prays to God for miraculous transportation from where you are back to
+the Temple of Midgaard.  '/' is a synonym for RECALL.
+
+RECALL may take you to a different location if you belong to a clan.
+
+RECALL doesn't work in certain God-forsaken rooms.  Characters afflicted by a
+curse may not recall at all.
+~
+
+0 SPLIT~
+Syntax: SPLIT <amount>
+
+SPLIT splits some gold between you and all the members of your
+group who are in the same room as you.  It's customary to SPLIT
+the gold after a kill.
+~
+
+0 STEAL~
+Syntax: STEAL coins <character>
+Syntax: STEAL <object> <character>
+
+STEAL attempts to steal coins, or an object, from a character.
+
+There are *NO* penalties for using STEAL on other players.
+
+In order to STEAL successfully, you must practice the appropriate skill.
+~
+
+0 PRACTICE~
+Syntax: PRACTICE
+Syntax: PRACTICE <skill|spell>
+
+PRACTICE without an argument tells you your current ability in all the 
+skills and spells available to you.  You can check this anywhere.
+
+PRACTICE with an argument practice that skill or spell.  Your learning
+percentage varies from 0% (unlearned) to a some maximum between 80% and 100%,
+depending on your class.  You must be at a guild master to practice.
+
+The higher your intelligence, the more you will learn at each practice
+session.  Unused sessions are saved until you do use them.
+~
+
+0 TRAIN~
+Syntax: train <str/int/wis/dex/con>
+Syntax: train <avatar/mortal/primal/hp/mana/move>
+Syntax: train <slash/stab/smash/beast/grab>
+Syntax: train <charm/heat/cold/lightning/acid/sleep/drain/voodoo>
+Syntax: train <hurl/backstab/kick/steal/disarm>
+
+TRAIN increases one of your attributes.  When you start the game, your
+character has standard attributes based on your class.  You can increase 
+your attributes by spending experience points (exp) at a trainer.
+
+It costs 200 exp to train a stat (str, int, etc), except that it costs 
+only 100 exp to train your primary stat.  Primal costs 500 exp for the 
+first point, 1000 for the second, 1500 for the third, etc, and 
+hp/mana/move cost your current amount in that particular area minus your 
+con (for hp and move) or wis (for mana) per point.  Becoming a mortal or 
+an avatar costs 1000 exp each.
+
+You can also train weapon resistances (reduces between 1 and all of the 
+damage per blow for that weapon type), spell immunities (those types 
+of spell do no damage to you), and skill immunities (they no long have 
+any affect on you).  These cost 10000 exp for the first, 20000 for the 
+second, 30000 for the third, and so on.
+~
+
+8 TRUST~
+Syntax: trust <character> <level>
+
+TRUST sets a character's trust to the specified level.  This is similar to
+advancing the character for accessing immortal commands, but has no effect
+on combat strength, et cetera.  You can give more trust to mortal (or
+immortal) characters to give them access to more power without messing up
+the character.  You can also restrict a player's trust to less than their
+natural level.
+
+A trust of 0 means to use the character's natural level again.
+~
+
+8 ALLOW BAN~
+Syntax: allow   <site>
+Syntax: ban     <site>
+Syntax: ban
+
+BAN <site> prohibits players from that site from logging in.  BAN with
+no arguments lists the banned sites.  ALLOW <site> removes a site from
+the ban list.
+
+The site ban test works by suffix comparison, so if you ban 'foo.edu',
+all sites within 'foo.edu' are banned as well.
+
+Site bans are not saved; every time the server is rebooted, the site
+ban list is cleared.  
+~
+
+8 REBOOT SHUTDOWN WIZLOCK~
+Syntax: reboot
+Syntax: shutdown
+Syntax: wizlock
+
+REBOOT shuts down the server.  When the normal 'startup' script is used
+to control the server, a delay of sixty seconds will ensue (to allow
+old connections to die), followed by a reboot.
+
+SHUTDOWN shuts down the server and prevents the normal 'startup' script
+from restarting it.
+
+WIZLOCK is a toggle command.  When the server is WIZLOCKed, players
+below level 36 may not log in.  Players who lose their links, however,
+may reconnect.
+~
+
+6 DENY DISCONNECT FREEZE~
+Syntax: deny       <character>
+Syntax: disconnect <character>
+Syntax: freeze     <character>
+
+DENY denies access to a particular player and throws them out of the game.
+DENY is permanent (persists across reboots) and is not undoable from within the
+game.  Only someone with access to the player files directory may repeal a
+DENY by editing the appropriate player file.
+
+DISCONNECT <character> immediately disconnects that character.
+
+FREEZE <character> is a toggle which prevents a character from issuing any
+commands at all.
+~
+
+6 FORCE~
+Syntax: force <character> <command>
+Syntax: force all <command>
+
+FORCE forces one character to execute a command.
+
+FORCE 'all' forces all player characters to execute a command.
+This is typically used for 'force all save'.
+~
+
+6 USERS~
+Syntax: users
+
+USERS reports all of the visible users connected to the server, including users
+in the process of logging in.  The two numbers inside brackets are the channel
+number and the 'connected' state.  The 'connected' states are listed in merc.h:
+0 is CON_PLAYING; non-zero values are various states of logging in.
+~
+
+4 MLOAD OLOAD PLOAD~
+Syntax: mload <vnum>
+Syntax: oload <vnum>
+Syntax: oload <vnum> <level>
+Syntax: pload <player>
+
+MLOAD loads a mobile given its vnum (virtual number).  The vnum's are just
+the #NNNN numbers that appear in world.obj.
+
+OLOAD loads an object given its vnum.  It takes an optional parameter for
+the level of the object to be loaded.
+
+PLOAD loads the specified player under your control.  To get back, simply 
+quit and log back on as your normal character.
+~
+
+5 MSET OSET RSET SSET QSET~
+Syntax: mset <character> <field> <value>
+Syntax: oset <object>    <field> <value>
+Syntax: rset <location>  <field> <value>
+Syntax: sset <character> <skill> <value>
+Syntax: sset <character> all     <value>
+Syntax: qset <object>    <field> <value>
+
+MSET, OSET, and RSET set the properties of mobiles, objects, and rooms,
+respectively.  SSET sets a skill or spell level on a PC.  QSET sets 
+special properties and text messages on objects.
+
+There is currently no way to enter more than one line of text for a
+string-valued option.
+~
+
+5 OCLONE~
+Syntax: oclone <object>
+
+This creates an identical copy of the specified object, with the only 
+exceptions being that the cloned objects creator is the person creating 
+the clone, and the cloned objects owner is not set.
+~
+
+5 OTRANSFER~
+Syntax: otransfer <object>
+Syntax: otransfer <object> <character>
+
+This will transfer the specified object to the specified character.  The 
+character is defaulted to yourself.
+~
+
+6 MCLEAR~
+Syntax: mclear <player>
+
+This resets the target players stats to their correct value.
+~
+
+7 QTRUST~
+Syntax: qtrust <character> <on/off>
+
+A player with qtrust on is allowed to use the QUEST command to change the 
+name/long/short descriptions on an object, as well as change the wear 
+location.
+~
+
+6 NOEMOTE NOTELL SILENCE~
+Syntax: noemote <character>
+Syntax: notell  <character>
+Syntax: silence <character>
+
+NOEMOTE, NOTELL, and SILENCE are used to muffle other characters, by
+preventing them from emoting, telling, and using channels, respectively.
+Characters who are no'telled will also not receive those forms of
+communication.
+~
+
+4 PURGE~
+Syntax: purge
+Syntax: purge <character>
+
+PURGE is used to clean up the world.  PURGE with no arguments removes all the
+NPC's and objects in the current room.  PURGE with an argument purges one
+character from anywhere in the world.
+
+PURGE will not get rid of PC's.
+~
+
+5 RESTORE~
+Syntax: restore <character>
+
+RESTORE restores full hit points, mana points, and movement points to the
+target character.
+~
+
+7 SLAY~
+Syntax: slay <character>
+
+SLAY kills a character in cold blood, no saving throw.
+
+SLAY bypasses auto actions such as AUTOLOOT and AUTOSAC.
+~
+
+5 TRANSFER~
+Syntax: transfer <character>
+Syntax: transfer all
+Syntax: transfer <character> <location>
+Syntax: transfer all         <location>
+
+TRANSFER transfers the target character, or ALL player characters,
+to your current location (default) or to a specified location.
+~
+
+5 AT~
+Syntax: at <location> <command>
+
+AT executes the given command (which may have arguments) at the given
+location.  The location may be specified as a vnum, as the name of
+a mobile, or as the name of an object.
+
+AT works by temporarily moving you to that location, executing the
+command, and then moving you back (if the command didn't change your
+location).
+~
+
+5 ECHO RECHO~
+Syntax: echo  <message>
+Syntax: recho <message>
+
+ECHO sends a message to all players in the game, without any prefix
+indicating who sent it.
+
+RECHO sends a message to all players in your room, without any prefix
+indicating who sent it.
+~
+
+4 GOTO~
+Syntax: goto <location>
+
+GOTO takes you to a location.  The location may be specified as a vnum,
+as the name of a mobile, or as the name of an object.
+
+You may not GOTO a room if it is PRIVATE and has two (or more) characters
+already present, or if it is SOLITARY and has one (or more) characters
+already present.
+
+Some useful numbers for new imms are:
+Limbo: 2, The Temple of Midgaard: 3001, The Entrance to Mud School: 3700,
+The Chat Room: 1200, The Dark Crypt: 30001, The Temple Altar: 3054,
+Hell: 30000.
+~
+
+4 HOLYLIGHT INVIS~
+Syntax: holylight
+Syntax: invis
+
+HOLYLIGHT is a toggle that allows you to see (almost) every character and
+mobile in the game.  With holy light, you can see what's in the game more
+easily.  Without holy light, you can see what mortal players see.
+
+INVIS is a toggle which makes you completely invisible to all player characters
+of lower level than you, and to all mobiles.
+
+HOLYLIGHT will not allow you to see immortal INVIS characters who are
+higher level than you.
+~
+
+7 MEMORY~
+Syntax: memory
+
+MEMORY reports the size of your mud.
+
+The 'Mobs' and 'Objs' lines report the number of types of mobiles and objects,
+not the number of instances currently in the game.
+
+The 'Strings' line shows memory used by area-file strings.  These strings have
+a maximum limit, which is also shown.
+
+The 'Perms' line shows permanently allocated memory blocks.  There is no limit
+on the number and size of these blocks.
+~
+
+4 MFIND OFIND~
+Syntax: mfind <name>
+Syntax: ofind <name>
+
+MFIND finds all mobile types with a particular name.
+
+OFIND finds all object types with a particular name.
+~
+
+4 MSTAT OSTAT RSTAT QSTAT~
+Syntax: mstat <character>
+Syntax: ostat <object>
+Syntax: rstat <location>
+Syntax: rstat
+Syntax: qstat <object>
+
+MSTAT shows you statistics on a character.
+
+OSTAT shows you statistics on an object.
+
+RSTAT shows you statistics on a location. The location may be specified as
+a vnum, as the name of a mobile, or as the name of an object.
+
+QSTAT shows you the special properties and strings on an object.
+~
+
+5 MWHERE~
+Syntax: mwhere <name>
+
+MWHERE shows you the locations of all mobiles with a particular name.
+~
+
+5 PEACE~
+Syntax: peace
+
+PEACE causes all characters in a room to stop fighting.
+~
+
+4 BAMFIN BAMFOUT~
+Syntax: bamfin  <message>
+Syntax: bamfout <message>
+
+The standard messages for GOTO are 'arrives in a swirling mist' and
+'leaves in a swirling mist'.  You can replace these messages with messages of
+your own choosing using the BAMFIN and BAMFOUT commands.
+~
+
+4 SLOOKUP~
+Syntax: slookup <skill-or-spell>
+Syntax: slookup all
+
+SLOOKUP shows you the internal 'sn' and external 'slot' for the given skill
+or spell.  The 'sn' is used for OSET and OSTAT.  The 'slot' is used for area
+files.  Neither 'sn' nor 'slot' is used for player files; these operate with
+the actual skill and spell names.
+
+SLOOKUP ALL shows this information for all skills and spells.
+~
+
+5 LOG SNOOP~
+Syntax: log   <character>
+Syntax: log   all
+Syntax: snoop <character>
+
+LOG <character> causes all of a character's commands to be logged into
+the server's log file.  Like FREEZE, it is a permanent character toggle.
+
+Certain commands (PASSWORD) are protected against LOG.  Conversely, certain
+commands (especially immortal commands) are always logged.
+
+LOG ALL logs all character commands.  It is a server-wide toggle; it does not
+persist across reboots.
+
+SNOOP shows you a copy of all the input and output going to a character.
+The character must have an open channel.  You may snoop more than one
+character at a time.
+
+SNOOP yourself to cancel all outstanding snoops.
+~
+
+5 SWITCH RETURN OSWITCH ORETURN~
+Syntax: switch <character>
+Syntax: return
+Syntax: oswitch <object>
+Syntax: oreturn
+
+SWITCH switches you into the body of another character (who must not
+already have a descriptor, e.g. you can't switch into a PC).
+
+OSWITCH acts like switch, except it switches you into an object.
+
+RETURN and ORETURN return you to your original body.
+~
+
+4 IMMTALK :~
+Syntax: immtalk <message>
+
+IMMTALK sends a message to all immortals.  : is a synonym for IMMTALK.
+~
+
+4 WIZHELP~
+Syntax: wizhelp
+
+WIZHELP provides a list of all the immortal commands.
+~
+
+0 ARMOR~
+Syntax: cast armor <character>
+
+This spell decreases (improves) the armor class of the target character
+by 20 points.
+~
+
+0 BLESS~
+Syntax: cast bless <character>
+
+This spell improves the to-hit roll and saving throw versus spell of the
+target character by +1 each.
+~
+
+0 BLINDNESS~
+Syntax: cast blindness <victim>
+
+This spell renders the target character blind.
+~
+
+0 BREW SCRIBE CARVE ENGRAVE BAKE~
+Syntax: cast brew <potion> <spell>
+Syntax: cast scribe <scroll> <spell>
+Syntax: cast carve <wand> <spell>
+Syntax: cast engrave <staff> <spell>
+Syntax: cast bake <pill> <spell>
+
+These spells allow other spells to be embedded in the specified object, 
+which is usually created via the 'minor creation' spell.
+~
+
+0 'ACID BLAST' 'BURNING HANDS' 'COLOUR SPRAY' FIREBALL 'LIGHTNING BOLT'
+  'MAGIC MISSILE' 'SHOCKING GRASP'~
+Syntax: cast 'acid blast'     <victim>
+Syntax: cast 'burning hands'  <victim>
+Syntax: cast 'colour spray'   <victim>
+Syntax: cast 'fireball'       <victim>
+Syntax: cast 'lightning bolt' <victim>
+Syntax: cast 'magic missile'  <victim>
+Syntax: cast 'shocking grasp' <victim>
+
+These spells inflict damage on the victim.
+~
+
+0 'CALL LIGHTNING'~
+Syntax: cast 'call lightning'
+
+This spell works only out of doors, and only when the weather is bad.
+It calls down lightning bolts from God.
+~
+
+0 'CAUSE LIGHT' 'CAUSE SERIOUS' 'CAUSE CRITICAL' HARM~
+Syntax: cast 'cause light'    <victim>
+Syntax: cast 'cause serious'  <victim>
+Syntax: cast 'cause critical' <victim>
+Syntax: cast harm             <victim>
+
+These spells inflict damage on the victim.
+~
+
+0 'CHANGE SEX'~
+Syntax: cast 'change sex' <victim>
+
+This spell changes the sex of the victim (temporarily).
+~
+
+0 'CHARM PERSON'~
+Syntax: cast 'charm person' <victim>
+
+This spell, if successful, causes the victim to follow you and to take orders
+from you.  Use ORDER to order your charmed followers.
+
+You are responsible for the actions of your followers.  Conversely, other
+people who attack your followers will be penalized as if they attacked you.
+~
+
+0 'CHILL TOUCH'~
+Syntax: cast 'chill touch' <victim>
+
+This spell inflicts damage on the victim and also reduces the victim's
+strength by one.
+~
+
+0 'CONTINUAL LIGHT'~
+Syntax: cast 'continual light'
+
+This spell creates a ball of light, which you can hold as a light source.
+The ball of light will last indefinitely.
+~
+
+0 'CONTROL WEATHER'~
+Syntax: cast 'control weather' better
+Syntax: cast 'control weather' worse
+
+This spell makes the weather either better or worse.
+~
+
+0 'CREATE FOOD'~
+Syntax: cast 'create food'
+
+This spell creates a Magic Mushroom, which you or anyone else can eat.
+~
+
+0 'CREATE SPRING'~
+Syntax: cast 'create spring'
+
+This spell brings forth a magical spring from the ground, which has the
+same properties as a fountain.
+~
+
+0 'CREATE WATER'~
+Syntax: cast 'create water' <drink-container>
+
+This spell replenishes a drink container with water.
+~
+
+0 'CURE BLINDNESS'~
+Syntax: cast 'cure blindness' <character>
+
+This spell cures blindness in one so unfortunate.
+~
+
+0 'CURE POISON'~
+Syntax: cast 'cure poison' <character>
+
+This spell cures poison in one so unfortunate.
+~
+
+0 'CURE LIGHT' 'CURE SERIOUS' 'CURE CRITICAL' HEAL~
+Syntax: cast 'cure light'    <character>
+Syntax: cast 'cure serious'  <character>
+Syntax: cast 'cure critical' <character>
+Syntax: cast 'heal'          <character>
+
+These spells cure damage on the target character.
+~
+
+0 CURSE~
+Syntax: cast 'curse' <character>
+
+This spell reduces the character's to-hit roll by 1 and save versus spells
+by 1.  It also renders the character unclean in the eyes of God and
+unable to RECALL.
+~
+
+0 DARKBLESSING~
+Syntax: cast 'darkblessing' <name>
+
+This spell infuses the target with demonic energy, improving their 
+abilities in combat.
+~
+
+0 'DETECT EVIL'~
+Syntax: cast 'detect evil'
+
+This spell enables the caster to detect evil characters, which will
+reveal a characteristic red aura.
+~
+
+0 'DETECT HIDDEN'~
+Syntax: cast 'detect hidden'
+
+This spell enables the caster to detect hidden creatures.
+~
+
+0 'DETECT INVIS'~
+Syntax: cast 'detect invis'
+
+This spell enables the caster to detect invisible objects and characters.
+~
+
+0 'DETECT MAGIC'~
+Syntax: cast 'detect magic'
+
+This spell enables the caster to detect magical objects.
+~
+
+0 'DETECT POISON'~
+Syntax: cast 'detect poison' <object>
+
+This spell detects the presence of poison in food or drink.
+~
+
+0 'DISPEL EVIL'~
+Syntax: cast 'dispel evil' <victim>
+
+This spell invokes the wrath of God on an evil victim.
+~
+
+0 'DISPEL MAGIC'~
+Syntax: cast 'dispel magic' <character>
+
+This spell dispels magical affects on a character.  It may be used as
+an offensive spell to remove an enemy's magical advantages, or as a
+benign spell to remove a friend's (or one's own) magical handicaps.
+~
+
+0 EARTHQUAKE~
+Syntax: cast 'earthquake'
+
+This spell inflicts damage on every enemy character in the room.
+Beware that other characters who are not yet fighting may attack
+you as a result!
+~
+
+0 'ENCHANT WEAPON'~
+Syntax: cast 'enchant weapon' <weapon>
+
+This spell magically enchants a weapon, increasing its to-hit and to-dam
+bonuses.  The weapon must be un-magical to start with.  This spell also
+causes the weapon to be aligned with the alignment with the caster.
+~
+
+0 'ENERGY DRAIN'~
+Syntax: cast 'energy drain' <victim>
+
+This spell saps the experience points, mana, and movement points of its
+target.
+~
+
+0 'FAERIE FIRE'~
+Syntax: cast 'faerie fire' <victim>
+
+This spell increases (makes worse) the armor class of its victim.
+~
+
+0 'FAERIE FOG'~
+Syntax: cast 'faerie fog'
+
+This spell reveals all manner of invisible, hidden, and sneaking creatures in
+the same room as you.
+~
+
+4 'FIND FAMILIAR'~
+Syntax: cast 'find familiar' <familiar>
+
+This spell enables the caster to create a familiar, which can be either a 
+frog, a raven, a cat, or a dog.  The mage is able to see everything that 
+the familiar can see, and is able to issue orders from any distance using 
+the 'fcommand' or '[' commands.
+~
+
+0 FLAMESTRIKE~
+Syntax: cast 'flamestrike' <victim>
+
+This spell inflicts damage on the victim.
+~
+
+0 FLY~
+Syntax: cast 'fly' <character>
+
+This spell enables the target character to fly.
+~
+
+0 FRENZY~
+Syntax: cast 'frenzy' <character>
+
+This spell causes the target to enter a berserk fighting rage, improving 
+their damage and chances to hit, but also making them easier to be hit. 
+~
+
+0 GATE~
+Syntax: cast gate
+
+This spell gates in a guardian vampire.  Player characters don't have much use
+for it, but high demons, and guardian vampires themselves, like it a lot.
+~
+
+0 'GIANT STRENGTH'~
+Syntax: cast 'giant strength' <character>
+
+This spell increases the strength of the target character.
+~
+
+0 GUARDIAN~
+Syntax: cast 'guardian'
+
+This spell summons a demonic guardian to aid the caster in combat (or 
+just to show off to your friends ;).
+~
+
+0 IDENTIFY~
+Syntax: cast identify <object>
+
+This spell reveals information about the object.
+~
+
+0 IMPROVE~
+Syntax: cast improve <object>
+
+This spell enables a quest created object to contain more bonuses.  The 
+object must be worth at least 750 quest points.  Casting this spell will 
+enable it to hold an additional bonus comparable to the bonuses that can 
+be added to non-created items - ie: an extra +10 hitroll or damroll on a 
+weapon, an extra +5 hitroll or damroll on a piece of armour, etc.  The 
+maximum number of quest points that the item can contain is also 
+increased by an addition 500, plus 10 per status point.
+~
+
+0 INFRAVISION~
+Syntax: cast infravision <character>
+
+This spell enables the target character to see in the dark.
+~
+
+0 INVIS 'MASS INVIS'~
+Syntax: cast invis <character>
+Syntax: cast 'mass invis'
+
+The INVIS spell makes the target character invisible.  Invisible characters
+will become visible when they attack.
+
+The MASS INVIS spell makes all characters in the caster's group invisible,
+including the caster.
+~
+
+0 'KNOW ALIGNMENT'~
+Syntax: cast 'know alignment' <character>
+
+This spell reveals the alignment of the target character.
+~
+
+0 'LOCATE OBJECT'~
+Syntax: cast 'locate object' <name>
+
+This spell reveals the location of all objects with the given name.
+~
+
+0 MANA~
+Syntax: cast 'mana' <name>
+
+With this spell, the caster draws the energy from around them and focuses 
+it into the target person (defaulted to themself).  This is very 
+exhausting for the caster, but allows a faster recovery of mana.
+~
+
+0 'MINOR CREATION'~
+Syntax: cast 'minor creation' <object>
+
+This spell creates an empty potion, scroll, wand, staff or pill, which 
+can then be enchanted by the caster using other spells.
+~
+
+0 MOUNTSPELL~
+Syntax: cast mount
+
+This spell summons a mystical creature to serve as the casters mount.  
+The type of mount summoned is dependant on the casters alignment, and the 
+toughness of the mount is dependant on the casters spellcasting ability.
+~
+
+0 'PASS DOOR'~
+Syntax: cast 'pass door'
+
+This spell enables the caster to pass through closed doors.
+~
+
+0 POISON~
+Syntax: cast poison <victim>
+
+This spell reduces the strength of the victim by two, as well as reducing the
+victim's regeneration rate.
+~
+
+
+0 PORTAL~
+Syntax: cast portal <victim>
+
+This spell creates a magical portal between the caster and the target.  
+The portal remains in existance for 2 or 3 hours (mud time), during which 
+time anyone can 'enter' the portal on one side and come out on the other.
+~
+-1 PORTALS PORTALROOM~
+
+Below is the syntax for how to make a portal in your area, you will
+have to do this manually and only AFTER your area is done.  If you put
+this in manually, and then load the area and save, MZF will act like
+it never existed and erase it.  This is a godwars specific format.
+The dashes below should be TILDE's, the key above your TAB key :P 
+
+You put this at the end of a room, before the final 'S'.  There will
+be two examples below, the actual transport part, and an entire room.
+
+EXAMPLE#1
+T
+keyword-
+$n disappears into a brilliant flash of light!-
+You disappear into a brilliant flash of light!-
+all-
+16384 to-vnum 0
+
+
+EXAMPLE#2
+#3207
+The Donation Room-
+blahblahblahblah
+-
+0 2|8|1024 0
+D1
+-
+-
+0 -1 3054
+T
+borlakisahoe-
+$n disappears into a brilliant flash of light!-
+You disappear into a brilliant flash of light!-
+all-
+16384 8 0
+S      
+#0
+
+~
+
+0 PRESERVE~
+Syntax: cast preserve <object>
+
+This spell will stop the specified object decaying.  It's primary use is 
+on severed body parts, which can be stored away safely in case the player 
+should loose any limbs in combat.
+~
+
+0 PROTECTION SANCTUARY~
+Syntax: cast protection
+Syntax: cast sanctuary  <character>
+
+The PROTECTION spell reduces the damage taken from any attack by an evil
+creature by one quarter.
+
+The SANCTUARY spell reduces the damage taken by the character from any attack
+by one half.
+
+These spells may be used simultaneously for cumulative effect.
+~
+
+0 QUESTSPELL~
+Syntax: cast quest
+
+This spell creates a quest card.  The quest-point value of the card is 
+the same as the amount of primal the caster has at the time of casting 
+(and this primal is used up during the casting of the spell).  No more 
+than 50 primal will be used on any one casting of this spell.
+
+For information on how to complete the card, type 'help complete'.
+~
+
+0 REFRESH~
+Syntax: cast refresh <character>
+
+This spell refreshes the movement points of a character who is out of movement
+points.
+~
+
+0 'REMOVE CURSE'~
+Syntax: cast 'remove curse' <character>
+
+This spell removes a curse from a character.
+~
+
+0 REGENERATE CLOT MEND~
+Syntax: cast 'regenerate' <body part> <character>
+Syntax: cast 'clot' <character>
+Syntax: cast 'mend' <character>
+
+REGENERATE will replace lost body parts on the target, while CLOT will 
+stop them bleeding and MEND will fix any broken bones or cut open throats.
+~
+
+0 RESISTANCE~
+Syntax: cast resistance <object>
+
+This spell makes the target object capable of withstanding 10 blows 
+before it is destroyed, rather than 4.
+~
+
+0 SCANSPELL REPAIR~
+Syntax: cast scan
+Syntax: cast repair
+
+The SCAN spell will tell you all the items you are carrying which are 
+currently in need of repairing.
+
+The REPAIR spell will repair all the items you are carrying which are 
+currently in need of repairing.
+~
+
+0 SHIELD 'STONE SKIN'~
+Syntax: cast shield
+Syntax: cast 'stone skin'
+
+These spells protect the caster by decreasing (improving) the caster's armor
+class.  SHIELD provides 20 points of armor.  STONE SKIN provides 40 points of
+armor.
+~
+
+0 SLEEPSPELL~
+Syntax: cast sleep <victim>
+
+This spell puts its victim to sleep.
+~
+
+0 SOULBLADE~
+Syntax: cast soulblade
+
+This spell summons the casters personal (named) soulblade, which is an 
+extremely deadly weapon.  The weapon is permanent.
+~
+
+0 SPELLPROOF~
+Syntax: cast spellproof <object>
+
+This spell makes the target object immune to the destructive powers of 
+the various magical attacks.  No protection from physical attacks is 
+granted.
+~
+
+0 SUMMON~
+Syntax: cast summon <character>
+
+This spell summons a character from anywhere else in your zone into your room.
+Characters who are fighting may not be summoned.
+~
+
+0 TELEPORT~
+Syntax: cast <teleport>
+
+This spell takes you from your current location to a random location somewhere
+in the world.
+~
+
+0 TRANSPORT~
+Syntax: cast transport <object> <character>
+
+This spell will transport the specified object from your inventory to 
+that of the specified character.
+~
+
+0 VENTRILOQUATE~
+Syntax: cast ventriloquate <speaker> <message>
+
+This spell throws your voice, making it appear that some other object or
+character in the room is saying your message.  Victims who make their saving
+throw will know that someone is using ventriloquism, but not who.  Victims who
+fail their saving throw will think that the object or character really did say
+your message.
+~
+
+0 VOODOO~
+Syntax: Spell:   cast voodoo <victim>
+        Ability: voodoo <victim> <action>
+
+Voodoo magic allows the caster to do things to another player indirectly.
+First, a body part of the victim is needed.  The caster should hold this 
+part and cast the spell on the target (they don't have to be in the same 
+room).  This will create the voodoo doll, which the caster the voodoo 
+commands on to interfere with the victim.
+There are three voodoo actions.  The first, 'Stab', is only of use as a 
+warning to the victim, or to cause annoyance.  The second, 'Throw', will 
+hurl the victim from their feet and cause a small amount of damage.  The 
+third and final action, 'Burn', will set the victim on fire, as well as 
+destroy the doll itself.
+~
+
+0 WEAKEN~
+Syntax: cast weaken <victim>
+
+This spell reduces the strength of the victim by two points.
+~
+
+0 'WORD OF RECALL'~
+Syntax: cast 'word of recall'
+
+This spell duplicates the built-in RECALL ability.  It is provided solely for
+Merc-based muds which wish to eliminate the built-in ability while still
+providing the spell.
+~
+
+0 'ACID BREATH' 'FIRE BREATH' 'FROST BREATH' 'GAS BREATH' 'LIGHTNING BREATH'~
+Syntax: cast 'acid breath'      <victim>
+Syntax: cast 'fire breath'      <victim>
+Syntax: cast 'frost breath'     <victim>
+Syntax: cast 'gas breath'
+Syntax: cast 'lightning breath' <victim>
+
+These spells are for the use of dragons.  Acid, fire, frost, and lightning
+damage one victim, whereas gas damages every PC in the room.  Fire and
+frost can break objects, and acid can damage armor.
+~
+
+0 PEEK~
+
+This skill shows you a character's inventory when you look at a character.
+Use of the skill is automatic once you have practice it.
+~
+
+0 NINJAS NINJAS~
+Ninjas are warriors trained in the dark art of Ninjutsu. They fight
+using stealth and quickness making them a deadly foe. Ninjas have a large
+hatred for Monks and will attack them whenever possible. Ninja because of
+there need to be agile can only use armor which weighs no more then two
+kilograms. Also because they use Ninja throwing blades they must always use
+one weapon at a time. Through mediations and the rigorus training Ninjas 
+become a strong and dangerous enemy.
+
+Misc. Ninja commands:
+
+        ---discipline   = Turns target in to a Ninja.
+
+        ---Mikkyo Talk (mikt) = A special channel open only to Ninjas.
+
+        ---Meditate =  This enables Ninjas to regain their Ki.
+
+        ---outcast  =  This allows the Leader to outcast members.
+
+        ---michi    =  This allows the Ninja to concentrate thier ki
+                       for more powerfull attacks.
+   
+        ---ninjaarmor   = Create a ninja cloak, dagger, and mask.
+            
+*See also PRINCIPLES.
+~
+
+0 PRINCIPLES PRINCIPLES~
+Ninjas must learn the principles of Ninjutsu to become a full ninja.
+These principles are : Sora, Ningenno, and Chikyu. For more information
+type help (principle name). Heres a example, help sora.
+~
+
+0 Sora~
+This is the finding, observing, and learning about ones target.
+
+1: Mitsukeru "Locate" Scry type power.
+2: Koryo "Consider" Readaura type power.
+3: Kakusu "Hidden" Inhanced Hide. Only other Ninja can see.
+4: Uro-Uro "Silent Walk" Inhanced Sneak, leaves no footprints.
+5: Kanzuite "Aware" TrueSight power.
+~
+
+0 CHIKYU~
+This is the preperation for battle.
+
+1:Tsuyoku "Strength" Fortitude type power.
+2:Songai "Damage" Inhanced Damage.
+3:Isogu "Haste" Adds one attack.
+4:Tsuiseki "Hunt" Fast Hunting.
+5:Sakeru "Dodge" Enhanced Dodging ability.
+~
+
+0 NINGENNO~
+This is the battle, Attacking, and getting away.
+
+1:Tsume "Claw" IronClaw always worn on wrist to aid in hand-to-hand.
+2:Hakunetsu "Flash" Causes temp. Blindness even through truesight. 
+                This power can only be used with Mienaku using Mienaku
+                to invoke it.
+3:Mienaku "Vanish" Never fail flee. Used automaticly after Hakunetsu hits.
+4:Shiroken "Throwing Star" Added attack per-round. Like bite for vampires.
+5:Dokuyaku "poison" Adds poison to the Shiroken.
+~ 0 QUEST~
+To Quest prac the quest spell, then train primal the amount 
+you want to quest for. If you want to get a 10 point token 
+then train 10 primal once you have trained yer primal cast quest.
+You will then get a card type complete card to see what you get.
+after you complete the card ask someone how to do the rest. :P
+Also help QUESTS.
+~
+
+
+
+
+-1 GODWARS~
+----------------------------------------------------------------------
+God Wars was created by Richard Woolcock, aka KaVir.
+Thanks also go to the following people (in order of help given):
+
+...Zarkas, for teaching me how to mud properly.
+...Malice, for getting me into the implementor and coder side of things.
+...Haus, for inspiring me to create a mud without levels.
+...ShadoWeaver, for providing me with my first (and free) site.
+...Rotain, for helping with the code - and the debugging.
+...Calamar, for adding some nifty code that I still don't understand.
+...Stephen from ACK mud, for coding advise and suggestions.
+...Monochrome BBS, for supplying me with a decent free site.
+...Lucifur, for providing a USA mirror site for the USA players.
+...Shaddai, for a mirror site, code snippets and bug reports.
+...Arioch, for comments, suggestions, and help running the mud.
+...Tepic, for writing the web pages, and helping run the mud.
+...Pandora, for trying to bring some semblance of order to the mud.
+----------------------------------------------------------------------
+~
+
+
+
+-1 GODWARS-HISTORY~
+Around the end of 1994, I - Richard Woolcock (aka KaVir) - was helping 
+Ben Walding (aka Malice) write a mud called Eternal Conflict.  I supplied
+suggestions, whilst he did almost all of the coding.  In order to help 
+out with the code, I decided to download a copy of Merc 2.1 and 'have a 
+play' with it.  I taught myself how to code in C, but as a side affect I 
+created another mud - God Wars.  The mud was very primitive, but was also 
+quite fun to play on, so I spoke with a friend of mine and managed to get 
+a temporary site - just to show him what I had written.  The mud proved 
+popular, and was offered a permanent site elsewhere.  After about 6 months 
+work, one of the players (who called himself Joker) requested a copy of 
+the mud to help with his University project.  In return for his word that 
+the mud would be for personal use only, I agreed.  He broke his word, and 
+ran the mud as Vampire Wars, making practically no further changes to the 
+code.  A few months later, I began to jointly run a second version of God 
+Wars in the USA, because of the severe lag the American players suffered 
+from whilst playing on the UK based mud.  This mud began developing on its 
+own, until eventually the site owner and his coder fell out, and another
+version of God Wars was created.  In 1997 another copy of Godwars was stolen 
+and given out freely over the net.  Since then I began developing the mud in
+a very different direction - stopping only briefly to create God Wars
+Deluxe, which unfortunately was also stolen and eventually leaked out (thus
+I have now chosen to release it).
+~
+
+
+
+-1 GODWARS-INFO~
+This is the God Wars Deluxe code, a cut-down, smoothed out version of 
+Dark City.  Look out for other muds in the series!  God Wars (1995 
+version), God Wars (1996 version), Dark City (my evolved God Wars 
+derivative) and Last City - my current mud, which (at the moment of 
+writing this) is not QUITE ready to play, but is getting close.  
+There are also a number of other God Wars derivatives which were not 
+written by me - for example Sage's "Lords of War" and Aronacus' "Planes 
+of Hades", to name but two.
+
+There may well be other derivatives that I don't know about yet.  Most of
+the current ones come from the Leaked God Wars, although I suspect there
+will soon be some based on the God Wars Deluxe.  Unfortunately the original
+1996 copy of the code was lost (I didn't keep copies of the mud in it's
+different stages - I just kept working on it until one day I decided it
+needed a new name and called it Dark City).  Last City got another rename
+because a movie came out called Dark City and I didn't want people getting
+confused about the theme.
+
+For more information, check out the GODWARS-TREE help file.
+~
+
+
+
+-1 GODWARS-TREE~
+This is the official God Wars family tree.
+
+                                                 God Wars (1995)*
+                                                        |
+                                             -----------------------
+                                             |                     |
+                                      God Wars (1996)*        Vampire Wars
+                                             |
+                             ---------------------------------
+                             |                               |
+                 Dark City (pre-wilderness)*          Leaked God Wars
+                             |                               |
+               -----------------------------           -------------
+               |                           |           |           |
+   Dark City (post-wilderness)*    God Wars Deluxe*   LoW        others
+               |                                       |
+           Last City*                            -------------
+                                                 |           |
+                                                PoH        others
+
+* Indicates the version was written by KaVir.
+
+For more information, check out the GODWARS-INFO help file.
+~
+-1 NEWCOLOR~
+.       
+.   {kW{kW{kW{k          W{kW{kW{k   E{kE{kE{kE{kE{kE{kE{kE{k  L{kL{k          C{kC{kC{kC{kC{kC{kC{k O{kO{kO{kO{kO{kO{kO{kO{k M{kM{kM{k M{kM{kM{k E{kE{kE{kE{kE{kE{kE{kE{k
+.   {k W{kW{k          W{kW{k    E{kE{k        L{kL  {k  	    C{kC{k     C{kC{k   O{kO{k    O{kO {kM{kM{kM{kM{k M{kM{kM{kM{k E{kE
+.   {k W{kW {k         W{kW{k    E{kE{k	{k L{kL	{k   {k C{kC {k         O{kO{k    O{kO {k  M{kM{kM{kM{k M{kM {kM{kM{k E{kE
+.   {k W{kW{k          W{kW{k    E{kE{k	 L{kL{k 	    C{kC{k          O{kO{k    O{kO{k   M{kM{k  M{kM{kM{k M{kM{k E{kE
+.   {k W{kW {k         W{kW{k    E{kE{kE{kE{kE{kE{k	 L{kL{k	    C{kC{k          O{kO{k    O{kO{k M{kM{k M{k M{kM {kE{kE{kE{kE{kE
+.   {k W{kW	{k     W{kW{k    E{kE{k	 L{kL{k	    C{kC{k          O{kO{k    O{kO{k   M{kM{k{kM{kM{k E{kE
+.   {k W{kW {k   W{kW   {k W{kW {k   E{kE	 L{kL {k        C{kC {k         O{kO {k   O{kO {k  M{kM {kM{kM {kE{kE
+.   {k W{kW {k W{kW {k W{kW {k W{kW {k   E{kE	{k L{kL {k	    C{kC{k          O{kO{k    O{kO{k M{kM{k M{kM {kE{kE
+.   {k W{kW{kW{kW{k      W{kW{kW{kW{k   E{kE{k	 L{kL{k  	    C{kC{k     C{kC{k   O{kO{k    O{kO{k M{kM{k M{kM {kE{kE
+.    {kW{kW{k          W{kW{k     E{kE{kE{kE{kE{kE{kE{k	 L{kL{kL{kL{kL{kL{kL{kL{k C{kC{kC{kC{kC{kC{kC{k O{kO{kO{kO{kO{kO{kO{kO{k M{kM{k M{kM{k E{kE{kE{kE{kE{kE{kE
+{k.
+{k.
+.  {k N{kN {k         N{kN{k     E{kE{kE{kE{kE{kE{kE{kE{k  W{kW{kW{k	      W{kW{kW{k B{kB{kB{kB{kB{kB{kB{kB{kB{kB{k I{kI{kI{kI{kI{kI{kI{kI{kI{kI{k E{kE{kE{kE{kE{kE{kE{kE
+.  {k N{kN{kN{k\{k        N{kN{k     E{kE {k        W{kW{k	      W{kW{k   B{kB{k       B{kB  {k  I{kI{k E{kE
+.  {k N{kN {kN{kN {k      N{kN{k     E{kE{k         W{kW{k            W{kW {k  B{kB {k      B{kB I{kI{k E{kE
+.  {k N{kN {k N{kN {k     N{kN{k     E{kE{k 	  W{kW{k	      W{kW {k  B{kB {k      B{kB{k I{kI{k E{kE
+.  {k N{kN {k  N{kN {k    N{kN {k    E{kE{kE{kE{kE{kE{k	  W{kW{k	      W{kW{k B{kB{kB{kB{kB{kB{kB{kB{kB{kB{k I{kI{k E{kE{kE{kE{kE{kE
+.  {k N{kN {k   N{kN{k    N{kN{k     E{k       W{kW{k  	      W{kW{k   B{kB{k       B{kB{k      I{kI{k E{kE
+.  {k N{kN{k     N{kN{k   N{kN {k    E{kE{k	  W{kW{k    W{kW{k    W{kW{k   B{kB{k       B{kB{k  I{kI{k E{kE
+.  {k N{kN {k     N{kN {k N{kN {k    E{kE{k       W{kW{k  W{kW {k W{kW {k W{kW {k  B{kB {k      B{kB I{kI{k E{kE
+.  {k N{kN {k     {k\{kN{kN{kN{kN{k      E{kE{k	  {kW{kW{kW{kW{k      W{kW{kW{kW{k   B{kB {k     B{kB{k I{kI{k E{kE
+.  {k N{kN{k          N{kN{k     E{kE{kE{kE{kE{kE{kE{kE{k    W{kW{k        W{kW{k B{kB{kB{kB{kB{kB{kB{kB{kB{kB{k I{kI{kI{kI{kI{kI{kI{kI{kI{kI{k E{kE{kE{kE{kE{kE{kE{kE
+~
+
+
+
+0 $~
+
+
+
+#$

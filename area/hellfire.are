@@ -1,0 +1,2583 @@
+#AREA   Elmakor Hellfire~
+
+#MOBILES
+#4439
+grunt orc~
+the orc grunt~
+A large orc grunt is here.
+~
+The orc grunt is a gruff handler of the sword.
+~
+1|32|64|524288 0 -1000 S
+696 -3 0 4d10+360 4d4+5
+0 0
+8 8 1
+#4440
+grunt peon~
+the orc peon~
+An orc peon is here.
+~
+The orc peon rushes about on his daily duties.
+~
+1|4|32|64|524288 0 -900 S
+656 -3 0 4d10+360 4d4+5
+0 0
+8 8 1
+#4441
+ogre~
+an ogre~
+An oversized ogre is here, towering over you.
+~
+The ogre roars and stares at you.
+~
+1|32|64|524288 0 -1000 S
+756 -3 0 4d10+360 4d4+5
+0 0
+8 8 1
+#4442
+daemon demon red fiery fire~
+the red fiery daemon~
+An enormous red fiery daemon is here hiding in the corner.
+~
+The daemon stares at you and contemplates the end of your life.
+~
+1|2|32|64 512|65536 -1000 S
+803 -3 0 4d10+360 4d4+5
+0 0
+8 8 1
+#4443
+wizard hellfire~
+the wizard of Hellfire~
+The wizard of Hellfire is here.
+~
+The wizard looks distracted with his work.
+~
+1|2|64 0 -1000 S
+900 -3 0 4d10+360 4d4+5
+0 0
+8 8 1
+#4444
+troll~
+a large green troll~
+A huge troll, almost twice your size scrowls at you.
+~
+The troll seems to be distracted by your weapons.
+~
+1|4|32|64|524288 0 -1000 S
+730 -3 0 4d10+360 4d4+5
+0 0
+8 8 1
+#4445
+guard castle hellfire~
+hellfire guard~
+A towering orc guard stands in front of you.
+~
+The guard seems more interested in chopping off your head than guarding the 
+castle.
+~
+1|2|32|64 512|65536 -1000 S
+910 -3 0 4d10+360 4d4+5
+0 0
+8 8 1
+#4446
+highpriest priest myrkul~
+highpriest of Myrkul~
+The high priest of Myrkul stands before you praying to his god.
+~
+The priest seems not to notice you and continues with his chanting.
+~
+1|64|128 0 -1000 S
+750 -3 0 4d10+360 4d4+5
+0 0
+8 8 1
+#4447
+dungeon ghoul~
+a dungeon ghoul~
+A dungeon ghoul looks at you and screams for revenge.
+~
+The dungeon ghoul flies around you, looking for a weak spot.
+~
+32|64|128 2|8|32|32768|524288 -759 S
+567 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4448
+large rat~
+a large rat~
+A large rat scampers about the floor.
+~
+The eyes of the rat glows a deep red.
+~
+64 512|32768|65536 -1 S
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4449
+dungeon keeper~
+the Dungeon Keeper~
+The Dungeon Keeper looks at you and flashes a toothy grin.
+~
+The Dungeon Keeper seems keen on lopping your head off.
+~
+2|32|64 2|128|512|65536 -999 S
+597 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4450
+faceless evil~
+a faceless evil~
+A faceless evil is here, chanting your doom.
+~
+The faceless evil screams at you!
+~
+32|64 2|256|512|65536|524288 -1000 S
+795 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4451
+imp invisible~
+an invisible imp~
+An invisible imp hides at the corner of your eye.
+~
+An invisible imp seems more intent on surviving than fighting.
+~
+64 2|65536|524288 -999 S
+234 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4452
+barracks guard~
+a barrack guard~
+A barrack guard stares at you and growls.
+~
+The barrack guard waves its weapons threateningly.
+~
+2|64 8|32|128 -5 S
+778 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4453
+orcish cook~
+an orcish cook~
+An orcish cook is here, slobbering over the food.
+~
+The orcish cook looks at you and grunts out a reply you cannot understand.
+~
+2|4|64 0 -50 S
+756 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4454
+assistant cook~
+an assistant cook~
+An assistant cook is here, checking the storeroom
+~
+The assistant cook seems to ignore you completely.
+~
+2|64 0 -10 S
+654 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4455
+commander hellfire army~
+Commander of the Hellfire army~
+The commander of the Hellfire army stands before you.
+~
+The commander snarls at you and shows its yellow teeth.
+~
+2|32|64 8|32|128 -905 S
+797 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4456
+fanatic hellfire~
+a Hellfire fanatic~
+A Hellfire fanatic rushes at you!
+~
+The Hellfire fanatic is crazy!
+~
+4|32|64 0 -880 S
+467 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4457
+small gnoll~
+a small gnoll~
+A small gnoll is hiding in the shadows.
+~
+The gnoll snarls and attacks!
+~
+4|32|64 2|8|32|32768|65536 -753 S
+542 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4458
+jet-black raven~
+a jet-black raven~
+A jet-black raven is here squawking
+~
+The raven seems terrified of you.
+~
+64|128 32768|524288 -2 S
+7 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4459
+nightmarish creature~
+a nightmarish creature~
+A nightmarish creature stalks the shadows
+~
+The creature is none that you can identify.
+~
+32|64 8|32|32768|65536 -1000 S
+799 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4460
+poisonous giant lizard~
+a giant lizard~
+A poisonous giant lizard flicks its tongue at you.
+~
+The lizard seems tame enough.....
+~
+64|128 65536 0 S
+375 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4461
+highpriest bane~
+highpriest of Bane~
+The highpriest of Bane seems to be concentrating on his chanting
+~
+The highpriest of Bane ignores you.
+~
+64|128 128 -1000 S
+-750 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#4439
+headcrusher axe~
+a large bloodied axe named "Headcrusher"~
+A large two-handled axe is on the ground.~
+~
+5 2|512 1|8192
+0 10 20 11
+20 500 0
+A
+1 2
+A
+18 10
+A
+19 10
+#4440
+fiery longsword fire red~
+a fiery red longsword~
+A fiery red longsword forged from hellfire is here.~
+~
+5 1|2|64|512 1|8192
+5000 12 24 11
+10 500 0
+A
+13 20
+A
+19 10
+#4441
+curse faith~
+curse of Faith~
+A small bracelet lies on the ground glowing a malevolent blue.~
+~
+13 0 1|4
+0 0 0 0
+900 500 0
+#4442
+curse life~
+curse of Life~
+A small bracelet lies on the ground glowing a malevolent green.~
+~
+13 0 1|4
+0 0 0 0
+900 500 0
+#4443
+curse weakness~
+curse of Weakness~
+A small bracelet lies on the ground glowing a malevolent purple.~
+~
+13 0 1|4
+0 0 0 0
+900 500 0
+#4444
+long silvery wand~
+a long silvery wand~
+A long silvery wand engraved with mystical runes is on the floor.~
+~
+3 1|2|64|512 1|16384
+28 5 5 26
+5 500 0
+A
+12 100
+#4445
+rusty sword large curved~
+a rusty sword~
+A large, slightly curved sword is here, rusting.~
+~
+5 0 1|8192
+0 7 15 11
+12 500 0
+#4446
+chest~
+a large chest~
+~
+~
+15 0 0
+10000 15 4447 0
+10000 0 0
+#4447
+necklace myrkul~
+a dark necklace~
+A long necklace lies on the floor~
+~
+9 0 1|4
+-10 0 0 0
+5 150 0
+#4448
+bookshelf west~
+a bookshelf~
+The bookshelf lines the western walls of the sanctum~
+~
+15 0 0
+9999 0 -1 11
+2000 0 0
+#4449
+bed~
+a large bed~
+There is a large bed here.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#4450
+demonic necklace symbol~
+a necklace emblazoned with a demonic symbol~
+A demonic necklace lies here, twinkling at your feet.~
+~
+9 1|2|16|512 1|4
+10 1 6 11
+3 0 0
+#4451
+human hide boots~
+a pair of human-hide boots~
+The pair of boots seem to be made of human flesh!~
+~
+9 16|512 1|64
+10 1 6 11
+6 0 0
+#4452
+medallion bane~
+medallion of Bane~
+A small medallion dedicated to Bane's worship.~
+~
+9 2|16|64|512 1|4
+12 1 6 11
+1 0 0
+#4453
+penchant myrkul~
+penchant of Myrkul~
+A penchant dedicated to the cause of the death lord is here.~
+~
+9 16|64|512 1|4
+10 1 6 11
+2 0 0
+#4454
+book spellbook~
+a spellbook~
+The spellbook details the casting of many spells, all of which requires 
+human blood sacrifices.~
+~
+8 1|16|512 1|16384
+0 1 6 11
+5 0 0
+A
+23 0
+#4455
+skull broken~
+a broken skull~
+A skull jeers at you with a broken grin~
+~
+13 0 1|16384
+0 1 6 11
+5 0 0
+#4456
+broken bone~
+a piece of broken bone~
+There is a piece of broken bone here.~
+~
+13 0 1
+0 1 6 11
+2 0 0
+#4457
+spiked phantasmal helmet~
+a spiked phantasmal helmet~
+There is a translucent spiked helmet here~
+~
+9 1|2|16|32|64|128|512|2048|4096 1|16
+2 1 6 11
+1 0 0
+#4458
+phantasmal shield~
+a half-broken phantasmal shield~
+There is a half-broken shield on the ground.~
+~
+9 1|2|16|32|64|128|512|2048|4096 1|16384
+5 1 6 11
+10 0 0
+#4459
+helmet dungeon keeper~
+helmet of the Dungeon Keeper~
+There is a large spiked helmet on the ground~
+~
+9 16|64|128|512 1|16
+10 1 6 11
+25 0 0
+#4460
+tight-fitting chainmail bloodied~
+a tight-fitting chainmail covered with blood~
+A bloodied chainmail is here.~
+~
+9 16|512 1|8
+12 1 6 11
+10 0 0
+#4461
+broken sword~
+a broken sword~
+There is a sword on the ground, broken in half.~
+~
+5 0 1|8192
+0 2 10 2
+5 0 0
+#4462
+mask veils~
+a mask of veils~
+A small mask lies on the ground near you.~
+~
+9 16|64 1|16
+5 1 6 11
+1 0 0
+#4463
+bear hide mail~
+a mail made of bear hide~
+A bear hide mail lies on the ground.~
+~
+9 0 1|8
+10 1 6 11
+15 0 0
+#4464
+key barracks~
+key to the barracks~
+A small key~
+~
+18 0 1|16384
+0 1 6 11
+1 0 0
+#4465
+shelf food~
+a shelf full of food~
+There is a shelf full of food leaning against a wall.~
+~
+15 0 0
+99999 0 -1 11
+2000 0 0
+#4466
+half rotten leg lamb~
+a half rotten leg of lamb~
+A leg of lamb, covered with maggots is on the ground, rotting.~
+~
+19 0 1|16384
+10 1 6 11
+7 0 0
+#4467
+rotting corpse boar~
+the rotting corpse of a boar~
+The corpse of a boar is rotting here~
+~
+19 0 1
+30 1 6 11
+50 0 0
+#4468
+soup spoon huge~
+a huge soup spoon~
+A huge soup spoon is here.~
+~
+5 0 1|8192
+0 1 6 8
+5 0 0
+#4469
+pot~
+a pot~
+There is a large dented pot on the ground.~
+~
+9 0 1|16
+5 1 6 11
+12 0 0
+#4470
+pan~
+a dented pan~
+A small dented pan is here.~
+~
+5 0 1|8192
+0 2 8 7
+2 0 0
+#4471
+grey kite shield~
+a grey kite shield~
+A grey kite shield covered with blood is here~
+~
+9 16 1|16384
+6 1 6 11
+7 0 0
+#4472
+huge morningstar~
+a huge morning star~
+A huge morningstar splattered with dried blood lies at your feet.~
+~
+5 16 1|8192
+0 3 10 8
+9 0 0
+#4473
+large dented helmet~
+a large dented helmet~
+A large dented helmet sits on the floor in front of you.~
+~
+9 0 1|16
+4 1 6 11
+2 0 0
+#4474
+dark scimitar~
+a dark scimitar~
+A dark scimitar lies at your feet.~
+~
+5 16 1|8192
+0 1 5 3
+4 0 0
+#4475
+bloodied helmet~
+a bloodied helmet~
+A helmet is on the ground, covered in blood.~
+~
+9 16|64 1|16
+5 1 6 11
+4 0 0
+#4476
+torch blood~
+a torch of burning blood~
+A torch is on the ground, savagely consuming the blood which fuels it.~
+~
+1 0 1|16384
+0 1 -1 11
+3 0 0
+#4477
+longbow bow~
+a bloodied longbow~
+A longbow covered in blood lies at your feet.~
+~
+31 0 1|8192
+4478 0 1 11
+20 10000 0
+#4478
+blood-covered shaft~
+a blood-covered shaft~
+A blood-covered shaft lies here.~
+~
+32 0 1|16384
+100 10 20 11
+7 5000 0
+#4479
+crimson battleplate~
+a crimson battleplate~
+A crimson battleplate lies here.~
+~
+9 0 1|8
+25 1 6 11
+19 0 0
+#4480
+huge battleaxe~
+a huge battleaxe~
+A huge battleaxe lies here.~
+~
+5 0 1|8192
+0 5 11 3
+29 0 0
+#4481
+hide deer~
+the hide of a deer~
+The rotting hide of a deer is here.~
+~
+9 0 1|8
+24 1 6 11
+5 0 0
+#4482
+mangled corpse~
+a mangled corpse~
+A mangled corpse lies here at your feet.~
+~
+13 0 1
+0 1 6 11
+70 0 0
+#4483
+decapitated head~
+the decapitated head of an ogre~
+The decapitated head of an ogre is here.~
+~
+13 0 1|16384
+0 1 6 11
+3 0 0
+#4484
+carcass~
+a rotting carcass~
+A rotting carass is here.~
+~
+13 0 1
+0 1 6 11
+60 0 0
+#4485
+skeletal remains adventurer~
+the skeletal remains of an adventurer~
+The skeletal remains of an adventurer is here.~
+~
+13 0 1|8192
+0 1 6 11
+40 0 0
+#4486
+blood dagger~
+a blood dagger~
+A dagger lies on the ground, covered in blood.~
+~
+5 16 1|8192
+0 1 6 11
+3 0 0
+#4487
+ornate jewelled dagger~
+an ornate jewelled dagger~
+A dagger heavily encrusted with jewels lie on the ground.~
+~
+5 1|16 1|8192
+0 1 6 11
+3 0 0
+#0
+
+
+#ROOMS
+#4439
+Entrance to Hellfire~
+You stand at the entrance of a large forbodding looking keep.  Even with all 
+your magical equipment and spells, you feel a slight tinge of fear course 
+through your spine, for this is the entrance to Hellfire, the most unholy of 
+places in the Realms.
+
+A large sign is posted in front of the drawbridge north of here.
+~
+0 0 1
+D0
+Drawbridge of Hellfire
+~
+north door drawbridge~
+1 -1 4440
+E
+sign~
+This area is recommended for players who are more experienced and have 
+mudded
+long enough to be quit powerful.  Enter at your own risk, you have been 
+warned.
+~
+S
+#4440
+Drawbridge of Hellfire~
+The drawbridge to Hellfire is marked by the splotches of blood from 
+countless previous assaults on the castle.  Although many attempts have been 
+made, none have succeeded.  It is widely believed that the very essense of 
+Bane, Lord of Evil and Myrkul, Lord of the Dead, resides in this castle, 
+guarding it.
+~
+0 0 1
+D0
+Southern alley of Hellfire
+~
+~
+0 -1 4441
+D2
+Entrance to Hellfire.
+~
+~
+1 -1 4439
+S
+#4441
+Outside the main hall of Hellfire~
+You are outside the main hall of Hellfire.  Although the place is relatively 
+clean, it is still littered with gore and the remains of strange creatures.
+
+To the north, the grand double doors of the main hall beckons.
+~
+0 4 1
+D0
+The main hall of Hellfire
+~
+~
+1 -1 4508
+D1
+Southern alley of Hellfire.
+~
+~
+0 -1 4444
+D2
+Drawbridge of Hellfire.
+~
+~
+0 -1 4440
+D3
+Southern alley of Hellfire.
+~
+~
+0 -1 4442
+S
+#4442
+Gore-littered alley of Hellfire~
+You are in the southern end of the alley surrounding Castle Hellfire.  The 
+alley is littered with the blood and gore of a multitude of strange 
+creatures that you cannot even begin to identify.
+~
+0 0 1
+D1
+Southern alley of Hellfire.
+~
+~
+0 -1 4441
+D3
+Southern alley of Hellfire.
+~
+~
+0 -1 4443
+S
+#4443
+Battleground Alley~
+You are in the southern end of the alley surrounding Castle Hellfire.  This 
+particular section of the alley is named Battleground Alley for this is 
+where the commander of the last invading army was killed.
+~
+0 0 1
+D1
+Southern alley of Hellfire.
+~
+~
+0 -1 4442
+D3
+South-western corner of Hellfire.
+~
+~
+0 -1 4461
+S
+#4444
+Southern alley of Hellfire~
+You are in the southern end of the alley surrounding Castle Hellfire.
+~
+0 0 1
+D1
+Southern alley of Hellfire.
+~
+~
+0 -1 4445
+D3
+Southern alley of Hellfire.
+~
+~
+0 -1 4441
+S
+#4445
+Monster's Haunt~
+You are in the southern end of the alley surrounding Castle Hellfire.  
+Called Monster's Haunt, the name of this particular section of the alley is 
+well earned.
+~
+0 0 1
+D1
+South-eastern corner of Hellfire.
+~
+~
+0 -1 4464
+D3
+Southern alley of Hellfire.
+~
+~
+0 -1 4461
+S
+#4446
+Crumbling Walls~
+You are in the western end of the alley surrounding Castle Hellfire.  The 
+walls to the north of here have crumbled and fell, blocking the way north.
+~
+0 0 1
+D2
+South-western corner of Hellfire.
+~
+~
+0 -1 4461
+S
+#4447
+Crumbling Walls~
+You are in the western end of the alley surrounding Castle Hellfire.  The 
+walls to the south of here have crumbled and fell, blocking the way south.
+~
+0 0 1
+D0
+Western alley of Hellfire.
+~
+~
+0 -1 4448
+S
+#4448
+Western alley of Hellfire~
+You are in the western end of the alley surrounding Castle Hellfire.
+
+The entrance to the Hellfire barracks lies to the west, while to the east, a 
+door leads into the main hall of Castle Hellfire.
+~
+0 4 1
+D0
+Western alley of Hellfire.
+~
+~
+0 -1 4449
+D1
+The main hall of Hellfire
+~
+~
+1 -1 4496
+D2
+Western alley of Hellfire.
+~
+~
+0 -1 4447
+D3
+Entrance to the Hellfire barracks
+~
+~
+1 -1 4478
+S
+#4449
+Western alley of Hellfire~
+You are in the western end of the alley surrounding Castle Hellfire.
+~
+0 0 1
+D0
+Western alley of Hellfire.
+~
+~
+0 -1 4450
+D2
+Western alley of Hellfire.
+~
+~
+0 -1 4448
+S
+#4450
+The Scar~
+You are in the western end of the alley surrounding Castle Hellfire.  A deep 
+slash on the walls of the castle serves as a memoria for the attack by hill 
+giants some time ago.
+~
+0 0 1
+D0
+North-western corner of Hellfire.
+~
+~
+0 -1 4462
+D2
+Western alley of Hellfire.
+~
+~
+0 -1 4449
+S
+#4451
+Highwater~
+You are in the northern end of the alley surrounding Castle Hellfire.  Due 
+to the undergound river which flows just below the ground here, this area is 
+easily flooded, thus the name.
+~
+0 0 1
+D1
+Northern alley of Hellfire.
+~
+~
+0 -1 4452
+D3
+North-western corner of Hellfire.
+~
+~
+0 -1 4462
+S
+#4452
+Highwater~
+You are in the northern end of the alley surrounding Castle Hellfire.  Due 
+to the undergound river which flows just below the ground here, this area is 
+easily flooded, thus the name.
+~
+0 0 1
+D1
+Northern alley of Hellfire.
+~
+~
+0 -1 4453
+D3
+Northern alley of Hellfire.
+~
+~
+0 -1 4451
+S
+#4453
+Northern alley of Hellfire~
+You are in the northern end of the alley surrounding Castle Hellfire.
+To the south, a large double door leads to the main hall of Castle
+Hellfire.
+~
+0 4 1
+D1
+Northern alley of Hellfire.
+~
+~
+0 -1 4454
+D2
+The main hall of Hellfire
+~
+~
+1 -1 4504
+D3
+Northern alley of Hellfire.
+~
+~
+0 -1 4452
+S
+#4454
+Dunce Zone~
+You are in the northern end of the alley surrounding Castle Hellfire.  An 
+enchantment placed here by a crazy mage half a millenium ago left the area 
+immune to attacks.  All who seeks refuge are here.
+~
+0 1024|16384 1
+D1
+Northern alley of Hellfire.
+~
+~
+0 -1 4455
+D3
+Northern alley of Hellfire.
+~
+~
+0 -1 4453
+S
+#4455
+Northern alley of Hellfire~
+You are in the northern end of the alley surrounding Castle Hellfire.
+
+The entrance to the sanctum of the wizard of Hellfire lies north of here.
+~
+0 0 1
+D0
+The wizard's sanctum.
+~
+~
+1 -1 4468
+D1
+North-eastern corner of Hellfire.
+~
+~
+0 -1 4463
+D3
+Northern alley of Hellfire.
+~
+~
+0 -1 4454
+S
+#4456
+Crumbling Walls~
+The crumbling walls of the alley here was caused a decade ago by a battle of 
+magicks between the wizard of Hellfire and an invader mage.  You are in the 
+eastern end of the alley surrounding Castle Hellfire.
+~
+0 0 1
+D0
+North-eastern corner of Hellfire.
+~
+~
+0 -1 4463
+D2
+Eastern alley of Hellfire.
+~
+~
+0 -1 4457
+S
+#4457
+Eastern alley of Hellfire~
+You are in the eastern end of the alley surrounding Castle Hellfire.
+~
+0 0 1
+D0
+Eastern alley of Hellfire.
+~
+~
+0 -1 4456
+D2
+Eastern alley of Hellfire.
+~
+~
+0 -1 4458
+S
+#4458
+Eastern alley of Hellfire~
+You are in the eastern end of the alley surrounding Castle Hellfire.
+
+The entrance to the dungeons of Hellfire lies to the east while the main 
+hall is to the west.
+~
+0 4 1
+D0
+Eastern alley of Hellfire.
+~
+~
+0 -1 4457
+D1
+The eastern wing of Hellfire
+~
+~
+0 -1 4469
+D2
+Eastern alley of Hellfire.
+~
+~
+0 -1 4459
+D3
+The main hall of Hellfire
+~
+~
+1 -1 4516
+S
+#4459
+The Haunted Corridor~
+You are in the eastern end of the alley surrounding Castle Hellfire.  Being 
+close to the dugeons, this part of the alley is often visited by the 
+inmates.
+~
+0 0 1
+D0
+Eastern alley of Hellfire.
+~
+~
+0 -1 4458
+D2
+Eastern alley of Hellfire.
+~
+~
+0 -1 4460
+S
+#4460
+Eastern alley of Hellfire~
+You are in the eastern end of the alley surrounding Castle Hellfire.
+~
+0 0 1
+D0
+Eastern alley of Hellfire.
+~
+~
+0 -1 4459
+D2
+South-eastern corner of Hellfire.
+~
+~
+0 -1 4464
+S
+#4461
+South-western corner of Hellfire~
+You are in the south-western corner of the alley surrounding Castle 
+Hellfire.
+~
+0 0 1
+D0
+Western alley of Hellfire.
+~
+~
+0 -1 4446
+D1
+Southern alley of Hellfire.
+~
+~
+0 -1 4443
+S
+#4462
+North-western corner of Hellfire~
+You are in the north-western corner of the alley surrounding Castle 
+Hellfire.
+~
+0 0 1
+D1
+Northern alley of Hellfire.
+~
+~
+0 -1 4451
+D2
+Western alley of Hellfire.
+~
+~
+0 -1 4450
+S
+#4463
+North-eastern corner of Hellfire~
+You are in the north-eastern corner of the alley surrounding Castle 
+Hellfire.
+~
+0 0 1
+D2
+Eastern alley of Hellfire.
+~
+~
+0 -1 4456
+D3
+Northern alley of Hellfire.
+~
+~
+0 -1 4455
+S
+#4464
+South-eastern corner of Hellfire~
+You are in the south-eastern corner of the alley surrounding Castle 
+Hellfire.
+~
+0 0 1
+D0
+Eastern alley of Hellfire.
+~
+~
+0 -1 4460
+D3
+Southern alley of Hellfire.
+~
+~
+0 -1 4445
+S
+#4465
+Scrying room~
+You are in the scrying room of the wizard of Hellfire.  Originally the 
+burial site of many famous warriors, the cemetery has been desecrated and a 
+scrying pool erected upon the tombs of the king of a long forgotten kingdom. 
+  Now, the soul of the dead fuels the evil scrying pool.
+
+There is a scrying pool on the ground.
+~
+0 8 0
+D1
+The wizard's sanctum
+~
+~
+0 -1 4466
+D2
+The wizard's sanctum
+~
+~
+0 -1 4467
+E
+pool of scrying~
+The wizard has been busy planning an attack against midgaard and the scene
+in the pool is not unknown to you - Market Square.
+~
+S
+#4466
+Bedroom of the wizard~
+You are in the bedroom of the Hellfire wizard.  Time and day makes no 
+difference to the perpetual gloom of the room.  As you flounder slowly 
+around the room, you begin to realise that you may not be alone.
+
+A large tome has been left open on a pedestal.
+~
+0 1|8 0
+D2
+The wizard's sanctum
+~
+~
+0 -1 4468
+D3
+The wizard's sanctum
+~
+~
+0 -1 4465
+E
+tome book pedestal~
+The tome is torn and tattered and the scribings on them are in a language 
+you
+can not possibly understand.
+~
+S
+#4467
+The wizard's sanctum~
+You stand in the sanctum of the wizard of Hellfire.  Shelves line the
+western wall and books stacked in neat rows upon the shelves.  Even with
+the wall almost covered end to end with shelves, some books have still
+to be stacked on the floor.
+~
+0 8 0
+D0
+The wizard's sanctum
+~
+~
+0 -1 4465
+D1
+The wizard's sanctum
+~
+~
+0 -1 4468
+S
+#4468
+Entrance to the wizard's sanctum~
+The wizard of Hellfire is known for his malicious cruelty to those who 
+intrude upon his domain.  As you cautiously step into the entrance of his 
+private sanctum, you cannot help but stiffle a tremble.
+~
+0 4|8 0
+D0
+The wizard's sanctum
+~
+~
+0 -1 4466
+D2
+Northern alley of Hellfire.
+~
+~
+1 -1 4455
+D3
+The wizard's sanctum
+~
+~
+0 -1 4467
+S
+#4469
+Entrance to the dungeons~
+The dungeons of Hellfire are noted for their many hauntings.  Many a brave 
+warrior have ventured into these rooms to emerge as raving lunatics.. or not 
+emerge at all.
+~
+0 4|8 0
+D3
+Eastern alley of Hellfire.
+~
+~
+0 -1 4458
+D5
+~
+~
+1 -1 4470
+S
+#4470
+Dimly lit dungeons~
+You stand near the entrance of the dungeons.  Light from the entrance stream 
+in in little streaks, lighting up the room sufficiently for you to see by.  
+However, one look at the gory remains of prisoners make you decide that 
+maybe darkness would be prefered.
+~
+0 8 0
+D1
+The eastern wing of Hellfire
+~
+~
+0 -1 4471
+D2
+The eastern wing of Hellfire
+~
+~
+0 -1 4473
+D4
+~
+~
+1 -1 4469
+S
+#4471
+Dark dungeons~
+The chill of the Hellfire dungeons seeps from the ground and course through 
+your veins.  It is a chill that foretells of death and destruction -- YOUR 
+death and destruction.
+~
+0 1|8 0
+D2
+The eastern wing of Hellfire
+~
+~
+0 -1 4474
+D3
+The eastern wing of Hellfire
+~
+~
+0 -1 4470
+S
+#4472
+Dimly lit dungeons~
+You stand near the entrance of the dungeons.  Light from the entrance stream 
+in in little streaks, lighting up the room sufficiently for you to see by.  
+However, one look at the gory remains of prisoners make you decide that 
+maybe darkness would be prefered.
+~
+0 8 0
+D1
+The eastern wing of Hellfire
+~
+~
+0 -1 4473
+D2
+The eastern wing of Hellfire
+~
+~
+0 -1 4475
+S
+#4473
+Dark dungeons~
+The chill of the Hellfire dungeons seeps from the ground and course through 
+your veins.  It is a chill that foretells of death and destruction -- YOUR 
+death and destruction.
+~
+0 1|8 0
+D0
+The eastern wing of Hellfire
+~
+~
+0 -1 4470
+D1
+The eastern wing of Hellfire
+~
+~
+0 -1 4474
+D2
+The eastern wing of Hellfire
+~
+~
+0 -1 4476
+D3
+The eastern wing of Hellfire
+~
+~
+0 -1 4472
+S
+#4474
+Dark dungeons~
+The chill of the Hellfire dungeons seeps from the ground and course through 
+your veins.  It is a chill that foretells of death and destruction -- YOUR 
+death and destruction.
+~
+0 1|8 0
+D0
+The eastern wing of Hellfire
+~
+~
+0 -1 4471
+D2
+The eastern wing of Hellfire
+~
+~
+0 -1 4477
+D3
+The eastern wing of Hellfire
+~
+~
+0 -1 4473
+S
+#4475
+Dark dungeons~
+The chill of the Hellfire dungeons seeps from the ground and course through 
+your veins.  It is a chill that foretells of death and destruction -- YOUR 
+death and destruction.
+~
+0 1|8 0
+D0
+The eastern wing of Hellfire
+~
+~
+0 -1 4472
+D1
+The eastern wing of Hellfire
+~
+~
+0 -1 4476
+S
+#4476
+Dark dungeons~
+The chill of the Hellfire dungeons seeps from the ground and course through 
+your veins.  It is a chill that foretells of death and destruction -- YOUR 
+death and destruction.
+~
+0 1|8 0
+D0
+The eastern wing of Hellfire
+~
+~
+0 -1 4473
+D1
+The eastern wing of Hellfire
+~
+~
+0 -1 4477
+D3
+The eastern wing of Hellfire
+~
+~
+0 -1 4475
+S
+#4477
+Darkest corner of the dungeons~
+Fartherest away from the light which streams in from the entrance to the 
+dungeons, this is the corner where the most brutal of torture and killings 
+were carried out.  Looking at the mangled corpses and gory skeletons, you 
+suddenly wish to be out of the room.
+~
+0 1|8|8192 0
+D0
+The eastern wing of Hellfire
+~
+~
+0 -1 4474
+D3
+The eastern wing of Hellfire
+~
+~
+0 -1 4476
+S
+#4478
+Entrance to the Hellfire barracks~
+You stand under the portcullis above the doorway to the Hellfire barracks.  
+Although Castle Hellfire has been under the constant attacks of the forces 
+of the good, it has never ever fallen.  This record of invulnerbility is 
+well-earned as you watch the warriors train.
+~
+0 8 0
+D1
+Western alley of Hellfire
+~
+~
+1 4464 4448
+D3
+The training grounds
+~
+~
+0 -1 4479
+S
+#4479
+The basic training grounds~
+You are at the beginners training grounds.  Even though this is basic 
+training, blood and gore spilt from previous combatants littered the place.  
+You can't help but shudder at the gruesome sight.
+~
+0 0 1
+D0
+The training grounds
+~
+~
+0 -1 4481
+D1
+Entrance to the Hellfire barracks
+~
+~
+0 -1 4478
+D2
+The training grounds
+~
+~
+0 -1 4480
+D3
+The training grounds
+~
+~
+0 -1 4484
+S
+#4480
+The basic training grounds~
+You are at the beginners training grounds.  Even though this is basic 
+training, blood and gore spilt from previous combatants littered the place.  
+You can't help but shudder at the gruesome sight.
+~
+0 0 1
+D0
+The training grounds
+~
+~
+0 -1 4479
+D3
+The training grounds
+~
+~
+0 -1 4483
+S
+#4481
+The basic training grounds~
+You are at the beginners training grounds.  Even though this is basic 
+training, blood and gore spilt from previous combatants littered the place.  
+You can't help but shudder at the gruesome sight.
+~
+0 0 1
+D1
+The sick bay
+~
+~
+0 -1 4482
+D2
+The training grounds
+~
+~
+0 -1 4479
+D3
+The training grounds
+~
+~
+0 -1 4485
+S
+#4482
+The sick bay~
+The sick and wounded lies upon the hard ground.  With so many wounded from 
+training in the grounds, it is no wonder that beds are in severe shortage.  
+As you watch with revulsion at the mutilated warriors, the ring of metal 
+against metal rings out clearly from the west.
+~
+0 0 1
+D3
+The training grounds
+~
+~
+0 -1 4481
+S
+#4483
+The intermediate training grounds~
+You watch in amazement as orc warriors, giant trolls and towering ogres spar 
+each other, usually to the death or near there, in a bid to heighten their 
+own skills.  The brutal training brings to your mind a scene you have once 
+seen in a slaughter house.
+~
+0 0 1
+D0
+The training grounds
+~
+~
+0 -1 4484
+D1
+The training grounds
+~
+~
+0 -1 4480
+D3
+The training grounds
+~
+~
+0 -1 4491
+S
+#4484
+The intermediate training grounds~
+You watch in amazement as orc warriors, giant trolls and towering ogres spar 
+each other, usually to the death or near there, in a bid to heighten their 
+own skills.  The brutal training brings to your mind a scene you have once 
+seen in a slaughter house.
+~
+0 0 1
+D0
+The training grounds
+~
+~
+0 -1 4485
+D1
+The training grounds
+~
+~
+0 -1 4479
+D2
+The training grounds
+~
+~
+0 -1 4483
+D3
+The training grounds
+~
+~
+0 -1 4490
+S
+#4485
+The intermediate training grounds~
+You watch in amazement as orc warriors, giant trolls and towering ogres spar 
+each other, usually to the death or near there, in a bid to heighten their 
+own skills.  The brutal training brings to your mind a scene you have once 
+seen in a slaughter house.
+~
+0 0 1
+D0
+The barracks kitchen
+~
+~
+0 -1 4486
+D1
+The training grounds
+~
+~
+0 -1 4481
+D2
+The training grounds
+~
+~
+0 -1 4484
+D3
+The training grounds
+~
+~
+0 -1 4489
+S
+#4486
+The barracks kitchen~
+With the large number of warriors housed in the barracks, it is no wonder 
+that cooks and peons scurry about the place, checking pots, tending fires
+and preparing meals for the ever-hungry warriors.
+~
+0 8 0
+D1
+The ladder
+~
+~
+0 -1 4488
+D2
+The training grounds
+~
+~
+0 -1 4485
+D3
+The storeroom
+~
+~
+0 -1 4487
+S
+#4487
+The storeroom~
+The storeroom is stocked full of cooking utensils and discarded food.
+~
+0 8 0
+D1
+The barracks kitchen
+~
+~
+0 -1 4486
+S
+#4488
+The ladder~
+The ladder is stocked full of raw food, mainly meat of a kind you cannot 
+identify.
+~
+0 8 0
+D3
+The barracks kitchen
+~
+~
+0 -1 4486
+S
+#4489
+The advanced training grounds~
+After seeing the basic and intermediate training grounds, you are not 
+surprised to see that most of the combatants of the advanced training 
+grounds are lying on the ground.  All of them are groaning in pain due to 
+injuries that are mostly beyond hope.  Even the medics refuse to enter this 
+part of the barracks.
+~
+0 0 1
+D1
+The training grounds
+~
+~
+0 -1 4485
+D2
+The training grounds
+~
+~
+0 -1 4490
+S
+#4490
+The advanced training grounds~
+After seeing the basic and intermediate training grounds, you are not 
+surprised to see that most of the combatants of the advanced training 
+grounds are lying on the ground.  All of them are groaning in pain due to 
+injuries that are mostly beyond hope.  Even the medics refuse to enter this 
+part of the barracks.
+~
+0 0 1
+D0
+The training grounds
+~
+~
+0 -1 4489
+D1
+The training grounds
+~
+~
+0 -1 4484
+D2
+The training grounds
+~
+~
+0 -1 4491
+D3
+The commander's quarters
+~
+~
+0 -1 4492
+S
+#4491
+The advanced training grounds~
+After seeing the basic and intermediate training grounds, you are not 
+surprised to see that most of the combatants of the advanced training 
+grounds are lying on the ground.  All of them are groaning in pain due to 
+injuries that are mostly beyond hope.  Even the medics refuse to enter this 
+part of the barracks.
+~
+0 0 1
+D0
+The training grounds
+~
+~
+0 -1 4490
+D1
+The training grounds
+~
+~
+0 -1 4483
+D3
+The armoury
+~
+~
+0 -1 4493
+S
+#4492
+The commander's quarters~
+The commander of the Hellfire army seems not to be around, even though 
+numerous large full-length portraits of him hang on all four walls of his 
+spacious quarters.
+~
+0 8 0
+D1
+The training grounds
+~
+~
+0 -1 4490
+S
+#4493
+The armoury~
+The armoury is stocked full of weapons and equipment, many of which you can 
+not even begin to identify.
+~
+0 8 0
+D1
+The training grounds
+~
+~
+0 -1 4491
+S
+#4494
+The north-western corner of the main hall~
+You are standing in the north-western corner of the main hall.  Orc peons 
+scurry pass you in a frenzied rush to complete their tasks before their 
+heads decorate the candeliars of the hall.
+~
+0 8 0
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4499
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4495
+S
+#4495
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4494
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4500
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4496
+S
+#4496
+Western entrance to the main hall~
+You are at the western entrance to the main hall.  Even though you fully 
+realise the evil of the room, you cannot help but wonder at the magnificent 
+beauty of the double-arched doors.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4495
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4501
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4497
+D3
+Western alley of Hellfire
+~
+~
+1 -1 4448
+S
+#4497
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4496
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4502
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4498
+S
+#4498
+The south-western corner of the main hall~
+You are standing in the south-western corner of the main hall.  Orc peons 
+scurry pass you in a frenzied rush to complete their tasks before their 
+heads decorate the candeliars of the hall.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4497
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4503
+S
+#4499
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4504
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4500
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4494
+S
+#4500
+Pillar of Death~
+You stand at the foot of the Pillar of Death, named thus because of the many 
+different forms of gruesome death etched upon its surface.  A tribute to the 
+Lord of Death, Myrkul, this is indeed a cruel piece of art.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4499
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4505
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4501
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4495
+S
+#4501
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4500
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4506
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4502
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4496
+S
+#4502
+Pillar of Assassination~
+Dedicated to the patron of assassins, Bhaal, this pillar shows the dark 
+stalkers at work -- or play.  Scenes of famous assassinations as well as 
+pictures of famous assassins line the surface of the pillar in an unending 
+pattern.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4501
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4507
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4503
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4497
+S
+#4503
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4502
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4508
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4498
+S
+#4504
+Northern entrance of the main hall~
+You are at the northern entrance of the main hall.  Never before have you 
+seen a sight as beautiful as the throne in the direct center of the hall.  
+Staring at it, you begin to realise just why so many have turned their backs 
+to good and went on the path of evil.
+~
+0 8 0
+D0
+Northern alley of Hellfire
+~
+~
+1 -1 4453
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4509
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4505
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4499
+S
+#4505
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4504
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4510
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4506
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4500
+S
+#4506
+The center of the main hall~
+You are at the center of the main hall.  Sited at the exact center of the 
+hall is the throne of Hellfire.  Although it has been unoccupied since the 
+last Hellfire ruler died, it is rumoured that the wizard of Hellfire sits on 
+the throne on occasions.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4505
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4511
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4507
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4501
+S
+#4507
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4506
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4512
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4508
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4502
+S
+#4508
+Southern entrance of the main hall~
+This is the southern and main entrance to the hall.  Shivering from the 
+chill of the alley surrounding the hall, you feel glad that you are finally 
+out of the gruesome corridor and into this well-lit area.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4507
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4513
+D2
+Southern alley of Hellfire
+~
+~
+1 -1 4441
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4503
+S
+#4509
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4514
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4510
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4504
+S
+#4510
+Pillar of Shadows~
+The god of thieves, Lord Mask, is a well-known ally to the trio gods of 
+evil, Bhaal, Myrkul and Bane.  This pillar depicts the lives of infamous 
+thieves and gory settlements of debts.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4509
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4515
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4511
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4505
+S
+#4511
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4510
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4516
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4512
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4506
+S
+#4512
+Pillar of Evil~
+Lord Bane, the Lord of Evil and Price of Lies, was rumoured to have casted 
+this pillar from the very substances of pandemonia.  Even if the rumour is 
+false, the intricate figures of devils and daemons on the pillar is enough 
+to make it a priceless work of evil.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4511
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4517
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4513
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4507
+S
+#4513
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4512
+D1
+The main hall of Hellfire
+~
+~
+0 -1 4518
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4508
+S
+#4514
+The north-eastern corner of the main hall~
+You are standing in the north-eastern corner of the main hall.  Orc peons 
+scurry pass you in a frenzied rush to complete their tasks before their 
+heads decorate the candeliars of the hall.
+~
+0 8 0
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4515
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4509
+S
+#4515
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4514
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4516
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4510
+S
+#4516
+Eastern entrance of the main hall~
+You are at the eastern entrance of the main hall.  Even as you walk into the 
+well-lit halls, the clattering of chains and the moans of ghouls still 
+drifts to you from the dungeons to the east.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4515
+D1
+Eastern alley of Hellfire
+~
+~
+1 -1 4458
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4517
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4511
+S
+#4517
+The main hall of Hellfire~
+As orc peons scurry about the hall looking for things to do and people to 
+serve, you watch about the place in wonder.  The main hall of Hellfire
+is probably the most beautiful place in the whole castle.  In fact, its 
+beauty rivals even the personal office of the mayor of midgaard.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4516
+D2
+The main hall of Hellfire
+~
+~
+0 -1 4518
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4512
+S
+#4518
+The south-eastern corner of the main hall~
+You are standing in the south-eastern corner of the main hall.  Orc peons 
+scurry pass you in a frenzied rush to complete their tasks before their 
+heads decorate the candeliars of the hall.
+~
+0 8 0
+D0
+The main hall of Hellfire
+~
+~
+0 -1 4517
+D3
+The main hall of Hellfire
+~
+~
+0 -1 4513
+S
+#0
+
+
+#RESETS
+M 1 4443 1 4466            the wizard of Hellfire to Bedroom of the wizard
+E 1 4452 100 3
+E 1 4453 100 4
+E 1 4444 100 17
+G 1 4454 100
+O 1 4446 100 4466            a large chest to Bedroom of the wizard
+D 1 4469 5 2            ; Entrance to the dungeons Lock Down
+*
+M 1 4442 1 4477            the red fiery daemon to The eastern wing of Hellfire
+E 1 4440 100 16
+E 1 4450 100 3
+E 1 4450 100 4
+E 1 4451 100 8
+E 1 4455 100 17
+*
+M 1 4447 20 4470            a dungeon ghoul to Dimly lit dungeons
+G 1 4456 100
+*
+M 1 4447 20 4473            a dungeon ghoul to Dark dungeons
+E 1 4457 100 6
+*
+M 1 4447 20 4475            a dungeon ghoul to Dark dungeons
+E 1 4458 100 17
+*
+M 1 4448 20 4467            a large rat to The wizard's sanctum
+*
+M 1 4449 1 4469            the Dungeon Keeper to Entrance to the dungeons
+E 1 4439 100 16
+E 1 4459 100 6
+E 1 4460 100 5
+*
+M 1 4448 20 4472            a large rat to Dimly lit dungeons
+*
+M 1 4448 20 4474            a large rat to Dark dungeons
+*
+M 1 4450 1 4476            a faceless evil to Dark dungeons
+E 1 4462 100 6
+E 1 4461 100 16
+*
+M 1 4451 2 4465            an invisible imp to Scrying room
+D 1 4478 1 2            ; Entrance to the Hellfire barracks Lock East
+*
+M 1 4452 2 4478            a barrack guard to Entrance to the Hellfire barracks
+E 1 4445 100 16
+E 1 4463 100 5
+O 1 4465 100 4488            a shelf full of food to The ladder
+*
+M 1 4453 1 4486            an orcish cook to The barracks kitchen
+E 1 4468 100 16
+E 1 4469 100 6
+*
+M 1 4454 1 4487            an assistant cook to The storeroom
+O 1 4470 100 4487            a dented pan to The storeroom
+O 1 4469 100 4487            a pot to The storeroom
+O 1 4468 100 4487            a huge soup spoon to The storeroom
+*
+M 1 4455 1 4492            Commander of the Hellfire army to The commander's quarters
+E 1 4472 100 16
+E 1 4471 100 17
+E 1 4473 100 6
+O 1 4461 100 4493            a broken sword to The armoury
+O 1 4463 100 4493            a mail made of bear hide to The armoury
+O 1 4471 100 4493            a grey kite shield to The armoury
+D 1 4439 0 1            ; Entrance to Hellfire Close North
+*
+M 1 4445 4 4439            hellfire guard to Entrance to Hellfire
+E 1 4475 100 6
+E 1 4474 100 16
+E 1 4476 100 0
+D 1 4448 1 1            ; Western alley of Hellfire Close East
+D 1 4453 2 1            ; Northern alley of Hellfire Close South
+D 1 4458 3 1            ; Eastern alley of Hellfire Close West
+D 1 4455 0 2            ; Northern alley of Hellfire Lock North
+D 1 4441 0 0            ; Outside the main hall of Hellfire Open North
+*
+M 1 4439 7 4479            the orc grunt to The basic training grounds
+E 1 4477 100 16
+E 1 4463 100 5
+G 1 4478 100
+G 1 4478 100
+*
+M 1 4444 9 4483            a large green troll to The intermediate training grounds
+E 1 4480 100 16
+*
+M 1 4439 7 4480            the orc grunt to The basic training grounds
+E 1 4479 100 5
+E 1 4445 100 16
+*
+M 1 4444 9 4483            a large green troll to The intermediate training grounds
+E 1 4445 100 16
+*
+M 1 4444 9 4485            a large green troll to The intermediate training grounds
+*
+M 1 4441 4 4489            an ogre to The advanced training grounds
+E 1 4481 100 5
+*
+M 1 4441 4 4491            an ogre to The advanced training grounds
+E 1 4480 100 16
+O 1 4482 100 4449            a mangled corpse to Western alley of Hellfire
+O 1 4483 100 4450            the decapitated head of an ogre to The Scar
+O 1 4484 100 4463            a rotting carcass to North-eastern corner of Hellfire
+O 1 4482 100 4453            a mangled corpse to Northern alley of Hellfire
+O 1 4485 100 4457            the skeletal remains of an adventurer to Eastern alley of Hellfire
+O 1 4483 100 4457            the decapitated head of an ogre to Eastern alley of Hellfire
+O 1 4482 100 4459            a mangled corpse to The Haunted Corridor
+O 1 4485 100 4445            the skeletal remains of an adventurer to Monster's Haunt
+O 1 4483 100 4443            the decapitated head of an ogre to Battleground Alley
+*
+M 1 4456 2 4442            a Hellfire fanatic to Gore-littered alley of Hellfire
+E 1 4461 100 16
+*
+M 1 4456 2 4463            a Hellfire fanatic to North-eastern corner ofHellfire
+E 1 4445 100 16
+*
+M 1 4457 5 4450            a small gnoll to The Scar
+*
+M 1 4457 2 4447            a small gnoll to Crumbling Walls
+E 1 4461 100 16
+*
+M 1 4458 10 4451            a jet-black raven to Highwater
+*
+M 1 4458 10 4454            a jet-black raven to Dunce Zone
+*
+M 1 4458 10 4457            a jet-black raven to Eastern alley of Hellfire
+*
+M 1 4458 10 4464            a jet-black raven to South-eastern corner of Hellfire
+*
+M 1 4459 5 4445            a nightmarish creature to Monster's Haunt
+*
+M 1 4459 5 4445            a nightmarish creature to Monster's Haunt
+*
+M 1 4459 5 4442            a nightmarish creature to Gore-littered alley of Hellfire
+*
+M 1 4460 4 4443            a giant lizard to Battleground Alley
+*
+M 1 4460 4 4456            a giant lizard to Crumbling Walls
+*
+M 1 4440 10 4494            the orc peon to The north-western corner of the main hall
+*
+M 1 4440 10 4518            the orc peon to The south-eastern corner of the main hall
+*
+M 1 4440 10 4514            the orc peon to The north-eastern corner of the main hall
+*
+M 1 4440 10 4498            the orc peon to The south-western corner of the main hall
+*
+M 1 4446 1 4506            highpriest of Myrkul to The main hall of Hellfire
+E 1 4447 100 3
+E 1 4453 100 4
+E 1 4487 100 16
+*
+M 1 4461 1 4506            highpriest of Bane to The center of the main hall
+E 1 4452 100 3
+E 1 4486 100 16
+P 1 4466 100 4465            a half rotten leg of lamb to container shelf food
+P 1 4467 100 4465            the rotting corpse of a boar to container shelf food
+P 1 4466 100 4465            a half rotten leg of lamb to container shelf food
+P 1 4441 100 4446            curse of Faith to container chest
+P 1 4442 100 4446            curse of Life to container chest
+P 1 4443 100 4446            curse of Weakness to container chest
+S
+
+
+
+#$
+

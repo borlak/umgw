@@ -1,0 +1,357 @@
+#AREA	Vic     Forge Tools~
+
+#OBJECTS
+#31000
+tin metal piece~
+a piece of tin~
+A piece of tin.~
+~
+40|76 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31001
+copper metal piece~
+a piece of copper~
+A piece of copper.~
+~
+41|76 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31002
+steel metal piece~
+a piece of steel~
+A piece of steel.~
+~
+42|76 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31003
+adamantite metal piece~
+a piece of adamantite~
+A piece of adamantite.~
+~
+43|76 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31004
+titanium metal piece~
+a piece of titanium~
+A piece of titanium.~
+~
+44|76 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31005
+crystal stone~
+a crystal~
+a crystal.~
+~
+45|47 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31006
+jade stone~
+a jade stone~
+a jade stone.~
+~
+45|48 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31007
+gem stone~
+a gem stone~
+a gem stone.~
+~
+45|49 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31008
+quartz stone~
+a quartz stone~
+a quartz stone.~
+~
+45|50 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31009
+ruby stone~
+a ruby~
+a ruby.~
+~
+45|51 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31010
+diamond stone~
+a diamond~
+a diamond.~
+~
+45|52 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31011
+lime stone~
+a lime~
+A lime.~
+~
+45|53 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31012
+strip good craft~
+a strip of good~
+a strip of good.~
+~
+46|66 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31013
+strip evil craft~
+a strip of evil~
+a strip of evil.~
+~
+46|67 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31014
+strip neutral craft~
+a strip of neutrality~
+a strip of neutrality.~
+~
+46|68 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31015
+transporter trans set setter~
+a transporter setter~
+a transporter setter.~
+~
+46|69 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31016
+relocate relocator~
+a relocator~
+a relocator.~
+~
+46|70 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31017
+renamer namer name rename~
+a renamer~
+a renamer.~
+~
+46|71 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31018
+fire stone firestone~
+a firestone~
+a firestone.~
+~
+45|59 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31019
+emerald stone~
+an emerald~
+a emerald.~
+~
+45|60 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31020
+blood bloodstone stone~
+a bloodstone~
+a bloodstone.~
+~
+45|61 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31021
+moon moonstone stone~
+a moonstone~
+a moonstone.~
+~
+45|62 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31022
+topaz stone~
+a topaz~
+a topaz.~
+~
+45|63 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31023
+amythst stone~
+a amythst~
+a amythst.~
+~
+45|64 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31024
+sun sunstone stone~
+a sunstone~
+a sunstone.~
+~
+45|65 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31025
+sapphire stone~
+a sapphire~
+a sapphire.~
+~
+45|54 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31026
+aqua marine aquamarine stone~
+an aquamarine stone~
+an aquamarine stone.~
+~
+45|55 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31027
+beryl stone~
+a beryl stone~
+a beryl stone.~
+~
+45|56 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31028
+opal stone~
+a opal~
+a opal.~
+~
+45|57 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31029
+str strength adder~
+a strength adder~
+a strength adder.~
+~
+46|72 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31030
+wis wisdom adder~
+a wisdom adder~
+a wisdom adder.~
+~
+46|74 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31031
+int intelligence adder~
+a intelligence adder~
+a intelligence adder.~
+~
+46|73 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31032
+con constitution adder~
+a constitution adder~
+a constitution adder.~
+~
+46|76 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#31033
+dex dexterity adder~
+a dexterity adder~
+a dexterity adder.~
+~
+46|75 0 16385
+18053 25 50 3
+1 1000000 1
+A
+18 0
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$

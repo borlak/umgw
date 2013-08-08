@@ -1,0 +1,2375 @@
+#AREA	Vincent Space Station~
+
+
+#MOBILES
+#2659
+receptionist robot~
+The receptionist robot~
+The receptionist robot stands here awaiting your arrival.
+~
+The robot greets you with excitement and points out a map of the ship on the wall.
+~
+2|64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2660
+Level 1 robot~
+the level 1 robot~
+The huge robot stands here wearing the Level 1 label.
+~
+This is the Level 1 Training Robot.
+~
+2|64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2661
+Level 2 Robot~
+the level 2 robot~
+The huge robot stands here wearing the Level 2 label.
+~
+This is the Level 2 training robot.
+~
+2|64 0 0 S
+320 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2662
+robot level 3~
+the level 3 robot~
+The huge robot stands here wearing the Level 3 label.
+~
+This is the Level 3 training robot.
+~
+2|64 0 0 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2663
+Control robot~
+The Control Robot~
+The Control robot stands here, maintaining the simulator.
+~
+He tells you not to touch the controls and gets back to work
+~
+2|64 0 0 S
+220 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2664
+wild wolf~
+a wild wolf~
+A wild wolf leaps out of the trees.
+~
+A simulation of a wolf... looks pretty damn real.
+~
+64 32768 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2665
+huge monster~
+a huge monster~
+A huge monster is wandering around looking for prey.
+~
+A simulation of a monster... looks pretty damn real.
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2666
+small dragon~
+a small dragon~
+A small dragon sits here breathing fire.
+~
+A simulation of a dragon... looks pretty damn real.
+~
+64 8192 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2667
+ghost~
+a ghost~
+A ghost wanders mindlessly here.
+~
+A simulation of a ghost... looks pretty damn real.
+~
+64 1048576 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2668
+pikachu~
+a Pikachu~
+A small yellow rat comes up to you and squeaks 'pika-'
+~
+A simulation of Pikachu... RUN!! DONT BE FOOLED BY THE CUTE RED CHEEKS AND YELLOW TAIL!!! RUN FOR YOUR LIFE!!! AAHHHHH!!!
+~
+64 128|32768 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2669
+zombie~
+a zombie~
+A zombie missing some bodyparts crawls around here.
+~
+The mob looks back at you!
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2670
+glitch~
+a glitch~
+You see a disturbance in the simulator here, wavering.
+~
+Hrm, a glitch in the system. looks dangerous...
+~
+64 2|128|32768|65536 0 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2671
+janitor robot~
+a janitor robot~
+A janitor robot walks around cleaning things up
+~
+A janitor robot with a big broom stick rolls around cleaning everything.
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2672
+space station robot~
+The Space Station robot~
+The Space Station Robot roams the arena in a search-n-destroy program.
+~
+These fierce robot warriors are ready to rumble...
+~
+64 2|32768|65536 0 S
+334 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2673
+huge dragon robot~
+The Huge Dragon Robot~
+The Huge Dragon Robot sits here creating unimaginable racket.
+~
+The Big chunk of metal that resembles a fierce red dragon sits here
+~
+2|64 128|524288 0 S
+350 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2674
+Monkey Robot~
+The Monkey Robot~
+The Wise Monkey Robot of the Arena Tree sits here in meditation.
+~
+A big can o monkey stuff sits here.
+~
+2|64 128|524288 0 S
+350 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2675
+spectator~
+A spectator~
+A spectator is watching the fights... he has no clue what is going on...
+~
+The Spectator looks very confused
+~
+64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2676
+pissed robot~
+a pissed off janitor robot~
+A very pissed off janitor robot sits here trying to scrape off the gum on the floor...
+~
+You hear the robot grumbling, 'goddamn spectators throwing gum on the frickin floor... mumble mumble...'
+~
+2|64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2677
+instructional robot~
+the instructional robot~
+A robot is here to explain about the training halls.
+~
+The Instructional robot says, 'Behind me is a series of training halls which contains combat robots... their skill is determined with their level... for example.. level 1 is the easiest training robot, however, do not underestimate these robots, for they are deadly...'
+~
+2|64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2678
+instructional robot~
+the instructional robot~
+A robot stands here explaining about the simulator...
+~
+The instructional robot says 'This is the simulator.  It creates illusionary monsters for your training benefits, but beware, they are still deadly and can still kill...'
+~
+2|64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2679
+instructional robot~
+the instructional robot~
+A robot stands here explaining about the Arena...
+~
+The instructional robot says 'beware what lies up ahead! this is the most dangerous part of the Space Station... Similar to the simulator, robots of combat and strength will be ready for a fight once inside.. also, the whole arena is a no recall area... so be careful!'
+~
+2|64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2680
+worker robot~
+the worker robot~
+A worker robot walks around mindless...
+~
+This robot seems to be wandering the halls of the Space Station completely mindless...
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#2681
+Luke Sky-walker~
+Luke Sky-walker~
+A jedi knight waunders the halls here with his lightsabre...
+~
+You hear this annoying "May the Force be with you..." whispering in your head over and over again...
+~
+64 128 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2682
+Obi Won Kanobi~
+Obi Won Kanobi~
+Obi Won Kanobi stands here wielding an impressive lightsabre
+~
+You hear this annoying "May the Force be with you..." whispering in your head over and over again...
+~
+64 2|128|32768 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2683
+Qui-Gon Jinn~
+Qui-Gon Jinn~
+Qui-Gon stands here.. ready for a fight...chanting "May the Force be with you"
+~
+You hear this annoying "May the Force be with you..." whispering in your head over and over again...
+~
+64 2|128|32768 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2684
+Darth Maul top half~
+Darth Maul's Top half~
+The top half of Darth Maul lies here squirming.. asking for his bottom half...
+~
+Has anyone seen my bottom half?
+~
+64 0 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#2685
+Darth Maul bottom half~
+Darth Maul's bottom half~
+Darth Maul's legs are walking here!
+~
+You found the bottom half of Darth Maul... even when split in half they look pretty evil...
+~
+64 0 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#2659
+Lazer Sabre~
+a lazer sabre~
+A lazer sabre lies here~
+~
+5 1|2 1|8192
+0 1 6 3 
+5 0 0
+#2660
+lazer blaster~
+the lazer blaster~
+A lazer blaster was dropped here.~
+~
+5 2 1|8192
+0 5 8 6 
+10 0 0
+#2661
+deadly claws~
+a pair of deadly claws~
+A deadly looking pair of claws lies on the floor~
+~
+5 1|128|4096 1|8192
+0 10 15 5 
+7 0 0
+#2662
+comfortable chairs~
+some comfortable chairs~
+You see some comfortable looking chairs for you to sit in.~
+~
+12 0 8192
+0 1 6 11 
+500 0 0
+#2663
+map~
+a map~
+You see a map of the Space station here.~
+~
+13 0 8192
+0 1 6 11 
+50 0 0
+E
+map~
+************* Space Station *************
+Creator: Vincent
+
+<----------------------Training Hall
+Simulator-------------------------->
+                 ^^^
+              The Arena~
+#2664
+Control Panel~
+the control panel~
+You see the Control Panel with blinking buttons.~
+~
+12 0 8192
+0 1 6 11 
+500 0 0
+#2665
+broomstick~
+a broomstick~
+A broomstick left by a janitor robot.~
+~
+5 16|128|4096 1|8192
+0 1 2 7 
+2 0 0
+#2666
+SpaceStation Sword~
+a Space Station Sword~
+A Space Station Sword lies here.~
+~
+5 1 1|8192
+0 15 20 3 
+3 0 0
+A
+13 100
+A
+18 5
+A
+19 5
+#2667
+SpaceStation Helmet~
+a SpaceStation Helmet~
+A SpaceStation Helmet lies here.~
+~
+9 0 1|16
+10 1 6 11 
+5 0 0
+A
+17 -15
+#2668
+SpaceStation Breastplate~
+a SpaceStation Breastplate~
+A SpaceStation Breastplate lies here.~
+~
+9 0 1|8
+0 1 6 11 
+10 0 0
+A
+17 -20
+#2669
+sign~
+the sign~
+A futuristic computer with a large screen is here with a message.~
+~
+13 0 8192
+0 1 6 11 
+500 0 0
+E
+sign computer screen~
+Welcome to the SpaceStation...
+Hope you enjoy your stay..
+^%#*#%#&#%*#%^*%#%*^....~
+#2670
+computer~
+a computer panel~
+A computer rests here with the blinking word "help" on its screen...~
+~
+13 0 8192
+0 1 6 11 
+5 0 0
+E
+panel screen computer~
+Welcome to the Simulator...
+In this exercise you will encounter some artificially created monsters to enhance your battle skills...^%&@#&#&&^$*#
+Please step inside... an exit will be provided within the safe circle...
+#$@^@#%^@#^#%@^@^@~
+#2671
+circle light~
+a circle of light~
+All around you is a bright circle of light, warding off monsters~
+~
+13 0 8192
+0 1 6 11 
+500 0 0
+E
+circle light~
+The circle seems to provide a protection from the simulation monsters...~
+#2672
+tree~
+a huge tree~
+You see a HUGE tree here.. seems you could climb it~
+~
+13 0 8192
+0 1 6 11 
+500 0 0
+E
+tree~
+Looks like you can climb the tree to escape!~
+#2673
+branch~
+a branch~
+You see a branch from the great tree here...~
+~
+13 1|64|128|4096 1|16384
+0 1 6 11 
+5 0 0
+E
+branch~
+This branch is covered in monkey poo! eewwwww.. its sticky!! aahhh!~
+#2674
+wad gum~
+a wad of gum~
+You see a chewed up gum stuck to the floor...~
+~
+13 128|4096 1|16384
+0 1 6 11 
+5 0 0
+#2675
+computer~
+a computer~
+Fancy computers line the walls here...~
+~
+13 0 8192
+0 1 6 11 
+5 0 0
+E
+computer~
+One of the screens says: "Vincent was here..."~
+#2676
+security camera~
+a security camera~
+A security camera is here watching your every movement...~
+~
+13 1|32 8192
+0 1 6 11 
+5 0 0
+E
+camera~
+looks like you are being monitored...~
+#2677
+space shuttle parts~
+space shuttle parts~
+Some space shuttle parts lie in the dirt here...~
+~
+13 0 8192
+0 1 6 11 
+500 0 0
+E
+parts shuttle~
+Darn janitor robots.. why wont they clean this mess up?~
+#2678
+Light Sabre~
+lightsabre~
+The lightsabre of a jedi knight lies here...~
+~
+5 1 1|8192
+0 1 6 1 
+5 0 0
+A
+17 0
+#0
+
+
+#ROOMS
+#2660
+A long hallway~
+You are walking down a long corridor. You see light up ahead.
+~
+0 8 0
+D0
+~
+~
+0 -1 2661
+D2
+~
+~
+0 -1 2760
+S
+#2661
+A large reception area~
+You are in a huge room with seats and magazines on the floor. A robot stands here waiting to greet you.
+~
+0 8 0
+D0
+~
+~
+0 -1 2664
+D1
+~
+~
+0 -1 2663
+D2
+~
+~
+0 -1 2660
+D3
+~
+~
+0 -1 2662
+D4
+~
+trapdoor~
+1 -1 2758
+S
+#2662
+A long hallway~
+You are walking down a long corridor. You see light up ahead.
+~
+0 8 0
+D1
+~
+~
+0 -1 2661
+D3
+~
+~
+0 -1 2666
+S
+#2663
+A long hallway~
+You are walking down a long corridor. You see light up ahead.
+~
+0 8 0
+D1
+~
+~
+0 -1 2696
+D3
+~
+~
+0 -1 2661
+S
+#2664
+A long hallway~
+You are walking down a long corridor. You see light up ahead.
+~
+0 8 0
+D0
+~
+~
+0 -1 2723
+D2
+~
+~
+0 -1 2661
+S
+#2666
+Training hall #1~
+You are standing in a long hallway marked "training hall #1"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2669
+D1
+~
+~
+0 -1 2662
+D2
+~
+door~
+1 -1 2670
+D3
+~
+~
+0 -1 2667
+S
+#2667
+Training hall #1~
+You are standing in a long hallway marked "training hall #1"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2671
+D1
+~
+~
+0 -1 2666
+D2
+~
+door~
+1 -1 2672
+D3
+~
+~
+0 -1 2668
+S
+#2668
+Training hall #1~
+You are standing in a long hallway marked "training hall #1"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2673
+D1
+~
+~
+0 -1 2667
+D2
+~
+door~
+1 -1 2674
+D3
+~
+~
+0 -1 2675
+S
+#2669
+Level 1~
+A huge robot stands before you, labeled "Level 1"
+~
+0 8 0
+D2
+~
+door~
+1 -1 2666
+S
+#2670
+Level 1~
+A huge robot stands before you, labeled "Level 1"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2666
+S
+#2671
+Level 1~
+A huge robot stands before you, labeled "Level 1"
+~
+0 8 0
+D2
+~
+door~
+1 -1 2667
+S
+#2672
+Level 1~
+A huge robot stands before you, labeled "Level 1"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2667
+S
+#2673
+Level 1~
+A huge robot stands before you, labeled "Level 1"
+~
+0 8 0
+D2
+~
+door~
+1 -1 2668
+S
+#2674
+Level 1~
+A huge robot stands before you, labeled "Level 1"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2668
+S
+#2675
+Entering level 2~
+You are now entering the second level of the training hall.
+~
+0 8 0
+D1
+~
+~
+0 -1 2668
+D3
+~
+door~
+1 -1 2676
+S
+#2676
+Training hall #2~
+You are standing in a long hallway marked "training hall #2"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2679
+D1
+~
+door~
+1 -1 2675
+D2
+~
+door~
+1 -1 2680
+D3
+~
+~
+0 -1 2677
+S
+#2677
+Training hall #2~
+You are standing in a long hallway marked "training hall #2"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2681
+D1
+~
+~
+0 -1 2676
+D2
+~
+door~
+1 -1 2682
+D3
+~
+~
+0 -1 2678
+S
+#2678
+Training hall #2~
+You are standing in a long hallway marked "training hall #2"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2683
+D1
+~
+~
+0 -1 2677
+D2
+~
+door~
+1 -1 2684
+D3
+~
+~
+0 -1 2685
+S
+#2679
+Level 2~
+A huge robot stands before you, labeled "Level 2"
+~
+0 8 0
+D2
+~
+door~
+1 -1 2676
+S
+#2680
+Level 2~
+A huge robot stands before you, labeled "Level 2"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2676
+S
+#2681
+Level 2~
+A huge robot stands before you, labeled "Level 2"
+~
+0 8 0
+D2
+~
+door~
+1 -1 2677
+S
+#2682
+Level 2~
+A huge robot stands before you, labeled "Level 2"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2677
+S
+#2683
+Level 2~
+A huge robot stands before you, labeled "Level 2"
+~
+0 8 0
+D2
+~
+door~
+1 -1 2678
+S
+#2684
+Level 2~
+A huge robot stands before you, labeled "Level 2"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2678
+S
+#2685
+Entering Level 3~
+You are now entering the final level of the training hall.
+~
+0 8 0
+D1
+~
+~
+0 -1 2678
+D3
+~
+door~
+1 -1 2686
+S
+#2686
+Training hall #3~
+You are standing in a long hallway marked "training hall #3"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2689
+D1
+~
+door~
+1 -1 2685
+D2
+~
+door~
+1 -1 2690
+D3
+~
+~
+0 -1 2687
+S
+#2687
+Training hall #3~
+You are standing in a long hallway marked "training hall #3"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2691
+D1
+~
+~
+0 -1 2686
+D2
+~
+door~
+1 -1 2692
+D3
+~
+~
+0 -1 2688
+S
+#2688
+Training hall #3~
+You are standing in a long hallway marked "training hall #3"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2693
+D1
+~
+~
+0 -1 2687
+D2
+~
+door~
+1 -1 2694
+D3
+~
+exit~
+1 -1 2695
+S
+#2689
+Level 3~
+A huge robot stands before you, labeled "Level 3"
+~
+0 8 0
+D2
+~
+door~
+1 -1 2686
+S
+#2690
+Level 3~
+A huge robot stands before you, labeled "Level 3"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2686
+S
+#2691
+Level 3~
+A huge robot stands before you, labeled "Level 3"
+~
+0 8 0
+D2
+~
+door~
+1 -1 2687
+S
+#2692
+Level 3~
+A huge robot stands before you, labeled "Level 3"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2687
+S
+#2693
+Level 3~
+A huge robot stands before you, labeled "Level 3"
+~
+0 8 0
+D2
+~
+door~
+1 -1 2688
+S
+#2694
+Level 3~
+A huge robot stands before you, labeled "Level 3"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2688
+S
+#2695
+Exit~
+The floor shakes and the walls rumble.  The room seems to be shifting in some ways.
+~
+0 8 0
+D3
+~
+~
+0 -1 2661
+S
+#2696
+Entrance to the Simulator~
+Before you is a huge door which leads to the simulation of an arena. You see a door to your east with the sign "control room"
+~
+0 8 0
+D0
+~
+door~
+1 -1 2698
+D1
+~
+door~
+1 -1 2697
+D3
+~
+~
+0 -1 2663
+S
+#2697
+The Control Room~
+You are standing in the control room for the simulator.  You see knobs and panels full of buttons.  Mmmm... Buttons...
+~
+0 8 0
+D3
+~
+door~
+1 -1 2696
+S
+#2698
+The Safety Circle~
+You are standing in the Safety circle.  While you are standing within the circle you are safe from the simulation. You see an escape hatch above you.
+~
+0 4|1024 2
+D0
+~
+~
+0 -1 2706
+D1
+~
+~
+0 -1 2711
+D2
+~
+~
+0 -1 2715
+D3
+~
+~
+0 -1 2710
+D4
+~
+escape hatch~
+1 -1 2696
+S
+#2699
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D1
+~
+~
+0 -1 2700
+D2
+~
+~
+0 -1 2704
+S
+#2700
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D1
+~
+~
+0 -1 2701
+D2
+~
+~
+0 -1 2705
+D3
+~
+~
+0 -1 2699
+S
+#2701
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D1
+~
+~
+0 -1 2702
+D2
+~
+~
+0 -1 2706
+D3
+~
+~
+0 -1 2700
+S
+#2702
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D1
+~
+~
+0 -1 2703
+D2
+~
+~
+0 -1 2707
+D3
+~
+~
+0 -1 2701
+S
+#2703
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D2
+~
+~
+0 -1 2708
+D3
+~
+~
+0 -1 2702
+S
+#2704
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2699
+D1
+~
+~
+0 -1 2705
+D2
+~
+~
+0 -1 2709
+S
+#2705
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2700
+D1
+~
+~
+0 -1 2706
+D2
+~
+~
+0 -1 2710
+D3
+~
+~
+0 -1 2704
+S
+#2706
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2701
+D1
+~
+~
+0 -1 2707
+D2
+~
+~
+0 -1 2698
+D3
+~
+~
+0 -1 2705
+S
+#2707
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2702
+D1
+~
+~
+0 -1 2708
+D2
+~
+~
+0 -1 2711
+D3
+~
+~
+0 -1 2706
+S
+#2708
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2703
+D2
+~
+~
+0 -1 2712
+D3
+~
+~
+0 -1 2707
+S
+#2709
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2704
+D1
+~
+~
+0 -1 2710
+D2
+~
+~
+0 -1 2713
+S
+#2710
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2705
+D1
+~
+~
+0 -1 2698
+D2
+~
+~
+0 -1 2714
+D3
+~
+~
+0 -1 2709
+S
+#2711
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2707
+D1
+~
+~
+0 -1 2712
+D2
+~
+~
+0 -1 2716
+D3
+~
+~
+0 -1 2698
+S
+#2712
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2708
+D2
+~
+~
+0 -1 2717
+D3
+~
+~
+0 -1 2711
+S
+#2713
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2709
+D1
+~
+~
+0 -1 2714
+D2
+~
+~
+0 -1 2718
+S
+#2714
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2710
+D1
+~
+~
+0 -1 2715
+D2
+~
+~
+0 -1 2719
+D3
+~
+~
+0 -1 2713
+S
+#2715
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2698
+D1
+~
+~
+0 -1 2716
+D2
+~
+~
+0 -1 2720
+D3
+~
+~
+0 -1 2714
+S
+#2716
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2711
+D1
+~
+~
+0 -1 2717
+D2
+~
+~
+0 -1 2721
+D3
+~
+~
+0 -1 2715
+S
+#2717
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2712
+D2
+~
+~
+0 -1 2722
+D3
+~
+~
+0 -1 2716
+S
+#2718
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2713
+D1
+~
+~
+0 -1 2719
+S
+#2719
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2714
+D1
+~
+~
+0 -1 2720
+D3
+~
+~
+0 -1 2718
+S
+#2720
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2715
+D1
+~
+~
+0 -1 2721
+D3
+~
+~
+0 -1 2719
+S
+#2721
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2716
+D1
+~
+~
+0 -1 2722
+D3
+~
+~
+0 -1 2720
+S
+#2722
+The simulation~
+You are in the simulation.
+~
+0 0 3
+D0
+~
+~
+0 -1 2717
+D3
+~
+~
+0 -1 2721
+S
+#2723
+Entrance to the Arena~
+You are about to enter the Space Ship Arena. *Warning* It gets dangerous from here...
+~
+0 4|8 0
+D0
+~
+~
+0 -1 2746
+D2
+~
+~
+0 -1 2664
+S
+#2724
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 2725
+D2
+~
+~
+0 -1 2729
+S
+#2725
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 2726
+D2
+~
+~
+0 -1 2730
+D3
+~
+~
+0 -1 2724
+S
+#2726
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 2727
+D2
+~
+~
+0 -1 2731
+D3
+~
+~
+0 -1 2725
+S
+#2727
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 2728
+D2
+~
+~
+0 -1 2732
+D3
+~
+~
+0 -1 2726
+S
+#2728
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D2
+~
+~
+0 -1 2733
+D3
+~
+~
+0 -1 2727
+S
+#2729
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2724
+D1
+~
+~
+0 -1 2730
+D2
+~
+~
+0 -1 2734
+S
+#2730
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2725
+D1
+~
+~
+0 -1 2731
+D2
+~
+~
+0 -1 2735
+D3
+~
+~
+0 -1 2729
+S
+#2731
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2726
+D1
+~
+~
+0 -1 2732
+D2
+~
+~
+0 -1 2736
+D3
+~
+~
+0 -1 2730
+S
+#2732
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2727
+D1
+~
+~
+0 -1 2733
+D2
+~
+~
+0 -1 2737
+D3
+~
+~
+0 -1 2731
+S
+#2733
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2728
+D2
+~
+~
+0 -1 2738
+D3
+~
+~
+0 -1 2732
+S
+#2734
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2729
+D1
+~
+~
+0 -1 2735
+D2
+~
+~
+0 -1 2739
+S
+#2735
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2730
+D1
+~
+~
+0 -1 2736
+D2
+~
+~
+0 -1 2740
+D3
+~
+~
+0 -1 2734
+S
+#2736
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2731
+D1
+~
+~
+0 -1 2737
+D2
+~
+~
+0 -1 2741
+D3
+~
+~
+0 -1 2735
+D4
+~
+~
+0 -1 2749
+S
+#2737
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2732
+D1
+~
+~
+0 -1 2738
+D2
+~
+~
+0 -1 2742
+D3
+~
+~
+0 -1 2736
+S
+#2738
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2733
+D2
+~
+~
+0 -1 2743
+D3
+~
+~
+0 -1 2737
+S
+#2739
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2734
+D1
+~
+~
+0 -1 2740
+D2
+~
+~
+0 -1 2744
+S
+#2740
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2735
+D1
+~
+~
+0 -1 2741
+D2
+~
+~
+0 -1 2745
+D3
+~
+~
+0 -1 2739
+S
+#2741
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2736
+D1
+~
+~
+0 -1 2742
+D2
+~
+~
+0 -1 2746
+D3
+~
+~
+0 -1 2740
+S
+#2742
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2737
+D1
+~
+~
+0 -1 2743
+D2
+~
+~
+0 -1 2747
+D3
+~
+~
+0 -1 2741
+S
+#2743
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2738
+D2
+~
+~
+0 -1 2748
+D3
+~
+~
+0 -1 2742
+S
+#2744
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2739
+D1
+~
+~
+0 -1 2745
+S
+#2745
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2740
+D1
+~
+~
+0 -1 2746
+D3
+~
+~
+0 -1 2744
+S
+#2746
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2741
+D1
+~
+~
+0 -1 2747
+D3
+~
+~
+0 -1 2745
+S
+#2747
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2742
+D1
+~
+~
+0 -1 2748
+D3
+~
+~
+0 -1 2746
+S
+#2748
+the Space Ship Arena~
+You are in the Space Ship Arena.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 2743
+D3
+~
+~
+0 -1 2747
+S
+#2749
+Climbing a Tree~
+You are hastily climbing a tree to escape the wrath of the Arena.
+~
+0 4|8|8192 9
+D4
+~
+~
+0 -1 2750
+D5
+~
+~
+0 -1 2736
+S
+#2750
+Climbing a Tree~
+You are hastily climbing a tree to escape the wrath of the Arena.
+~
+0 8|8192 9
+D4
+~
+~
+0 -1 2751
+D5
+~
+~
+0 -1 2749
+S
+#2751
+Climbing a Tree~
+You are hastily climbing a tree to escape the wrath of the Arena.
+~
+0 8|8192 9
+D4
+~
+~
+0 -1 2752
+D5
+~
+~
+0 -1 2750
+S
+#2752
+Climbing a Tree~
+You are hastily climbing a tree to escape the wrath of the Arena.
+~
+0 8|8192 9
+D4
+~
+escape~
+1 -1 2753
+D5
+~
+~
+0 -1 2751
+S
+#2753
+In the Air~
+You are flying through the air...
+~
+0 8 9
+D5
+~
+~
+0 -1 2661
+S
+#2754
+Spectator's Box~
+You are standing in the Spectator's box... you can see everything from here...
+~
+0 8 0
+D1
+~
+~
+0 -1 2755
+D2
+~
+~
+0 -1 2757
+S
+#2755
+Spectator's Box~
+You are standing in the Spectator's box... you can see everything from here...
+~
+0 8 0
+D1
+~
+~
+0 -1 2756
+D2
+~
+~
+0 -1 2758
+D3
+~
+~
+0 -1 2754
+S
+#2756
+Spectator's Box~
+You are standing in the Spectator's box... you can see everything from here...
+~
+0 8 0
+D2
+~
+~
+0 -1 2759
+D3
+~
+~
+0 -1 2755
+S
+#2757
+Spectator's Box~
+You are standing in the Spectator's box... you can see everything from here...
+~
+0 8 0
+D0
+~
+~
+0 -1 2754
+D1
+~
+~
+0 -1 2758
+S
+#2758
+Spectator's Box~
+You are standing in the Spectator's box... you can see everything from here...
+~
+0 4|8 0
+D0
+~
+~
+0 -1 2755
+D1
+~
+~
+0 -1 2759
+D3
+~
+~
+0 -1 2757
+D5
+~
+trapdoor~
+1 -1 2661
+S
+#2759
+Spectator's Box~
+You are standing in the Spectator's box... you can see everything from here...
+~
+0 8 0
+D0
+~
+~
+0 -1 2756
+D3
+~
+~
+0 -1 2758
+S
+#2760
+Entrance to the Space Station~
+You are standing before a huge door that leads into the space station.
+~
+0 0 1
+D0
+~
+~
+0 -1 2660
+S
+#0
+
+
+#RESETS
+*
+*
+M 1 2659 1 2661			The receptionist robot to A large reception area
+*
+M 1 2660 1 2669			Level 1 Robot to Level 1
+E 1 2659 100 16
+*
+M 1 2660 1 2670			Level 1 Robot to Level 1
+E 1 2659 100 16
+*
+M 1 2660 1 2671			Level 1 Robot to Level 1
+E 1 2659 100 16
+*
+M 1 2660 1 2672			Level 1 Robot to Level 1
+E 1 2659 100 16
+*
+M 1 2660 1 2673			Level 1 Robot to Level 1
+E 1 2659 100 16
+*
+M 1 2660 1 2674			Level 1 Robot to Level 1
+E 1 2659 100 16
+*
+M 1 2661 1 2679			the level 2 robot to Level 2
+E 1 2660 100 16
+*
+M 1 2661 1 2680			the level 2 robot to Level 2
+E 1 2660 100 16
+*
+M 1 2661 1 2681			the level 2 robot to Level 2
+E 1 2660 100 16
+*
+M 1 2661 1 2682			the level 2 robot to Level 2
+E 1 2660 100 16
+*
+M 1 2661 1 2683			the level 2 robot to Level 2
+E 1 2660 100 16
+*
+M 1 2661 1 2684			the level 2 robot to Level 2
+E 1 2660 100 16
+*
+M 1 2662 1 2689			the level 3 robot to Level 3
+E 1 2661 100 16
+*
+M 1 2662 1 2690			the level 3 robot to Level 3
+E 1 2661 100 16
+*
+M 1 2662 1 2691			the level 3 robot to Level 3
+E 1 2661 100 16
+*
+M 1 2662 1 2692			the level 3 robot to Level 3
+E 1 2661 100 16
+*
+M 1 2662 1 2693			the level 3 robot to Level 3
+E 1 2661 100 16
+*
+M 1 2662 1 2694			the level 3 robot to Level 3
+E 1 2661 100 16
+O 1 2662 100 2661			some comfortable chairs to A large reception area
+O 1 2663 100 2661			a map to A large reception area
+*
+M 1 2663 1 2697			The Control Robot to The Control Room
+O 1 2664 100 2697			the control panel to The Control Room
+*
+M 1 2671 1 2687			a janitor robot to Training hall #3
+E 1 2665 100 16
+*
+M 1 2671 1 2677			a janitor robot to Training hall #2
+E 1 2665 100 16
+*
+M 1 2671 1 2667			a janitor robot to Training hall #1
+E 1 2665 100 16
+*
+M 1 2671 1 2661			a janitor robot to A large reception area
+E 1 2665 100 16
+*
+M 1 2664 1 2699			a wild wolf to The simulation
+*
+M 1 2665 1 2701			a huge monster to The simulation
+*
+M 1 2666 1 2702			a small dragon to The simulation
+*
+M 1 2667 1 2704			a ghost to The simulation
+*
+M 1 2669 1 2707			a zombie to The simulation
+*
+M 1 2668 1 2710			a Pikachu to The simulation
+*
+M 1 2666 1 2714			a small dragon to The simulation
+*
+M 1 2664 1 2717			a wild wolf to The simulation
+*
+M 1 2670 1 2722			a glitch to The simulation
+*
+M 1 2667 1 2715			a ghost to The simulation
+*
+M 1 2674 1 2752			The Monkey Robot to Climbing a Tree
+*
+M 1 2672 1 2724			The Space Station robot to the Space Ship Arena
+E 1 2668 100 5
+E 1 2667 100 6
+E 1 2666 100 16
+*
+M 1 2672 1 2729			The Space Station robot to the Space Ship Arena
+E 1 2668 100 5
+E 1 2667 100 6
+E 1 2666 100 16
+*
+M 1 2672 1 2732			The Space Station robot to the Space Ship Arena
+E 1 2668 100 5
+E 1 2667 100 6
+E 1 2666 100 16
+*
+M 1 2672 1 2734			The Space Station robot to the Space Ship Arena
+E 1 2668 100 5
+E 1 2667 100 6
+E 1 2666 100 16
+*
+M 1 2672 1 2737			The Space Station robot to the Space Ship Arena
+E 1 2668 100 5
+E 1 2667 100 6
+E 1 2666 100 16
+*
+M 1 2672 1 2741			The Space Station robot to the Space Ship Arena
+E 1 2668 100 5
+E 1 2666 100 16
+*
+M 1 2672 2 2744			The Space Station robot to the Space Ship Arena
+E 1 2668 100 5
+E 1 2667 100 6
+E 1 2666 100 16
+*
+M 1 2672 1 2747			The Space Station robot to the Space Ship Arena
+E 1 2668 100 5
+E 1 2667 100 6
+E 1 2666 100 16
+*
+M 1 2673 1 2748			The Huge Dragon Robot to the Space Ship Arena
+*
+M 1 2675 1 2754			A spectator to Spectator's Box
+*
+M 1 2675 1 2755			A spectator to Spectator's Box
+*
+M 1 2675 2 2756			A spectator to Spectator's Box
+O 1 2669 100 2659			the sign to Entrance to a Space Station
+O 1 2670 100 2696			a computer panel to Entrance to the Simulator
+O 1 2671 100 2698			a circle of light to The Safety Circle
+O 1 2672 100 2736			a huge tree to the Space Ship Arena
+O 1 2673 100 2752			a branch to Climbing a Tree
+O 1 2673 100 2750			a branch to Climbing a Tree
+O 1 2674 100 2755			a wad of gum to Spectator's Box
+*
+M 1 2676 1 2755			a pissed off janitor robot to Spectator's Box
+O 1 2675 100 2660			a computer to A long hallway
+*
+M 1 2677 1 2662			the instructional robot to A long hallway
+*
+M 1 2678 1 2663			the instructional robot to A long hallway
+*
+M 1 2679 1 2664			the instructional robot to A long hallway
+*
+M 1 2680 1 2661			the worker robot to A large reception area
+*
+M 1 2680 1 2667			the worker robot to Training hall #1
+*
+M 1 2680 1 2685			the worker robot to Entering Level 3
+*
+M 1 2680 1 2660			the worker robot to A long hallway
+O 1 2676 100 2675			a security camera to Entering level 2
+O 1 2676 100 2685			a security camera to Entering Level 3
+O 1 2676 100 2723			a security camera to Entrance to the Arena
+O 1 2677 100 2706			space shuttle parts to The simulation
+O 1 2677 100 2722			space shuttle parts to The simulation
+O 1 2677 100 2664			space shuttle parts to A long hallway
+O 1 2677 100 2677			space shuttle parts to Training hall #2
+*
+M 1 2681 1 2677			Luke Skywalker to Training hall #2
+E 1 2678 100 16
+*
+M 1 2682 1 2686			Obi Won Kanobi to Training hall #3
+E 1 2678 100 16
+*
+M 1 2683 1 2686			Qui-Gon Jinn to Training hall #3
+E 1 2678 100 16
+*
+M 1 2684 1 2688			Darth Maul's Top half to Training hall #3
+E 1 2678 100 16
+*
+M 1 2685 1 2694			Darth Maul's bottom half to Level 3
+S
+
+
+#$

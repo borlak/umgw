@@ -1,0 +1,74 @@
+- {CMon Oct 11 10:30:50 1999{x - Drows have an extra spiderarm attack for each ge
+{x{x                             neration trained at 35% per arm/generation.
+
+- {CMon Oct 11 10:42:55 1999{x - To see old news type NEWS #.  # being, a number. 
+{x{x                              To see the last news type NEWS 2, etc.
+
+- {CMon Oct 11 10:44:41 1999{x - Drow attacking out of drowhate frequency dropped 
+{x{x                             by 50%.
+
+- {CTue Oct 12 13:52:10 1999{x - The WHO command now shows each players PING next 
+{x{x                             to their status.  This is how long (in milliseconds
+{x{x                             ) it takes for you to send a packet to the mud.
+
+- {CThu Oct 14 09:44:57 1999{x - Protection from Evil only works against mobs now.
+
+- {CThu Oct 14 09:46:00 1999{x - Fleeing now gives one round of lag.
+
+- {CFri Oct 15 09:22:30 1999{x - Werewolves toned down.
+
+- {CFri Oct 15 13:33:23 1999{x - Highlanders now get a lower bonus for training Ap
+{x{x                             prentice and Master.  In place of their loss is SW
+{x{x                             ORDTECH.  HELP SWORDTECH
+
+- {CFri Oct 15 13:33:23 1999{x - Swordtech berserk is in: 0 AC, extra attack, low
+{x{x                             er hitroll, higher damroll.  Tentative to change.
+
+- {CFri Oct 15 14:16:48 1999{x - Swordtech disarm is in: disarm your opponent, no 
+{x{x                             chance to save.
+
+- {CFri Oct 15 14:35:17 1999{x - Highlanders now get 50 movement points per PK.  N
+{x{x                             o reimbursements for those that already have PKs.
+{x{x                             The victim must also have at least 68 hours of play.
+
+- {CFri Oct 15 15:14:26 1999{x - Swordtech fury is in: let loose a flurry of attac
+{x{x                             ks.
+
+- {CSun Oct 17 11:42:28 1999{x - Vampires can wield weapons while in dragonform, b
+{x{x                             ut still can't remove anything.
+
+- {CSun Oct 17 15:43:43 1999{x - Kingdom treaty/war should be fixed now.
+
+- {CSun Oct 17 16:01:43 1999{x - New command: ping
+
+- {CSun Oct 17 16:43:05 1999{x - PC Corpses leave their contents in the room when 
+{x{x                             they decay.
+
+- {CSun Oct 17 16:43:34 1999{x - Kingdom assists now count towards K/D ratio, 2 ki
+{x{x                             ngdom assists = 1 pk.
+
+- {CSun Oct 17 17:17:12 1999{x - New command: BRAGCAP, a decapitate for sparring. 
+{x{x                              No pk/status loss, shows damage done by both play
+{x{x                             ers.
+
+- {CSun Oct 17 17:17:39 1999{x - Paradox is working correctly, and is as it should
+{x{x                              be.  Decapitating for no status greatly increases
+{x{x                              your chance.
+
+- {CSun Oct 17 17:45:51 1999{x - Mortals no longer lose half exp for dying.
+
+- {CSun Oct 17 18:17:39 1999{x - News now has a nifty yellow bar to show you the l
+{x{x                             ast part you read up too.
+
+- {CSun Oct 17 18:28:57 1999{x - The amount of status difference needed to get sta
+{x{x                             tus has changed from 10, to 25.
+
+- {CSun Oct 17 21:12:21 1999{x - Marlow has quit coding for Ancient Realms.
+
+- {CMon Oct 18 08:02:42 1999{x - Monk's Counter Strikes will be hidden if you have
+{x{x                              brief on.
+
+- {CMon Oct 18 08:11:24 1999{x - You can only BRAGCAP someone if you have done 80 
+{x{x                             percent damage or greater to them.
+
+

@@ -1,0 +1,1394 @@
+#AREA	Hiro!   Caern~
+
+
+#MOBILES
+#4600
+Spiral Dancer~
+Spiral Dancer~
+The warped Spiral Dancer Werewolf gyrates his dark dance, yipping and raging.
+~
+The Garou snarls and spits at you, continuning its dance.
+~
+32|64 8|32|512 -1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4601
+Werewolf~
+Werewolf~
+A blackened werewolf stands here guarding the path, it yips and moves to attack!
+~
+The beast yips and drools slightly
+~
+2|32|64 8|32|512 -1000 S
+650 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4602
+Fury~
+Fury~
+A Fury spins here, bordering on the verge of evil and insanity.
+~
+She looks at you funny, hisses and goes back to her insane dance.
+~
+32|64 8|32|512 0 S
+600 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4603
+Wolf~
+Wolf~
+A large, wirey wolf growls as its hackles raise
+~
+It growls and claws at the ground, glaring at you in an unsettling manner.
+~
+64 8|32|512 0 S
+160 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4604
+Toxic Bane~
+Toxic Bane~
+A toxic bane swirls here, howling for your soul.
+~
+The spirit claws at reality, trying to pollute all in its mindless frenzy.
+~
+64 8|32|512|524288 -1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4605
+Toxic Shaman~
+Toxic Shaman~
+A wild-eyed shaman dances in spirals, calling the Wyrm to take your soul!
+~
+He gibbers and howls, dancing in his wolf fur cloak, calling for his dark gods.
+~
+2|64 32|128|512 -1000 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4606
+Poison Bane~
+Poison Bane~
+A poison bane howls around the base of a large tree, corrupting and blackening it.
+~
+The spirit whirls around the tree, completely oblivious to you.
+~
+2|64 32|512|524288 -1000 S
+650 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4607
+Wind Bane~
+Wind Bane~
+The twisted bane of Gaia's raped breath swirls around the trunk howling hate
+~
+It howls by, picking up dust and leaves and swirling them in your face.
+~
+2|64 32|512|524288 -1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4608
+Road Rager~
+Road Rager~
+The spectre of a road rager screams several vulgarities at you as you walk by
+~
+He gives you the finger, and spits in your general direction
+~
+2|64 0 -1000 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4609
+Armed Nut~
+Armed Nut~
+An armed nut leaps out of his ghostly car and brandishes his HK at you
+~
+He glares back at you.
+~
+64 0 -1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4610
+Specteral Worker~
+Specteral Worker~
+A slight breeze is all that makes the Specteral Worker apparent.
+~
+The air shimmers.
+~
+64 0 -1000 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4611
+Suited Man~
+Suited Man~
+A horned man in an Armani business suit stares listlessly out the window
+~
+He continues to stare impassively out the window.
+~
+2|64 0 -3000 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4612
+Acolyte~
+Acolyte~
+An acolyte of the dark Wyrm stands here chanting and swaying slightly
+~
+The priests eyes are rolled back in his head as he slowly dances the Spiral of the Wyrm.
+~
+64 8|32|512 -1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4613
+Beast~
+Beast~
+A hairy beast roams around, alternatively mooing and baaing
+~
+MOOO!
+~
+64 0 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4614
+High Priest~
+High Priest~
+The High Priest chants and holds her WyrmKnife high, ready for the next sacrifice
+~
+She chants and traces spirals in the air
+~
+2|64 8|128 -5000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4615
+Wyrm Beast~
+Wyrm Beast~
+A rapidly mutating beast of the Wyrm slithers around
+~
+It hissess and spits venom as it writhes randomnly.
+~
+64 8 -1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4616
+Wyrm Spawn~
+Wyrm Spawn~
+The Spawn of the Wyrm spins in its Spiral, throwing out Hate.
+~
+It spins its spiral, plotting the destruction of all.
+~
+64 8|128 -1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4617
+Net Spider~
+Net Spider~
+A net spider slides along the paths of enmeshed reality
+~
+It ignores you and continues spinning the web of reality.
+~
+64 8 0 S
+600 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4618
+Nexus Spider~
+Nexus Spider~
+The lord of Net Spiders, the Nexus Spider sits and tugs at strands of reality
+~
+The spider ignores you and continues to tug at parts of reality.
+~
+2|64 8|32|512|8192 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4619
+Wyld~
+Wyld~
+The Wyld swirls here, infinately changing and creating all.
+~
+Whenever you look at it, the Wyld changes to many times to count.
+~
+2|4|64 8|32|128|512|8192 1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4620
+Kezzerdrix~
+Kezzerdrix~
+The giant mutated rabbit Kezzerdrix glares at you
+~
+The Kezzerdrix thinks you're just one giant carrot.
+~
+2|4|64 8192 -1000 S
+952 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#4600
+car~
+a rusted GTO~
+A rusted old car sits here on blocks, compleletly forgotten by the passing traffic~
+~
+12 0 1
+0 1 6 11 
+9999 0 0
+#4601
+desk~
+a large Desk~
+A large desk rests here, taking up a large amount of space.~
+~
+15 0 8192
+999 1 6 11 
+9999 0 0
+#4602
+Dagger~
+a Dagger~
+A Ceremonial Dagger lies here~
+~
+5 1 1|8192
+0 10 15 2 
+1 0 0
+A
+19 3
+E
+ceremonial dagger~
+The dagger of the Wyrms cult glitters with its own vile balefire.~
+#4603
+talisman~
+a Talisman~
+The Talisman of Cursed Wind lies here~
+~
+9 16 1|4
+30 1 6 11 
+1 0 0
+A
+9 -30
+#4604
+cell phone~
+a Cell Phone~
+A Cell Phone rests on the ground here, the little antenna extended.~
+~
+13 2|512 1|16384
+0 1 6 11 
+1 0 0
+E
+phone cell~
+The phone doesn't ring.  The batteries must need to be recharged.~
+#4605
+Armani suit~
+an Armani Suit~
+A neatly folded suit lies on the ground~
+~
+9 0 1|8
+30 1 6 11 
+20 0 0
+A
+18 5
+E
+~
+~
+#4606
+gun~
+a Hand Gun~
+A 9mm Hand Gun lies on the ground here~
+~
+5 0 1|8192
+0 2 40 6 
+4 0 0
+A
+19 5
+#4607
+talon talons~
+some Talons~
+Strap on claws are here on the ground~
+~
+5 2 1|8192
+0 2 4 1 
+8 0 0
+A
+19 2
+A
+18 2
+#4608
+Wyld~
+a Wyld Scream~
+The Wyld Scream lies here~
+~
+5 0 1|8192
+0 10 45 3 
+6 0 0
+A
+2 2
+#4609
+weaver~
+a Weaver Shell~
+A Weaver Shell lies here~
+~
+9 0 1|1024
+30 1 6 11 
+5 0 0
+A
+17 0
+#4610
+Wyrm~
+a Wyrm soul~
+The Wyrm soul rests here~
+~
+4 2 1|8192
+500 500 500 68 
+8 0 0
+A
+3 0
+#4611
+shard~
+a Shard of Wyrm~
+A shard of Wyrm essence lies here.~
+~
+5 2 1|8192
+0 3 6 11 
+5 0 0
+A
+13 0
+#4612
+robe~
+a robe~
+A robe lies here~
+~
+9 0 1|8
+5 1 6 11 
+40 0 0
+A
+17 -10
+#0
+
+
+#ROOMS
+#4600
+Before a withering forest~
+Before you lies a darkened forest.  The moon hangs low over the primordial wood and a small trail appears to lead into the forest to the north.  A sign hangs crookedly on the trunk of a small, withered tree.
+~
+0 0 3
+D0
+~
+~
+0 -1 4601
+E
+sign~
+Beware The Blight Of the Wyrm~
+S
+#4601
+The withered forest~
+A dark pall seems to descend over the sky and very air as you enter the forest.  Odd yipping sounds seem to be coming from the north-east.  The path continues north into some underbrush.
+~
+0 1 3
+D0
+~
+~
+0 -1 4602
+D2
+~
+~
+0 -1 4600
+S
+#4602
+Some shrubs~
+As you walk through the overgrown trail, you trip and stumble.  Dusting yourself off, you notice that you didn't trip over a log or a bush....it's a man.  The yipping noises are louder her, and they take on a more fierce aspect as the mans blood covers the ground you suddenly don't feel so safe in the woods....
+~
+0 1 3
+D1
+~
+~
+0 -1 4609
+D2
+~
+~
+0 -1 4601
+E
+mangled corpse man~
+He lies on the ground with each of his limbs tied to a stake in the ground.  He was vivisected while tied up and alive...his internal organs lay on the ground around him.~
+S
+#4604
+The Caern~
+The unearthly glow of the fire casts a hellish glow over the grisly scene before you.  A pile of bodies two dozen deep lies on the ground in front of the pillar.  A man wearing a peace symbol on a necklace is strung up by his arms off the pillar.  His blood streaks down the rock as his dying words reach your ears "...wolfs..".  As you re-examine the caern you can barely read something crusted over in blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 4607
+D1
+A small path leads to the south~
+path~
+0 -1 4609
+D3
+~
+~
+0 -1 4605
+E
+chained man corpse~
+A dead man hangs here by his arms, his blood all but completely gone from his body.~
+E
+caern pillar blood words written sign~
+On the caern's obelisk you can just barely make out this....Caern made by Hiro the WereWolf 12/16/99.~
+S
+#4605
+Withered Forest~
+Heading west from the horrid scene at the caern, you find another path to follow.  Heading out on it you leave behind the flickering glow of the fire pit and head back into the dark and twisted forest.
+~
+0 1 3
+D1
+~
+~
+0 -1 4604
+D3
+~
+~
+0 -1 4619
+S
+#4606
+Withered Forest~
+The path leading away from the clearing winds away back into the underbrush, leading to the east. The tree's hang over you like a wooded tunnel.  You hear an odd yipping noise from the east which is cut short.
+~
+0 1 3
+D1
+~
+~
+0 -1 4608
+D3
+~
+~
+0 -1 4604
+S
+#4607
+Withered Forest~
+This path seems to be a relatively small one as up ahead you can already see a small building forming up out of the darkness
+~
+0 1 3
+D0
+~
+~
+0 -1 4631
+D2
+~
+~
+0 -1 4604
+S
+#4608
+Withered Forest~
+An odd smell hangs in the air of the forest here as the path bends towards the south.  The trees all seem to be smaller and the ground cover is thinning out.
+~
+0 1 3
+D2
+~
+~
+0 -1 4610
+D3
+~
+~
+0 -1 4606
+S
+#4609
+Withered forest~
+Coming to the edge of a clearing, you stop and look north.  A large stone pillar is outlined by a ruddy glow...oddly, there seems to be a large bump on one side of it.
+~
+0 1 3
+D3
+A small path leads to the north~
+path~
+0 -1 4604
+S
+#4610
+Edge of the Bog~
+You stand on the banks of a large morrass of swampy bog.  A swirling mist clings close to the ground bringing a slight chill to your bones.  The smell of a deep musk is strong here.
+~
+0 0 3
+D0
+~
+~
+0 -1 4608
+D2
+~
+~
+0 -1 4611
+E
+Vines~
+Vines hang down from the trees, brushing against you as you walk past bringing images of snakes to your mind.~
+S
+#4611
+The Swamp~
+Standing knee-deep in a rank smelling crudified swamp, you start to question the intelligence of walking into this mess.  A path leads back to terra firma on the north and several paths lead deeper into the ooze.
+~
+0 0 3
+D0
+~
+~
+0 -1 4610
+D1
+~
+~
+0 -1 4612
+D2
+~
+~
+0 -1 4613
+S
+#4612
+The Swamp~
+Squelching as you walk along what you can discern of a path, you can just barely see a huge tree off to the south.  Unfortunately, you can't investigate it as a large pit of quicksand lies in the way...
+~
+0 0 3
+D3
+~
+~
+0 -1 4611
+S
+#4613
+The Swamp~
+Setting off deeper into the bog, you see several skeletons strung up from trees..some are animal and some are human.  The stink is getting worse and approaching unbearable.
+~
+0 0 3
+D0
+~
+~
+0 -1 4611
+D1
+~
+~
+0 -1 4614
+D2
+~
+~
+0 -1 4651
+S
+#4614
+Deep Swamp~
+Walking along the feeble path, you come to a weak point on it which crumbles, sending you waist deep into the muck.  Hope you brought some air freshner.
+~
+0 0 3
+D0
+~
+~
+0 -1 4615
+D3
+~
+~
+0 -1 4613
+S
+#4615
+The Great Tree~
+Having cleared the swamp, you stumble onto a dry spot of land.  In front of you stands a blackened tree...you look up its trunk.  And up. And up.  At it's pinacle you can barely make out a platform.
+~
+0 0 3
+D2
+~
+~
+0 -1 4614
+D4
+~
+~
+0 -1 4616
+E
+Pile of Skulls~
+A large pile of all manner of skulls lies at the base of the tree.  They all look cleaned.~
+S
+#4616
+Climbing up the Tree~
+Climbing the tree is relatively easy with all the twisted branches.  It almost seems like they form a large circular stairway.  The question remains...who would want to live at the top of a twisted tree?
+~
+0 0 3
+D4
+~
+~
+0 -1 4617
+D5
+~
+~
+0 -1 4615
+S
+#4617
+Climbing the Great Tree~
+Continuing up the tree, you go around its great bulk several times as the warped stairway wraps around the tree.  Looking out over the forest you can see the red glow from the fire at the caern.  Looking ahead you see you've almost reached the top.
+~
+0 0 3
+D4
+~
+~
+0 -1 4618
+D5
+~
+~
+0 -1 4616
+S
+#4618
+Top of the Great Tree~
+As you reach the top of the staircase and step onto the platform, you see a hideous sight.  The bodies from which all the skulls came from are heaped in a large pile here, decomposing.  The stench nearly knocks you off your feet.  The blood from all the bodies has been used to paint a large spiral here on the ground. A banner flutters in the sky over all.
+~
+0 8192 3
+D5
+~
+~
+0 -1 4617
+E
+banner flag~
+The fluttering banner reads "The Wyld is the creator of the Triat!"~
+S
+#4619
+Twisted Forest~
+The path widens at this point, doubling in size every dozen feet until it seems to be covered in a hard, black substance:Ashphalt.  Looking around you notice that the trail has turned from that into a large road. A sign sprouts from the side of the road showing distances.
+~
+0 1 3
+D1
+~
+~
+0 -1 4605
+D3
+~
+~
+0 -1 4620
+E
+sign~
+<--- Pentax Chemical Plant
+     Blighted Swamp ---->~
+S
+#4620
+The Road of Shame~
+Spectres of all sorts of man's greatest vehicular follys drive by on this deserted stretch of road.  Every gas guzzling Gaia destroying kind is here: Yugos, Corvettees, GTO's and Gremlins.  The sky thickens with smog as the combined exhaust of all humanity is dumped into the area.
+~
+0 0 1
+D1
+~
+~
+0 -1 4619
+D3
+~
+~
+0 -1 4621
+S
+#4621
+The Road of Shame~
+Walking further along the road, you come to a new section of it.  This part is dedicated to violent deaths in cars.  Phatasmic car wreaks lie about you, bodies strewn across the road.  Ghosts long dead moan pitifully for help from beneath the flaming hulks of metal.
+~
+0 0 1
+D1
+~
+~
+0 -1 4620
+D3
+~
+~
+0 -1 4622
+S
+#4622
+The Road of Shame~
+You come upon a part of the road that is strangely empty.  The cracked pavement and grass growing up in some spots almost lends you hope until up ahead you see the reason for the desertion.  A truck with the nuclear symbol on it has overturned here and not even the phantoms of the road will risk it.
+~
+0 4 1
+D1
+~
+~
+0 -1 4621
+D3
+~
+~
+0 -1 4623
+S
+#4623
+Before the Factory~
+The large road comes to an end here in front of a mammoth factory.  Its churning smokestacks belch out more dark smoke into the sky, turning night into day and night into even deeper darkness.  Its large doors are ajar and no sound issues from the factory.  If it weren't for the smokestacks, you would assume the place was desserted.
+~
+0 0 1
+D0
+~
+~
+0 -1 4624
+D1
+~
+~
+0 -1 4622
+S
+#4624
+Assembly Room~
+This huge carvernous room is filled with a large conveyer with several products being made on it.  However, there don't seem to be any workers.  Squinting hard, you can just barely make out the outline of a worker. Maybe not.
+~
+0 0 0
+D0
+~
+~
+0 -1 4625
+D2
+~
+~
+0 -1 4623
+S
+#4625
+Assembly Room~
+This huge carvernous room is filled with a large conveyer with several products being made on it.  However, there don't seem to be any workers.  Squinting hard, you can just barely make out the outline of a worker. Maybe not.
+~
+0 0 0
+D2
+~
+~
+0 -1 4624
+D3
+~
+~
+0 -1 4626
+S
+#4626
+Chemical Depot~
+This room in the factory is filled wall to wall with vats.  Vats filled with boiling liquids, black sludge and all other sorts of unwholesome things. Large barrels are being carted around by nothing, or so it seems. Door are to the east and south.
+~
+0 0 0
+D1
+~
+~
+0 -1 4625
+D2
+~
+~
+0 -1 4627
+S
+#4627
+Tweezer Construction~
+Horrible vapors fill this room, obscuring your view.  You step foward hesitantly into the swirling mist and gasp as you see what this rooms for...a giant metal press is making dozens and dozens of tweezers!
+~
+0 0 0
+D0
+~
+~
+0 -1 4626
+D3
+~
+~
+0 -1 4628
+E
+machine~
+The large thunking machine turns out tweezer after tweezer, throwing them onto the ground in an ever growing pile.~
+S
+#4628
+Ozone Room~
+The room is completely empty except for a large vent in the center.  The room smells highly of ozone. Doors are to the north and east.
+~
+0 0 0
+D0
+~
+~
+0 -1 4629
+D1
+~
+~
+0 -1 4627
+S
+#4629
+Glowing Room~
+A pillar stands in the middle of the room.  It resembles the one back at the caern, but this ones glowing strangely.  On closer examanation all the runes on it are the nuke sign. A steel stairway leads up to an office.
+~
+0 0 0
+D2
+~
+~
+0 -1 4628
+D4
+~
+~
+0 -1 4630
+S
+#4630
+An Office~
+A cramped office looking out over the radioactive caern through a wall-sized plate glass window.  A massive desk takes up most of the space.  An odd feeling of hate seems to eminate from this room.  On the desk sits several memos.
+~
+0 8192 0
+D5
+~
+~
+0 -1 4629
+E
+memos paper memo~
+All the memos have to do with the business of the factory, but they all have the lithographing of "The Weaver Controls the Triat" on the bottom of them.~
+S
+#4631
+The Temple~
+You come upon a large marble building at the end of the trail.  The stone isn't like anything you've ever seen as it has a kindm of shadow in it.  The pillars supporting the ediface are serpents of biblical proportion wrapping around themselves.  A gaping gate yawns like the mouth of a beast.
+~
+0 8192 0
+D0
+~
+~
+0 -1 4632
+D2
+~
+~
+0 -1 4607
+S
+#4632
+The Atrium~
+Standing underneath the dome of this building, you wonder how the hell evil got such an inspired architect.  The vaulted dome high above painted with scenes of the Wyrm conquering all.  The impressive vista is worth the look.
+~
+0 8192 0
+D0
+~
+~
+0 -1 4633
+D1
+~
+~
+0 -1 4635
+D2
+~
+~
+0 -1 4631
+D3
+~
+~
+0 -1 4634
+E
+dome ceiling top words writing ~
+The stylized writing in the fresco reads "THE WYRM DESTROYER OF THE TRIAT"~
+S
+#4633
+The Catherdrale of Entropy~
+Rows and rows of pews line this room of ebon stone.  It almost seems like the very walls eat the small amount of light which penetrated the haze around this temple.  Off to the north you can see the altar quite easily as it takes up the entire wall.
+~
+0 8192 0
+D0
+~
+~
+0 -1 4636
+D2
+~
+~
+0 -1 4632
+S
+#4634
+The Rectory~
+Inside this small room of the Wyrms temple is a stand on which sits an open book.  Looking around it, you guess this is where it's priests get ready for service.
+~
+0 8192 0
+D1
+~
+~
+0 -1 4632
+E
+book open paper~
+When the name of a member of the Triat is spoken in the presence of the most sacred Wyrm, his holy vileness will fling the speaker to the force named. Let it further be noted that when Gaia is praised by the light of the moon, the speaker will be returned to the last caern he saw.~
+S
+#4635
+Room Of Uncleansing~
+In the center of this room you can see a sunken pit filled with the Wyrm's holy water; it is vile, black, oily and all together unwholesome.
+~
+0 8192 0
+D3
+~
+~
+0 -1 4632
+S
+#4636
+The Altar of Ending~
+This gigantic, wall sized sculpture of the Wyrm crushing the world is riddled with shelfs and smaller pieces of art.  In front of the sculpture is a simple table on which a recessed bowl holds a crimson fluid:blood.  Behind the table, hidden by dust on the floor is a trap door.
+~
+0 8192 0
+D2
+~
+~
+0 -1 4633
+D5
+~
+~
+1 -1 4637
+E
+wall sculpture wyrm~
+The large bass relief is quite frightening.  It's eyes shimmer and appear to be looking down at the floor.~
+E
+altar bowl blood~
+The altar is flat, though it has several deep slash marks on it.  The sunken bowl is filled with crimson blood which has congealed into a solid, turgid mess.~
+S
+#4637
+Pit of Hate~
+Dark.  Dark beyond all thinking and reasoning.  A small presence of the Wyrm intrudes onto the world here bridging to another place of the Wyrm....all you need do is speak of the Triat.
+~
+0 1|4|8192 0
+D4
+~
+~
+1 -1 4636
+T
+wyrm~
+$n melts into the black void!~
+You melt into the black void!~
+all~
+16384 4638 0
+T
+wyld~
+$n shimmers multi-colors and and melts into infinity!~
+You melt into the colorful infinity!~
+all~
+16384 4650 0
+T
+weaver~
+$n calcifies into granite, shatters into dust and blows away on the wind!~
+You shatter into dust and blow away on the wind!~
+all~
+16384 4646 0                           
+S
+#4638
+The Heart of the Wyrm~
+As you appear in this place, you feel one urge beggining to overtake you.  You must DESTROY! You must KILL!  As you clear your head, you realize this trully must be the home of the vile Wyrm.  Various parts of the Wyrm lie off in other directions.
+~
+0 1 0
+D0
+~
+~
+0 -1 4639
+D1
+~
+~
+0 -1 4640
+D5
+~
+~
+0 -1 4641
+S
+#4639
+Hate~
+Crawling through a small tunnel leads you into a small slightly wider area.  A perceptable aura of malignant hate rolls through this room like a wave.
+~
+0 1 0
+D0
+~
+~
+0 -1 4642
+D2
+~
+~
+0 -1 4638
+S
+#4640
+Breeding Chamber~
+Pushing open a sphincter, you tumble into a room that pulsates with life.  Standing you hear a crunching noise and looking down you see the source of it.  Maggots.  Millions and millions of maggots of all shapes and sizes squirm on the floor.
+~
+0 1 0
+D3
+~
+~
+0 -1 4638
+S
+#4641
+Ladder of Bone~
+Climbing down a rope ladder constructed of bone lattice, you get the chance to examine the wall around you.  It's squishy...smells bad...and pulses with life.
+~
+0 1 0
+D4
+~
+~
+0 -1 4638
+D5
+~
+~
+0 -1 4644
+S
+#4642
+Violence~
+Crawling on you hit a weak point in the surface and fall through.  Landing with a slight plop, you stand in an inch of blood and look around at a wide open expanse inside the dark area.  The very walls seem to rage and call for death.
+~
+0 1 0
+D2
+~
+~
+0 -1 4639
+D4
+~
+~
+0 -1 4643
+S
+#4643
+Nothing~
+Squirming out of a chute that you crawled up, you see nothing.  Looking back down you see that the chute you crawled out of is but one hole among many on the surface of...what? Looking more closely, you can see things moving far out in the sky.
+~
+0 1 5
+D5
+~
+~
+0 -1 4642
+S
+#4644
+Bone Ladder-Bottom~
+Devoid of anything except a hole in the southern wall shining with a blinding white light.  A bone ladder also leads up.
+~
+0 1 0
+D2
+~
+~
+0 -1 4645
+D4
+~
+~
+0 -1 4641
+S
+#4645
+On the Back of WyrmSpawn~
+This entire area is bathed in a harsh white light coming from a crescent moon hanging low over the ground.  The floor here is scaly and horned, reminding you of snake skin.  Looking up you see black void.
+~
+0 8192 5
+D0
+~
+~
+0 -1 4644
+T
+gaia~
+$n walks the moon to safety!~
+You walk the moon to safety!~
+all~
+16384 4604 0
+S
+#4646
+Calcified Reality~
+Here the Weaver has spun its web tightly around the world, turning it into a solid mass.  It pretty much inhibits movement, but you think you can crawl down a hole thats been bored through the web.
+~
+0 0 5
+D5
+~
+~
+0 -1 4647
+S
+#4647
+Calcificied Reality~
+Reality is tightly in check here, as the force of Order has removed all chance and turned the world here into a solid web of comformance.  A borehole leads up and down.
+~
+0 0 5
+D4
+~
+~
+0 -1 4646
+D5
+~
+~
+0 -1 4648
+S
+#4648
+Calcified Reality~
+Reality is tightly in check here, as the force of Order has removed all chance and turned the world here into a solid web of comformance.  A borehole leads up and down.
+~
+0 0 5
+D4
+~
+~
+0 -1 4647
+D5
+~
+~
+0 -1 4649
+S
+#4649
+The Reality Matrix~
+You drop down from the borehole through reality and land on a web pulsating with power.  Looking down through it you spy far down below the world you are used to.  The web is harshly lit by the glow from a Half Moon hanging in the sky on a strand of reality.
+~
+0 0 5
+D4
+~
+~
+0 -1 4648
+T
+gaia~
+$n walks the moon back to safety!~
+You walk the moon back to safety!~
+all~
+16384 4604 0
+S
+#4650
+Raw Umbra~
+Sheer unfettered possibility pulsates here.  Anything that ever is exists here.  Anything that can happen will happen here.  Forms pulse and change all beneath the glow of the Full Moon in the sky above.
+~
+0 4 5
+T
+gaia~
+$n walks the moon to safety!~
+You walks the moon to safety!~
+all~
+16384 4604 0
+S
+#4651
+Deeper Swamp~
+As you stray from the path, the swamp gets even harder to navigate, several times you've had to pull HARD to yank your feet from the stinking mess.
+~
+0 0 5
+D0
+~
+~
+0 -1 4613
+D1
+~
+~
+0 -1 4652
+S
+#4652
+Deeper Swamp~
+As you plod further into the swamp, you come across even more corpses.  These are odd bodies of the dead however..their bones are arranged, and look, theres one holding its own head.  Odd.
+~
+0 0 5
+D1
+~
+~
+0 -1 4653
+D3
+~
+~
+0 -1 4651
+S
+#4653
+Yup, Swamp~
+The sinking stinking morrass has yet to change.  It seems like this spot has been this way for centuries, if not longer.
+~
+0 0 5
+D2
+~
+~
+0 -1 4654
+D3
+~
+~
+0 -1 4652
+S
+#4654
+Darkening Swamp~
+Mist rolls in, blocking out the light.  The bog seems even more disturbing as the few scattered trees take on the aspect of horrible beasts in the dim light.
+~
+0 1 5
+D0
+~
+~
+0 -1 4653
+D2
+~
+~
+0 -1 4655
+S
+#4655
+A Bend in the Swamp~
+The congeled mass of water and ooze bends to the west here, seeming to form an almost perfect 90 degree angle.
+~
+0 1 5
+D0
+~
+~
+0 -1 4654
+D3
+~
+~
+0 -1 4656
+S
+#4656
+More Swamp~
+A tree lays partially uprooted here where something very large rubbed up against it.  The roots reach to the sky like arms reaching for the sky.
+~
+0 1 5
+D1
+~
+~
+0 -1 4655
+D3
+~
+~
+0 -1 4657
+S
+#4657
+A Dead End~
+A large skeletal tree stands here.  On each limb a corpse is impaled by brute force, its entrails either long rotted or hanging out down to the ground.  The stink of death is strong near the base of the tree where a veritable wind of death blows from a hollow underneath the tree.
+~
+0 1 5
+D1
+~
+~
+0 -1 4656
+D5
+~
+~
+0 -1 4658
+S
+#4658
+Sleeping Hollow~
+A pile of furs lies in the corner, a bed for whatever savage beast calls this tree home.  A half chewn deer leg lies on the ground is the only evidence of recent occupation.
+~
+0 1 5
+D2
+~
+~
+0 -1 4659
+D4
+~
+~
+0 -1 4657
+S
+#4659
+The Back Door~
+A small wooden door leads up and out from this stinking pit of death.
+~
+0 0 5
+D0
+~
+~
+0 -1 4658
+D4
+~
+~
+0 -1 4660
+S
+#4660
+A Clearing~
+Standing on firm ground and looking up at a clear, cloudless sky you see the full moon.  It casts its glow down on this little chunk of dry land in the swamp making the ground seem to glow.
+~
+0 0 5
+D5
+~
+~
+0 -1 4659
+T
+gaia~
+$n walks the moon to safety!~
+You walk the moon to safety!~
+all~
+16384 4604 0
+S
+#0
+
+
+#RESETS
+*
+M 1 4601 1 4608			Garou to Withered Forest
+E 1 4611 100 16
+*
+M 1 4603 1 4601			Wolf to The withered forest
+*
+M 1 4603 3 4602			Wolf to Some shrubs
+*
+M 1 4603 1 4609			Wolf to Withered forest
+*
+M 1 4604 1 4611			Toxic Spirit to A room
+*
+M 1 4606 1 4612			Poison Spirit to A room
+*
+M 1 4603 1 4613			Wolf to A room
+*
+M 1 4604 1 4614			Toxic Spirit to A room
+*
+M 1 4607 1 4616			Wind Spirit to Climbing up the Tree
+*
+M 1 4605 1 4618			Toxic Shaman to Top of the Great Tree
+E 1 4603 100 4
+E 1 4607 100 16
+*
+*
+M 1 4604 1 4618			Toxic Spirit to Top of the Great Tree
+*
+*
+M 1 4604 2 4618			Toxic Spirit to Top of the Great Tree
+*
+M 1 4603 1 4605			Wolf to Withered Forest
+O 1 4600 100 4620			Rusted GTO to The Road of Shame
+O 1 4601 100 4630			A large Desk to An Office
+*
+M 1 4601 1 4607			Garou to Withered Forest
+E 1 4611 100 16
+*
+M 1 4602 1 4610			Fury to Edge of the Bog
+E 1 4611 100 16
+*
+M 1 4600 1 4619			Spiral Daner to Twisted Forest
+E 1 4611 100 16
+*
+M 1 4609 1 4620			Armed Roadster to The Road of Shame
+E 1 4606 100 16
+*
+M 1 4608 1 4621			Road Rager to The Road of Shame
+E 1 4611 100 16
+*
+M 1 4609 1 4621			Armed Roadster to The Road of Shame
+E 1 4606 100 16
+*
+M 1 4610 1 4624			Specteral Worker to Assembly Room
+*
+M 1 4610 2 4625			Specteral Worker to Assembly Room
+*
+M 1 4610 1 4627			Specteral Worker to Tweezer Construction
+*
+M 1 4611 1 4630			Suited Man to An Office
+E 1 4605 100 12
+E 1 4606 100 16
+G 1 4604 100
+*
+M 1 4612 1 4634			Acolyte to The Rectory
+E 1 4612 100 5
+E 1 4611 100 16
+*
+M 1 4612 1 4633			Acolyte to The Catherdrale of Entropy
+E 1 4611 100 16
+E 1 4612 100 5
+*
+M 1 4613 1 4635			Beast to Room Of Uncleansing
+*
+M 1 4614 1 4636			Priest to The Altar of Ending
+E 1 4602 100 16
+E 1 4612 100 5
+*
+M 1 4615 1 4639			Wyrm Best to Hate
+E 1 4611 100 16
+*
+M 1 4615 1 4640			Wyrm Best to Breeding Chamber
+*
+M 1 4615 1 4642			Wyrm Beast to Violence
+*
+M 1 4616 1 4645			Wyrm Spawn to On the Back of WyrmSpawn
+E 1 4610 100 16
+*
+M 1 4617 1 4646			Net Spider to Calcified Reality
+*
+M 1 4617 1 4648			Net Spider to Calcified Reality
+*
+M 1 4618 1 4649			Nexus Spider to The Reality Matrix
+E 1 4609 100 5
+*
+M 1 4619 1 4650			Wyld to Raw Umbra
+E 1 4608 100 16
+*
+M 1 4600 1 4652			Spiral Daner to Deeper Swamp
+E 1 4611 100 16
+*
+M 1 4601 1 4653			Garou to Yup, Swamp
+E 1 4611 100 16
+*
+M 1 4602 1 4655			Fury to A Bend in the Swamp
+E 1 4611 100 16
+*
+M 1 4620 1 4658			Kezzerdrix to Sleeping Hollow
+E 1 4607 100 16
+*
+M 1 4610 1 4624			Specteral Worker to Assembly Room
+E 1 4611 100 16
+*
+M 1 4610 1 4628			Specteral Worker to Ozone Room
+E 1 4611 100 16
+*
+M 1 4612 1 4632			Acolyte to The Atrium
+E 1 4612 100 5
+E 1 4611 100 16
+*
+M 1 4613 1 4635			Beast to Room Of Uncleansing
+*
+M 1 4613 1 4635			Beast to Room Of Uncleansing
+S
+
+
+#$
+

@@ -1,0 +1,414 @@
+#AREA	Dunkirk The Arena~
+
+
+#ROOMS
+#50
+The Cage~
+You are standing in the cage. Time to Spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 51
+D1
+~
+~
+0 -1 61
+D3
+~
+~
+0 -1 64
+D4
+~
+~
+0 -1 54
+S
+#51
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 58
+D1
+~
+~
+0 -1 60
+D2
+~
+~
+0 -1 50
+D3
+~
+~
+0 -1 52
+D4
+~
+~
+0 -1 53
+D5
+~
+~
+0 -1 68
+S
+#52
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 57
+D1
+~
+~
+0 -1 51
+D2
+~
+~
+0 -1 64
+D4
+~
+~
+0 -1 66
+S
+#53
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 63
+D1
+~
+~
+0 -1 56
+D2
+~
+~
+0 -1 54
+D3
+~
+~
+0 -1 66
+D5
+~
+~
+0 -1 51
+S
+#54
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 53
+D1
+~
+~
+0 -1 55
+D3
+~
+~
+0 -1 67
+D5
+~
+~
+0 -1 50
+S
+#55
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 56
+D3
+~
+~
+0 -1 54
+D5
+~
+~
+0 -1 61
+S
+#56
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 59
+D2
+~
+~
+0 -1 55
+D3
+~
+~
+0 -1 53
+D5
+~
+~
+0 -1 60
+S
+#57
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D1
+~
+~
+0 -1 58
+D2
+~
+~
+0 -1 52
+D4
+~
+~
+0 -1 65
+S
+#58
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D1
+~
+~
+0 -1 62
+D2
+~
+~
+0 -1 51
+D3
+~
+~
+0 -1 57
+D4
+~
+~
+0 -1 63
+S
+#59
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D2
+~
+~
+0 -1 56
+D3
+~
+~
+0 -1 63
+D5
+~
+~
+0 -1 62
+S
+#60
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 62
+D2
+~
+~
+0 -1 61
+D3
+~
+~
+0 -1 51
+D4
+~
+~
+0 -1 56
+S
+#61
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 60
+D3
+~
+~
+0 -1 50
+D4
+~
+~
+0 -1 55
+S
+#62
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D2
+~
+~
+0 -1 60
+D3
+~
+~
+0 -1 58
+D4
+~
+~
+0 -1 59
+S
+#63
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D1
+~
+~
+0 -1 59
+D2
+~
+~
+0 -1 53
+D3
+~
+~
+0 -1 65
+D5
+~
+~
+0 -1 58
+S
+#64
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 52
+D1
+~
+~
+0 -1 50
+D4
+~
+~
+0 -1 67
+S
+#65
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D1
+~
+~
+0 -1 63
+D2
+~
+~
+0 -1 66
+D5
+~
+~
+0 -1 57
+S
+#66
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 65
+D1
+~
+~
+0 -1 53
+D2
+~
+~
+0 -1 67
+D5
+~
+~
+0 -1 52
+S
+#67
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 66
+D1
+~
+~
+0 -1 54
+D5
+~
+~
+0 -1 64
+S
+#68
+The Pit~
+You are standing in a dark pit.
+~
+0 512|8192|131072 0
+D4
+~
+~
+0 -1 51
+S
+#69
+The Loser's Resting Place~
+Defeat! You slump to the ground and drift off into a deep, embarassed sleep.
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 3054 
+S
+#70
+The Winner's Circle~
+Onlookers cheer you and toss roses in your direction. A feeling of great pride fills your chest and you smile triumphantly.
+~
+0 512|8192|131072 0
+D0
+~
+~
+0 -1 3054 
+S
+#0
+
+
+#$

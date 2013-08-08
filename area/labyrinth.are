@@ -1,0 +1,1563 @@
+#AREA	Borlak  The Labyrinth~
+
+
+#MOBILES
+#30100
+king mino minotaur~
+The King Minotaur~
+The Powerful King Minotaur charges you and attacks!
+~
+Oh shit, its the King Minotaur, you are in trouble now!
+~
+2|32|64|128 2|8|32|128|512|8192|32768|65536|1048576 -1000 S
+1500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30101
+elemental fire~
+A fire elemental~
+A fire elemental is here, flaming brightly.
+~
+It looks hot.
+~
+32|64 0 0 S
+850 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#30102
+earth elemental~
+An earth elemental~
+An earth elemental is here, making lots of noise.
+~
+It looks buff.
+~
+32|64 8 0 S
+850 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#30103
+water elemental~
+A water elemental~
+A water elemental is here, changing forms.
+~
+It looks wet.
+~
+32|64 0 0 S
+850 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#30104
+air elemental~
+An air elemental~
+An air elemental is here.
+~
+It looks, well, it doesnt look like anything.
+~
+32|64 8|32768|65536 0 S
+850 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#30100
+key brass~
+A brass key~
+A brass key is on the ground here.~
+~
+18 1 1
+0 0 0 0 
+1 0 10
+#30101
+axe great great-axe~
+The King MInotaur's Great Axe~
+A huge and poweful axe is on the ground here.~
+~
+5 1|2|64|128|4096 1|8192
+0 10 10 3 
+10 0 5
+A
+19 4
+A
+18 4
+A
+24 -5
+#30102
+magical gem key portal~
+a magical gem~
+A magical gem that looks like it belongs in a hole is on the ground here.~
+~
+18 1 1|16384
+0 0 0 0 
+1 0 100
+A
+12 50
+#30103
+scroll minotaur~
+Scroll of the Minotaur~
+The Scroll of the Minotaur is on the ground here.~
+~
+2 1|2 1|16384
+30 91 3 0
+2 0 100
+E
+scrolll~
+This is the famed scroll of the minotaur.  It is known for possessing great knowledge only known to the great king minotaur.~
+#30104
+water~
+Some water~
+Some water is on the ground here.~
+~
+17 0 1
+0 1 0 0 
+1 0 100
+#30105
+earth piece~
+A piece of earth~
+Some earth is on the ground here.~
+~
+9 0 1|2|4|8|16|32|64|128|256|512|1024|2048|4096|16384
+9 0 0 0 
+5 0 100
+#30106
+flaming lava~
+Some flaming lava~
+Some flaming lava is on the ground here.~
+~
+26 0 1
+30 0 26 -1 
+2 0 100
+#30107
+swirling mass~
+A swirling mass~
+A swirling mass is floating around here.~
+~
+26 0 1
+30 39 0 -1 
+1 0 100
+#30108
+helm~
+The King Minotaur's Helm~
+A great helm is on the ground here.~
+~
+9 0 1|16
+10 0 0 0 
+2 0 2
+A
+24 -2
+#30109
+ring~
+The King Minotaur's Ring~
+A great ring is on the ground here.~
+~
+9 0 1|2
+10 0 0 0 
+1 0 2
+A
+24 -2
+#30110
+cloak~
+The King Minotaur's Amulet~
+A great amulet is on the ground here.~
+~
+9 0 1|4
+10 0 0 0 
+1 0 2
+A
+24 -2
+#30111
+plate body-plate body~
+The King Minotaur's Body Plate~
+A great body plate is on the ground here.~
+~
+9 0 1|8
+10 0 0 0 
+5 0 2
+A
+24 -2
+#30112
+leggings~
+The King Minotaur's Leggings~
+Some great leggings are on the ground here.~
+~
+9 0 1|32
+10 0 0 0 
+4 0 2
+A
+24 -2
+#30113
+gauntlets~
+The King Minotaur's Gauntlets~
+Some great gauntlets are on the ground here.~
+~
+9 0 1|128
+10 0 0 0 
+2 0 2
+A
+24 0
+#30114
+vambraces~
+The King Minotaur's Vambraces~
+Some great vambraces are on the ground here.~
+~
+9 0 1|256
+10 0 0 0 
+3 0 2
+A
+24 -2
+#30115
+shield~
+The King Minotaur's Shield~
+A great shield is on the ground here.~
+~
+9 0 1|512
+10 0 0 0 
+5 0 2
+A
+24 -2
+#30116
+cape~
+The King Minotaur's Cape~
+A great cape is on the ground here.~
+~
+9 0 1|1024
+10 0 0 0 
+4 0 2
+A
+24 -2
+#30117
+girth~
+The King Minotaur's Girth~
+A great girth is on the ground here.~
+~
+9 0 1|2048
+10 0 0 0 
+4 0 2
+A
+24 -2
+#30118
+bracelet~
+The King Minotaur's Bracelet~
+A great bracelet is on the ground here.~
+~
+9 0 1|4096
+10 0 0 0 
+1 0 2
+A
+24 -2
+#30119
+aura~
+The King Minotaur's Aura~
+An aura is lighting up the room here.~
+~
+1 0 1
+0 1 -1 0 
+1 0 10
+A
+24 -2
+#30120
+boots~
+The King Minotaur's Boots~
+Some great boots are on the ground here.~
+~
+9 0 1|64|8192
+10 0 0 0 
+1 0 2
+A
+24 -2
+#0
+
+
+#ROOMS
+#30100
+The Labyrinth~
+Turn on brief.
+~
+0 1|4 0
+S
+#30101
+Outside the Lair~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30102
+D2
+~
+~
+0 -1 30120
+S
+#30102
+Outside the Lair~
+Turn on brief.
+~
+0 1|4 0
+D1
+~
+~
+0 -1 30103
+D2
+~
+massive door~
+1 30100 30119
+D3
+~
+~
+0 -1 30101
+S
+#30103
+Outside the Lair~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30104
+D2
+~
+~
+0 -1 30118
+D3
+~
+~
+0 -1 30102
+S
+#30104
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D2
+~
+~
+0 -1 30117
+D3
+~
+~
+0 -1 30103
+S
+#30105
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30106
+D2
+~
+~
+0 -1 30116
+S
+#30106
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30107
+D2
+~
+~
+0 -1 30115
+D3
+~
+~
+0 -1 30105
+S
+#30107
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30108
+D3
+~
+~
+0 -1 30106
+S
+#30108
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D2
+~
+~
+0 -1 30113
+D3
+~
+~
+0 -1 30107
+S
+#30109
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30110
+D2
+~
+~
+0 -1 30112
+S
+#30110
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D2
+~
+~
+0 -1 30111
+D3
+~
+~
+0 -1 30109
+S
+#30111
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30110
+S
+#30112
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30109
+D2
+~
+~
+0 -1 30129
+D3
+~
+~
+0 -1 30113
+S
+#30113
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30108
+D1
+~
+~
+0 -1 30112
+D3
+~
+~
+0 -1 30114
+S
+#30114
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30113
+D2
+~
+~
+0 -1 30127
+D3
+~
+~
+0 -1 30115
+S
+#30115
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30106
+D1
+~
+~
+0 -1 30114
+S
+#30116
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30105
+D2
+~
+~
+0 -1 30125
+S
+#30117
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30104
+D2
+~
+~
+0 -1 30124
+S
+#30118
+Outside the Lair~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30103
+D2
+~
+~
+0 -1 30123
+D3
+~
+massive door~
+1 30100 30119
+S
+#30119
+The King Mino Lair~
+Oh shit.
+~
+0 1|16384 0
+D5
+~
+portal~
+2 30102 30180
+S
+#30120
+Outside the Lair~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30101
+D1
+~
+massive door~
+1 30100 30119
+D2
+~
+~
+0 -1 30121
+S
+#30121
+Outside the Lair~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30120
+D1
+~
+~
+0 -1 30122
+S
+#30122
+Outside the Lair~
+Turn on brief.
+~
+0 1 0
+D0
+~
+massive door~
+1 30100 30119
+D1
+~
+~
+0 -1 30123
+D2
+~
+~
+0 -1 30132
+D3
+~
+~
+0 -1 30121
+S
+#30123
+Outside the Lair~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30118
+D3
+~
+~
+0 -1 30122
+S
+#30124
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30117
+D1
+~
+~
+0 -1 30125
+D2
+~
+~
+0 -1 30134
+S
+#30125
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30116
+D2
+~
+~
+0 -1 30135
+D3
+~
+~
+0 -1 30124
+S
+#30126
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30127
+D2
+~
+~
+0 -1 30136
+S
+#30127
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30114
+D1
+~
+~
+0 -1 30128
+D2
+~
+~
+0 -1 30137
+D3
+~
+~
+0 -1 30126
+S
+#30128
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30129
+D3
+~
+~
+0 -1 30127
+S
+#30129
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30112
+D1
+~
+~
+0 -1 30130
+D2
+~
+~
+0 -1 30139
+D3
+~
+~
+0 -1 30128
+S
+#30130
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D2
+~
+~
+0 -1 30140
+D3
+~
+~
+0 -1 30129
+S
+#30131
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30132
+S
+#30132
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30122
+D1
+~
+~
+0 -1 30133
+D3
+~
+~
+0 -1 30131
+S
+#30133
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D2
+~
+~
+0 -1 30143
+D3
+~
+~
+0 -1 30132
+S
+#30134
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30124
+S
+#30135
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30125
+D2
+~
+~
+0 -1 30145
+S
+#30136
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30126
+D2
+~
+~
+0 -1 30146
+S
+#30137
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30127
+D1
+~
+~
+0 -1 30138
+D2
+~
+~
+0 -1 30147
+S
+#30138
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D2
+~
+~
+0 -1 30148
+D3
+~
+~
+0 -1 30137
+S
+#30139
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30129
+S
+#30140
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30130
+D2
+~
+~
+0 -1 30150
+S
+#30141
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30142
+D2
+~
+~
+0 -1 30151
+S
+#30142
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D3
+~
+~
+0 -1 30141
+S
+#30143
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30133
+D2
+~
+~
+0 -1 30153
+S
+#30144
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30145
+D2
+~
+~
+0 -1 30154
+S
+#30145
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30135
+D3
+~
+~
+0 -1 30144
+S
+#30146
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30136
+D1
+~
+~
+0 -1 30147
+D2
+~
+~
+0 -1 30156
+S
+#30147
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30137
+D3
+~
+~
+0 -1 30146
+S
+#30148
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30138
+D2
+~
+~
+0 -1 30158
+S
+#30149
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30150
+D2
+~
+~
+0 -1 30159
+S
+#30150
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30140
+D2
+~
+~
+0 -1 30160
+D3
+~
+~
+0 -1 30149
+S
+#30151
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30141
+D2
+~
+~
+0 -1 30161
+S
+#30152
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30153
+D2
+~
+~
+0 -1 30162
+S
+#30153
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30143
+D3
+~
+~
+0 -1 30152
+S
+#30154
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30144
+D2
+~
+~
+0 -1 30164
+S
+#30155
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30156
+D2
+~
+~
+0 -1 30165
+S
+#30156
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30146
+D3
+~
+~
+0 -1 30155
+S
+#30157
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30158
+S
+#30158
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30148
+D2
+~
+~
+0 -1 30168
+D3
+~
+~
+0 -1 30157
+S
+#30159
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30149
+D2
+~
+~
+0 -1 30169
+S
+#30160
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30150
+S
+#30161
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30151
+D1
+~
+~
+0 -1 30162
+D2
+~
+~
+0 -1 30171
+S
+#30162
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30152
+D1
+~
+~
+0 -1 30163
+D3
+~
+~
+0 -1 30161
+S
+#30163
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30164
+D3
+~
+~
+0 -1 30162
+S
+#30164
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30154
+D1
+~
+~
+0 -1 30165
+D2
+~
+~
+0 -1 30174
+D3
+~
+~
+0 -1 30163
+S
+#30165
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30155
+D3
+~
+~
+0 -1 30164
+S
+#30166
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30167
+D2
+~
+~
+0 -1 30176
+S
+#30167
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30168
+D2
+~
+~
+0 -1 30177
+D3
+~
+~
+0 -1 30166
+S
+#30168
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30158
+D1
+~
+~
+0 -1 30169
+D3
+~
+~
+0 -1 30167
+S
+#30169
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30159
+D1
+~
+~
+0 -1 30170
+D3
+~
+~
+0 -1 30168
+S
+#30170
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D2
+~
+~
+0 -1 30180
+D3
+~
+~
+0 -1 30169
+S
+#30171
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30161
+D1
+~
+~
+0 -1 30172
+S
+#30172
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30173
+D3
+~
+~
+0 -1 30171
+S
+#30173
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D3
+~
+~
+0 -1 30172
+S
+#30174
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30164
+D1
+~
+~
+0 -1 30175
+S
+#30175
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30176
+D3
+~
+~
+0 -1 30174
+S
+#30176
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30166
+D1
+~
+~
+0 -1 30177
+D3
+~
+~
+0 -1 30175
+S
+#30177
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30167
+D1
+~
+~
+0 -1 30178
+D3
+~
+~
+0 -1 30176
+S
+#30178
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 30179
+D3
+~
+~
+0 -1 30177
+S
+#30179
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D3
+~
+~
+0 -1 30178
+S
+#30180
+The Labyrinth~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 30170
+D2
+~
+~
+0 -1 4784
+S
+#0
+
+
+#RESETS
+R 1 30100 4			; Randomize Unidentifed Room
+D 1 30102 2 2			; Outside the Lair Lock South
+D 1 30120 1 2			; Outside the Lair Lock East
+D 1 30122 0 2			; Outside the Lair Lock North
+*
+M 1 30100 1 30119			The King Minotaur to The King Mino Lair
+E 1 30101 100 16
+E 1 30119 100 0
+E 1 30109 100 1
+E 1 30110 100 3
+E 1 30111 100 5
+E 1 30108 100 6
+E 1 30112 100 7
+E 1 30113 100 9
+E 1 30114 100 10
+E 1 30115 100 11
+E 1 30116 100 12
+E 1 30117 100 13
+E 1 30118 100 14
+E 1 30120 100 8
+G 1 30102 100
+G 1 30103 100
+*
+M 1 30101 3 30105			A fire elemental to The Labyrinth
+G 1 30106 100
+G 1 30100 100
+*
+M 1 30101 3 30154			A fire elemental to The Labyrinth
+G 1 30106 100
+G 1 30100 100
+*
+M 1 30101 3 30158			A fire elemental to The Labyrinth
+G 1 30106 100
+G 1 30100 100
+*
+M 1 30102 3 30135			An earth elemental to The Labyrinth
+G 1 30105 100
+G 1 30100 100
+*
+M 1 30102 3 30128			An earth elemental to The Labyrinth
+G 1 30105 100
+G 1 30100 100
+*
+M 1 30102 3 30174			An earth elemental to The Labyrinth
+G 1 30105 100
+G 1 30100 100
+*
+M 1 30103 3 30140			A water elemental to The Labyrinth
+G 1 30104 100
+G 1 30100 100
+*
+M 1 30103 3 30118			A water elemental to Outside the Lair
+G 1 30104 100
+G 1 30100 100
+*
+M 1 30103 3 30142			A water elemental to The Labyrinth
+G 1 30104 100
+G 1 30100 100
+*
+M 1 30104 3 30109			An air elemental to The Labyrinth
+G 1 30107 100
+G 1 30100 100
+*
+M 1 30104 3 30156			An air elemental to The Labyrinth
+G 1 30107 100
+G 1 30100 100
+*
+M 1 30104 3 30177			An air elemental to The Labyrinth
+G 1 30107 100
+G 1 30100 100
+R 1 30125 4			; Randomize The Labyrinth
+R 1 30129 4			; Randomize The Labyrinth
+R 1 30146 4			; Randomize The Labyrinth
+R 1 30164 4			; Randomize The Labyrinth
+R 1 30169 4			; Randomize The Labyrinth
+S
+
+
+
+
+#$

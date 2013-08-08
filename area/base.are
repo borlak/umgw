@@ -1,0 +1,255 @@
+#AREA	Gelid   Army Base~
+
+
+
+#MOBILES
+#29000
+etep~
+Pete the bartender~
+Pete the bartender stands behind the bar.
+~
+Pete is tall and serves drinks.
+~
+2|64 8|128 1000 S
+1000 -10 -20 8d8+29999 8d4+3000
+0 -99000
+8 8 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#29000
+Private Pete's Bar & Grill~
+A long oaken bar stretches out across the room.  Small round seats that
+spin lie all around the bar.  Behind the bar lies long rows of drinks and
+alchohol.  Pete stands right behind the bar, waiting for customers.
+~
+30 8|16|1024 0  
+D0
+~
+~
+0 -1 29002
+S
+#29001
+The Army Bunkers~
+The bunker is very small and cramped.  About 20 bunk beds have been neatly
+placed along the walls of the room, placed in an order to save as much
+space as possible.  The corridor lies back to the east.
+~
+30 0 0
+D1
+~
+~
+0 -1 29003
+S
+#29002
+The Command Post~
+   A hectagon type bar/desk has been built around a large round pole.  The
+wooden pole is covered with papers and maps all tacked on, covering the
+pole with information people need to know.  This is where all the soldiers
+sit around and talk while they wait for battle.  To the north, snoring can
+be heard, coming from the barracks.  To the south, a bar where the people
+like to get drunk after battles.  To the west lies the corridor of
+Hanger Doors lies, leading to other parts of the world.
+~
+30 0 0
+D0
+~
+~
+0 -1 29003
+D1
+~
+~
+0 -1 3001
+D2
+~
+~
+1 -1 29000
+D3
+~
+~
+0 -1 29004
+S
+#29003
+Corridor to the Barracks~
+A long metalic corridor leads to the Barracks.  A small bunker lies to the
+west where most of the soldiers sleep, but to the east lies the 4 main
+bunkers of all the Generals.
+~
+30 0 0
+D1
+~
+~
+0 -1 29005
+D2
+~
+~
+0 -1 29002
+D3
+~
+~
+0 -1 29001
+S
+#29004
+Corridor of Hangers~
+Mega City-1 lies to the north.  Draconia lies to the south.
+~
+30 0 0
+D0
+~
+~
+0 -1 8001
+D1
+~
+~
+0 -1 29002
+D2
+~
+~
+0 -1 2201
+D3
+~
+~
+0 -1 29010
+S
+#29005
+Hallway~
+The hallway leads to the 4 main chambers of the Generals.  Three chambers
+lie to the north, south, east.  A ladder leads up to the fourth chamber.
+~
+30 0 0
+D0
+~
+~
+0 -1 29006
+D1
+~
+~
+0 -1 29007
+D2
+~
+~
+0 -1 29008
+D3
+~
+~
+0 -1 29003
+D4
+~
+~
+0 -1 29009
+S
+#29006
+Brigadier General's Bunkers~
+This is the Brigadier General's Bunkers.
+~
+30 0 0
+D2
+~
+~
+0 -1 29005
+S
+#29007
+Major General's Bunkers~
+This is the Major General's Bunkers.
+~
+30 0 0
+D3
+~
+~
+0 -1 29005
+S
+#29008
+Lieutenant General's Chamber~
+This is the Lieutenant General's Chamber.
+~
+30 0 0
+D1
+~
+~
+0 -1 29005
+S
+#29009
+General's Chamber~
+This is the General's Chamber.
+~
+30 0 0
+D5
+~
+~
+0 -1 29005
+S
+#29010
+The Corridor of Hangers~
+Galaxy lies to the north.  Mahn-tor lies to the south.
+~
+30 0 0
+D0
+~
+~
+0 -1 9302
+D2
+~
+~
+9 -1 2362
+D3
+~
+~
+0 -1 29011
+D1
+~
+~
+0 -1 29004
+S
+#29011
+The Corridor of Hangers~
+Old Thalos lies to the north.  New Thalos lies to the south.  High
+Tower of Sorcery lies up.
+~
+30 0 0
+D0
+~
+~
+0 -1 5300
+D2
+~
+~
+0 -1  5200
+D1
+~
+~
+0 -1 29010
+D4
+~
+~
+0 -1 5200
+S
+#0
+
+
+
+
+#RESETS
+M 0 29000 1 29000         Pete at Bar
+S
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+M  29000 spec_cast_adept
+S
+
+
+
+#$

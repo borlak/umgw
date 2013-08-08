@@ -1,0 +1,7 @@
+#define ANTEAC		0
+#define DARKLEGION	1
+#define HELLFIRE	2
+#define DARKLIGHT	3
+#define SILVERFANGS	4
+#define REDTALONS	5
+// THIS IS THE END OF THE FILE THANKS

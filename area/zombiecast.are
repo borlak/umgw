@@ -1,0 +1,477 @@
+#AREA	{ 5 35} M.Z.F.  Prototype for New Area~
+
+
+#OBJECTS
+#16000
+Zombie Beacon~
+The Zombie Beacon~
+The Beacon of the Zombie castle rests here radeating pure power. Its beautiful.~
+~
+25 1|2|64 1
+0 1 6 11 
+5 0 0
+#0
+
+
+#ROOMS
+#16000
+The Gate.~
+Slime covered walls, rotting wood, the stench of death, all of these surround the castle of the zombie. It is one of the castles of power, within its decaying walls lies one of the beacons of power. Good luck reaching it alive.
+~
+0 4 1
+D0
+~
+~
+0 -1 16001
+S
+#16001
+The Portculus~
+The stench of decay fills your nostrals as you enter the castle gateway. Inside you hear the scrapeing of zombie feet. You can feel the throbbing power of the beacon inside. The castle sends shivers down your spine as you step farward...
+~
+0 0 1
+D0
+~
+~
+0 -1 16002
+D2
+~
+~
+0 -1 16000
+S
+#16002
+The Cortyard~
+The vile filth of the dead pulls at your armor as you walk into the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D0
+~
+~
+0 -1 16009
+D1
+~
+~
+0 -1 16005
+D2
+~
+~
+0 -1 16001
+D3
+~
+~
+0 -1 16003
+S
+#16003
+The Cortyard~
+The vile filth of the dead pulls at your armor as you walk in the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D0
+~
+~
+0 -1 16010
+D1
+~
+~
+0 -1 16002
+D3
+~
+~
+0 -1 16004
+S
+#16004
+The Cortyard~
+The vile filth of the dead pulls at your armor as you walk in the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D0
+~
+~
+0 -1 16009
+D1
+~
+~
+0 -1 16003
+S
+#16005
+The Cortyard~
+The vile filth of the dead pulls at your armor as you walk in the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D0
+~
+~
+0 -1 16008
+D1
+~
+~
+0 -1 16006
+D3
+~
+~
+0 -1 16002
+S
+#16006
+The Cortyard~
+The vile filth of the dead pulls at your armor as you walk in the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D0
+~
+~
+0 -1 16007
+D3
+~
+~
+0 -1 16005
+S
+#16007
+The Cortyard~
+The vile filth of the dead pulls at your armor as you walk in the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D2
+~
+~
+0 -1 16006
+D3
+~
+~
+0 -1 16008
+S
+#16008
+The Cortyard~
+The vile filth of the dead pulls at your armor as you walk in the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D1
+~
+~
+0 -1 16007
+D2
+~
+~
+0 -1 16005
+D3
+~
+~
+0 -1 16009
+S
+#16009
+The Cortyard~
+The vile filth of the dead pulls at your armor as you walk in the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D0
+~
+~
+0 -1 16012
+D1
+~
+~
+0 -1 16008
+D2
+~
+~
+0 -1 16002
+D3
+~
+~
+0 -1 16010
+S
+#16010
+THe Cortyard~
+The vile filth of the dead pulls at your armor as you walk in the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D1
+~
+~
+0 -1 16009
+D2
+~
+~
+0 -1 16003
+D3
+~
+~
+0 -1 16011
+S
+#16011
+The Cortyard~
+The vile filth of the dead pulls at your armor as you walk in the enormus cortyard. You can see zombies stumbeling around doing the chores they did while still liveing. They loose bodyparts as they walk leaving them on the ground.
+~
+0 0 1
+D1
+~
+~
+0 -1 16010
+D2
+~
+~
+0 -1 16004
+S
+#16012
+The Stairwell~
+You stand at the base of the stares, The steps are rotted and covered in zombie parts. They dont look very sturdy but the call of the beacon urges you to go up them...
+~
+0 0 0
+D2
+~
+~
+0 -1 16009
+D4
+~
+~
+0 -1 16013
+S
+#16013
+The upper floor~
+The smell of rot and decay becomes stronger as you stand at the top of the stairs. The hallways extend to the west and the east. The throng of the beacon sounds in your ears.
+~
+0 0 0
+D1
+~
+~
+0 -1 16014
+D3
+~
+~
+0 -1 16028
+D5
+~
+~
+0 -1 16012
+S
+#16014
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D1
+~
+~
+0 -1 16015
+D3
+~
+~
+0 -1 16013
+S
+#16015
+hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D2
+~
+~
+0 -1 16016
+D3
+~
+~
+0 -1 16014
+S
+#16016
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D0
+~
+~
+0 -1 16015
+D2
+~
+~
+0 -1 16017
+S
+#16017
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D0
+~
+~
+0 -1 16016
+D2
+~
+~
+0 -1 16018
+S
+#16018
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D0
+~
+~
+0 -1 16017
+D3
+~
+~
+0 -1 16019
+S
+#16019
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D1
+~
+~
+0 -1 16018
+D3
+~
+~
+0 -1 16020
+S
+#16020
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D1
+~
+~
+0 -1 16019
+D3
+~
+~
+0 -1 16021
+S
+#16021
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D1
+~
+~
+0 -1 16020
+D3
+~
+~
+0 -1 16022
+S
+#16022
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D1
+~
+~
+0 -1 16021
+D3
+~
+~
+0 -1 16023
+S
+#16023
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D0
+~
+~
+0 -1 16024
+D1
+~
+~
+0 -1 16022
+S
+#16024
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D0
+~
+~
+0 -1 16025
+D2
+~
+~
+0 -1 16023
+S
+#16025
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D0
+~
+~
+0 -1 16026
+D1
+~
+~
+2 -1 16029
+D2
+~
+~
+0 -1 16024
+S
+#16026
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D1
+~
+~
+0 -1 16027
+D2
+~
+~
+0 -1 16025
+S
+#16027
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D1
+~
+~
+0 -1 16028
+D3
+~
+~
+0 -1 16026
+S
+#16028
+Hallway~
+The reak of the undead almost makes you sick, you must find the beacon.
+~
+0 0 0
+D1
+~
+~
+0 -1 16013
+D3
+~
+~
+0 -1 16027
+S
+#16029
+The Beacon Room~
+Atlast you have found the beacon room, The reak of the undead is gone but the throng of power almost hurts your ears. A large blue crystal rests in the center of the room. It is the most beautiful thing you think you have ever seen. It rests in a gold spider claw, you reach out to touch it and are zapped. Looks like it isnt going anywhere. You stand in awe of its massive power. Better guard it carefully.
+~
+0 0 0
+D3
+~
+~
+2 -1 16025
+S
+#0
+
+
+#RESETS
+O 1 16000 100 16029			The Zombie Beacon to The Beacon Room
+S
+
+
+#$

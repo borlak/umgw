@@ -1,0 +1,639 @@
+#AREA	Torn    Dragon's Nimbus~
+
+
+#MOBILES
+#200
+mist dragon protector nimbus~
+the protector~
+The protector of the Dragon's Nimbus stands here.
+~
+A mist form, it is not entirely substantial.  Taking the shape, more or less, of a dragon, it is still quite deadly.
+~
+2|4|64 2|8|32|128|32768|1048576 0 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#201
+dragon white~
+the white dragon~
+The white dragon flaps around happily.
+~
+While the white dragon is immense, it seems very playful, with a sort of attitude of a young child.  Perhaps it is.  It doesn't change the size of it's claws, though.
+~
+4|64 32768|1048576 0 S
+136 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#202
+red dragon~
+the red dragon~
+The large red dragon watches over the castle, watching for intruders.
+~
+The red dragon, in a word, is immense.  Rippling muscle can be seen under thick, hard red scales. Multihued eyes peer out at you, swirling hypnotically.
+~
+4|64 32768|1048576 0 S
+170 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#203
+silver dragon~
+the silver dragon~
+The old, benevolent silver dragon watches you curiously.
+~
+The oldest, wisest, and perhaps most reknown dragon of all is the silver dragon.  Just because he is old does not mean he won't put up a fight.
+~
+4|64 32768|1048576 0 S
+165 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#204
+rainbow dragon~
+the rainbow dragon~
+The leader of the dragons, the rainbow dragon, growls at you menacingly.
+~
+It is hard to keep watching the rainbow dragon, as it is constantly shifting colors.  Achingly intense, the colors burn their way through your eyelids and into your mind's eye.  As it's shifty eyes gaze into your soul, you here a faint voice in the back of your mind, saying again and again, "Surrender... Surrender..."
+~
+2|4|64 8|32|128|32768|1048576 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#205
+blue dragon~
+the blue dragon~
+The blue dragon flies around here, keeping watch of her eggs.
+~
+The blue dragons, one of the weaker varieties, tend to stay and watch over the dragon's clutches.  While small (for a dragon), they are every bit as fierce as any other.
+~
+4|64 8|32|32768|1048576 0 S
+147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#200
+dragon misty dagger~
+a misty dagger~
+A wavery dagger lies on the ground.~
+~
+5 1|32|64 1|8192
+0 1 6 11 
+1 0 0
+A
+18 5
+A
+19 5
+E
+dagger~
+A piece of the mist dragon's claw seems to have fallen off.~
+#201
+misty key~
+a misty key~
+An insubstantial key lies on the ground.~
+~
+18 1|32|64 1|16384
+0 1 6 11 
+1 0 0
+#202
+fountain~
+a fountain~
+A large, beautifully carved granite fountain stands here, gushing pure, sparkling water.~
+~
+25 1|32|64 0
+0 0 0 0 
+5 0 0
+#203
+dragon's touchstone stone sphere~
+the dragon's touchstone~
+A shimmering sphere rests on the ground, silently shedding it's light.~
+~
+8 0 1|16384
+0 0 0 0 
+5 0 0
+A
+1 5
+A
+2 5
+A
+3 5
+A
+4 5
+A
+5 5
+#204
+dragon necklace platinum~
+a dragon's necklace of woven platinum~
+A beautifully crafted platinum necklace lies on the ground.~
+~
+9 1|32|64 1|4
+0 1 6 11 
+10 0 0
+A
+13 100
+A
+12 200
+A
+14 200
+E
+necklace~
+Woven from the purest threads of platinum, this necklace was given to the rainbow dragon as a gift from the sorcerer Nimbulan, who the rainbow dragon had helped win the war against his former lord.~
+#0
+
+
+#ROOMS
+#200
+Gates of Mist~
+You stand before large gates which seem to be made of pure mist.  The ground is soft and spongy, seeming to be made of mist itself.  As you approach the gates, they silently swing open on unseen hinges.
+~
+0 4 2
+D2
+~
+~
+0 -1 201
+S
+#201
+Inside the Gates of Mist~
+A peaceful silence washes through the room on a comforting wind.  Soft rolling hills can be seen far in the distance, verdant green with patches of colorful vegetation.  A whistle, almost a fluting call is heard in the distance.
+~
+0 4 1
+D0
+~
+~
+0 -1 200
+D2
+~
+~
+0 -1 202
+D3
+~
+~
+0 -1 2242
+S
+#202
+On the Road~
+A sort of road begins to form in the soft, pale mist that seems omnipresent here.  Up ahead, a large shape can be seen through the mists, the mist around it seeming to pulse softly with color.
+~
+0 4 1
+D0
+~
+~
+0 -1 201
+D2
+~
+~
+0 -1 203
+S
+#203
+On the Road~
+A small road fully forms from the mists here, giving a clear path towards what appears to be a large, multihued castle.  Large shapes can be seen floating around the castle, swooping and diving.
+~
+0 4 1
+D0
+~
+~
+0 -1 202
+D2
+~
+~
+0 -1 204
+S
+#204
+On the Road~
+A small road fully forms from the mists here, giving a clear path towards what appears to be a large, multihued castle.  Large shapes can be seen floating around the castle, swooping and diving.
+~
+0 4 1
+D0
+~
+~
+0 -1 203
+D2
+~
+~
+0 -1 205
+S
+#205
+Before the Castle~
+The castle stands large, immovable.  Dragons can be seen cavorting through the air around the castle, some perching on huge peaks on the castle, some diving inside.
+~
+0 0 2
+D0
+~
+~
+0 -1 204
+D2
+~
+~
+2 201 206
+S
+#206
+Castle Courtyard~
+The courtyard of this castle is immense, obviously due to the size of the occupants.  A large, beautifully carved fountain stands in the center of the cobblestone courtyard, spilling sparkling water over granite etchings.
+~
+0 0 0
+D0
+~
+~
+2 201 205
+D1
+~
+~
+0 -1 208
+D2
+~
+~
+0 -1 209
+D3
+~
+~
+0 -1 207
+D4
+~
+~
+1 -1 230
+S
+#207
+Bottom of the Western Tower~
+The Western Tower reaches far, far up into the blue, cloudless sky.  The circumference of the tower is absolutely incredible, giving the dragons room to circle.  Huge steps are carved into the wall, allowing tired dragons to perch.
+~
+0 0 3
+D1
+~
+~
+0 -1 206
+D4
+~
+~
+0 -1 213
+S
+#208
+Bottom of the Eastern Tower~
+The Eastern Tower reaches far, far up into the blue, cloudless sky.  The circumference of the tower is absolutely incredible, giving the dragons room to circle.  Huge steps are carved into the wall, allowing tired dragons to perch.
+~
+0 0 3
+D3
+~
+~
+0 -1 206
+D4
+~
+~
+0 -1 222
+S
+#209
+A Stairwell~
+A large stairwell, large enough that dragons could walk through, leads down into darkness.  The steps seem to be made of some granite or slate like rock.  Cobwebs hang in the corners of the walls, and much dust is present.
+~
+0 0 0
+D0
+~
+~
+0 201 206
+D5
+~
+~
+0 -1 210
+S
+#210
+In the Stairwell~
+The darkness pervades everything here, swallowing up all traces of light.  A musty smell fills the air, and it seems as though none have been here in a very long time.  Looking down, no footprints can be seen in the thick dust.
+~
+0 1|8 0
+D4
+~
+~
+0 -1 209
+D5
+~
+~
+0 -1 211
+S
+#211
+In the Stairwell~
+The inky blackness continues here.  Not a speck of light can be seen, even when looking back up towards the entrance.  Up ahead, a large door forms out of the darkness.  A large skull hangs from the door, with something etched in it.
+~
+0 1|8 1
+D2
+~
+~
+1 -1 212
+D4
+~
+~
+0 -1 210
+E
+skull~
+While covered with dust and debris, you can still make out the inscription:
+
+"Thy fate that lies beyond this portal is not one to be cherished... tread wary, young one!"
+
+Hmm... creepy.~
+S
+#212
+Empty Room~
+After stepping through the doorway, the door shuts behind you with a loud *thump*.  Looking back, you try the handle of the door, but it won't budge.  Looking around you see numerous piles of bones.  Maybe you were too inquisitive?
+~
+0 1|8 1
+S
+#213
+In the Western Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D1
+~
+~
+0 -1 214
+D5
+~
+~
+0 -1 207
+S
+#214
+In the Western Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D3
+~
+~
+0 -1 213
+D4
+~
+~
+0 -1 215
+S
+#215
+In the Western Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D2
+~
+~
+0 -1 216
+D5
+~
+~
+0 -1 214
+S
+#216
+In the Western Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D0
+~
+~
+0 -1 215
+D4
+~
+~
+0 -1 217
+S
+#217
+In the Western Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D3
+~
+~
+0 -1 218
+D5
+~
+~
+0 -1 216
+S
+#218
+In the Western Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D1
+~
+~
+0 -1 217
+D4
+~
+~
+0 -1 219
+S
+#219
+In the Western Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D0
+~
+~
+0 -1 220
+D5
+~
+~
+0 -1 218
+S
+#220
+In the Western Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D2
+~
+~
+0 -1 219
+D4
+~
+~
+0 -1 213
+S
+#221
+A room~
+if you are here you should not be.
+if you are found here you will be punished.
+if you got here by mistake please leave immediately.
+~
+0 1|4|8|2048|16384 3
+S
+#222
+In the Eastern Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D3
+~
+~
+0 -1 223
+D5
+~
+~
+0 -1 208
+S
+#223
+In the Eastern Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D1
+~
+~
+0 -1 222
+D4
+~
+~
+0 -1 224
+S
+#224
+In the Eastern Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D2
+~
+~
+0 -1 225
+D5
+~
+~
+0 -1 223
+S
+#225
+In the Eastern Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D0
+~
+~
+0 -1 224
+D4
+~
+~
+0 -1 226
+S
+#226
+In the Eastern Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D1
+~
+~
+0 -1 227
+D5
+~
+~
+0 -1 225
+S
+#227
+In the Eastern Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D3
+~
+~
+0 -1 226
+D4
+~
+~
+0 -1 228
+S
+#228
+In the Eastern Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D0
+~
+~
+0 -1 229
+D5
+~
+~
+0 -1 227
+S
+#229
+In the Eastern Tower~
+The tower is so high, it seems like it continues forever into the sky.  The shapes of dragons above you is an omnipresent thing that soon grows almost commonplace.
+~
+0 0 3
+D2
+~
+~
+0 -1 228
+D4
+~
+~
+0 -1 222
+S
+#230
+Entrance to the Lair~
+Incredible amounts of work have gone into the creation of this secret area of the dragon's nimbus.  Walls of woven gold and silver, floors of pure emerald and ruby, pillars of amethyst.  Obviously something important resides here.
+~
+0 0 3
+D0
+~
+~
+1 -1 231
+D5
+~
+~
+1 -1 206
+S
+#231
+The Citadel of the Rainbow Dragon~
+You stand in the lair of THE dragon.  The rainbow dragon.  The leader of all dragons, he watches the world from his citadel.  And you have just intruded upon the sacred ground.
+~
+0 0 3
+D2
+~
+~
+1 -1 230
+S
+#0
+
+
+#RESETS
+*
+M 1 200 1 205			the protector to Before the Castle
+E 1 200 100 16
+G 1 201 100
+D 1 205 2 2			; Before the Castle Lock South
+D 1 211 2 1			; In the Stairwell Close South
+D 1 230 5 1			; Entrance to the Lair Close Down
+D 1 206 4 1			; Castle Courtyard Close Up
+*
+M 1 204 1 231			the rainbow dragon to The Citadel of the Rainbow Dragon
+E 1 204 100 3
+E 1 203 100 17
+O 1 202 100 206			a fountain to Castle Courtyard
+*
+M 1 201 1 213			the white dragon to In the Western Tower
+*
+M 1 205 1 213			the blue dragon to In the Western Tower
+*
+M 1 203 1 216			the silver dragon to In the Western Tower
+*
+M 1 202 1 217			the red dragon to In the Western Tower
+*
+M 1 201 2 220			the white dragon to In the Western Tower
+*
+M 1 201 1 223			the white dragon to In the Eastern Tower
+*
+M 1 202 1 223			the red dragon to In the Eastern Tower
+*
+M 1 203 1 225			the silver dragon to In the Eastern Tower
+*
+M 1 205 1 225			the blue dragon to In the Eastern Tower
+*
+M 1 205 1 229			the blue dragon to In the Eastern Tower
+*
+M 1 200 2 230			the protector to Entrance to the Lair
+E 1 200 100 16
+S
+
+
+
+
+#$

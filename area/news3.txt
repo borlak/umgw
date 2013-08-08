@@ -1,0 +1,128 @@
+
+- {CMon Oct 18 15:20:36 1999{x - Fixed damage shown by assists/caps.
+
+
+- {CTue Oct 19 14:51:19 1999{x - http://godwarz.betterbox.net  If you want to buil
+{x{x                             d.
+
+
+- {CTue Oct 19 16:00:26 1999{x - If you want to see just how random the random num
+{x{x                             ber generator for the mud is, go to: http://godwar
+{x{x                             z.betterbox.net/binary.txt  Whether there is a 1 or
+{x{x                             0 is a 50% chance.
+
+
+- {CTue Oct 19 22:20:03 1999{x - New command: rating
+
+
+- {CWed Oct 20 12:53:19 1999{x - PK Factor now shows and is figured in rating.  PK
+{x{x                              Factor is basically how much of a PKing badass yo
+{x{x                             u are, how often you pk and how often you win.  
+{x{x                             4000 is considered ultimate badass.
+
+- {CWed Oct 20 22:14:37 1999{x - Werewolves toughness lowered, silver damage put b
+{x{x                             ack in, Highlanders cant remove swordtech affect.
+
+
+- {CSat Oct 23 11:18:02 1999{x - paradox no longer affects mortals.
+
+
+- {CSun Oct 24 14:54:09 1999{x - Borlak's War Mud (Pure PK where only skill matter
+{x{x                             s) can be found at bb6.betterbox.net 4555
+
+
+- {CSun Oct 24{x - News has changed somewhat!
+
+- {CMon Oct 25{x - You can now turn off KTALK like a regular channel.
+
+
+- {CMon Oct 25{x - Want to know the Internet Weather? www.internetweather.com!
+{x{x                 Nifty site...
+
+
+- {CMon Oct 25{x - Welcome our new Imp/Coder, JediBiRD.
+
+- {CMon Oct 25{x - Player trivia is on by default.
+
+
+- {CTue Oct 26{x - Faerie Fire no longer causes Tendrils you cheatin son 'o bi
+{x{x               tches.
+
+
+- {CTue Oct 26{x - Monks sacred invis now requires you to actually have 500 mo
+{x{x               ve points before you can use it.
+
+
+- {CWed Oct 27{x - You can no longer fight people's heads.
+
+
+- {CThu Oct 28{x - We have changed our subdomain from godwarz.betterbox.net to
+{x{x                pk.betterbox.net
+
+
+- {CFri Oct 29{x - The mud will automatically Hotreboot when it crashes, up to
+{x{x                200 times.
+
+
+- {CSat Oct 30{x - The Partial Pwipe has taken place.  I made a backup.
+
+
+- {CSun Oct 31{x - Krule and Duurk have been transformed into furbys for bitch
+{x{x               ing.
+
+
+- {CFri Nov  5{x - If the mud "hangs" for more than 5 seconds due to CPU overl
+{x{x               oad, a sub-program I made will take the mud down.
+
+
+- {CWed Nov 10{x - a faerie fire bug fixed.
+
+
+- {CWed Nov 10{x - Demons can no longer weaponform while morted. Take the cap 
+{x{x               like a man from now on.
+
+
+- {CThu Nov 11{x - limbo will now kick you out.
+
+
+- {CThu Nov 11{x - sacrificing mob corpses now dumps everything they had onto 
+{x{x               ground.
+
+
+- {CWed Nov 17{x - {{k or {{K gives out random colors.
+
+
+- {CMon Nov 29{x - spiritguardian bug has been fixed.
+
+
+- {CFri Dec  3{x - Quest items are limited to weigh at most 800 (somethings).
+
+
+- {CFri Dec  3{x - Werewolves now get an extra attack in wolfman form and an e
+{x{x               xtra attack per generation earned.
+
+
+- {CFri Dec  3{x - Werewolf dodge/parry improved.
+
+
+- {CTue Dec  7{x - umbra and vampvanish bug fixed
+
+
+- {CWed Dec  8{x - faerie fire can only be cast once now
+
+
+- {CSun Dec 12{x - Culture and Lych each recieved a kingdom today
+
+
+- {CWed Dec 15{x - type COUNTDOWN if you wanna see the year 2000 roll around.
+
+
+- {CWed Dec 15{x - Deleting now causes you to drop all your equipment, and all
+{x{x                your quest points in the form of a token.
+
+
+- {CWed Dec 15{x - Findvnum command.  Find a specific # of available vnums to 
+{x{x               use.  If you are going to make an area with this command, po
+{x{x               st a note what vnums you are using.
+
+

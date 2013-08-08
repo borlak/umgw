@@ -1,0 +1,225 @@
+#AREA	Diku    Limbo~
+
+
+#MOBILES
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+
+~
+1 0 1000 S
+26 1 -1 5d10+550 4d6+3
+10000 0
+8 8 2
+#2
+Allen Iverson~
+Allen Iverson~
+Allen Iverson stands here mocking your existance.
+~
+You better not fight me assholes.
+~
+2|64 8|32|128|512|8192|32768|65536|524288|1048576 0 S
+9999 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#3
+godwars~
+godwars~
+godwars
+~
+godwars
+~
+2|64 8|32|128|512|8192|32768|65536|524288|1048576 0 S
+9999 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+~
+20 0 1
+1 0 0 0 
+1 0 0
+#3
+coins gold~
+%d gold coins~
+A pile of gold coins.~
+~
+20 0 1
+0 0 0 0 
+1 0 0
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+23 0 1
+0 0 0 1 
+100 0 0
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+24 0 0
+0 0 0 1 
+100 0 0
+#12
+head %s~
+the severed head of %s~
+The severed head of %s is lying here.~
+~
+13 0 16385
+10 0 12 0 
+5 0 0
+#13
+heart %s~
+the torn-out heart of %s~
+The torn-out heart of %s is lying here.~
+~
+19 0 1|16384
+16 0 13 0 
+2 0 0
+#14
+arm %s~
+the sliced-off arm of %s~
+The sliced-off arm of %s is lying here.~
+~
+5 64 1|8192
+0 4 4 1
+16 1000 100
+A
+18 -2
+A
+19 5
+#15
+leg %s~
+the sliced-off leg of %s~
+The sliced-off leg of %s is lying here.~
+~
+5 64 1|8192
+0 4 4 1
+16 1000 100
+A
+18 -2
+A
+19 5
+#16
+turd~
+the steaming turds of %s~
+The steaming turds of %s assail your nostrils.~
+~
+13 0 0
+5 0 0 1 
+1 0 0
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.
+~
+~
+19 0 1
+5 0 0 0 
+1 10 0
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+1 0 1
+0 0 -1 0 
+1 0 0
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+~
+25 64 0
+100000 100000 0 0 
+5000 10 0
+#23
+spring blood~
+a blood spring~
+A spring of dark red liquid flows from the ground here.~
+~
+25 64 0
+100000 100000 13 0 
+5000 10 0
+#24
+Basketball~
+a basketball~
+A basketball is lying here.~
+~
+5 1|2|32|128|4096 1|8192
+0 2 2 0 
+5 0 0
+#25
+headband~
+a headband~
+A headband is lying here.~
+~
+9 1|2|32|128|4096 1|16
+0 1 6 11 
+5 0 0
+#26
+instrument inst~
+an instrument~
+Some kind of instrumetn is here.~
+~
+47 1 1|16384
+0 100 100 0
+2 0 0
+#27
+arm extra demon~
+the old grafted arm of %s~
+An old grafted arm of %s is lying here.~
+~
+23 0 1
+0 0 0 1 
+2 0 0
+#0
+
+
+#ROOMS
+#1
+The Immortal's Palace~
+You are standing in the Immortal's Palace, you shouldn't be here alone.
+~
+0 4|8|1024 0
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 4|8|1024 1
+S
+#6
+The Dangerous Void of Noid~
+Your senses reel as you gaze around the Void. You feel dizzy as the psychodelic colors swirl before your eyes. Welcome to the Void. -Noid's Void-
+~
+0 4|1024 9
+S
+#8
+Immortal Room~
+A room full of shit-eating dead immortals.
+~
+0 4|1024 9
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

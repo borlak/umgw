@@ -1,0 +1,88 @@
+- {CSun Sep  2{x - can now chat in hack and when drunk.
+
+- {CSun Sep  2{x - We have been voted #1 Mud by people who think we are their 
+{x{x               favorate mud!
+
+- {CSun Sep  2{x - If hackified or colorize mode is on, you get 2 times exp.  
+{x{x               If both are on, you get 3 times exp.
+
+- {CMon Sep  3{x - new monk help file.  hackify perfected.
+
+- {CMon Sep  3{x - New swordtech: concentrate.  Doubles hitroll, halves damrol
+{x{x               l.  Berserk changed to double damroll, and halve hitroll.
+
+- {CMon Sep  3{x - Fixed the swordtech/clearstats bug.
+
+- {CMon Sep  3{x - Drow whips are now...whips (oops)
+
+- {CTue Sep  4{x - Players can hackify themselves now.  Won't show up for anyo
+{x{x               ne else and won't save through a reboot and won't give you a
+{x{x               n exp bonus though.
+
+- {CTue Sep  4{x - Not really news to mortals, but to Pip!  Ran "indent" on al
+{x{x               l the code.  It's actually (somewhat) readable now!
+
+- {CWed Sep  5{x - Mages/warlocks have been completely taken out of the code.
+
+- {CWed Sep  5{x - Paladin and Moogle removed from code, as well as general cl
+{x{x               eanup.  This brings our total lines {Ddown{x to 98731.
+
+- {CWed Sep  5{x - Act() is hacked!
+
+- {CThu Sep  6{x - new note list format.
+
+- {CThu Sep  6{x - Ninja helpfile added.
+
+- {CFri Sep  7{x - Other miscellaneous code fixes.  (area command works in col
+{x{x               orized mode)
+
+- {CSat Sep  8{x - Blinky now checks if you can see the opponent when you blin
+{x{x               k back into existance.
+
+- {CSat Sep  8{x - Grafted arms won't go away when you clearstats.
+
+- {CSat Sep  8{x - Grafted arms won't go away when you demonform.
+
+- {CSat Sep  8{x - Grafted arms won't go away when you remove all. 
+
+- {CSun Sep  9{x - Some vamp bugs fixed.
+
+- {CSun Sep  9{x - Settable prompt fixed.
+
+- {CTue Sep 11{x - -= Terrorists ran planes into world trade center and pentag
+{x{x               on.  crazy =-
+
+- {CTue Sep 11{x - colorize is in for mortals now.
+
+- {CWed Sep 12{x - Kingdoms code has been released!  Go check out our snippets
+{x{x                page.
+
+- {CWed Sep 12{x - A random area will be beefed up each reboot.  Type area.
+
+- {CWed Sep 12{x - Mobs in the super area have a chance to drop a random token
+{x{x                upon death.
+
+- {CThu Sep 13{x - can now add tildes to notes by using ^ for ~.
+
+- {CThu Sep 13{x - that ^ should be a carrot symbol, thing over the 6.
+
+- {CThu Sep 13{x - double ^^^^ will give you a ^^ and a single ^^ will give yo
+{x{x               u a ^
+
+- {CThu Sep 13{x - imms can echo notes. syntax: echo read (note #)
+
+- {CThu Sep 13{x - highlander paradox bug fixed.
+
+- {CThu Sep 13{x - some music stuff on my personal webpage (finger pip)
+
+- {CThu Sep 13{x - findmobs command now in
+
+- {CFri Sep 14{x - class equipment bug is fixed.  good thing someone finally n
+{x{x               ote it to us, cuz we didn't even know!  remember, if you nee
+{x{x               d something fixed... note it!
+
+- {CFri Sep 14{x - use quotes on findmobs for areas with two words w/same firs
+{x{x               t word
+
+- {CFri Sep 14{x - Updated news to format better.
+

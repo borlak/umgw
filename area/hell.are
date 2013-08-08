@@ -1,0 +1,2735 @@
+#AREA    *Flit   Hell~
+
+#MOBILES
+#8151
+zaetum~
+Zaetum~
+Zaetum is here, selling his goods.
+~
+Zaetum looks at you and licks his lips, 'How's about some sleeping potion 
+eh?'
+~
+2|64 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8152
+dungeon guard~
+a dungeon guard~
+There is a dungeon guard here, cracking his whip at you.
+~
+The dungeon guard snarls and attacks!
+~
+2|32|64 0 0 S
+231 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8153
+pixie prisoner~
+a pixie prisoner~
+A pixie has been chained up here.
+~
+The pixie looks at you with pleading eyes.
+~
+2|64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8154
+kalerf~
+Kalerf~
+Kalerf flourishes his hands and shows you his merchandise.
+~
+Kalerf tells you, 'NO! you did NOT see the pixie move.  It's dead I tell 
+ya!'
+~
+2|64 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8155
+lillial~
+Lillial~
+Lillial holds up her measuring tape and walks to you.
+~
+Lillial holds up a bloody smock and says, 'This will fit you just right!'
+~
+2|64 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#8156
+dwarven slave armourer~
+a dwarven slave~
+A dwarven armourer has been chained up here.
+~
+The dwarf looks at you and spits in your face.
+~
+2|64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8157
+patch~
+Patch~
+Patch leads you about the room, showing off his wares.
+~
+Patch smiles a toothy grin at you and says, 'So what do you want to buy?'
+~
+2|64 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8158
+dwarven slave weaponsmith~
+a dwarven slave~
+A dwarven weaponsmith has been chained here.
+~
+The dwarf looks at you and pleads for rescue.
+~
+2|64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8159
+azetal~
+Azetal~
+Azetal, a red daemon, shows you his weapons collection.
+~
+Azetal seems anxious to sell you his weapons.
+~
+2|64 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8160
+assemtus~
+Assemtus~
+Assemtus is here, tending his wares
+~
+Assemtus looks at you and says, 'Now, this might be of interest to you...'
+~
+2|64 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8161
+madame misouri~
+Madame Misouri~
+Madame Misouri points to some little trinkets and asks if you would like to 
+see them.
+~
+Madame Misouri smiles a crooked grin and waves her hands about frantically 
+as she introduces her wares.
+~
+2|64 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#8162
+interogator~
+an interogator~
+An interogator points a table lamp at you and says, 'So who dunnit?'
+~
+The interogator is still waiting for your response.
+~
+2|64 0 0 S
+230 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8163
+damned soul~
+a damned soul~
+A damned soul is here, intimidated by the interogator.
+~
+The damned soul whimpers softly and tries to get out of your sight.
+~
+2|64 524288 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8164
+damned soul~
+a damned soul~
+A soul condemned to suffer the fate of being burnt is here.
+~
+The soul seems to have been scorched beyond recognition.
+~
+2|64 524288 0 S
+213 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8165
+damned soul~
+a damned soul~
+A damned soul strapped to an electric chair screams in agony as electric 
+pulses assault his senses.
+~
+The damned soul is too far gone to see you.
+~
+2|64 0 0 S
+230 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8166
+damned soul~
+a damned soul~
+A soul condemned to entertain the Hellish mobs with his screams is here.
+~
+The soul begs you to take him out of his misery.
+~
+64 0 0 S
+230 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8167
+daemon tormentor~
+a daemon tormentor~
+A daemon with a whip is here, looking for victims.
+~
+The daemon lifts his whip and cracks it in the air.
+~
+64 0 -1500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8168
+devilish torturer~
+a devilish torturer~
+A devilish torturer is here waving his whip about
+~
+The devilish torturer looks set to whip you.
+~
+64 0 -1000 S
+290 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8169
+daemon sauna~
+a daemon~
+A daemon is here, enjoying the sauna
+~
+A daemon looks at you and grunts loudly.
+~
+2|64 0 -1500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8170
+devil sauna~
+a devil~
+A devil is here, taking a hot bath
+~
+The devil looks at you and grins evilly.
+~
+2|64 0 -1000 S
+290 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8171
+daemon bloodbath~
+a daemon~
+A daemon is here, taking a bloodbath.
+~
+A daemon snorts at your passing.
+~
+2|64 0 -1500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8172
+devil bloodbath~
+a devil~
+A devil is here, getting ready to jump into the pool
+~
+A devil smirks at you and sniggles.
+~
+2|64 0 -1000 S
+290 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8173
+devil swimming bloodbath~
+a devil~
+A devil is here, swimming in the blood pool
+~
+The devil covered in too much blood to clearly make out his features.
+~
+2|64 0 -1000 S
+290 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8174
+daemon archer~
+a daemon archer~
+A daemon lifts up his bow and arrow and shoots.
+~
+The daemon is concentrating too hard to notice you.
+~
+2|64 0 -1500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8175
+devil archer~
+a devil archer~
+A devil points his arrow at you and snorts loudly.
+~
+The devil seems about to release the arrow.
+~
+2|64 0 -1000 S
+290 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8176
+damned soul~
+a damned soul~
+A damned soul strapped to a target board screams his head off.
+~
+The damned soul is petrified by the arrows pointed at him.
+~
+2|64 0 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8177
+huge creature black~
+a huge black creature~
+A huge black creature waves its tentacles in front of your face.
+~
+The creature does not seem to be amused by you.
+~
+2|32|64 512 0 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8178
+carrion eater~
+a carrion eater~
+A carrion eater throws its poisoned tips at you.
+~
+The carrion eater secretes its digestive juices on your face.
+~
+2|32|64 8|32|512|65536 0 S
+310 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8179
+waiting soul~
+a waiting soul~
+A soul is here, awaiting is fate.
+~
+The soul ignores you.
+~
+2|64 524288 0 S
+230 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8180
+satan~
+Satan~
+Satan, the evil incarnate, stares at you and swipes at you with his claws!
+~
+Satan is in no mood for chatter!
+~
+2|32|64 8|32|128 -10000 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8181
+demonic servant~
+a demonic servant~
+A demonic servant attends to Satan's every need.
+~
+The demonic servant wonders if you are threatening its master.
+~
+2|64 8|32|128 -2000 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8182
+wandering daemon~
+a wandering daemon~
+A daemon wanders along the roads in Hell.
+~
+The daemon starts to snort at you.
+~
+2|32|64 8|32 -1500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8183
+wandering devil~
+a wandering devil~
+A devil wanders about the place, looking for souls to torture.
+~
+The devil smiles evilly at you and slowly walks over.
+~
+2|32|64 8|32 -1000 S
+290 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8184
+daemon~
+a daemon~
+A daemon is here, staring at you!
+~
+The daemon seems eager to add you to Hell's collection of souls
+~
+2|32|64 8|32|512|8192|65536 -1500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8185
+daemon~
+a daemon~
+A daemon stares hard at you and shows its teeth.
+~
+The daemon seems eager to add you to Hell's collection of souls.
+~
+2|32|64 8|32|512|8192|65536 -1500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8186
+ghoul~
+a ghoul~
+A ghoul moans loudly and waves its arms at you.
+~
+The ghoul wants you dead!
+~
+2|32|64 8|32|256|512|65536|524288 -500 S
+240 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8187
+chained up soul~
+a chained up soul~
+A chained up soul is here.
+~
+The soul begs you to let it free.
+~
+2|64 0 0 S
+197 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8188
+chained up soul~
+a chained up soul~
+A soul has been chained to the wall so that it can be whipped.
+~
+The soul begs you to set it free.
+~
+2|64 0 0 S
+197 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8189
+daemon whipper~
+a daemon~
+A daemon is here, whipping at the chained up souls.
+~
+The daemon would whip you too if you bother it too much!
+~
+2|64 0 -1500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8190
+featureless beast~
+a featureless beast~
+A featureless beast roars and charges!
+~
+The beast is not prone to conversation.
+~
+2|64 0 -50 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8191
+imp~
+an imp~
+A small imp flies about the place taunting you.
+~
+The imp is flying too fast to let you have a good look.
+~
+2|64 524288 -700 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8192
+furnace worker~
+a furnace worker~
+A furnace worker is here, busily dumping soul fabric into the incinerator.
+~
+The furnace worker is too busy to notice you.
+~
+2|64 0 -300 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8193
+daemon apprentice~
+a daemon apprentice~
+A daemon apprentice is here, practicing his torture methods.
+~
+The daemon looks you up and down and decides that you are good training 
+material.
+~
+2|64 0 -1300 S
+270 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8194
+sleepy daemon~
+a sleepy daemon~
+A sleepy daemon is here, stretching and yawning.
+~
+When the daemon yawns, you can see right into his jaws.  Looking at the rows 
+of yellow teeth, you wonder just how it feels to be bitten into by them.
+~
+2|64 0 -1500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8195
+barely conscious soul~
+a barely conscious soul~
+A barely conscious soul groans on the ground.
+~
+The barely conscious soul cannot seem to focus on your face.
+~
+2|64 0 0 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8196
+barely conscious soul~
+a barely conscious soul~
+A barely conscious soul puts its hand to its forehead as pain shoots up its 
+spine.
+~
+The barely conscious soul cannot seem to focus on your face.
+~
+2|64 0 0 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8197
+soul~
+a soul~
+a soul is here being tortured for its sins.
+~
+The soul looks to you for salvation.
+~
+2|64 0 0 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8198
+chained down soul~
+a chained down soul~
+A soul has been chained to the ground.
+~
+The soul begs you to free its legs.
+~
+2|64 0 0 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8199
+hanging soul~
+a soul hanging from the ceiling~
+A soul is hanging from the ceiling by ropes tied to its arms.
+~
+The soul begs you to set it free.
+~
+2|64 0 0 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8200
+devil~
+a devil~
+A devil is here, thoroughly enjoying himself.
+~
+The devil seems not to notice you as it whips its captive again.
+~
+2|64 0 -1000 S
+270 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8201
+devil laughing~
+a laughing devil~
+A devil points to the sorrowful souls and laughs loudly.
+~
+The devil looks at you and grunts, 'Hey.. where's your chains?'
+~
+2|64 0 -1000 S
+270 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8202
+devil torturer~
+a devil torturer~
+A devil is here torturing the souls.
+~
+The devil ponders whether he should chop up the soul or just whip it.
+~
+2|64 0 -1000 S
+270 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8203
+sleepy devil~
+a sleepy devil~
+A sleepy devil yawns loudly.
+~
+The devil is too tired to be bothered by you.
+~
+2|64 0 -1000 S
+270 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8204
+devil conspirator~
+a devil conspirator~
+A devil is here, conspiring with its mates.
+~
+The devil asks if you would like to join in.
+~
+2|64 0 -1000 S
+270 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8205
+devil priest~
+a devil priest~
+A devil priest is here, preparing for a sacrifice.
+~
+The priest considers you as the next sacrifice.
+~
+2|64 0 -1200 S
+270 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8206
+human sacrifice~
+a human sacrifice~
+A human sacrifice is here, screaming his lungs out.
+~
+The human seems not to notice you.
+~
+2|64 0 0 S
+70 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#8151
+bed~
+a bed~
+There is a small bed here.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#8152
+shop counter~
+a shop counter~
+There is a shop counter here, with a list of prices.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#8153
+vial blood red~
+a vial of blood~
+There is a small red vial here.~
+~
+17 0 1|16384
+10 10 13 0
+1 0 0
+#8154
+purple potion~
+a purple potion~
+There is a purple potion on the ground.~
+~
+10 1 1|16384
+20 4 64 25
+2 0 0
+#8155
+swirling potion~
+a swirling potion~
+A potion with swirling gases inside is here.~
+~
+10 1 1|16384
+11 17 68 33
+1 0 0
+#8156
+whip~
+a whip~
+There is a whip coiled on the ground.~
+~
+5 0 1|8192
+0 3 7 4
+4 0 0
+#8157
+chains~
+chains~
+There are some chains on the ground.~
+~
+9 0 1|128
+-5 1 6 11
+2 0 0
+#8158
+roasted pixie~
+a roasted pixie~
+There is a roasted pixie on a stick here.~
+~
+19 0 1|16384
+10 1 6 11
+7 0 0
+#8159
+smoked angel~
+a small smoked angel~
+A small smoked angel lies on the ground.~
+~
+19 0 1|16384
+20 1 6 11
+10 0 0
+#8160
+bloodied frog~
+a bloodied frog~
+There is a bloodied frog here, wiggling slightly~
+~
+19 0 1|16384
+3 1 6 11
+3 0 0
+#8161
+blood-covered smock~
+a blood-covered smock~
+A small smock covered in blood is here.~
+~
+9 0 1|8
+2 1 6 11
+6 0 0
+#8162
+dirty rags~
+some dirty rags~
+There are some dirty rags here.~
+~
+9 0 1|8
+2 1 6 11
+6 0 0
+#8163
+robe unholy priest~
+robe of an unholy priest~
+A robe with satanic symbols on it is here.~
+~
+9 16|512 1|8
+15 1 6 11
+11 0 0
+#8164
+forge hammer~
+a forge hammer~
+A large hammer sits at your feet.~
+~
+5 0 1|8192
+0 1 6 7
+12 0 0
+#8165
+blood-red armour~
+a blood-red armour~
+There is a armour the colour of blood here.~
+~
+9 0 1|8
+10 1 6 11
+51 0 0
+#8166
+spiked helm~
+a spiked helm~
+A spiked helm is here, blood dripping off the spikes.~
+~
+9 0 1|16
+9 1 6 11
+12 0 0
+#8167
+gauntlets symbols unholy~
+a pair of gauntlets etched with unholy symbols~
+There is a pair of gauntlets here~
+~
+9 16|512 1|128
+7 1 6 11
+7 0 0
+#8168
+metal boots~
+a pair of metal boots~
+There is a pair of metal boots here.~
+~
+9 0 1|64
+6 1 6 11
+6 0 0
+#8169
+adamantite anvil~
+an adamantite anvil~
+There is a huge anvil here, carved from adamantite~
+~
+12 0 1|16384
+0 1 6 11
+90 0 0
+#8170
+deathblade~
+a deathblade~
+There is a deathblade carelessly left here.~
+~
+5 0 1|8192
+0 1 6 1
+7 0 0
+A
+18 2
+#8171
+morningstar~
+a huge morningstar~
+Someone has left a morningstar here.~
+~
+5 0 1|8192
+0 3 6 8
+12 0 0
+#8172
+frostblade~
+a blue frostblade~
+A blue frostblade hums quietly on the ground.~
+~
+5 2 1|8192
+0 1 6 11
+5 0 0
+#8173
+blood lantern~
+a blood lantern~
+There is a lantern here emitting blood red light~
+~
+1 0 1|16384
+0 1 100 11
+5 0 0
+#8174
+satyr hide backpack~
+a backpack made of satyr hide~
+A backpack made of satyr hide is here.~
+~
+15 0 1|2048
+5 0 -1 11
+10 0 0
+#8175
+bottle blood~
+a bottle of blood~
+There is a small bottle of blood here.~
+~
+17 0 1|16384
+4 4 13 0
+2 0 0
+#8176
+brochure hell booklet~
+a brochure on Hell~
+There is a small booklet on Hell lying open on the ground.~
+~
+13 0 1|16384
+0 1 6 11
+3 0 0
+#8177
+compass~
+a compass~
+There is a small compass here~
+~
+8 0 1|16384
+0 1 6 11
+3 0 0
+#8178
+figurine daemon onyx~
+a small daemon figurine~
+There is a small onyx daemon figurine here.~
+~
+8 0 1|16384
+0 1 6 11
+2 0 0
+#8179
+badge~
+a small badge which reads 'Hell is just a word, reality is much much worse'~
+A small badge~
+~
+9 0 1|4
+1 1 6 11
+1 0 0
+#8180
+ashtray satan insignia~
+an ashtray emblazoned with Satan's insignia~
+A small ashtray is here.~
+~
+15 0 1|16384
+10 0 -1 11
+3 0 0
+#8181
+hell postcard~
+a postcard from Hell~
+A postcard from Hell is here.~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#8182
+interogation table~
+an interogation table~
+An interogation table is here~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#8183
+table lamp~
+a table lamp~
+A table lamp has been left here.~
+~
+1 0 1|16384
+0 1 -1 11
+4 0 0
+#8184
+phantom rags~
+some phantom rags~
+Some phantom rags are on the ground~
+~
+9 0 1|8
+0 1 6 11
+0 0 0
+#8185
+burnt rags~
+some burnt rags~
+Some ashened rags are here.~
+~
+9 0 1|8
+2 1 6 11
+1 0 0
+#8186
+electric chair~
+an electric chair~
+An empty electric chair is here.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#8187
+soul whip~
+a soul whip~
+A soul whip has been left here.~
+~
+5 512 1|8192
+0 1 4 4
+2 0 0
+#8188
+ball chain~
+a ball and chains~
+A ball attached to metal chains is here.~
+~
+9 16 1|64
+-10 1 6 11
+300 0 0
+#8189
+towel~
+a small towel~
+A small towel has been left here.~
+~
+9 0 1|2048
+2 1 6 11
+1 0 0
+#8190
+pit~
+~
+~
+~
+27 0 0
+8231 0 0 0
+2000 0 0
+#8191
+dead pixie~
+a dead pixie~
+A dead pixie is here, dripping blood~
+~
+8 0 1|16384
+0 1 6 11
+2 0 0
+#8192
+dead elf~
+a dead elf~
+A dead elf is here, dripping blood~
+~
+8 0 1|16384
+0 1 6 11
+2 0 0
+#8193
+demonic bow~
+a demonic bow~
+There is a demonic bow on the ground.~
+~
+5 512 1|8192
+0 3 6 2
+3 0 0
+#8194
+some sludge~
+some sludge~
+There is some sludge on the ground.~
+~
+13 0 1
+0 1 6 11
+3 0 0
+#8195
+half digested corpse~
+a half disgested corpse~
+There is a half digested corpse here.~
+~
+13 0 1
+0 1 6 11
+30 0 0
+#8196
+satan's throne~
+satan's throne~
+Satan's throne leans against the back wall.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#8197
+huge halberd demonic~
+a huge demonic halberd~
+There is a huge demonic halberd here.~
+~
+5 0 1|8192
+0 1 6 11
+25 0 0
+#8198
+demonic helmet~
+a demonic helmet~
+Someone has left a demonic helmet on the ground.~
+~
+9 16|512 1|16
+10 1 6 11
+21 0 0
+#8199
+demonic fullplate~
+a demonic fullplate~
+A demonic fullplate has been left here.~
+~
+9 16|512 1|8
+10 1 6 11
+30 0 0
+#8200
+demonic longsword~
+a demonic longsword~
+A demonic longsword hums quietly on the ground.~
+~
+5 2|16|512 1|8192
+0 1 6 3
+7 0 0
+#8201
+manacles set~
+a set of manacles~
+There is a set of manacles here.~
+~
+9 0 1|128
+-10 1 6 11
+300 0 0
+#8202
+daemon whip~
+a daemon's whip~
+A whip has been coiled on the ground.~
+~
+5 0 1|8192
+0 1 6 4
+5 0 0
+#8203
+some slime~
+some slime~
+There is some slime on the ground.~
+~
+13 0 1
+0 1 6 11
+3 0 0
+#8204
+moldy stone~
+a moldy stone~
+There is a moldy stone here.~
+~
+13 0 1|16384
+0 1 6 11
+5 0 0
+#8205
+soul fabric~
+some soul fabric~
+There is a piece of soul fabric here.~
+~
+8 1 1|16384
+0 1 6 11
+1 0 0
+#8206
+huge incinerator~
+a huge incinerator~
+A huge incinerator throws out clouds of thick fumes.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#8207
+sleeping cap~
+a sleeping cap~
+A small sleeping cap is here.~
+~
+9 0 1|16
+1 1 6 11
+1 0 0
+#8208
+paper~
+a small piece of paper~
+A piece of paper is here~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#8209
+pen~
+a pen~
+There is a pen here.~
+~
+5 0 1|8192
+0 1 3 11
+1 0 0
+#8210
+sacrificial dagger~
+a sacrificial dagger~
+A sacrificial dagger rests here.~
+~
+5 0 1|8192
+0 1 6 2
+2 0 0
+#0
+
+
+#ROOMS
+#8151
+Fiery archway~
+You stand before a fiery archway that is the entrance to Hell.  Many a 
+damned souls have entered through this very arch to their eternal torture 
+and many a damned souls have left through this very same archway to reach 
+Heaven after their sufferings.
+~
+0 0 1
+D3
+~
+~
+0 -1 8152
+S
+#8152
+Brimstone Walk~
+Brimstone Walk is where the damned souls first tread when they enter Hell.  
+Designed to constantly exude the foul stench of brimsone, Brimstone Walk 
+desecrates the very skins of the souls so that they would fit into Hell 
+better.
+~
+0 0 1
+D0
+~
+~
+0 -1 8157
+D1
+~
+~
+0 -1 8151
+D2
+~
+~
+0 -1 8159
+D3
+~
+~
+0 -1 8153
+S
+#8153
+Brimstone Walk~
+Brimstone Walk is where the damned souls first tread when they enter Hell.  
+Designed to constantly exude the foul stench of brimsone, Brimstone Walk 
+desecrates the very skins of the souls so that they would fit into Hell 
+better.
+~
+0 0 1
+D0
+~
+~
+0 -1 8161
+D1
+~
+~
+0 -1 8152
+D2
+~
+~
+0 -1 8163
+D3
+~
+~
+0 -1 8154
+S
+#8154
+Brimstone Walk~
+Brimstone Walk is where the damned souls first tread when they enter Hell.  
+Designed to constantly exude the foul stench of brimsone, Brimstone Walk 
+desecrates the very skins of the souls so that they would fit into Hell 
+better.
+~
+0 0 1
+D0
+~
+~
+0 -1 8165
+D1
+~
+~
+0 -1 8153
+D2
+~
+~
+0 -1 8169
+D3
+~
+~
+0 -1 8155
+S
+#8155
+Brimstone Walk~
+Brimstone Walk is where the damned souls first tread when they enter Hell.  
+Designed to constantly exude the foul stench of brimsone, Brimstone Walk 
+desecrates the very skins of the souls so that they would fit into Hell 
+better.
+~
+0 0 1
+D0
+~
+~
+0 -1 8167
+D1
+~
+~
+0 -1 8154
+D2
+~
+~
+0 -1 8168
+D3
+~
+~
+0 -1 8156
+S
+#8156
+Junction of Brimstone Walk and Sulphur Parade~
+This is the junction of Brimstone Walk and Sulphur Parade.  Both streets 
+serve as initiation of new damned souls to Hell so that they can fit in 
+better.
+~
+0 0 1
+D0
+~
+~
+0 -1 8170
+D1
+~
+~
+0 -1 8155
+S
+#8157
+Zaetum's Drinks and Refreshments~
+You are in a small shop selling drinks and refreshments.  The shop owner, 
+Zaetum, seems to be busy over the counter.  One look at the goods tell you 
+that perhaps you are better off not drinking.
+~
+0 8 0
+D2
+~
+~
+0 -1 8152
+D4
+~
+~
+1 -1 8158
+S
+#8158
+Zaetum's private chamber~
+You are in Zaetum's private chamber.  The room is decorated with multitudes 
+of sacrilegious paintings and unholy artifacts.  There is a machine to the 
+back of the room which looks like a huge mortar.  Blood drips constantly 
+from the tip of the mortar....
+~
+0 8 0
+D5
+~
+~
+1 -1 8157
+S
+#8159
+Kalerf's Snacks~
+You are standing in a store selling little snacks.  As you watch the 
+customers munch slowly on roasted pixies and bloodied frogs, you begin to 
+shudder involutarily.
+~
+0 8 0
+D0
+~
+~
+0 -1 8152
+D5
+~
+~
+2 -1 8160
+S
+#8160
+Kalerf's dungeons~
+You are in a dark dank dangeon.  Numerous chains, linked to the wall, hold 
+on the prisoners.  Most of the prisoners are unconscious, with deep gashing 
+wounds slashed across their bodies.
+~
+0 1|8 0
+D4
+~
+~
+2 -1 8159
+S
+#8161
+Lillial Fashion and Design~
+You are standing in a fashion boutique, or what passes for one in Hell.  
+Blood-covered rags seem to be in fasion in Hell right now for most of the 
+customers are buying them in the dozens.
+~
+0 8 0
+D2
+~
+~
+0 -1 8153
+D4
+~
+~
+0 -1 8162
+S
+#8162
+Lillial's workshop~
+You are in Lillial's workshop.  As you watch the blood of pixies, angels, 
+frogs and other creatures drain from their bodies and into a huge mixing 
+bowl, you cannot help but wonder at what the blood might be for.
+~
+0 8 0
+D5
+~
+~
+0 -1 8161
+S
+#8163
+Patch's Armoury~
+You are in a huge armoury.  Rows upon rows of fine armour line the sides of 
+the room, all of them glinting red from the blood lantern in the center of 
+the room.
+~
+0 8 0
+D0
+~
+~
+0 -1 8153
+D4
+~
+~
+0 -1 8164
+S
+#8164
+Patch's forge~
+You watch in amazement at the huge furnace in the center of the room.  Made 
+of granite and burning hellfire, it radiates heatwaves like a skunk exudes 
+aroma.
+~
+0 8 0
+D5
+~
+~
+0 -1 8163
+S
+#8165
+Azetal's Place~
+You stand inside a huge weaponsmith's shop.  Huge maces and large 
+broadswords are hang on the walls to the sides while the wall behind the 
+counter boasts of the weapons of infamous dead heroes.
+~
+0 8 0
+D2
+~
+~
+0 -1 8154
+D5
+~
+~
+1 -1 8166
+S
+#8166
+Azetal's forge~
+There is a huge furnace in the center of the room, with many little imps 
+tending to it.  Around the room, the thuds of huge hammers on adamantite 
+anvils can be heard ringing loudly.
+~
+0 8 0
+D4
+~
+~
+1 -1 8165
+S
+#8167
+Assemtus's Grocer~
+You are in a small grocery store, selling you items which might be useful to 
+you during your stay in Hell.
+~
+0 8 0
+D2
+~
+~
+0 -1 8155
+S
+#8168
+Madame Misouri's Souvenir Shop~
+You are in a huge souvenir shop which reaches to the east.  Trinkets, both 
+large and small, line the walls on all sides, leaving little space for the 
+already small shop counter.
+~
+0 8 0
+D0
+~
+~
+0 -1 8155
+D1
+~
+~
+0 -1 8169
+S
+#8169
+Madame Misouri's Souvenir Shop~
+You are in a huge souvenir shop which reaches to the west.  Trinkets, both 
+large and small, line the walls on all sides, leaving little space for the 
+already small entrance door.
+~
+0 8 0
+D0
+~
+~
+0 -1 8154
+D3
+~
+~
+0 -1 8168
+S
+#8170
+Sulphur Parade~
+After their brimstone bath, damned souls have to go through Sulphur Parade 
+so as to attach to themselves the smell of sulphur.  This marked them as 
+souls from Hell and allows demons to track them down easily.
+~
+0 0 1
+D0
+~
+~
+0 -1 8171
+D2
+~
+~
+0 -1 8156
+S
+#8171
+Junction of Sulphur Parade and Devil's Path~
+You are at the junction of Sulphur Parade and Devil's Path.  To the north 
+and south, Sulphur Parade runs alongs its course while to the east and west, 
+Devil's Path lies.
+~
+0 0 1
+D0
+~
+~
+0 -1 8172
+D1
+~
+~
+0 -1 8175
+D2
+~
+~
+0 -1 8170
+D3
+~
+~
+0 -1 8177
+S
+#8172
+Sulphur Parade~
+After their brimstone bath, damned souls have to go through Sulphur Parade 
+so as to attach to themselves the smell of sulphur.  This marked them as 
+souls from Hell and allows demons to track them down easily.
+~
+0 0 1
+D0
+~
+~
+0 -1 8173
+D2
+~
+~
+0 -1 8171
+D3
+~
+~
+0 -1 8189
+S
+#8173
+Sulphur Parade~
+After their brimstone bath, damned souls have to go through Sulphur Parade 
+so as to attach to themselves the smell of sulphur.  This marked them as 
+souls from Hell and allows demons to track them down easily.
+~
+0 0 1
+D1
+~
+~
+0 -1 8174
+D2
+~
+~
+0 -1 8172
+D3
+~
+~
+0 -1 8190
+S
+#8174
+Fiery pits~
+You stand in a pit of fire where many daemons and devils are taking time off 
+from their fun to rest and relax.  The gigantic sauna also serves as the 
+central heating room of Hell.
+~
+0 8 0
+D3
+~
+~
+0 -1 8173
+S
+#8175
+Devil's Path~
+Devil's Path is where those souls who serve Satan reside.  After their 
+initiation to Hell, these souls are spared the torture of Hell and they 
+reside here, taking up horribly mutilated forms of their former selves and 
+serving their dark lord loyally.
+~
+0 0 1
+D0
+~
+~
+0 -1 8179
+D1
+~
+~
+0 -1 8176
+D2
+~
+~
+0 -1 8183
+D3
+~
+~
+0 -1 8171
+S
+#8176
+Devil's Path~
+Devil's Path is where those souls who serve Satan reside.  After their 
+initiation to Hell, these souls are spared the torture of Hell and they 
+reside here, taking up horribly mutilated forms of their former selves and 
+serving their dark lord loyally.
+~
+0 0 1
+D3
+~
+~
+0 -1 8175
+S
+#8177
+Junction of Devil's Path and Daemon's Promenade~
+This is the junction of Devil's Path and Daemon's Promenade.  To the east 
+and west, shrieks and screams of devils can be heard while to the south and 
+north, the continuous grunting of daemons rule the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 8188
+D1
+~
+~
+0 -1 8171
+D2
+~
+~
+0 -1 8192
+D3
+~
+~
+0 -1 8178
+S
+#8178
+Devil's Path~
+Devil's Path is where those souls who serve Satan reside.  After their 
+initiation to Hell, these souls are spared the torture of Hell and they 
+reside here, taking up horribly mutilated forms of their former selves and 
+serving their dark lord loyally.
+~
+0 0 1
+D0
+~
+~
+0 -1 8187
+D1
+~
+~
+0 -1 8177
+D2
+~
+~
+0 -1 8221
+S
+#8179
+Torture chambers~
+You are in the torture chambers of the devils.  Reserved for their private 
+entertainment, numerous souls are herded into these chambers.  Moans and 
+goans of pure agony can be heard coming from the east.
+~
+0 8 0
+D1
+~
+~
+0 -1 8180
+D2
+~
+~
+0 -1 8175
+S
+#8180
+Torture chambers~
+You are in the torture chambers of the devils.  Reserved for their private 
+entertainment, numerous souls are herded into these chambers.  Moans and 
+goans of pure agony can be heard coming from the east and west.
+~
+0 8 0
+D1
+~
+~
+0 -1 8182
+D3
+~
+~
+0 -1 8179
+D4
+~
+~
+0 -1 8181
+S
+#8181
+Regenerating room~
+You stand above the torture chambers of the devils.  Here, souls that are 
+unconscious from the torture are dumped unceremoniously so that they can 
+heal naturally -- souls that do not scream when tortured are no fun!
+~
+0 8 0
+D5
+~
+~
+0 -1 8180
+S
+#8182
+Torture chambers~
+You are in the torture chambers of the devils.  Reserved for their private 
+entertainment, numerous souls are herded into these chambers.  Moans and 
+goans of pure agony can be heard coming from the west.
+~
+0 8 0
+D3
+~
+~
+0 -1 8180
+S
+#8183
+Entrance to the devils' chambers~
+You are about the enter the chambers dedicated to the devils of Hell -- 
+Satan's faithful.  The devils are noted for their cruelty, second only to 
+daemons, and their evil intents.  Beware!
+~
+0 8 0
+D0
+~
+~
+0 -1 8175
+D1
+~
+~
+0 -1 8184
+S
+#8184
+Worship house~
+You are in the worship house of the devils.  Here, the faithful of Satan 
+offer sacrifices in his name and spill blood across his altars.  Fumes and 
+the smell of blood and gore assaults your nose as you walk in.
+~
+0 8 0
+D0
+~
+~
+0 -1 8185
+D3
+~
+~
+0 -1 8183
+S
+#8185
+Plotting room~
+You are in a room full of graphical illustrations of vile torture methods 
+and cruel weapons.  Devils huddled across the ground, discussing new methods 
+of torture.
+~
+0 8 0
+D2
+~
+~
+0 -1 8184
+D4
+~
+~
+0 -1 8186
+S
+#8186
+Sleeping chambers~
+You are in the sleeping chambers of the devils.  As you watch, devils big 
+and small enter and leave, each taking their turns taking little naps.
+~
+0 8 0
+D5
+~
+~
+0 -1 8185
+S
+#8187
+Waiting room~
+You are in a huge waiting room, where numerous nervous souls await their 
+fate in Hell.  Many of the evil ones are already using their talents to good 
+use and as you watch, another soul slowly fades out of existence as its very 
+lifeforce is drained.
+~
+0 8 0
+D2
+~
+~
+0 -1 8178
+S
+#8188
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8189
+D2
+~
+~
+0 -1 8177
+S
+#8189
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8190
+D1
+~
+~
+0 -1 8172
+D2
+~
+~
+0 -1 8188
+D3
+~
+~
+0 -1 8200
+D5
+~
+~
+1 -1 8199
+S
+#8190
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8191
+D1
+~
+~
+0 -1 8173
+D2
+~
+~
+0 -1 8189
+D3
+~
+~
+0 -1 8201
+S
+#8191
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D2
+~
+~
+0 -1 8190
+S
+#8192
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8177
+D2
+~
+~
+0 -1 8193
+D5
+~
+~
+0 -1 8202
+S
+#8193
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8192
+D2
+~
+~
+0 -1 8194
+D5
+~
+~
+0 -1 8203
+S
+#8194
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8193
+D1
+~
+~
+0 -1 8205
+D2
+~
+~
+0 -1 8195
+D3
+~
+~
+0 -1 8204
+S
+#8195
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8194
+D1
+~
+~
+0 -1 8206
+D2
+~
+~
+0 -1 8196
+D3
+~
+~
+0 -1 8207
+S
+#8196
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8195
+D1
+~
+~
+0 -1 8210
+D2
+~
+~
+0 -1 8197
+D3
+~
+~
+0 -1 8209
+S
+#8197
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8196
+D1
+~
+~
+1 -1 8214
+D2
+~
+~
+0 -1 8198
+D3
+~
+~
+0 -1 8212
+S
+#8198
+Daemon's Promenade~
+Whilst the loyal of Satan becomes devils, the truly evil soul, souls with 
+such an amount of balance in them that repentance is impossible even in 
+Hell, are transformed by their very nature into daemons.  Huge, hulking 
+beasts, daemons are a larger version of devils and much more powerful.
+~
+0 0 1
+D0
+~
+~
+0 -1 8197
+D1
+~
+~
+0 -1 8216
+D3
+~
+~
+0 -1 8217
+S
+#8199
+Murky depths~
+You are deep within the bowels of Hell.  Here, unmentionable creatures swim 
+in the murky sludge, gobbling up anything that are unfortunate enough to end 
+up here.
+~
+0 8 0
+D4
+~
+~
+1 -1 8189
+S
+#8200
+Archery range~
+You are standing in a huge archery range where daemons and devils lined up 
+in a row, shooting their arrows at targets on the other side of the room -- 
+targets that are the very souls of the dead.
+~
+0 8 0
+D1
+~
+~
+0 -1 8189
+S
+#8201
+Bloodbath~
+You stand in a room full of thick red blood.  Dead and dying pixies, elves 
+and even an occasional angel are lined on the sides of the pool, their 
+lifeblood draining into the pool.
+~
+0 8 0
+D1
+~
+~
+0 -1 8190
+S
+#8202
+Murky depths~
+You are deep within the bowels of Hell.  Here, unmentionable creatures swim 
+in the murky sludge, gobbling up anything that are unfortunate enough to end 
+up here.
+~
+0 1|8 0
+D4
+~
+~
+0 -1 8192
+S
+#8203
+Murky depths~
+You are deep within the bowels of Hell.  Here, unmentionable creatures swim 
+in the murky sludge, gobbling up anything that are unfortunate enough to end 
+up here.
+~
+0 1|8 0
+D4
+~
+~
+0 -1 8193
+S
+#8204
+Incinerator room~
+You are at the incinerator of Hell.  Here, soul fabric from the dumping 
+grounds is used to fuel the huge Hell Furnace that provides the place with 
+hellfires.
+~
+0 8 0
+D1
+~
+~
+0 -1 8194
+S
+#8205
+Dumping grounds~
+You are at the dumping grounds of Hell.  Here, souls that are torn, tattered 
+and beyond torture are thrown here to merge with the rest.  The resulting 
+fabric is burnt to provide Hell with its hellfires.
+~
+0 0 1
+D3
+~
+~
+0 -1 8194
+S
+#8206
+Practice grounds~
+This is the daemon's practice grounds.  The daemons of Hell come here to 
+hone their skills at torture and combat.  As you watch in horror, souls are 
+gutted, sliced, chopped, hacked right in front of you!
+~
+0 0 1
+D3
+~
+~
+0 -1 8195
+S
+#8207
+Sleeping chambers~
+You are at the sleeping chambers of the daemons.  As you watch, daemons 
+enter and leave their bunks either taking a short nap or just lying down for 
+a few minutes... not many wish to miss out on the fun in Hell!
+~
+0 8 0
+D1
+~
+~
+0 -1 8195
+D5
+~
+~
+0 -1 8208
+S
+#8208
+Sleeping chambers~
+You are at the sleeping chambers of the daemons.  As you watch, daemons 
+enter and leave their bunks either taking a short nap or just lying down for 
+a few minutes... not many wish to miss out on the fun in Hell!
+~
+0 0 1
+D4
+~
+~
+0 -1 8207
+S
+#8209
+Torture room~
+You are standing in a torture room on Daemons' Promenade.  Daemons of all 
+shapes and sizes whips mercilessly at the chained souls, laughing cruelly 
+all the time.
+~
+0 8 0
+D1
+~
+~
+0 -1 8196
+S
+#8210
+Torture room~
+You are standing in a torture room on Daemons' Promenade.  Daemons of all 
+shapes and sizes whips mercilessly at the chained souls, laughing cruelly 
+all the time.
+~
+0 8 0
+D3
+~
+~
+0 -1 8196
+D5
+~
+~
+0 -1 8211
+S
+#8211
+Dungeons~
+You are standing in a dungeon on Daemons' Promenade.  Here, the souls are 
+chained up to the walls and allowed time to regenerate their wounds so that 
+they may be abused later.
+~
+0 1|8 0
+D4
+~
+~
+0 -1 8210
+S
+#8212
+Dark cave~
+You are standing in a dark cave.  Glutteral voices can be heard coming from 
+the back of the room as you try to peer into the darkness, you realise that 
+you are not alone.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 8197
+D5
+~
+~
+0 -1 8213
+S
+#8213
+Bottom of a dark cave~
+You stand at the bottom of a dark cave.  Even though you cannot see anything 
+clearly in the dim light, you can make out the outlines of a dozen or so 
+daemons.  This is not a good place to be!
+~
+0 1|8 0
+D4
+~
+~
+0 -1 8212
+S
+#8214
+Haunted house~
+You are standing in a haunted house in the middle of Hell.  Even though the 
+souls of Hell are supposed to be tormented, some are released from their 
+torments to serve as spirit guards to houses such as these.
+~
+0 8 0
+D3
+~
+~
+1 -1 8197
+D4
+~
+~
+0 -1 8215
+S
+#8215
+Attic of the haunted house~
+You are standing in the attic of a haunted house in Hell.  Taking a close 
+look about you in the dim light, you notice a few translucent shapes flit 
+about the corner of your eye, always watching you.
+~
+0 1|8 0
+D5
+~
+~
+0 -1 8214
+S
+#8216
+Spiral staircase in Hell~
+You are standing at the foot of a spiral staircase leading upwards.  As you 
+watch, the staircase seems to shimmer in the dim light.  A huge sign at the 
+bottom of the staircase proclaim that it leads to Satan's throne room.
+~
+0 0 1
+D3
+~
+~
+0 -1 8198
+D5
+~
+~
+0 -1 8220
+S
+#8217
+Spiral staircase in Hell~
+You are standing at the foot of a spiral staircase leading upwards.  As you 
+watch, the staircase seems to shimmer in the dim light.  A huge sign at the 
+bottom of the staircase proclaim that it leads to Satan's throne room.
+~
+0 0 1
+D1
+~
+~
+0 -1 8198
+D5
+~
+~
+0 -1 8218
+S
+#8218
+Outside Satan's throne room~
+You are standing outside Satan's throne room.  To the east, you can hear the 
+evil incarnate's loud rambling as he orders his minions to bring forth 
+armageddon to the surface dwellers.
+~
+0 0 1
+D1
+~
+~
+1 -1 8219
+D4
+~
+~
+0 -1 8217
+S
+#8219
+Satan's throne room~
+You are standing in Satan's throne room.  Blood and gore decorated the 
+floors and walls of the place while hellfire plays randomly across the room. 
+  Something tells you that you should not be here.
+~
+0 8 0
+D1
+~
+~
+1 -1 8220
+D3
+~
+~
+1 -1 8218
+S
+#8220
+Outside Satan's throne room~
+You are standing outside Satan's throne room.  To the east, you can hear the 
+evil incarnate's loud rambling as he orders his minions to bring forth 
+armageddon to the surface dwellers.
+~
+0 0 1
+D3
+~
+~
+1 -1 8219
+D4
+~
+~
+0 -1 8216
+S
+#8221
+Crucified Lane~
+Those damned souls which enter Hell without much personal evil are condemned 
+to sufferings.  Fit neither to be devil nor daemon, these are sent to 
+Crucified Lane where their torture is metted out.  Of course, there are some 
+which are taken by daemons or devils as their eternal playmates....
+~
+0 4 1
+D0
+~
+~
+0 -1 8178
+D2
+~
+~
+0 -1 8225
+D3
+~
+~
+0 -1 8222
+S
+#8222
+Crucified Lane~
+Those damned souls which enter Hell without much personal evil are condemned 
+to sufferings.  Fit neither to be devil nor daemon, these are sent to 
+Crucified Lane where their torture is metted out.  Of course, there are some 
+which are taken by daemons or devils as their eternal playmates....
+~
+0 0 1
+D1
+~
+~
+0 -1 8221
+D2
+~
+~
+0 -1 8226
+D3
+~
+~
+0 -1 8223
+S
+#8223
+Crucified Lane~
+Those damned souls which enter Hell without much personal evil are condemned 
+to sufferings.  Fit neither to be devil nor daemon, these are sent to 
+Crucified Lane where their torture is metted out.  Of course, there are some 
+which are taken by daemons or devils as their eternal playmates....
+~
+0 4 1
+D0
+~
+~
+1 -1 8228
+D1
+~
+~
+0 -1 8222
+D3
+~
+~
+0 -1 8224
+S
+#8224
+Crucified Lane~
+Those damned souls which enter Hell without much personal evil are condemned 
+to sufferings.  Fit neither to be devil nor daemon, these are sent to 
+Crucified Lane where their torture is metted out.  Of course, there are some 
+which are taken by daemons or devils as their eternal playmates....
+~
+0 4 1
+D0
+~
+~
+1 -1 8229
+D1
+~
+~
+0 -1 8223
+D2
+~
+~
+0 -1 8230
+S
+#8225
+Interogation room~
+You are in the interogation room of Hell.  Here, souls that are condemned to 
+torture are interogated on their past lives so that their sins can be better 
+judged and their punishment dealt with (un)fairly.
+~
+0 8 0
+D0
+~
+~
+0 -1 8221
+S
+#8226
+Mouth of the Volcano~
+You are at the mouth of the Volcano.  The Volcano is where souls condemned 
+to being burnt are dumped.  The Volcano is said to be 1000 feet deep and 
+there are no ways out of it....
+~
+0 0 1
+D0
+~
+~
+0 -1 8222
+D5
+~
+~
+0 -1 8227
+S
+#8227
+Fiery pits~
+You are at the bottom of the Volcano, where the pits of Hell are.  Burning 
+with hellfire and glowing a malevolent red, hellfire hungrily licked the 
+souls of those condemned to spend time here.
+~
+0 8 0
+D4
+~
+~
+0 -1 8226
+S
+#8228
+Hell's Playpen~
+You are in a huge enclosed area where damned souls run, shrieking, from 
+their demonic tormentors.  Huge stalking daemons and small devils chase 
+after running souls, lashing at them with soul whips.
+~
+0 8 0
+D2
+~
+~
+1 -1 8223
+D3
+~
+~
+0 -1 8229
+S
+#8229
+Hell's Playpen~
+You are in a huge enclosed area where damned souls run, shrieking, from 
+their demonic tormentors.  Huge stalking daemons and small devils chase 
+after running souls, lashing at them with soul whips.
+~
+0 8 0
+D1
+~
+~
+0 -1 8228
+D2
+~
+~
+1 -1 8224
+S
+#8230
+Electrocution room~
+You are in a mass electrocution room.  Rows upon rows of chairs line the 
+walls and cover the center of the room.  Damned souls who have committed 
+heinous crimes in their lives are strapped to the chairs, unable to do 
+anything about their fate.
+~
+0 8 0
+D0
+~
+~
+0 -1 8224
+S
+#8231
+Bottom of a pit~
+You are at the bottom of a fiery pit.  Looking around, you can see no exits. 
+  You are trapped!
+~
+0 4|8|1024 0
+S
+#0
+
+
+#RESETS
+* This file and area is copyright 1999 Flit
+D 1 8158 5 2
+O 1 8151 100 8158
+O 1 8152 100 8157
+*
+M 1 8151 1 8157
+G 1 8153 100
+G 1 8154 100
+G 1 8155 100
+D 1 8160 4 2
+*
+M 1 8152 1 8160
+E 1 8156 100 16
+*
+M 1 8153 1 8160
+E 1 8157 100 9
+*
+M 1 8154 1 8159
+G 1 8158 100
+G 1 8159 100
+G 1 8160 100
+*
+M 1 8155 1 8161
+G 1 8161 100
+G 1 8162 100
+G 1 8163 100
+*
+M 1 8156 4 8164
+E 1 8164 100 16
+*
+M 1 8156 4 8164
+E 1 8164 100 16
+*
+M 1 8157 1 8163
+G 1 8165 100
+G 1 8166 100
+G 1 8167 100
+G 1 8168 100
+O 1 8152 100 8159
+O 1 8152 100 8161
+O 1 8152 100 8163
+O 1 8152 100 8165
+D 1 8166 4 1
+*
+M 1 8158 4 8166
+E 1 8164 100 16
+G 1 8169 100
+*
+M 1 8158 4 8166
+E 1 8164 100 16
+G 1 8169 100
+*
+M 1 8159 1 8165
+G 1 8170 100
+G 1 8171 100
+G 1 8172 100
+*
+M 1 8160 1 8167
+G 1 8173 100
+G 1 8174 100
+G 1 8175 100
+G 1 8176 100
+G 1 8177 100
+O 1 8152 100 8167
+O 1 8152 100 8168
+*
+M 1 8161 1 8168
+G 1 8181 100
+G 1 8180 100
+G 1 8179 100
+G 1 8178 100
+O 1 8182 100 8225
+*
+M 1 8162 1 8225
+E 1 8183 100 17
+*
+M 1 8163 3 8225
+E 1 8184 100 5
+*
+M 1 8164 4 8227
+E 1 8185 100 5
+O 1 8186 100 8230
+*
+M 1 8165 4 8230
+D 1 8229 2 1
+D 1 8228 2 1
+*
+M 1 8166 6 8228
+E 1 8188 100 8
+*
+M 1 8166 6 8229
+E 1 8188 100 8
+*
+M 1 8168 2 8228
+E 1 8187 100 16
+*
+M 1 8167 2 8229
+E 1 8187 100 16
+*
+M 1 8170 5 8174
+E 1 8189 100 13
+*
+M 1 8169 3 8174
+E 1 8189 100 13
+O 1 8190 100 8174
+O 1 8191 100 8201
+O 1 8192 100 8201
+*
+M 1 8171 1 8201
+*
+M 1 8172 1 8201
+*
+M 1 8173 1 8201
+*
+M 1 8175 1 8200
+E 1 8193 100 16
+*
+M 1 8174 1 8200
+E 1 8193 100 16
+*
+M 1 8176 3 8200
+D 1 8199 4 2
+*
+M 1 8177 1 8199
+*
+M 1 8178 3 8199
+G 1 8195 100
+O 1 8194 100 8199
+*
+M 1 8179 4 8187
+D 1 8219 1 1
+D 1 8219 3 1
+*
+M 1 8180 1 8219
+O 1 8196 100 8219
+*
+M 1 8181 2 8219
+*
+M 1 8182 10 8154
+E 1 8199 100 5
+E 1 8198 100 6
+E 1 8200 100 16
+*
+M 1 8183 10 8175
+E 1 8197 100 16
+*
+M 1 8182 10 8191
+E 1 8199 100 5
+E 1 8198 100 6
+E 1 8200 100 16
+*
+M 1 8182 10 8195
+E 1 8199 100 5
+E 1 8198 100 6
+E 1 8200 100 16
+*
+M 1 8183 10 8198
+E 1 8197 100 16
+*
+M 1 8183 10 8222
+E 1 8197 100 16
+*
+M 1 8182 10 8222
+E 1 8199 100 5
+E 1 8198 100 6
+E 1 8200 100 16
+*
+M 1 8183 10 8177
+E 1 8197 100 16
+*
+M 1 8184 2 8212
+E 1 8200 100 16
+*
+M 1 8185 15 8213
+E 1 8198 100 6
+E 1 8200 100 16
+D 1 8214 3 1
+*
+M 1 8186 5 8215
+*
+M 1 8186 5 8214
+*
+M 1 8187 5 8211
+E 1 8201 100 9
+*
+M 1 8188 6 8210
+E 1 8201 100 9
+*
+M 1 8188 6 8209
+E 1 8201 100 9
+*
+M 1 8189 4 8210
+E 1 8202 100 16
+*
+M 1 8189 4 8209
+E 1 8202 100 16
+O 1 8203 100 8203
+*
+M 1 8190 3 8203
+O 1 8204 100 8202
+*
+M 1 8191 15 8202
+O 1 8205 100 8205
+*
+M 1 8192 4 8204
+E 1 8205 100 17
+O 1 8206 100 8204
+*
+M 1 8193 3 8206
+E 1 8202 100 16
+*
+M 1 8193 3 8206
+E 1 8170 100 16
+*
+M 1 8194 6 8207
+*
+M 1 8194 6 8208
+*
+M 1 8195 2 8181
+*
+M 1 8196 2 8181
+*
+M 1 8197 2 8179
+*
+M 1 8198 3 8180
+E 1 8157 100 9
+*
+M 1 8199 3 8182
+E 1 8157 100 9
+*
+M 1 8200 2 8179
+E 1 8156 100 16
+*
+M 1 8201 1 8180
+*
+M 1 8202 5 8180
+E 1 8156 100 16
+G 1 8170 100
+*
+M 1 8202 5 8182
+E 1 8170 100 16
+G 1 8156 100
+*
+M 1 8203 3 8186
+E 1 8207 100 6
+*
+M 1 8204 5 8185
+*
+M 1 8204 5 8185
+E 1 8209 100 16
+E 1 8208 100 17
+*
+M 1 8206 1 8184
+*
+M 1 8205 3 8184
+E 1 8210 100 16
+S
+
+
+#SHOPS
+8151 17 24 23 0 0 120 120 0 23
+8154 23 24 0 0 0 120 120 0 23
+8155 0 0 0 0 0 120 120 0 23
+8157 9 0 0 0 0 120 120 0 23
+8159 5 0 0 0 0 120 120 0 23
+8161 0 0 0 0 0 120 120 0 23
+8160 0 0 0 0 0 120 120 0 23
+0
+
+#$
+

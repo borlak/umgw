@@ -1,0 +1,312 @@
+#PLAYERS
+Name         Admin~
+ShortDescr   (null)~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Clan         ~
+Class        16
+Morph        ~
+Createtime   Tue Oct  2 08:52:06 2001~
+Lasttime     Thu Jul 10 13:01:08 2003~
+Lasthost     127.0.0.1~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Sex          0
+Race         0
+Immune       0
+Polyaff      0
+Souls	      0
+Itemaffect   0
+Form         32767
+Beast        15
+Spectype     0
+Specpower    0
+Home         3001
+Level        12
+Trust        12
+Paradox      0 0 0
+Played       4715082
+Room         3025
+PkPdMkMd     0 0 29873421 0
+Weapons      240 240 240 240 240 240 240 240 240 240 240 240 240
+Spells       21 119 5 4 70
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 21 0 200 200 200 0 200 0 0 200
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   99999 99999 99999 99999 99999 99999
+Gold         0
+Exp          646284
+Act          24200
+Special      1
+Newbits      1024
+Extra        524300
+AffectedBy   0
+Swordtech    0
+Cols         80
+Rows         24
+Aff2         0
+Spheres      0 0 0 0 0 0 0 0 0
+Mflags	0
+Quint	     0 0 0
+Awins		0
+Alosses	0
+Imms	     0 0 0
+Position     9
+Practice     8893
+SavingThrow  0
+Alignment    1000
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        0
+Deaf         0
+Mapbits      7
+Surveying    1
+Safetimer    0
+Safewait     2
+
+Bamfin       ~
+Bamfout      ~
+Bounty	   0
+Title        ~
+Conception   ~
+Parents      ~
+Changesplace 565
+Kingdom      0
+Krank        ~
+Login        ~
+Logout       ~
+Enter        ~
+Exit         ~
+Cparents     ~
+Marriage     ~
+Email        ~
+Autostance   none~
+AttrPerm     13 36 13 13 13
+AttrMod      0 0 0 0 0
+Quest        90034
+Wolf         0
+Rank         0
+Language     0 0
+Stage        0 0 0
+Score        227317 74895 1135 339 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 740 740 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+Exhaustion   0
+Skill        100 'reserved'
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'gate'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'sleep'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'word of recall'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'bard song'
+Skill        100 'swordtech'
+Skill        100 'gods gift'
+Skill        100 'gods curse'
+Skill        100 'backstab'
+Skill        100 'garotte'
+Skill        100 'spiderform'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'talon'
+Skill        100 'circle'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'general purpose'
+Skill        100 'shiroken'
+Skill        100 'guardian'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'elbow'
+Skill        100 'buffet'
+Skill        100 'headbutt'
+Skill        100 'tail'
+Skill        100 'inferno'
+Skill        100 'blinky'
+Skill        100 'joust'
+Skill        100 'sweep'
+Skill        100 'knee'
+Skill        100 'quest'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'fastdraw'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'major creation'
+Skill        100 'purple sorcery'
+Skill        100 'red sorcery'
+Skill        100 'blue sorcery'
+Skill        100 'green sorcery'
+Skill        100 'yellow sorcery'
+Skill        100 'chaos blast'
+Skill        100 'resistance'
+Skill        100 'web'
+Skill        100 'drowfire'
+Skill        100 'godbless'
+Skill        100 'llothbless'
+Skill        100 'polymorph'
+Skill        100 'birth control'
+Skill        100 'find familiar'
+Skill        100 'improve'
+Skill        100 'darkness'
+Skill        100 'paradox'
+Skill        100 'drow poison'
+Skill        100 'levitation'
+End
+
+#OBJECT
+Nest         0
+Name         copper ring~
+ShortDescr   a copper ring~
+Description  A copper ring lies here.~
+Questmaker   Borlak~
+Vnum         30037
+ExtraFlags   0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         100000
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         silver blade~
+ShortDescr   A silver Blade~
+Description  A black shimmering longsword is lying here.~
+Questmaker   Borlak~
+Vnum         30340
+ExtraFlags   150528
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   25
+Quest        4496608
+Points       2850
+Level        50
+Timer        0
+Cost         18
+Values       145 10 20 1
+AffectData   -1 50 13
+AffectData   -1 -50 17
+AffectData   -1 10 19
+AffectData   -1 10 18
+AffectData   -1 5 19
+AffectData   -1 10 18
+AffectData   -1 30 14
+AffectData   -1 50 13
+AffectData   -1 -50 17
+AffectData   -1 10 19
+AffectData   -1 10 18
+End
+
+#END

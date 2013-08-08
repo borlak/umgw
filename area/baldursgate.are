@@ -1,0 +1,3729 @@
+#AREA	Vincent Baldur's Gate~
+
+
+#MOBILES
+#10200
+Winthrop~
+Winthrop~
+Winthrop exclaims, "My hotel is clean as an elven arse"
+~
+Winthrop says, "What can i do you fer stranger? We got some comfortable rooms upstairs you could rent"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10201
+Firebead Elvenhair~
+Firebead Elvenhair~
+Firebead Elvenhair, a great elven wizard, sits here in meditation.
+~
+Firebead Elvenhair says, "Well hello my friend! How are things going for you... I hope you enjoy your stay in CandleKeep."
+~
+2|64 2 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10202
+tutor~
+A tutor~
+A tutor says, "Shall we continue your lessons?"
+~
+A tutor says, "Read the news often... It is constantly upgraded and helps alot when things get confusing"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10203
+tutor~
+A tutor~
+A tutor says, "Shall we continue your lessons?"
+~
+A tutor says, "Do not complain to gods... they will take it as offence and instantly kill you many times, maybe turn you into a frog... beware..."
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10204
+Nobleman~
+a nobleman~
+A nobleman stands here, disgusted by your dirty clothing
+~
+Nobleman says "my word, old sport, can't you see me and my wife is trying to have sex?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10205
+Noblewoman~
+A noblewoman~
+A noblewoman stands here, admiring her husband.
+~
+A noblewoman says "*giggle* Isn't he so handsome?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#10206
+sleeping man~
+a sleeping man~
+A sleeping man is here, completely unaware of your presence
+~
+A sleeping man says "zzzzZZZzZZzzzzZZzZzzZzz..."
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10207
+Phlidia~
+Phlidia~
+Phlidia stands here, looking worried and absent-minded as usual
+~
+Phylidia says "Have you seen my book? I have left it somewhere and I forgot it... clumsy me"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#10208
+Shank~
+Shank the Assassin~
+A short man walks up to you and asks you for your head.
+~
+Shank says "No offence kid, but you got a hefty bounty on yer head that I'm going to collect"
+~
+2|64 0 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10209
+Parda~
+Parda the Priest~
+Parda the priest approaches you with concern.
+~
+Parda says "Are you ok my child? you look hurt... did someone attack you in the Priest's Quarters?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10210
+Dreppin~
+Dreppin~
+Dreppin stands here tending to his cow, Nessa.
+~
+Dreppin says "My ol' Nessa ain't doin so good.. looks like i'll have to buy her some antidotes"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10211
+Nessa~
+Nessa the Cow~
+Nessa the cow is eating here, being tended to by Dreppin
+~
+Its a cow! moooooooooooooooooo.....
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#10212
+Watcher~
+Watcher~
+The watcher waunders the city, looking for troublemakers.
+~
+Watcher tells you "You have no place here, boy. Get goin' home"
+~
+64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10213
+priest oghma~
+the priest of Oghma~
+The Priest of Oghma stands here, studying the ancient bible.
+~
+Priest of Oghma says "Welcome child, what ails you?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10214
+Jondalar~
+Jondalar~
+Jondalar approaches you with good intention
+~
+Jondalar says "Hullo, Gorion sent us to teach you about fighting... So are you ready?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10215
+Erik~
+Erik~
+Erik stands here, waiting for the signal from Jondalar
+~
+Erik says "We gonna teach ya about fightin'"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10216
+Reevor~
+Reevor~
+Reevor is sitting here in a crouched position, mumbling something about rats
+~
+Reevor says "Didn't I tell you to get rid of dem rats in dere? Git in dere and kick some Rat Ass"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10217
+Large Rat~
+A Large Rat~
+A Large rat stands here, squeaking and feeding on a dead body
+~
+SQUEAK!
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10218
+Hull~
+Hull the Guard~
+Hull stands here keeping intruders out.
+~
+Hull says "Hey bud, can you help me? I slept late last night and left my sword in the Barracks... The Gatewarden would have my head if he saw me without it.."
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10219
+Gatewarden~
+The Gatewarden~
+The Gatewarden approaches you with anticipation.
+~
+The Gatewarden says "Heya, I heard you were training for combat, go to Obe the Illusionist for some training."
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10220
+Carbos~
+Carbos the Assassin~
+Looks like a pretty big man, by the name of Carbos, approaches you.
+~
+Carbos says "Well waddayakno I found you... You have a hefty amount of gold on yer head, yes sir"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10221
+Karan~
+Karan~
+Karan looks worried as you stumble out of the Bunkhouse
+~
+Karan says "What happend? who attacked you?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10222
+Obe~
+Obe the Illusionist~
+Obe the Illusionist welcomes you to his training.
+~
+Obe says "Welcome to your training, feel free to attack these creatures that I have created..."
+~
+2|64 2 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10223
+Gibberling~
+a gibberling~
+A gibberling leaps out at you with its tiny arms flailing.
+~
+EEeeeekkkkk!
+~
+64 32768 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10224
+Xvart~
+a xvart~
+A Xvart swings his small sword around and charges you
+~
+Chaaaaaaaaarge!
+~
+64 32768 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10225
+Skeleton~
+a skeleton~
+A skeleton approaches you, wielding a sword and a shield
+~
+The sounds of clashing metal and bone sends shivers up your spine.
+~
+64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10226
+Kobold~
+a kobold~
+A kobold runs after you wielding a dagger!
+~
+Raarrrrrrgggghhhh!
+~
+64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10227
+tasloi~
+a tasloi~
+A tasloi of the forest leaps out at you from his concealment
+~
+Thats a big spear he's holding :)
+~
+64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10228
+hobgoblin~
+a hobgoblin~
+A hobgoblin yells "Spare No One!" and charges you
+~
+That is one big hobgoblin...
+~
+64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10229
+small child~
+a small child~
+A small child walks up to you and asks you for his mommy...
+~
+So sad... *sniff*.. a little child losing a mother..
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10230
+Tethtoril~
+Tethtoril~
+Tethtoril waunders the lovely gardenwalk watching the birds sing.
+~
+Tethtoril says "Heya, I have Firebead Elvenhair's scroll if you want it..."
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10231
+Imoen~
+Imoen~
+A girl walks up to you and says "Heya, its me! Imoen!"
+~
+Imoen says "Heh.. well well.. looks like you are goin across to the Friendly Arm Inn... Can i come?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10232
+Gorion~
+Gorion~
+The Great Wizard of CandleKeep stands here
+~
+Gorion tells you "Hurry child, rush to the Friendly Arm Inn and look for my friends, Khalid and Jahera."
+~
+2|64 128 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10233
+Joia~
+Joia~
+a sad lady stands here wailing, goes by the name of Joia.
+~
+Joia says "Goddamn Hobgoblins, stole my flamedance ring... sniff..."
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#10234
+Tarnesh~
+Tarnesh the farmer~
+A small man by the name of Tarnesh tends to his farm here.
+~
+Tarnesh says "Git off mah property!" and cocks his shotgun. Better run...
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10235
+Friendly Arm Guard~
+Friendly Arm Guard~
+The Friendly Arm Guard keeps peace here.
+~
+The guard says "Remember our rules: No violence within our premesis" and pounds his staff as he walks on.
+~
+64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10236
+Barkeeper~
+Barkeeper~
+A Barkeeper stands here, awaiting your order
+~
+Barkeeper says "What can i do you fer? you want a drink? or maybe a room to sleep in?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10237
+drunk~
+a drunk~
+A drunk sits here cussing and asking for more ale
+~
+a drunk yells "I need some ale... Burrrpp"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10238
+Mayor Beregost~
+Mayor of Beregost~
+The mayor of Beregost stands here admiring his flowers.
+~
+Mayor tells you "Hello kind sir, how may I help you?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10239
+Taerom Fuiruim~
+Taerom Fuiruim~
+Taerom Fuiruim, the Thundersmithy, is here forging a brand new weapon.
+~
+Taerom Fuiruim says "Aye, What can I do fer yas? need a weapon fixed?"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10240
+Tranzig~
+Tranzig the Thug~
+a thieving little bandit is here, stealing jewelry and calling himself Tranzig.
+~
+Tranzig says "Shit! they saw me! better run for it.."
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10241
+Marl drunk~
+Marl the Drunk~
+Marl stands here and screams at the top of his lungs "YOU KILLED HIM!"
+~
+Marl cries out "You killed my boy you BASTARD!" he seems to be very drunk.
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10242
+Landrin~
+Landrin~
+Landrin is sitting at the bar telling a story about a great big spider.
+~
+Landrin says "Im telling you man, that thing was HUGE! It was big as a house!..."
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10243
+Bjornin~
+Bjornin the Paladin~
+a guy stands here, wounded pretty badly, cursing and swearing.
+~
+Bjornin says "Goddamn hobgoblins kicked mah ass... owie"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10244
+Silke~
+Silke the thief~
+Silke the great thief extraordinare stands here before you.
+~
+Silke says "Greetings.  I am Silke, the thief extraordinare"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#10245
+Mirianne~
+Mirianne~
+Mirianne sits here at the table, crying her eyes out.
+~
+Mirianne says "Oh why did you have to go out Gurke! Why Oh WHY!!!! WAAAHHHHHHH!!"
+~
+2|64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#10246
+Beregost guard~
+the Beregost Guard~
+The Beregost Guard patrols here, looking for villans, thugs, or bandits.
+~
+Beregost Guard yells at the top of his lungs, "STAND AWAY CITIZEN!"
+~
+64 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#10200
+small crossbow~
+a small crossbow~
+A small crossbow has been tossed away here...~
+~
+5 0 1|8192
+0 1 2 2 
+5 0 0
+#10201
+key peasant~
+a key to the Peasant's Room~
+A key to the Peasant's Room was tossed away here.~
+~
+18 0 1|16384
+0 1 6 11 
+5 0 0
+#10202
+key Commoner~
+a key to the Commoner's Room~
+A key to the commoner's room has been tossed away here.~
+~
+18 0 1|16384
+0 1 6 11 
+5 0 0
+#10203
+key noble~
+a key to the Noble's Room~
+A key to the Noble's Room has been tossed away here.~
+~
+18 0 1|16384
+0 1 6 11 
+5 0 0
+#10204
+key royal~
+a key to the Royal Room~
+A key to the Royal Room has been tossed away here.~
+~
+18 0 1|16384
+0 1 6 11 
+5 0 0
+#10205
+stairs~
+stairs~
+A set of stairs leads to the hotel rooms upstairs.~
+~
+12 0 0
+0 1 6 11 
+5000 0 0
+#10206
+Firebead scroll identify~
+firebead's scroll of Identify~
+Firebead Elvenhair's Scroll of Identify lies here in the dust.~
+~
+2 0 1|16384
+5 53 53 53 
+1 0 0
+#10207
+peasant bed~
+a peasant's room bed~
+A poor excuse for a bed lies here on the floor...~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10208
+commoner bed~
+a commoner's room bed~
+A pretty small bed is here.. looks like you can sleep in it...~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10209
+Noble bed~
+a noble's room bed~
+A big comfortable bed sits here waiting for you to sleep on...~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10210
+royal bed~
+a royal room bed~
+The biggest bed you have ever seen in your entire life stands before you...~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10211
+Phlidia gem~
+phlidia's Gem~
+Phlidia's most precious gem lies here on the floor~
+~
+13 0 1|16384
+0 1 6 11 
+5 0 0
+#10212
+Shank's Dagger~
+shank's Dagger~
+An assassin's dagger sits here on the floor~
+~
+5 0 1|8192
+0 1 6 11 
+5 0 0
+#10213
+Bible Oghma~
+bible of Oghma~
+A bible rests here on the floor~
+~
+13 0 1|16384
+0 1 6 11 
+5 0 0
+#10214
+hay~
+some hay~
+You see some hay here... looks like something is inside.~
+~
+13 0 0
+10 1 0 11 
+5 0 0
+#10215
+Phlidia's Book~
+phlidia's Book~
+Phlidia left her book here again.. clumsy girl~
+~
+13 0 1|16384
+0 1 6 11 
+5 0 0
+#10216
+Cow Bells~
+cow Bell~
+A Cow's Bell is on the floor with the nametag "Nessa" on it~
+~
+9 0 1|4
+5 1 6 11 
+5 0 0
+A
+14 0
+#10217
+old boxes~
+old boxes~
+A bunch of old boxes line the walls here.. they are dust covered~
+~
+13 0 0
+0 1 6 11 
+500 0 0
+#10218
+old barrels~
+old barrels~
+You see some old barrels stacked up against the far wall.~
+~
+13 0 0
+0 1 6 11 
+5 0 0
+#10219
+CandleKeep Quarterstaff~
+candleKeep Quarterstaff~
+A quarter staff that was once carried by a watcher lies here~
+~
+5 0 1|8192
+0 1 6 7 
+5 0 0
+#10220
+old shield~
+old shield~
+An old shield lies useless on the floor here~
+~
+9 0 1|16384
+0 1 6 11 
+5 0 0
+#10221
+old sword~
+old sword~
+An old sword litters the floor here...~
+~
+5 0 1|8192
+0 1 2 3 
+5 0 0
+#10222
+Hull's sword~
+hull's longsword~
+Hull's Longsword sits here in the chest.~
+~
+5 0 1|8192
+0 1 6 3 
+5 0 0
+#10223
+dust~
+dust~
+You see a bunch of dirt mounding up in the corner..~
+~
+13 0 0
+0 1 6 11 
+5 0 0
+#10224
+Carbos's dagger~
+carbos's dagger~
+Carbos left his dagger here..~
+~
+5 0 1|8192
+0 1 6 11 
+5 0 0
+#10225
+little sword~
+a little sword~
+A little sword sits here.. gathering dust~
+~
+5 0 1|8192
+0 1 6 3 
+5 0 0
+#10226
+little dagger~
+a little dagger~
+A little dagger rests on the floor here.~
+~
+5 0 1|8192
+0 1 6 11 
+5 0 0
+#10227
+tasloi spear~
+a Tasloi Spear~
+A huge spear used by the tasloi people lies here~
+~
+5 0 1|8192
+0 1 6 6 
+5 0 0
+#10228
+flowers~
+flowers~
+The flowers here look exquisite and exotic... and they smell wonderful as well...~
+~
+13 0 0
+0 1 6 11 
+5 0 0
+#10229
+statue vincent~
+statue of Vincent~
+A statue to honor the great builder god Vincent stands here tall.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10230
+gates~
+the gates of CandleKeep~
+The Gates of CandleKeep is here before you, standing large and tall.~
+~
+13 1 0
+0 1 6 11 
+5 0 0
+E
+gates~
+Welcome to the town of CandleKeep... Hope you enjoy your stay
+~
+#10231
+Flamedance ring~
+Flamedance Ring~
+A Flamedance Ring sits here in the dirt.~
+~
+9 0 1|2
+5 1 6 11 
+5 0 0
+#10232
+Tarnesh's shotgun~
+Tarnesh's Shotgun~
+A Farmer's Shotgun lies here...~
+~
+5 0 1|8192
+0 3 6 6 
+5 0 0
+#10233
+small farm~
+a small farm~
+a small farm can be seen here, nicely kept~
+~
+13 0 0
+0 1 6 11 
+5 0 0
+#10234
+drawbridge~
+drawbridge~
+a drawbridge lowers slowly, making a racket and squeaking loudly.~
+~
+13 0 0
+0 1 6 11 
+5 0 0
+#10235
+Friendly Arm quarterstaff~
+Friendly Arm Quarterstaff~
+a Friendly Inn Quarterstaff lies here.~
+~
+5 0 1|8192
+0 1 6 7 
+5 0 0
+#10236
+cabinet~
+cabinets~
+a bunch of cabinets line the walls here.~
+~
+13 0 0
+0 1 6 11 
+5 0 0
+#10237
+tables~
+tables~
+some tables are here in the bar for the people to sit in and drink their lives away...~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10238
+broken bottle~
+a broken bottle~
+a broken bottle of rum lies here shattered~
+~
+13 0 1|16384
+0 1 6 11 
+5 0 0
+#10239
+pretty big bed~
+a pretty big bed~
+a pretty big bed sits in the middle of the room.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10240
+stairs~
+stairs~
+a stairway is here leading up to the rooms.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10241
+stairs~
+stairs 2f~
+some stairs are here leading to the third floor.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10242
+sign thundersmithy~
+sign Thundersmithy~
+A sign is here pointing eastward.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+E
+sign~
+Taerom Fuiruim the Thundersmithy to the East~
+#10243
+sign feldepost's inn~
+sign feldepost's inn~
+A sign is here pointing to the big inn up ahead.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+E
+sign~
+Feldepost's Inn up ahead~
+#10244
+sign Jovial Juggler~
+sign Jovial Juggler~
+A sign is here pointing to the tavern up ahead~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+E
+sign~
+Welcome to the Jovial Juggler!~
+#10245
+sign burning wizard~
+sign Burning Wizard~
+a sign is pointing to the big inn here.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+E
+sign~
+This is the Burning Wizard. Welcome.~
+#10246
+sign red sheaf~
+sign red sheaf~
+A sign that says "RED SHEAF" in great big bold letters is here.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10247
+beregost~
+a Beregost sword~
+A Beregost guard has left his sword here~
+~
+5 0 1|8192
+0 1 6 1 
+5 0 0
+#10248
+anvil~
+anvil~
+an anvil is here, being hammered on by the Thundersmithy.~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#10249
+small bed~
+a small ass bed~
+This is one small bed.. wow.. this doesn't even look like a bed..~
+~
+12 0 0
+0 1 6 11 
+5 0 0
+#0
+
+
+#ROOMS
+#10200
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze.  To the west you see a sign on a huge door.
+~
+0 0 1
+D0
+~
+~
+0 -1 10207
+D2
+~
+~
+0 -1 10221
+D3
+~
+door~
+1 -1 10201
+E
+sign~
+Winthrop's Inn -
+"My hotel is as clean as an elven arse"
+                       -Winthrop~
+S
+#10201
+Winthrop's Inn~
+The smell of whiskey fill the air as you approach a big man who appears to be the keeper of the Inn.
+~
+0 0 0
+D1
+~
+door~
+1 -1 10200
+D4
+~
+~
+0 -1 10206
+S
+#10202
+A Noble's Room~
+The bed here is huge and the room is quite nice.
+~
+0 0 0
+D3
+~
+door~
+1 -1 10206
+S
+#10203
+A Commoner's Room~
+The bed here is pretty small and uncomfortable and the room is pretty small.  Oh well, you get what you pay for.
+~
+0 0 0
+D0
+~
+door~
+1 -1 10206
+S
+#10204
+A Peasant's Room~
+You call this a bed!? This room is filthy and not kept clean.  You have a high doubt that this room is sanitary.
+~
+0 0 0
+D1
+~
+door~
+1 -1 10206
+S
+#10205
+A Royal Room~
+This is the biggest room you have ever seen in a common Inn like this.  The bed looks luxurious and very comfortable.
+~
+0 0 0
+D2
+~
+door~
+1 -1 10206
+S
+#10206
+Up the Stairs~
+As you walk up the stairs you notice four doors with labels on them that read: 
+Peasant's, Commoner's, Noble's, and Royal
+~
+0 0 0
+D0
+~
+door~
+1 -1 10205
+D1
+~
+door~
+1 -1 10202
+D2
+~
+door~
+1 -1 10203
+D3
+~
+door~
+1 -1 10204
+D5
+~
+~
+0 -1 10201
+S
+#10207
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. This is the Northwestern corner of CandleKeep.
+~
+0 0 1
+D1
+~
+~
+0 -1 10208
+D2
+~
+~
+0 -1 10200
+S
+#10208
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. To the north is the Priest's Quarters.
+~
+0 0 1
+D0
+~
+door~
+1 -1 10225
+D1
+~
+~
+0 -1 10209
+D3
+~
+~
+0 -1 10207
+S
+#10209
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. You see some stables up north.
+~
+0 0 1
+D0
+~
+~
+0 -1 10226
+D1
+~
+~
+0 -1 10210
+D3
+~
+~
+0 -1 10208
+S
+#10210
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. A temple of Oghma can be seen north.
+~
+0 0 1
+D0
+~
+~
+0 -1 10228
+D1
+~
+~
+0 -1 10211
+D3
+~
+~
+0 -1 10209
+S
+#10211
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. This is the Northeastern corner of CandleKeep.
+~
+0 0 1
+D2
+~
+~
+0 -1 10212
+D3
+~
+~
+0 -1 10210
+S
+#10212
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. An old storehouse is to the East.
+~
+0 0 1
+D0
+~
+~
+0 -1 10211
+D1
+~
+door~
+1 -1 10227
+D2
+~
+~
+0 -1 10213
+S
+#10213
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. The giant gates of CandleKeep can be seen east of here.
+~
+0 0 1
+D0
+~
+~
+0 -1 10212
+D1
+~
+gate~
+1 -1 10229
+D2
+~
+~
+0 -1 10214
+S
+#10214
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze.
+~
+0 0 1
+D0
+~
+~
+0 -1 10213
+D2
+~
+~
+0 -1 10215
+S
+#10215
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. This is the SouthEastern corner of CandleKeep.
+~
+0 0 1
+D0
+~
+~
+0 -1 10214
+D3
+~
+~
+0 -1 10216
+S
+#10216
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. To the north you can see the bunkhouse.
+~
+0 0 1
+D0
+~
+door~
+1 -1 10230
+D1
+~
+~
+0 -1 10215
+D3
+~
+~
+0 -1 10217
+S
+#10217
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. To the north the Library of CandleKeep can be seen, and to the South is a small house with an illusionist inside.
+~
+0 0 1
+D0
+~
+~
+0 -1 10234
+D1
+~
+~
+0 -1 10216
+D2
+~
+door~
+1 -1 10223
+D3
+~
+~
+0 -1 10218
+S
+#10218
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. To the north is the Barracks.
+~
+0 0 1
+D0
+~
+door~
+1 -1 10224
+D1
+~
+~
+0 -1 10217
+D3
+~
+~
+0 -1 10219
+S
+#10219
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. This is the Southwestern corner of CandleKeep.
+~
+0 0 1
+D0
+~
+~
+0 -1 10220
+D1
+~
+~
+0 -1 10218
+S
+#10220
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze. To the west is a small house.
+~
+0 0 1
+D0
+~
+~
+0 -1 10221
+D2
+~
+~
+0 -1 10219
+D3
+~
+door~
+1 -1 10222
+S
+#10221
+Streets of CandleKeep~
+You are walking down a long street, enjoying the fresh air and the warm fuzzy breeze.
+~
+0 0 1
+D0
+~
+~
+0 -1 10200
+D1
+~
+door~
+1 -1 10231
+D2
+~
+~
+0 -1 10220
+S
+#10222
+A small house~
+You are standing in a small house of CandleKeep.  You suddenly feel sorry for the person that lives here.
+~
+0 0 0
+D1
+~
+door~
+1 -1 10220
+S
+#10223
+Training Room~
+You have entered the Training room.  Here an illusionist creates monsters for your training.
+~
+0 0 0
+D0
+~
+door~
+1 -1 10217
+S
+#10224
+Barracks~
+The stench of rusted armor and tired soldiers fill the air.  You see a chest in the corner of the room.
+~
+0 0 0
+D2
+~
+door~
+1 -1 10218
+S
+#10225
+Priest's Quarters~
+Inside are beds and tables with bibles and symbols scattered about.  You see a pair of red GLOWING eyes watching you.
+~
+0 0 0
+D2
+~
+door~
+1 -1 10208
+S
+#10226
+Stables~
+There are some horses here to your west and some hay to your north.  A man stands here tending to his cow.
+~
+0 0 1
+D2
+~
+~
+0 -1 10209
+S
+#10227
+A Storeroom~
+This place is disgusting! along the walls are discarded boxes and old barrels filled with small rodents.
+~
+0 0 0
+D3
+~
+door~
+1 -1 10212
+S
+#10228
+Temple of Oghma~
+This is the place of worship for the priests of Oghma.  Books and bibles line the wall to the north and some priests are about.
+~
+0 0 1
+D2
+~
+~
+0 -1 10210
+S
+#10229
+Front Gate~
+Before you is the HUGE gates of CandleKeep.  A guard by the name of Hull stands here.  You have never seen anyone else here except him guarding these gates.
+~
+0 4 1
+D0
+~
+~
+0 -1 10241
+D1
+~
+~
+0 -1 10244
+D2
+~
+~
+0 -1 10242
+D3
+~
+gate~
+1 -1 10213
+S
+#10230
+Bunkhouse~
+This is the place where all the soldiers sleep.  Shields and Swords of iron litter the floor.
+~
+0 0 0
+D2
+~
+door~
+1 -1 10216
+S
+#10231
+The CandleKeep Hospital~
+This is where the sick people of CandleKeep come for recooperation.  The smell of medicine fills the air.
+~
+0 4 0
+D3
+~
+door~
+1 -1 10221
+S
+#10232
+The CandleKeep Library~
+You are standing in front of the largest library you have ever seen.  Mages and Wizards of the land come to CandleKeep to fill their great minds with the knowledge provided here by the library.  Unfortunately, due to the problem with bandits in the area, the library will be closed.
+~
+0 0 0
+D1
+~
+~
+0 -1 10239
+D2
+~
+~
+0 -1 10240
+D3
+~
+~
+0 -1 10238
+S
+#10233
+The Gardenwalk~
+You are walking through the great garden that surrounds the Library of CandleKeep.
+~
+0 0 2
+D0
+~
+~
+0 -1 10236
+D1
+~
+~
+0 -1 10234
+S
+#10234
+The Gardenwalk~
+You are walking through the great garden that surrounds the Library of CandleKeep.
+~
+0 4 2
+D0
+~
+~
+0 -1 10240
+D1
+~
+~
+0 -1 10235
+D2
+~
+~
+0 -1 10217
+D3
+~
+~
+0 -1 10233
+S
+#10235
+The Gardenwalk~
+You are walking through the great garden that surrounds the Library of CandleKeep.
+~
+0 0 2
+D0
+~
+~
+0 -1 10237
+D3
+~
+~
+0 -1 10234
+S
+#10236
+The Gardenwalk~
+You are walking through the great garden that surrounds the Library of CandleKeep.
+~
+0 0 2
+D0
+~
+~
+0 -1 10238
+D1
+~
+~
+0 -1 10240
+D2
+~
+~
+0 -1 10233
+S
+#10237
+The Gardenwalk~
+You are walking through the great garden that surrounds the Library of CandleKeep.
+~
+0 0 2
+D0
+~
+~
+0 -1 10239
+D2
+~
+~
+0 -1 10235
+D3
+~
+~
+0 -1 10240
+S
+#10238
+The Gardenwalk~
+You are walking through the great garden that surrounds the Library of CandleKeep.
+~
+0 0 2
+D1
+~
+~
+0 -1 10232
+D2
+~
+~
+0 -1 10236
+S
+#10239
+The Gardenwalk~
+You are walking through the great garden that surrounds the Library of CandleKeep.
+~
+0 0 2
+D2
+~
+~
+0 -1 10237
+D3
+~
+~
+0 -1 10232
+S
+#10240
+The Statue of Vincent~
+Before you is a large iron statue of a god the people of CandleKeep once worshipped.  The iron has corrupted and rusted and the face is barely recognizable.  If it wasn't for the sign that said "Our almighty god, Vincent" you would have never guessed this was the statue for the greatest being ever created in this universe.
+~
+0 0 2
+D0
+~
+~
+0 -1 10232
+D1
+~
+~
+0 -1 10237
+D2
+~
+~
+0 -1 10234
+D3
+~
+~
+0 -1 10236
+S
+#10241
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D1
+~
+~
+0 -1 10243
+D2
+~
+~
+0 -1 10229
+S
+#10242
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10229
+D1
+~
+gate~
+0 -1 10245
+S
+#10243
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D1
+~
+~
+0 -1 10246
+D2
+~
+~
+0 -1 10244
+D3
+~
+~
+0 -1 10241
+S
+#10244
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10243
+D1
+~
+~
+0 -1 10247
+D2
+~
+~
+0 -1 10245
+D3
+~
+~
+0 -1 10229
+S
+#10245
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10244
+D1
+~
+~
+0 -1 10248
+D3
+~
+~
+0 -1 10242
+S
+#10246
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D1
+~
+~
+0 -1 10249
+D2
+~
+~
+0 -1 10247
+D3
+~
+~
+0 -1 10243
+S
+#10247
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10246
+D1
+~
+~
+0 -1 10250
+D2
+~
+~
+0 -1 10248
+D3
+~
+~
+0 -1 10244
+S
+#10248
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10247
+D1
+~
+~
+0 -1 10251
+D3
+~
+~
+0 -1 10245
+S
+#10249
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D1
+~
+~
+0 -1 10252
+D2
+~
+~
+0 -1 10250
+D3
+~
+~
+0 -1 10246
+S
+#10250
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10249
+D1
+~
+~
+0 -1 10253
+D2
+~
+~
+0 -1 10251
+D3
+~
+~
+0 -1 10247
+S
+#10251
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10250
+D1
+~
+~
+0 -1 10254
+D3
+~
+~
+0 -1 10248
+S
+#10252
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10261
+D1
+~
+~
+0 -1 10255
+D2
+~
+~
+0 -1 10253
+D3
+~
+~
+0 -1 10249
+S
+#10253
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10252
+D1
+~
+~
+0 -1 10256
+D2
+~
+~
+0 -1 10254
+D3
+~
+~
+0 -1 10250
+S
+#10254
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10253
+D1
+~
+~
+0 -1 10257
+D2
+~
+~
+0 -1 10276
+D3
+~
+~
+0 -1 10251
+S
+#10255
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10262
+D1
+~
+~
+0 -1 10258
+D2
+~
+~
+0 -1 10256
+D3
+~
+~
+0 -1 10252
+S
+#10256
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10255
+D1
+~
+~
+0 -1 10259
+D2
+~
+~
+0 -1 10257
+D3
+~
+~
+0 -1 10253
+S
+#10257
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10256
+D1
+~
+~
+0 -1 10260
+D2
+~
+~
+0 -1 10277
+D3
+~
+~
+0 -1 10254
+S
+#10258
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10263
+D2
+~
+~
+0 -1 10259
+D3
+~
+~
+0 -1 10255
+S
+#10259
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10258
+D2
+~
+~
+0 -1 10260
+D3
+~
+~
+0 -1 10256
+S
+#10260
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10259
+D2
+~
+~
+0 -1 10278
+D3
+~
+~
+0 -1 10257
+S
+#10261
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10264
+D1
+~
+~
+0 -1 10262
+D2
+~
+~
+0 -1 10252
+S
+#10262
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10265
+D1
+~
+~
+0 -1 10263
+D2
+~
+~
+0 -1 10255
+D3
+~
+~
+0 -1 10261
+S
+#10263
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10266
+D2
+~
+~
+0 -1 10258
+D3
+~
+~
+0 -1 10262
+S
+#10264
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10267
+D1
+~
+~
+0 -1 10265
+D2
+~
+~
+0 -1 10261
+S
+#10265
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10268
+D1
+~
+~
+0 -1 10266
+D2
+~
+~
+0 -1 10262
+D3
+~
+~
+0 -1 10264
+S
+#10266
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10269
+D2
+~
+~
+0 -1 10263
+D3
+~
+~
+0 -1 10265
+S
+#10267
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10270
+D1
+~
+~
+0 -1 10268
+D2
+~
+~
+0 -1 10264
+S
+#10268
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10271
+D1
+~
+~
+0 -1 10269
+D2
+~
+~
+0 -1 10265
+D3
+~
+~
+0 -1 10267
+S
+#10269
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10272
+D2
+~
+~
+0 -1 10266
+D3
+~
+~
+0 -1 10268
+S
+#10270
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10273
+D1
+~
+~
+0 -1 10271
+D2
+~
+~
+0 -1 10267
+S
+#10271
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10274
+D1
+~
+~
+0 -1 10272
+D2
+~
+~
+0 -1 10268
+D3
+~
+~
+0 -1 10270
+S
+#10272
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10275
+D2
+~
+~
+0 -1 10269
+D3
+~
+~
+0 -1 10271
+S
+#10273
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10293
+D1
+~
+~
+0 -1 10274
+D2
+~
+~
+0 -1 10270
+S
+#10274
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10295
+D1
+~
+~
+0 -1 10275
+D2
+~
+~
+0 -1 10271
+D3
+~
+~
+0 -1 10273
+S
+#10275
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10294
+D2
+~
+~
+0 -1 10272
+D3
+~
+~
+0 -1 10274
+S
+#10276
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10254
+D1
+~
+~
+0 -1 10277
+D2
+~
+~
+0 -1 10279
+S
+#10277
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10257
+D1
+~
+~
+0 -1 10278
+D2
+~
+~
+0 -1 10280
+D3
+~
+~
+0 -1 10276
+S
+#10278
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10260
+D2
+~
+~
+0 -1 10281
+D3
+~
+~
+0 -1 10277
+S
+#10279
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10276
+D1
+~
+~
+0 -1 10280
+D2
+~
+~
+0 -1 10282
+S
+#10280
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10277
+D1
+~
+~
+0 -1 10281
+D2
+~
+~
+0 -1 10283
+D3
+~
+~
+0 -1 10279
+S
+#10281
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10278
+D2
+~
+~
+0 -1 10284
+D3
+~
+~
+0 -1 10280
+S
+#10282
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10279
+D1
+~
+~
+0 -1 10283
+D2
+~
+~
+0 -1 10285
+S
+#10283
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10280
+D1
+~
+~
+0 -1 10284
+D2
+~
+~
+0 -1 10286
+D3
+~
+~
+0 -1 10282
+S
+#10284
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10281
+D2
+~
+~
+0 -1 10287
+D3
+~
+~
+0 -1 10283
+S
+#10285
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10282
+D1
+~
+~
+0 -1 10286
+D2
+~
+~
+0 -1 10288
+S
+#10286
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10283
+D1
+~
+~
+0 -1 10287
+D2
+~
+~
+0 -1 10289
+D3
+~
+~
+0 -1 10285
+S
+#10287
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10284
+D2
+~
+~
+0 -1 10290
+D3
+~
+~
+0 -1 10286
+S
+#10288
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10285
+D1
+~
+~
+0 -1 10289
+D2
+~
+~
+0 -1 10291
+S
+#10289
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10286
+D1
+~
+~
+0 -1 10290
+D2
+~
+~
+0 -1 10317
+D3
+~
+~
+0 -1 10288
+S
+#10290
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10287
+D2
+~
+~
+0 -1 10292
+D3
+~
+~
+0 -1 10289
+S
+#10291
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10288
+D1
+~
+~
+0 -1 10317
+S
+#10292
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 10290
+D3
+~
+~
+0 -1 10317
+S
+#10293
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D1
+~
+~
+0 -1 10295
+D2
+~
+~
+0 -1 10273
+S
+#10294
+Wilderness~
+All around there are tall trees and small animals walking about.  Although it seems quite peaceful, you feel a sense of danger all around you.
+~
+0 0 3
+D2
+~
+~
+0 -1 10275
+D3
+~
+~
+0 -1 10295
+S
+#10295
+Drawbridge of Friendly Arm~
+Before you is a huge drawbridge coming down slowly.  You wait in anticipation for your entrance to the Friendly Arm.
+~
+0 4 1
+D0
+~
+drawbridge~
+1 -1 10297
+D1
+~
+~
+0 -1 10294
+D2
+~
+~
+0 -1 10274
+D3
+~
+~
+0 -1 10293
+S
+#10296
+Streets of the Friendly Arm~
+You feel a little safer to get away from the wilderness and into a town.  This town is quite small, but the main attraction of the town, the Friendly Arm Inn, is very big and can be seen miles away.
+~
+0 0 1
+D0
+~
+~
+0 -1 10303
+D1
+~
+~
+0 -1 10297
+D3
+~
+door~
+1 -1 10315
+S
+#10297
+Streets of the Friendly Arm~
+You feel a little safer to get away from the wilderness and into a town.  This town is quite small, but the main attraction of the town, the Friendly Arm Inn, is very big and can be seen miles away.
+~
+0 4 1
+D0
+~
+door~
+1 -1 10304
+D1
+~
+~
+0 -1 10298
+D2
+~
+drawbridge~
+1 -1 10295
+D3
+~
+~
+0 -1 10296
+S
+#10298
+Streets of the Friendly Arm~
+You feel a little safer to get away from the wilderness and into a town.  This town is quite small, but the main attraction of the town, the Friendly Arm Inn, is very big and can be seen miles away.
+~
+0 0 1
+D0
+~
+~
+0 -1 10299
+D3
+~
+~
+0 -1 10297
+S
+#10299
+Streets of the Friendly Arm~
+You feel a little safer to get away from the wilderness and into a town.  This town is quite small, but the main attraction of the town, the Friendly Arm Inn, is very big and can be seen miles away.
+~
+0 0 1
+D0
+~
+~
+0 -1 10300
+D2
+~
+~
+0 -1 10298
+S
+#10300
+Streets of the Friendly Arm~
+You feel a little safer to get away from the wilderness and into a town.  This town is quite small, but the main attraction of the town, the Friendly Arm Inn, is very big and can be seen miles away.
+~
+0 0 1
+D2
+~
+~
+0 -1 10299
+D3
+~
+~
+0 -1 10301
+S
+#10301
+Streets of the Friendly Arm~
+You feel a little safer to get away from the wilderness and into a town.  This town is quite small, but the main attraction of the town, the Friendly Arm Inn, is very big and can be seen miles away.
+~
+0 0 1
+D1
+~
+~
+0 -1 10300
+D3
+~
+~
+0 -1 10302
+S
+#10302
+Streets of the Friendly Arm~
+You feel a little safer to get away from the wilderness and into a town.  This town is quite small, but the main attraction of the town, the Friendly Arm Inn, is very big and can be seen miles away.
+~
+0 0 1
+D0
+~
+~
+0 -1 10316
+D1
+~
+~
+0 -1 10301
+D2
+~
+~
+0 -1 10303
+S
+#10303
+Streets of the Friendly Arm~
+You feel a little safer to get away from the wilderness and into a town.  This town is quite small, but the main attraction of the town, the Friendly Arm Inn, is very big and can be seen miles away.
+~
+0 0 1
+D0
+~
+~
+0 -1 10302
+D2
+~
+~
+0 -1 10296
+S
+#10304
+The Friendly Arm Inn~
+This is the biggest inn you have ever seen!  The first floor consists of a large bar where many people come to relax from their adventures and rest.  The bartender can be seen at the back of the bar.
+~
+0 0 0
+D2
+~
+door~
+1 -1 10297
+D4
+~
+~
+0 -1 10305
+S
+#10305
+Second floor of the Friendly Arm Inn~
+The stairs keep going up and many rooms can be seen.
+~
+0 0 0
+D0
+~
+door~
+1 -1 10306
+D1
+~
+door~
+1 -1 10307
+D2
+~
+door~
+1 -1 10308
+D3
+~
+door~
+1 -1 10309
+D4
+~
+~
+0 -1 10310
+D5
+~
+~
+0 -1 10304
+S
+#10306
+A room of the Friendly Arm Inn~
+This is a room of the Friendly Arm Inn.  It seems quite comfortable and cozy.
+~
+0 0 0
+D2
+~
+door~
+1 -1 10305
+S
+#10307
+A room of the Friendly Arm Inn~
+This is a room of the Friendly Arm Inn.  It seems quite comfortable and cozy.
+~
+0 0 0
+D3
+~
+door~
+1 -1 10305
+S
+#10308
+A room of the Friendly Arm Inn~
+This is a room of the Friendly Arm Inn.  It seems quite comfortable and cozy.
+~
+0 0 0
+D0
+~
+door~
+1 -1 10305
+S
+#10309
+A room of the Friendly Arm Inn~
+This is a room of the Friendly Arm Inn.  It seems quite comfortable and cozy.
+~
+0 0 0
+D1
+~
+door~
+1 -1 10305
+S
+#10310
+Third floor of the Friendly Arm Inn~
+The last floor of this great inn. Rooms can be seen in every direction.
+~
+0 0 0
+D0
+~
+door~
+1 -1 10311
+D1
+~
+door~
+1 -1 10312
+D2
+~
+door~
+1 -1 10313
+D3
+~
+door~
+1 -1 10314
+D5
+~
+~
+0 -1 10305
+S
+#10311
+A room of the Friendly Arm Inn~
+This is a room of the Friendly Arm Inn.  It seems quite comfortable and cozy.
+~
+0 0 0
+D2
+~
+door~
+1 -1 10310
+S
+#10312
+A room of the Friendly Arm Inn~
+This is a room of the Friendly Arm Inn.  It seems quite comfortable and cozy.
+~
+0 0 0
+D3
+~
+door~
+1 -1 10310
+S
+#10313
+A room of the Friendly Arm Inn~
+This is a room of the Friendly Arm Inn.  It seems quite comfortable and cozy.
+~
+0 0 0
+D0
+~
+door~
+1 -1 10310
+S
+#10314
+A room of the Friendly Arm Inn~
+This is a room of the Friendly Arm Inn.  It seems quite comfortable and cozy.
+~
+0 0 0
+D1
+~
+door~
+1 -1 10310
+S
+#10315
+A small house~
+This is the home of a small lady. She seems to be sad.
+~
+0 0 0
+D1
+~
+door~
+1 -1 10296
+S
+#10316
+A small farm~
+You are standing before a very small farm owned by a fragile man.
+~
+0 0 1
+D2
+~
+~
+0 -1 10302
+S
+#10317
+The Gateway to Beregost~
+Before you is the big gates that keep the intruders out of the big city of Beregost.
+~
+0 4 1
+D0
+~
+~
+0 -1 10289
+D1
+~
+~
+0 -1 10292
+D2
+~
+gate~
+1 -1 10321
+D3
+~
+~
+0 -1 10291
+S
+#10318
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D1
+~
+~
+0 -1 10319
+D2
+~
+~
+0 -1 10335
+S
+#10319
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D1
+~
+~
+0 -1 10320
+D3
+~
+~
+0 -1 10318
+S
+#10320
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D1
+~
+~
+0 -1 10321
+D2
+~
+~
+0 -1 10336
+D3
+~
+~
+0 -1 10319
+S
+#10321
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 4 1
+D0
+~
+gate~
+1 -1 10317
+D1
+~
+~
+0 -1 10322
+D3
+~
+~
+0 -1 10320
+S
+#10322
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D1
+~
+~
+0 -1 10323
+D2
+~
+~
+0 -1 10338
+D3
+~
+~
+0 -1 10321
+S
+#10323
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D1
+~
+~
+0 -1 10324
+D3
+~
+~
+0 -1 10322
+S
+#10324
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10340
+D2
+~
+~
+0 -1 10325
+D3
+~
+~
+0 -1 10323
+S
+#10325
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10324
+D1
+~
+door~
+1 -1 10341
+D2
+~
+~
+0 -1 10326
+S
+#10326
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10325
+D2
+~
+~
+0 -1 10327
+S
+#10327
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10326
+D3
+~
+~
+0 -1 10328
+S
+#10328
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+door~
+1 -1 10343
+D1
+~
+~
+0 -1 10327
+D3
+~
+~
+0 -1 10329
+S
+#10329
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10339
+D1
+~
+~
+0 -1 10328
+D3
+~
+~
+0 -1 10330
+S
+#10330
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D1
+~
+~
+0 -1 10329
+D3
+~
+~
+0 -1 10331
+S
+#10331
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10337
+D1
+~
+~
+0 -1 10330
+D3
+~
+~
+0 -1 10332
+S
+#10332
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D1
+~
+~
+0 -1 10331
+D3
+~
+~
+0 -1 10333
+S
+#10333
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10334
+D1
+~
+~
+0 -1 10332
+S
+#10334
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10335
+D1
+~
+door~
+1 -1 10345
+D2
+~
+~
+0 -1 10333
+S
+#10335
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10318
+D2
+~
+~
+0 -1 10334
+S
+#10336
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10320
+D1
+~
+door~
+1 -1 10346
+D2
+~
+~
+0 -1 10337
+S
+#10337
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10336
+D2
+~
+~
+0 -1 10331
+D3
+~
+door~
+1 -1 10342
+S
+#10338
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10322
+D1
+~
+door~
+1 -1 10344
+D2
+~
+~
+0 -1 10339
+S
+#10339
+A trail in Beregost~
+You are walking down a trail in the town of Beregost.  There are houses all about and sounds of children playing outside fills the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 10338
+D2
+~
+~
+0 -1 10329
+S
+#10340
+Mayor's House~
+This is the house of the mayor of Beregost.  The house is pretty big and many flowers are grown in his front yard. Unfortunately the Mayor is out and no one can go inside.
+~
+0 0 1
+D2
+~
+~
+0 -1 10324
+S
+#10341
+Thundersmithy~
+This is the local blacksmith's shop by the name of Taerom Fuiruim, or for short, Thundersmithy.
+~
+0 0 0
+D3
+~
+door~
+1 -1 10325
+S
+#10342
+Feldepost's Inn~
+This is the famous Feldepost's Inn.  People come for a drink or to read a book, or to rent a room and DO IT! err..
+~
+0 0 0
+D1
+~
+door~
+1 -1 10337
+D4
+~
+~
+0 -1 10347
+S
+#10343
+Jovial Juggler~
+This is the local tavern where people get filthy drunk and laugh about it.
+~
+0 0 0
+D2
+~
+door~
+1 -1 10328
+S
+#10344
+Burning Wizard~
+This is the Burning Wizard Inn.  Lots of competition among these various inns nowadays.
+~
+0 0 0
+D3
+~
+door~
+1 -1 10338
+S
+#10345
+Red Sheaf~
+This is the Red Sheaf Inn.  People come here to relax and drink and stuff.
+~
+0 0 0
+D3
+~
+door~
+1 -1 10334
+S
+#10346
+A small house~
+This is quite a small house.  It is quite hard for you to imagine anyone living in such a place.
+~
+0 0 0
+D3
+~
+door~
+1 -1 10336
+D5
+~
+hiding~
+2 -1 10350
+S
+#10347
+Up the Stairs~
+You see two doors, one in front, one behind you.
+~
+0 0 0
+D0
+~
+door~
+1 -1 10348
+D2
+~
+door~
+1 -1 10349
+D5
+~
+~
+0 -1 10342
+S
+#10348
+A room in Feldepost's Inn~
+This room looks quite uncomfortable.  The bed here is very small and conditions are not favorable.
+~
+0 0 0
+D2
+~
+door~
+1 -1 10347
+S
+#10349
+A room in Feldepost's Inn~
+This room looks quite uncomfortable.  The bed here is very small and conditions are not favorable.
+~
+0 0 0
+D0
+~
+door~
+1 -1 10347
+S
+#10350
+Hiding Place~
+No one can get you in here. Hehehe...
+~
+0 1024 0
+D4
+~
+hiding~
+2 -1 10346
+S
+#0
+
+
+#RESETS
+D 1 10223 0 1			; Training Room Close North
+*
+M 1 10200 1 10201			Winthrop to Winthrop's Inn
+G 1 10201 100
+G 1 10202 100
+G 1 10203 100
+G 1 10204 100
+*
+M 1 10201 1 10201			Firebead Elvenhair to Winthrop's Inn
+O 1 10200 100 10200			a small crossbow to Streets of CandleKeep
+*
+M 1 10202 1 10201			A tutor to Winthrop's Inn
+O 1 10205 100 10201			stairs to Winthrop's Inn
+*
+M 1 10203 1 10206			A tutor to Up the Stairs
+O 1 10207 100 10204			a peasant's room bed to A Peasant's Room
+O 1 10208 100 10203			a commoner's room bed to A Commoner's Room
+O 1 10209 100 10202			a noble's room bed to A Noble's Room
+*
+M 1 10204 1 10202			a nobleman to A Noble's Room
+*
+M 1 10205 1 10202			A noblewoman to A Noble's Room
+*
+M 1 10206 1 10203			a sleeping man to A Commoner's Room
+O 1 10210 100 10205			a royal room bed to A Royal Room
+*
+M 1 10207 1 10207			Phlidia to Streets of CandleKeep
+G 1 10211 100
+*
+M 1 10209 1 10208			Parda the Priest to Streets of CandleKeep
+G 1 10213 100
+*
+M 1 10208 1 10225			Shank the Assassin to Priest's Quarters
+E 1 10212 100 16
+O 1 10213 100 10225			bible of Oghma to Priest's Quarters
+*
+M 1 10210 1 10226			Dreppin to Stables
+*
+M 1 10211 1 10226			Nessa the Cow to Stables
+E 1 10216 100 3
+O 1 10214 100 10226			some hay to Stables
+O 1 10215 100 10226			phlidia's Book to Stables
+*
+M 1 10213 1 10228			the priest of Oghma to Temple of Oghma
+G 1 10213 100
+*
+M 1 10216 1 10212			Reevor to Streets of CandleKeep
+O 1 10217 100 10227			old boxes to A Storeroom
+O 1 10218 100 10227			old barrels to A Storeroom
+*
+M 1 10217 4 10227			A Large Rat to A Storeroom
+*
+M 1 10214 1 10213			Jondalar to Streets of CandleKeep
+E 1 10219 100 16
+*
+M 1 10215 1 10213			Erik to Streets of CandleKeep
+E 1 10200 100 16
+*
+M 1 10218 1 10229			Hull the Guard to Front Gate
+O 1 10230 100 10229			the gates of CandleKeep to Front Gate
+*
+*
+M 1 10220 1 10230			Carbos the Assassin to Bunkhouse
+E 1 10224 100 16
+O 1 10220 100 10230			old shield to Bunkhouse
+O 1 10221 100 10230			old sword to Bunkhouse
+*
+M 1 10222 1 10223			Obe the Illusionist to Training Room
+*
+M 1 10221 1 10216			Karan to Streets of CandleKeep
+*
+M 1 10219 1 10215			The Gatewarden to Streets of CandleKeep
+E 1 10219 100 16
+*
+M 1 10223 1 10223			a gibberling to Training Room
+*
+M 1 10224 1 10223			a xvart to Training Room
+E 1 10225 100 16
+*
+*
+M 1 10225 1 10223			a skeleton to Training Room
+E 1 10221 100 16
+E 1 10220 100 17
+*
+M 1 10226 1 10223			a kobold to Training Room
+E 1 10226 100 16
+*
+M 1 10227 1 10223			a tasloi to Training Room
+E 1 10227 100 16
+*
+M 1 10228 1 10223			a hobgoblin to Training Room
+E 1 10200 100 16
+*
+M 1 10212 3 10224			Watcher to Barracks
+E 1 10219 100 16
+O 1 10222 100 10224			hull's longsword to Barracks
+*
+M 1 10229 1 10222			a small child to A small house
+O 1 10223 100 10222			dust to A small house
+*
+M 1 10230 1 10239			Tethtoril to The Gardenwalk
+G 1 10206 100
+*
+M 1 10232 1 10232			Gorion to The CandleKeep Library
+E 1 10219 100 16
+*
+M 1 10231 1 10236			Imoen to The Gardenwalk
+E 1 10200 100 16
+O 1 10229 100 10240			statue of Vincent to The Statue of Vincent
+O 1 10228 100 10240			flowers to The Statue of Vincent
+O 1 10228 100 10238			flowers to The Gardenwalk
+O 1 10228 100 10236			flowers to The Gardenwalk
+O 1 10228 100 10236			flowers to The Gardenwalk
+O 1 10228 100 10233			flowers to The Gardenwalk
+O 1 10228 100 10234			flowers to The Gardenwalk
+O 1 10228 100 10237			flowers to The Gardenwalk
+O 1 10228 100 10239			flowers to The Gardenwalk
+O 1 10228 100 10235			flowers to The Gardenwalk
+*
+M 1 10212 1 10200			Watcher to Streets of CandleKeep
+*
+M 1 10212 1 10208			Watcher to Streets of CandleKeep
+*
+M 1 10212 1 10207			Watcher to Streets of CandleKeep
+*
+M 1 10212 2 10209			Watcher to Streets of CandleKeep
+*
+M 1 10212 2 10210			Watcher to Streets of CandleKeep
+*
+M 1 10212 1 10211			Watcher to Streets of CandleKeep
+*
+M 1 10212 1 10213			Watcher to Streets of CandleKeep
+*
+M 1 10212 2 10214			Watcher to Streets of CandleKeep
+*
+M 1 10212 1 10215			Watcher to Streets of CandleKeep
+*
+M 1 10212 2 10217			Watcher to Streets of CandleKeep
+*
+M 1 10212 1 10218			Watcher to Streets of CandleKeep
+*
+M 1 10212 1 10219			Watcher to Streets of CandleKeep
+*
+M 1 10212 1 10220			Watcher to Streets of CandleKeep
+*
+M 1 10212 1 10221			Watcher to Streets of CandleKeep
+*
+M 1 10223 3 10241			a gibberling to Wilderness
+*
+M 1 10224 3 10245			a xvart to Wilderness
+E 1 10225 100 16
+*
+M 1 10226 4 10247			a kobold to Wilderness
+E 1 10226 100 16
+*
+M 1 10225 4 10252			a skeleton to Wilderness
+E 1 10221 100 16
+E 1 10220 100 17
+*
+M 1 10227 5 10256			a tasloi to Wilderness
+E 1 10227 100 16
+*
+M 1 10228 5 10260			a hobgoblin to Wilderness
+E 1 10200 100 16
+*
+M 1 10223 5 10265			a gibberling to Wilderness
+*
+M 1 10224 3 10268			a xvart to Wilderness
+*
+M 1 10225 3 10275			a skeleton to Wilderness
+E 1 10221 100 16
+E 1 10220 100 17
+*
+M 1 10223 6 10277			a gibberling to Wilderness
+*
+M 1 10225 4 10283			a skeleton to Wilderness
+E 1 10221 100 16
+E 1 10220 100 17
+*
+M 1 10228 4 10290			a hobgoblin to Wilderness
+E 1 10200 100 16
+*
+M 1 10233 1 10315			Joia to A small house
+*
+M 1 10234 1 10316			Tarnesh the farmer to A small farm
+E 1 10232 100 16
+*
+M 1 10235 2 10295			Friendly Arm Guard to Drawbridge of Friendly Arm
+E 1 10235 100 16
+*
+M 1 10228 1 10293			a hobgoblin to Wilderness
+E 1 10200 100 16
+G 1 10231 100
+O 1 10233 100 10316			a small farm to A small farm
+O 1 10234 100 10295			drawbridge to Drawbridge of Friendly Arm
+*
+M 1 10235 2 10298			Friendly Arm Guard to Streets of the Friendly Arm
+E 1 10235 100 16
+*
+M 1 10235 1 10299			Friendly Arm Guard to Streets of the Friendly Arm
+E 1 10235 100 16
+*
+M 1 10235 3 10300			Friendly Arm Guard to Streets of the Friendly Arm
+E 1 10235 100 16
+*
+M 1 10235 1 10302			Friendly Arm Guard to Streets of the Friendly Arm
+E 1 10235 100 16
+*
+M 1 10235 1 10296			Friendly Arm Guard to Streets of the Friendly Arm
+E 1 10235 100 16
+*
+M 1 10236 1 10304			Barkeeper to The Friendly Arm Inn
+*
+M 1 10237 1 10304			a drunk to The Friendly Arm Inn
+O 1 10238 100 10304			a broken bottle to The Friendly Arm Inn
+O 1 10240 100 10304			stairs to The Friendly Arm Inn
+O 1 10241 100 10305			stairs 2f to Second floor of the Friendly Arm Inn
+*
+M 1 10235 1 10305			Friendly Arm Guard to Second floor of the Friendly Arm Inn
+E 1 10235 100 16
+O 1 10239 100 10306			a pretty big bed to A room of the Friendly Arm Inn
+O 1 10239 100 10308			a pretty big bed to A room of the Friendly Arm Inn
+O 1 10239 100 10309			a pretty big bed to A room of the Friendly Arm Inn
+O 1 10239 100 10307			a pretty big bed to A room of the Friendly Arm Inn
+O 1 10239 100 10311			a pretty big bed to A room of the Friendly Arm Inn
+O 1 10239 100 10313			a pretty big bed to A room of the Friendly Arm Inn
+O 1 10239 100 10312			a pretty big bed to A room of the Friendly Arm Inn
+O 1 10239 100 10314			a pretty big bed to A room of the Friendly Arm Inn
+O 1 10236 100 10314			cabinets to A room of the Friendly Arm Inn
+O 1 10236 100 10313			cabinets to A room of the Friendly Arm Inn
+*
+M 1 10235 1 10310			Friendly Arm Guard to Third floor of the Friendly Arm Inn
+E 1 10235 100 16
+O 1 10236 100 10306			cabinets to A room of the Friendly Arm Inn
+O 1 10236 100 10307			cabinets to A room of the Friendly Arm Inn
+*
+M 1 10238 1 10340			Mayor of Beregost to Mayor's House
+O 1 10242 100 10325			sign Thundersmithy to A trail in Beregost
+*
+M 1 10239 1 10341			Taerom Fuiruim to Thundersmithy
+O 1 10248 100 10341			anvil to Thundersmithy
+O 1 10244 100 10328			sign Jovial Juggler to A trail in Beregost
+*
+M 1 10236 1 10343			Barkeeper to Jovial Juggler
+*
+M 1 10243 1 10343			Bjornin the Paladin to Jovial Juggler
+E 1 10247 100 16
+O 1 10237 100 10343			tables to Jovial Juggler
+O 1 10238 100 10343			a broken bottle to Jovial Juggler
+O 1 10245 100 10338			sign Burning Wizard to A trail in Beregost
+*
+M 1 10236 1 10344			Barkeeper to Burning Wizard
+*
+M 1 10237 1 10344			a drunk to Burning Wizard
+O 1 10237 100 10344			tables to Burning Wizard
+*
+M 1 10245 1 10346			Mirianne to A small house
+O 1 10243 100 10337			sign feldepost's inn to A trail in Beregost
+*
+M 1 10236 1 10342			Barkeeper to Feldepost's Inn
+*
+M 1 10241 1 10342			Marl the Drunk to Feldepost's Inn
+*
+M 1 10246 1 10342			the Beregost Guard to Feldepost's Inn
+E 1 10247 100 16
+O 1 10237 100 10342			tables to Feldepost's Inn
+O 1 10240 100 10342			stairs to Feldepost's Inn
+*
+M 1 10246 1 10347			the Beregost Guard to Up the Stairs
+E 1 10247 100 16
+O 1 10249 100 10349			a small ass bed to A room in Feldepost's Inn
+*
+M 1 10240 1 10349			Tranzig the Thug to A room in Feldepost's Inn
+E 1 10226 100 16
+O 1 10249 100 10348			a small ass bed to A room in Feldepost's Inn
+O 1 10235 100 10348			Friendly Arm Quarterstaff to A room in Feldepost's Inn
+O 1 10236 100 10348			cabinets to A room in Feldepost's Inn
+O 1 10246 100 10334			sign red sheaf to A trail in Beregost
+*
+M 1 10236 1 10345			Barkeeper to Red Sheaf
+*
+M 1 10242 1 10345			Landrin to Red Sheaf
+O 1 10237 100 10345			tables to Red Sheaf
+*
+M 1 10244 1 10339			Silke the thief to A trail in Beregost
+E 1 10226 100 16
+*
+M 1 10246 5 10327			the Beregost Guard to A trail in Beregost
+E 1 10247 100 16
+*
+M 1 10246 4 10330			the Beregost Guard to A trail in Beregost
+E 1 10247 100 16
+*
+M 1 10246 2 10336			the Beregost Guard to A trail in Beregost
+E 1 10247 100 16
+*
+M 1 10246 2 10317			the Beregost Guard to The Gateway to Beregost
+E 1 10247 100 16
+*
+M 1 10246 5 10323			the Beregost Guard to A trail in Beregost
+E 1 10247 100 16
+O 1 10237 100 10231			tables to The CandleKeep Hospital
+S
+
+
+#$

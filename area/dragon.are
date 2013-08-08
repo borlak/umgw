@@ -1,0 +1,345 @@
+#AREA	{ 5 35} M.Z.F.  Prototype for New Area~
+
+
+#MOBILES
+#20000
+The Red Dragon~
+The Red Dragon~
+The Red Dragon of fire explodes in fury at being waken and attacks you, the power of its fury overwhelming.
+~
+You see the Flawless gleeming scales of the red dragon, His body ripples with muscles and looks as though it has taken the life of many a foolhearty adventurer in his life.
+~
+2|32|64 8|32|128|512|8192|65536|524288 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20001
+Dragon Mimic~
+The Dragon Mimic~
+Its almost a dragon but not quite, his fury is terrable but not as much so.
+~
+Its a Dragon mimic, It can be any dragon and is known for eating its fair share of foolish adventurers.
+~
+2|32|64 8|32|128|512|8192|65536|524288 0 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#20002
+The Ice Dragon~
+The Ice Dragon~
+You see your chilling death by the ice dragon as it lunges at you.....
+~
+The master of ice, the ruler of the cold, it is the ice Dragon. one of the strongest dragons its breath can freeze any liveing thing...
+~
+2|32|64 8|32|128|512|8192|65536|524288 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#20003
+The Acid Dragon~
+The Acid Dragon~
+The Acid Dragon wallows in the pool then noticeing you lunges spraying the corrosive liquid everywhere.
+~
+The pig of the Dragon race the acid dragon spends its time in a pool of acid, however they are more than a force to reccon with...
+~
+2|32|64 8|32|128|512|8192|65536|524288 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20004
+The Cloud Dragon~
+The Cloud Dragon~
+The Cloud Dragon lunges at you claws extended and eyes blazeing.
+~
+The most vengfull of all dragons the cloud dragon is formittable but headstrong.
+~
+2|32|64 8|32|128|512|8192|65536|524288 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#20005
+The Lightning Dragon~
+The Lightning Dragon~
+The slow but strong lightning dragon attacks you causing your hair to stand on end.
+~
+The slowest of the dragons the lightning dragon realies on shear strength.
+~
+2|32|64 8|32|128|512|8192|65536|524288 0 S
+750 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20006
+Dragon Mother~
+The Dragon Mother~
+The Dragon Mother lunges to defend her hatchlings!
+~
+The Huge hulk of the Dragon Mother ripples with muscle and power, almost overwhelming. If you tangle with her your strong, stupid, or dead.
+~
+2|32|64 2|8|32|128|512|8192|65536|524288 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#20007
+The Hatchling~
+The Hatchling~
+The cute hatchling munches on a bone then notices you and attacks squeeking and bearing its little claws
+~
+The hatchling munches on its toy and squeeks in its baby-roar.
+~
+2|32|64 2|8|32|128|512|8192|65536 0 S
+332 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20008
+Gold Queen~
+The Golden Dragon Queen~
+The Golden Queen Dragon attacks you from her pile of riches looking huge....but nothing compared to her husband...
+~
+The Golden Queen Dragon attacks you from her pile of riches looking huge....but nothing compared to her husband...
+~
+2|32|64 2|8|32|128|512|8192|65536 0 S
+1750 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#20009
+Golden King~
+The Golden Dragon King~
+The King of all dragons attacks you with his killer claws and deadly fangs...
+~
+The King of all dragons towers over you and ripples with shear power. His roar sends your blood running cold,
+~
+2|32|64 2|8|32|128|512|8192|65536 0 S
+2500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#20000
+Scroll of the Dragon~
+The scroll of the Dragon~
+A tattered peice of parchment rests here glowing with power...~
+~
+2 1|2|32|64 1|8192
+1600 24 -1 -1 
+5 0 0
+#20001
+The sword of the Dragonkind~
+The sword of the Dragonkind~
+A long sword with the hilt of a dragonhead and the blade made from a molded dragon claw.~
+~
+5 0 1|8192
+500000000 25 45 11 
+5 0 0
+A
+17 -25
+A
+18 10
+A
+19 10
+A
+13 50
+A
+14 50
+A
+12 50
+#20002
+Dragon Hide~
+Dragon Hide~
+a section of Dragon Hide formed like a vest rests here.~
+~
+9 0 1|8
+20 30 40 50 
+5 0 0
+A
+17 -150
+A
+14 -250
+A
+2 -5
+#0
+
+
+#ROOMS
+#20000
+The Entrance to the Cave of the Dragons~
+A Warm Breeze whips your hair around as you stare at the breathtakeing maw ahead. Inside grunts and growls make your blood run cold. The stench of rot and decay flow forth from the Cave and the smell of Dragon emits. As you walk closer the heat coming from the mouth of the cave is almost unbearable, I wouldn't go in there unless you are very strong or very stupid.
+~
+0 8192 5
+D0
+~
+~
+0 -1 20001
+S
+#20001
+Inside the Dragon's Caves~
+The Bodys of the Enormus beasts rest ontop of each other in a huge pile of power. The heat of their bodies warm the walls almost to the melting point, You thank your god(s) for your magic exsistance that you are not cooked on the spot. Your foot slips and the dragons wake...
+~
+0 1|8192 0
+D0
+~
+~
+0 -1 20004
+D1
+~
+~
+0 -1 20003
+D2
+~
+~
+0 -1 20000
+D3
+~
+~
+0 -1 20002
+S
+#20002
+Inside the Dragon's Caves~
+The temparature drops to sub zero, again you thank your god(s) for your temparature immunities. There are dragons all over this room as well, however they are blue not red and icecicles line their forms and nostrals. You knock an icecicle off and they wake...
+~
+0 1|8192 0
+D1
+~
+~
+0 -1 20001
+S
+#20003
+Inside the Dragon's Caves~
+Corrosive acid drips from the roof and down the walls, Dragons wallow in the acidic pool at the bottom of the cave. Your foot knocks a section of corroded rock into the pool, it decentigrates on contact but only after allerting them of your presence...
+~
+0 1|8192 0
+D3
+~
+~
+0 -1 20001
+S
+#20004
+Inside the Dragon's Caves~
+Mist surrounds your ankles as you step into this area of the cave, Dragons float around but your desturbance in the mist allerts them of your presence, They roar a defaning roar and attack claws ready...
+~
+0 1|8192 0
+D0
+~
+~
+0 -1 20005
+D2
+~
+~
+0 -1 20001
+S
+#20005
+Inside the Dragon's Caves~
+As you enter your hair stands on end due to static electricity, Your arms tingle and the dragons in this area snort and sniff smelling you, they turn arround slothfully and attack you through sheer power...
+~
+0 1|8192 0
+D0
+~
+~
+0 -1 20006
+D2
+~
+~
+0 -1 20004
+S
+#20006
+The Hatchery~
+Small dragons litter the floor here, each one is strong for its size but not much of a threat single, but in a group...They munch on small bones and shells scurrieing arround looking cute in their own way. You step on an egg shell as you relax, they spring at you as well as the large dragon you missed...
+~
+0 0 1
+D0
+~
+~
+0 -1 20007
+D2
+~
+~
+0 -1 20005
+D3
+~
+~
+0 -1 20008
+S
+#20007
+The Room of the Golden Dragon.~
+You enter a room with two huge golden dragons. They are the strongest of all dragons, if you thought the dragon mother was tough, be ready. The king and queen of the dragonkind lay on huge piles of gold and riches, The notice you and rise up knocking gold and items everywhere, They tower 60' tall each...
+~
+0 0 1
+D2
+~
+~
+0 -1 20006
+S
+#20008
+The Hatchery~
+Small dragons litter the floor here, each one is strong for its size but not much of a threat single, but in a group...They munch on small bones and shells scurrieing arround looking cute in their own way. You step on an egg shell as you relax, they spring at you.
+~
+0 0 1
+D1
+~
+~
+0 -1 20006
+S
+#0
+
+
+#RESETS
+*
+M 1 20000 2 20001			The Red Dragon to Inside the Dragon's Caves
+*
+M 1 20001 4 20001			The Dragon Mimic to Inside the Dragon's Caves
+*
+M 1 20002 2 20002			The Ice Dragon to Inside the Dragon's Caves
+*
+M 1 20001 4 20002			The Dragon Mimic to Inside the Dragon's Caves
+*
+M 1 20003 2 20003			The Acid Dragon to Inside the Dragon's Cave
+*
+M 1 20001 4 20003			The Dragon Mimic to Inside the Dragon's Cave
+*
+M 1 20005 2 20005			The Lightning Dragon to Inside the Dragon's Caves
+*
+M 1 20001 4 20005			The Dragon Mimic to Inside the Dragon's Caves
+*
+M 1 20006 1 20006			The Dragon Mother to The Hatchery
+*
+M 1 20007 30 20006			The Hatchling to The Hatchery
+*
+M 1 20007 30 20008
+*
+M 1 20007 30 20008
+*
+M 1 20007 30 20008
+*
+M 1 20007 15 20009
+*
+M 1 0 5 20009
+*
+M 1 20001 5 20008			The Dragon Mimic to The Hatchery
+*
+*
+M 1 20008 1 20007			The Golden Dragon Queen to The Room of the Golden Dragon.
+E 1 20002 100 5
+E 1 20001 100 16
+G 1 20000 100
+*
+M 1 20009 1 20007			The Golden Dragon King to The Room of the Golden Dragon.
+E 1 20002 100 5
+E 1 20000 100 16
+G 1 20000 100
+S
+
+
+#SPECIALS
+M  20000 spec_breath_fire			The Red Dragon
+M  20001 spec_breath_any			The Dragon Mimic
+M  20002 spec_breath_frost			The Ice Dragon
+M  20003 spec_breath_acid			The Acid Dragon
+M  20004 spec_breath_gas			The Cloud Dragon
+M  20005 spec_breath_lightning			The Lightning Dragon
+M  20006 spec_breath_any			The Dragon Mother
+M  20008 spec_breath_any			The Golden Dragon Queen
+S
+
+
+#$

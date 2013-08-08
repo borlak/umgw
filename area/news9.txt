@@ -1,0 +1,96 @@
+- {CFri Sep 14{x - Today is National Pride/Prayer Day:  Wear your red, white and
+{x{x               blue, and fly your flags high!
+
+- {CFri Sep 14{x - You now get a random token per kill in a tournament.
+
+- {CSun Sep 16{x - Sacrifice all works.
+
+- {CSun Sep 16{x - You can no longer Darkblaze while safe.
+
+- {CMon Sep 17{x - Added Arkyn's Abode (keyword: arkyn) to portal room in midgaard.
+{x{x                This area may load decent eq from what I've heard.
+
+- {CMon Sep 17{x - Divided Souls(keyword: souls) also added to the portal room
+
+- {CTue Sep 18{x - The new addresses for the mud {Bwill{X be umgw.borlak.org and
+{x{x               umgw.jasonrules.org!
+
+- {CWed Sep 19{x - characters with less than 6 hours can no longer be attacked.
+
+- {CWed Sep 19{x - New note reply.  Make a note using note +, and then type note
+{x{x               reply #.  The subject and to list will be done for you.
+
+- {CMon Sep 24{x - silver tolerance bug fixed.
+
+- {CMon Sep 24{x - ww toughness a bit more random.
+
+- {CWed Sep 26{x - welcome to new mud location. we moved.
+
+- {CWed Sep 26{x - Ping command is enabled again.
+
+- {CWed Sep 26{x - We have made the move to my work box!  It is off a T1 line in
+{x{x               Oklahoma City.
+
+- {CWed Sep 26{x - Who list changed somewhat.  It will show your lag as a # from
+{x{x               1-9.  It no longer shows Master/App., but does show up as {{C
+{x{x               for Master and {{c for Apprentice.
+
+
+- {CWed Sep 26{x - Scatter command in for immortals!
+
+- {CWed Sep 26{x - Repeat command in for immortals!
+
+- {CFri Sep 28{x - Fifty 25 quest point tokens are randomly scattered each reboot,
+{x{x               as well as 100 1 point tokens.
+
+- {CFri Sep 28{x - Astralwalk fixed for vamps.
+
+- {CTue Oct  2{x - Moved the server into our server room and connected it directly
+{x{x               to the switch.  Your connection may be faster.
+
+- {CTue Oct  2{x - Snippets page fixed.
+
+- {CMon Oct  8{x - "Darkening" the mud; getting rid of all the twinky bright colors.
+
+- {CMon Oct  8{x - Random quest tokens appear less often now, but are twice as good.
+
+- {CMon Oct  8{x - Code update less frequent as well.
+
+- {CMon Oct  8{x - Map improved again: type map.  You can turn off players, or mobs,
+{x{x               or color, or any combination thereof.
+
+- {CMon Oct  8{x - morts can see imms ping now
+
+- {CMon Oct  8{x - Several minor bugs fixed.
+
+- {CMon Oct  8{x - Findbest command for immortals.
+
+- {CMon Oct  8{x - frequently ask questioned helpfiles[faq, faq2]
+
+- {CMon Oct  8{x - The super area now has a _small_ chance to drop powerful weapons
+{x{x               and armor.
+
+- {CMon Oct  8{x - Werewolves no longer drop Greater Klaives when they rage.
+
+- {CTue Oct 16{x - i was idle all day today ... -pip.
+
+- {CTue Oct 30{x - picture of my halloween pumpkin. finger me for the website.
+
+- {CWed Oct 31{x - new locate object format: N = name, ID = keywords, M = mob/player,
+{x{x               R = room that mob/player is in, and A = area that mob/player
+{x{x               is in.
+
+- {CMon Nov  5{x - generation help file added.
+
+- {CWed Nov  7{x - severed arms and legs can now be used as weapons.
+
+- {CMon Nov 12{x - class powers will no longer enable people to travel in safe mode.
+
+- {CThu Nov 15{x - Scooby is an imp.  He no longer has any playing characters.
+
+- {CTue Nov 27{x - This will be a roast so please come with your funny/made-up stories
+{x{x               about Vera so we can all share in the fun!  Floyd has agreed
+{x{x               to be the mc.  Thank you, Floyd!  We will have good food and
+{x{x               drinks so please rsvp to me.  Thank you.  Lorraine
+
+

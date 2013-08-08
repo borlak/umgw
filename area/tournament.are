@@ -1,0 +1,88 @@
+#AREA  Borlak  Tournament Area~
+
+
+#ROOMS
+#10
+Waiting Room~
+Prepare yourself.
+~
+0 1|4|8|512|1024|2048|8192|16384 0
+S
+#11
+Waiting Room~
+Prepare yourself.
+~
+0 1|4|8|512|1024|2048|8192|16384 0
+S
+#12
+Tournament~
+You are in a tournament, I think you
+should be fighting instead of reading 
+this room description, hmmm?
+~
+0 4|8|8192 0
+D1
+~
+~
+0 -1 15
+D2
+~
+~
+0 -1 13
+S
+#13
+Tournament~
+You are in a tournament, I think you
+should be fighting instead of reading 
+this room description, hmmm?
+~
+0 4|8|8192 0
+D0
+~
+~
+0 -1 12
+D1
+~
+~
+0 -1 14
+S
+#14
+Tournament~
+You are in a tournament, I think you
+should be fighting instead of reading 
+this room description, hmmm?
+~
+0 4|8|8192 0
+D0
+~
+~
+0 -1 15
+D3
+~
+~
+0 -1 13
+S
+#15
+Tournament~
+You are in a tournament, I think you
+should be fighting instead of reading 
+this room description, hmmm?
+~
+0 4|8|8192 0
+D1
+~
+~
+0 -1 14
+D2
+~
+~
+0 -1 14
+D3
+~
+~
+0 -1 12
+S
+#0
+
+
+#$

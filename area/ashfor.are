@@ -1,0 +1,1168 @@
+#AREA	Arkyn   The Ash Forest~
+
+
+#MOBILES
+#12500
+shard~
+a lesser shard~
+The Shard see's you and attacks!
+~
+You see a ghastly sight, that at first you mistake for a ghoul, but too late you realise it is your doom!
+~
+32|64|1024 2|8|32|128|512|32768|65536|524288 -750 S
+75 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#12501
+shard~
+a greater Shard~
+The Shard see's you and attacks!
+~
+You see a ghastly sight, that at first you mistake for a ghoul, but too late you realise it is your doom!
+~
+32|64|1024 2|8|32|128|512|32768|65536|524288 -750 S
+125 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#12502
+shard shar-ti lord~
+Shar-ti Lord of the I-lat~
+Shar-ti is not thrilled at your presence and orders his minions upon you!
+~
+You see a ghastly sight, that at first you mistake for a ghoul, but too late you realise it is your doom!
+~
+2|4|64 2|8|32|128|512|8192|524288 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#12500
+ruby~
+a large red ruby~
+A large red ruby is lies pulsing with energy~
+~
+2 1|16|64|128|4096 1|16384
+60 26 26 26 
+10 0 0
+A
+23 0
+#12501
+Throne~
+a  Tree Throne~
+A throne carved out of a huge tree is sitting here with a large ruby gem embeded within~
+~
+15 16|64 8192
+20 0 1 11 
+5 0 0
+#12502
+tree gem ruby~
+a huge ruby~
+A huge ruby lies here pulsating with power~
+~
+4 1|2|16|64|128|4096 1|16384
+125 6 6 40 
+20 0 0
+#0
+
+
+#ROOMS
+#12500
+The path in the Forest of Ash~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+You get an erie feeling as if you are being watched!
+There is a SIGN here, that you think YOU HAD BETTER READ!
+~
+0 1|4|8 3
+D0
+You see a forest to the north.
+~
+~
+0 0 5258
+D2
+~
+~
+0 -1 12501
+E
+sign~
+A sign posted here warns of flesh eating demons in the trees.
+"Beware of Shards" --Arkyn
+(This is not an area for newbies. You have been warned)~
+S
+#12501
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12500
+D2
+~
+~
+0 -1 12502
+S
+#12502
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12501
+D1
+~
+~
+0 -1 12507
+D2
+~
+~
+0 -1 12503
+S
+#12503
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12502
+D2
+~
+~
+0 -1 12504
+D3
+~
+~
+0 -1 12515
+S
+#12504
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12503
+D2
+~
+~
+0 -1 12505
+S
+#12505
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12504
+D2
+~
+~
+0 -1 12506
+S
+#12506
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12505
+D1
+~
+~
+0 -1 12519
+S
+#12507
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12508
+D3
+~
+~
+0 -1 12502
+S
+#12508
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12509
+D3
+~
+~
+0 -1 12507
+S
+#12509
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12510
+D3
+~
+~
+0 -1 12508
+S
+#12510
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D2
+~
+~
+0 -1 12511
+D3
+~
+~
+0 -1 12509
+S
+#12511
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12510
+D2
+~
+~
+0 -1 12512
+S
+#12512
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12511
+D1
+~
+~
+0 -1 12513
+S
+#12513
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12514
+D3
+~
+~
+0 -1 12512
+S
+#12514
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12510
+D2
+~
+~
+0 -1 12513
+S
+#12515
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12503
+D3
+~
+~
+0 -1 12516
+S
+#12516
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12515
+D2
+~
+~
+0 -1 12517
+S
+#12517
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12516
+D2
+~
+~
+0 -1 12518
+S
+#12518
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12517
+D2
+~
+~
+0 -1 12527
+S
+#12519
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12520
+D2
+~
+~
+0 -1 12532
+D3
+~
+~
+0 -1 12506
+S
+#12520
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12521
+D3
+~
+~
+0 -1 12519
+S
+#12521
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12522
+D3
+~
+~
+0 -1 12520
+S
+#12522
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12523
+D3
+~
+~
+0 -1 12521
+S
+#12523
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12524
+D2
+~
+~
+0 -1 12554
+D3
+~
+~
+0 -1 12522
+S
+#12524
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12525
+D3
+~
+~
+0 -1 12523
+S
+#12525
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12526
+D3
+~
+~
+0 -1 12524
+S
+#12526
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D3
+~
+~
+0 -1 12525
+S
+#12527
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12518
+D2
+~
+~
+0 -1 12528
+S
+#12528
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12527
+D1
+~
+~
+0 -1 12529
+S
+#12529
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D2
+~
+~
+0 -1 12530
+D3
+~
+~
+0 -1 12528
+S
+#12530
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12529
+D1
+~
+~
+0 -1 12531
+D3
+~
+~
+0 -1 12534
+S
+#12531
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12533
+D3
+~
+~
+0 -1 12530
+S
+#12532
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12519
+D2
+~
+~
+0 -1 12533
+S
+#12533
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12532
+D3
+~
+~
+0 -1 12531
+S
+#12534
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12530
+D2
+~
+~
+0 -1 12550
+D3
+~
+~
+0 -1 12535
+S
+#12535
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12534
+D3
+~
+~
+0 -1 12536
+S
+#12536
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12537
+D1
+~
+~
+0 -1 12535
+S
+#12537
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12538
+D2
+~
+~
+0 -1 12536
+S
+#12538
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12539
+D2
+~
+~
+0 -1 12537
+S
+#12539
+Lost in the Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+You seem to have strayed off the beaten path and are hoplessly lost.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 12540
+D1
+~
+~
+0 -1 12541
+D2
+~
+~
+0 -1 12538
+D3
+~
+~
+0 -1 12542
+S
+#12540
+Lost in the Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+You seem to have strayed off the beaten path and are hoplessly lost.
+~
+0 1|8|8192 3
+D1
+~
+~
+0 -1 12543
+D2
+~
+~
+0 -1 12539
+D3
+~
+~
+0 -1 12546
+S
+#12541
+Lost in the Ash Forest~
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+You seem to have strayed off the beaten path and are hoplessly lost.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 12543
+S
+#12542
+Lost in the Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+You seem to have strayed off the beaten path and are hoplessly lost..
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 12546
+D1
+~
+~
+0 -1 12543
+D2
+~
+~
+0 -1 12547
+D3
+~
+~
+0 -1 12500
+S
+#12543
+Lost in the Ash Forest~
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+You seem to have strayed off the beaten path and are hoplessly lost.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 12544
+D2
+~
+~
+0 -1 12541
+S
+#12544
+Lost in the Ash Forest~
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+You seem to have strayed off the beaten path and are hoplessly lost.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 12539
+D1
+~
+~
+0 -1 12553
+D3
+~
+~
+0 -1 12541
+S
+#12545
+Lost in the Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+You seem to have strayed off the beaten path and are hoplessly lost.
+~
+0 1|8|8192 3
+D2
+~
+~
+0 -1 12540
+D3
+~
+~
+0 -1 12548
+S
+#12546
+Lost in the Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+You seem to have strayed off the beaten path and are hoplessly lost.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 12547
+D1
+~
+~
+0 -1 12540
+D2
+~
+~
+0 -1 12542
+D3
+~
+~
+0 -1 12544
+S
+#12547
+Lost in the Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+You seem to have strayed off the beaten path and are hoplessly lost.
+~
+0 1|8|8192 3
+D0
+~
+~
+0 -1 12547
+D1
+~
+~
+0 -1 12545
+D2
+~
+~
+0 -1 12546
+D3
+~
+~
+0 -1 12532
+S
+#12548
+A row of trees~
+You come out of the forest to see a double row of Ash trees making a path to the north.
+~
+0 1|4|8 3
+D0
+~
+~
+0 -1 12549
+D1
+~
+~
+0 -1 12545
+S
+#12549
+The Throne~
+The path seems to have led up a large circular clearing.
+~
+0 1|8 3
+D2
+~
+~
+0 -1 12548
+S
+#12550
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12534
+D2
+~
+~
+0 -1 12551
+S
+#12551
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12550
+D1
+~
+~
+0 -1 12552
+S
+#12552
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12553
+D3
+~
+~
+0 -1 12551
+S
+#12553
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D3
+~
+~
+0 -1 12552
+S
+#12554
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12523
+D2
+~
+~
+0 -1 12555
+S
+#12555
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12554
+D2
+~
+~
+0 -1 12556
+S
+#12556
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12555
+D1
+~
+~
+0 -1 12562
+D2
+~
+~
+0 -1 12557
+S
+#12557
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12556
+D1
+~
+~
+0 -1 12558
+S
+#12558
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12559
+D3
+~
+~
+0 -1 12557
+S
+#12559
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12560
+D3
+~
+~
+0 -1 12558
+S
+#12560
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12563
+D2
+~
+~
+0 -1 12561
+D3
+~
+~
+0 -1 12559
+S
+#12561
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12560
+D2
+~
+~
+0 -1 12564
+S
+#12562
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D1
+~
+~
+0 -1 12563
+D3
+~
+~
+0 -1 12556
+S
+#12563
+The Ash Forest~
+You are walking through a forest that was burned to a cinder, yet all the tree's seem perfectaclly presevered as ash replicas of their once former glory.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D2
+~
+~
+0 -1 12560
+D3
+~
+~
+0 -1 12562
+S
+#12564
+A Clearing~
+You come upon a clearing in this dead forest.
+Weird shadows seem to dance and play all around you, yet are moving too fast for your eyes to follow.
+~
+0 1|8 3
+D0
+~
+~
+0 -1 12561
+S
+#0
+
+
+#RESETS
+*
+*
+M 1 12501 0 12564			a greater Shard to A Clearing
+M 1 12501 0 12564			a greater Shard to A Clearing
+M 1 12501 0 12564			a greater Shard to A Clearing
+M 1 12501 0 12564			a greater Shard to A Clearing
+M 1 12501 0 12564			a greater Shard to A Clearing
+G 1 12500 100
+*
+*
+*
+*
+*
+*
+*
+R 1 12539 4			; Randomize Lost in the Ash Forest
+R 1 12540 4			; Randomize Lost in the Ash Forest
+R 1 12542 4			; Randomize Lost in the Ash Forest
+R 1 12541 4			; Randomize Lost in the Ash Forest
+O 1 12501 100 12549			a  Tree Throne to The Throne
+*
+M 1 12500 10 12549			Shar-ti Lord of the I-lat to The Throne
+E 1 12500 100 17
+*
+*
+*
+*
+M 1 12500 10 12549			a lesser shard to The Throne
+M 1 12500 10 12549			a lesser shard to The Throne
+M 1 12500 10 12549			a lesser shard to The Throne
+*
+M 1 12502 1 12549			Shar-ti Lord of the I-lat to The Throne
+*
+M 1 12500 10 12564			a lesser shard to A Clearing
+M 1 12500 10 12564			a lesser shard to A Clearing
+M 1 12500 10 12564			a lesser shard to A Clearing
+*
+M 1 12501 1 12564			a greater Shard to A Clearing
+M 1 12501 1 12564			a greater Shard to A Clearing
+M 1 12501 1 12564			a greater Shard to A Clearing
+*
+M 1 12500 10 12564			a lesser shard to A Clearing
+M 1 12500 10 12564			a lesser shard to A Clearing
+M 1 12500 10 12564			a lesser shard to A Clearing
+M 1 12500 10 12564			a lesser shard to A Clearing
+R 1 12543 4			; Randomize Lost in the Ash Forest
+R 1 12544 4			; Randomize Lost in the Ash Forest
+R 1 12545 4			; Randomize Lost in the Ash Forest
+R 1 12546 4			; Randomize Lost in the Ash Forest
+R 1 12547 4			; Randomize Lost in the Ash Forest
+S
+
+
+
+#$

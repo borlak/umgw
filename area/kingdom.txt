@@ -1,0 +1,37 @@
+KingdomID      2
+Name           ~
+Noansiname     ~
+Leader         ~
+Members        ~
+Trustees       ~
+Points         0
+Realpoints     0
+Pks            0
+Assists        0
+Pds            0
+Upkeep         0
+Recall         0
+Treaties       0
+Wars           0
+
+
+KingdomID      1
+Name           ~
+Noansiname     ~
+Leader         ~
+Members        ~
+Trustees       ~
+Points         0
+Realpoints     0
+Pks            0
+Assists        0
+Pds            0
+Upkeep         0
+Recall         0
+Treaties       0
+Wars           0
+
+
+
+End
+

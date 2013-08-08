@@ -1,0 +1,2335 @@
+#AREA	Borlak  Seirof~
+
+
+#MOBILES
+#20100
+lich~
+The Lich~
+The Lich is here, evil surrounds you.
+~
+The essense of evil, the second defintion of death; it is the Lich.
+~
+2|32|64 2|8|32|524288 -1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#20101
+george guard~
+George~
+A guard named George is here, guarding Seirof.
+~
+He looks sort of slow.
+~
+2|64 0 0 S
+220 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20102
+tim guard~
+Tim~
+A guard named Tim is here, guarding Seirof.
+~
+He looks faster than George.
+~
+2|64 0 0 S
+320 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20103
+seirof~
+Seirof food~
+Seirof, the food seller is here.
+~
+He sells food.
+~
+2|64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20104
+seirof~
+Seirof weapons~
+Seirof is here, selling weapons.
+~
+He's selling weapons.
+~
+2|64 0 0 S
+220 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20105
+seirof~
+Seirof armor~
+Seirof is here, selling armor
+~
+He's selling armor.
+~
+2|64 0 0 S
+320 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20106
+seirof~
+Seirof jeweller~
+Seirof is here, selling jewels.
+~
+He's selling jewels
+~
+2|64 0 0 S
+220 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20107
+seirof~
+Seirof mage~
+Seirof the mage is here, selling magical items.
+~
+He's selling magical items.
+~
+2|64 0 0 S
+220 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20108
+seirof~
+Seirof~
+Seirof is here.
+~
+He's here.
+~
+2|64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20109
+mayor seirof~
+The mayor of Seirof~
+The Mayor of Seirof is here, counting money.
+~
+He looks like he loves his money.
+~
+2|64 32 0 S
+320 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20110
+ranger~
+A ranger~
+A ranger is here wandering around.
+~
+He looks like he is looking for something.
+~
+64 32|32768 0 S
+320 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20111
+goblin guard~
+A goblin guard~
+A goblin guard is here, watching out for their King.
+~
+He doesn't look like he knows what he is doing.
+~
+32|64 0 0 S
+220 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20112
+goblin cook~
+A goblin cook~
+A goblin cook is here, constantly working to keep the King full.
+~
+The creature looks back at you!
+~
+2|32|64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20113
+goblin king~
+The goblin king~
+The Goblin King is here, eating massive amounts of food.
+~
+All you see on him is chicken bones, dried meat, and stale cheese.
+~
+2|32|64 0 0 S
+220 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20114
+unseen thing~
+An unseen~
+An unseen is here, fading in and out of the shadows.
+~
+The creature looks back at you!
+~
+32|64 2|65536 -400 S
+220 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20115
+skeleton~
+A skeleton~
+A skeleton is here, obviously someones animated undead.
+~
+It rattles and creaks.
+~
+64|128 8|32 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20116
+thief~
+A thief~
+A thief is here, hoarding the King's money...and food.
+~
+Well, hes a thief!
+~
+4|64|128 8|32 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20117
+citizen seirof~
+A citizen of Seirof~
+A citizen of Seirof is here, he shakes your hand and says "My name is Seirof".
+~
+He is trying to look busy.
+~
+4|64 0 0 S
+320 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20118
+guard seirof~
+Seirof the guard~
+A guard named Seirof is here, guarding the city.
+~
+He looks very powerful.
+~
+64 0 0 S
+320 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20119
+mistress~
+A mistress~
+A mistress is here, obviously waiting for someone.
+~
+She is under the covers and obviously undressed.
+~
+2|64 32768 -250 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#20120
+mage old~
+An old mage~
+An old mage is here, seeming to throb with magical energy.
+~
+He tells you of a story of a strange being that used to wander the forest, but has dissapeared.  There are rumors that it comes out to feed every now and then, but noone knows where it is.
+~
+2|64 8|32|128 0 S
+180 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#20100
+key tim~
+a key to Tim's room~
+A key labeled "Tim" is on the ground here.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#20101
+key george~
+a key to George's room~
+A key labeled "George" is on the ground here.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#20102
+key blackest~
+the blackest key~
+A key blacker than anything you've ever seen is on the ground here.~
+~
+18 2 1|16384
+0 0 0 0 
+1 0 0
+A
+12 5
+A
+14 5
+#20103
+phylactery necklace amulet~
+a phylactery~
+A wierd box is on the ground here.~
+~
+9 1|2|64|128|4096 1|4
+0 0 0 0 
+1 0 0
+A
+12 50
+#20104
+skull~
+the skull of the Lich~
+A skull with glowing red eyes is on the ground here.~
+~
+9 1|2|64|128|4096 1|16
+0 0 0 0 
+1 0 0
+A
+24 -5
+#20105
+sword~
+the sword of George~
+A sword rests here.~
+~
+5 0 1|8192
+0 5 4 1 
+7 0 0
+A
+3 -4
+A
+13 25
+#20106
+shins tim~
+the shins of Tim~
+Some armored shins are on the ground here.~
+~
+9 0 1|32
+8 0 0 0 
+5 0 0
+A
+19 1
+A
+18 1
+#20107
+seirof~
+some Seirof~
+A strange piece of food is on the ground here.~
+~
+26 0 1
+30 0 4 43 
+1 100 0
+#20108
+sword seirof~
+a sword inscribed 'Seirof'~
+A sword with the inscription 'Seirof' is on the ground here.~
+~
+5 0 1|8192
+0 4 4 3 
+10 100 0
+A
+18 4
+A
+1 1
+#20109
+dagger seirof~
+a dagger inscribed 'Seirof'~
+A dagger with the inscription 'Seirof' is on the ground here.~
+~
+5 0 1|8192
+0 4 4 11 
+4 100 0
+A
+19 4
+A
+2 1
+#20110
+mace seirof~
+a mace inscribed 'Seirof'~
+A mace with the inscription 'Seirof' is on the ground here.~
+~
+5 0 1|8192
+0 4 4 7 
+5 100 0
+A
+19 2
+A
+18 2
+#20111
+helmet seirof seirofian~
+a Seirofian helmet~
+A helmet from Seirof is on the ground here.~
+~
+9 0 1|16
+0 0 0 0 
+1 30 0
+A
+18 2
+#20112
+ring seirof seirofian~
+a Seirofian ring~
+A ring from Seirof is on the ground here.~
+~
+9 0 1|2
+0 0 0 0 
+1 30 0
+A
+18 1
+#20113
+cloak seirof seirofian~
+a Seirofian cloak~
+A cloak from Seirof is on the ground here.~
+~
+9 0 1|4
+0 0 0 0 
+5 30 0
+A
+18 1
+#20114
+plate seirof seirofian~
+a Seirofian body plate~
+A body plate from Seirof is on the ground here.~
+~
+9 0 1|8
+0 0 0 0 
+10 30 0
+A
+18 2
+#20115
+leggings seirof seirofian~
+some Seirofian leggings~
+Leggings from Seirof are on the ground here.~
+~
+9 0 1|32
+0 0 0 0 
+5 30 0
+A
+18 2
+#20116
+boots seirof seirofian~
+some Seirofian boots~
+Boots from Seirof are on the ground here.~
+~
+9 0 1|64
+0 1 6 11 
+1 30 0
+A
+18 0
+#20117
+gloves seirof seirofian~
+some Seirofian gloves~
+Gloves from Seirof are on the ground here.~
+~
+9 0 1|128
+0 0 0 0 
+5 30 0
+A
+18 2
+#20118
+arm guards seirof seirofian~
+some Seirofian arm guards~
+Arm guards from Seirof are on the ground here.~
+~
+9 0 1|256
+0 0 0 0 
+5 30 0
+A
+18 2
+#20119
+shield seirof seirofian~
+a Seirofian shield~
+A shield from Seirof is on the ground here.~
+~
+9 0 1|512
+0 0 0 0 
+9 30 0
+A
+18 2
+#20120
+cape seirof seirofian~
+a Seirofian cape~
+A cape from Seirof is on the ground here.~
+~
+9 0 1|1024
+0 0 0 0 
+8 30 0
+A
+18 2
+#20121
+belt seirof seirofian~
+a Seirofian belt~
+A belt from Seirof is on the ground here.~
+~
+9 0 1|2048
+0 0 0 0 
+2 30 0
+A
+18 2
+#20122
+bracelet seirof seirofian~
+a Seirofian bracelet~
+A bracelet from Seirof is on the ground here.~
+~
+9 0 1|4096
+0 0 0 0 
+1 30 0
+A
+18 1
+#20123
+seirof~
+the Seirof~
+A strange gem is on the ground here.~
+~
+8 1 1|16384
+0 0 0 0 
+1 100 0
+A
+18 2
+A
+19 2
+#20124
+potion seirof~
+a potion labeled 'Seirof'~
+A potion with the label 'Seirof' is on the ground here.~
+~
+10 64 1
+30 37 37 91 
+1 100 0
+#20125
+soul seirof form~
+the Soul of Seirof~
+A strange form is on the ground here.~
+~
+1 1|64 1
+0 0 -1 0 
+2 0 0
+A
+17 10
+A
+12 25
+#20126
+key seirof~
+the key to Seirof~
+A strange key is on the ground here.~
+~
+18 0 1
+0 0 0 0 
+1 0 0
+#20127
+cloak green~
+a green cloak~
+A green cloak is on the ground here.~
+~
+9 0 1|4
+9 0 0 0 
+5 0 0
+A
+19 2
+#20128
+sword long sword longsword~
+a gem-encrusted longsword~
+A longsword with many gems on it is on the ground here.~
+~
+5 64 1|8192
+0 5 5 1 
+13 0 0
+A
+19 4
+#20129
+sword dirty~
+a dirty sword~
+A dirty sword is on the ground here.~
+~
+5 0 1|8192
+0 8 2 3 
+1 0 0
+A
+13 25
+#20130
+armor goblin~
+some goblin armor~
+Some armor from a goblin is on the ground here.~
+~
+9 0 1|8
+4 0 0 0 
+4 0 0
+A
+13 15
+#20131
+stinger unseen~
+an unseen stinger~
+A stinger barely visible is on the ground here.~
+~
+5 32|64 1|8192
+0 5 5 11 
+5 0 0
+A
+19 4
+#20132
+shield skeleton skeletal~
+a skeleton shield~
+A shield made of bones is on the ground here.~
+~
+9 1 1|512
+1 0 0 0 
+5 0 0
+A
+19 1
+A
+18 1
+A
+24 -1
+#20133
+sword bone~
+a bone sword~
+A bone shaped into a sword is on the ground here.~
+~
+5 2 1|8192
+0 4 4 1 
+5 0 0
+A
+17 10
+#20134
+dagger thieving~
+a dagger of thieving~
+A dagger with holes just big enough for coins is on the ground here.~
+~
+5 0 1|8192
+0 4 4 11 
+2 20 0
+A
+2 2
+A
+18 3
+#20135
+cloak thieving~
+a cloak of thieving~
+A cloak with a lot of pockets is on the ground here.~
+~
+15 0 1|1024
+10 0 0 0 
+5 20 0
+A
+2 2
+A
+17 8
+A
+17 0
+#20136
+lingerie~
+some lingerie~
+Kinky lingerie is on the ground here.~
+~
+9 128|4096 1|8
+-5 0 0 0 
+1 250 0
+#20137
+staff old~
+an old staff~
+A very ancient staff is on the ground here.~
+~
+5 2|64|4096 1|8192
+0 2 2 8 
+1 20 0
+A
+1 2
+A
+12 25
+#20138
+boots star~
+some starry boots~
+Boots covered with stars are on the ground here.~
+~
+9 64 1|64
+0 0 0 0 
+1 20 0
+A
+2 2
+#20139
+chicken~
+a piece of chicken~
+A chicken leg is on the ground here.~
+~
+19 0 1
+5 0 0 0 
+1 10 0
+#20140
+cheese~
+some nasty cheese~
+A rotten piece of cheese is on the ground here.~
+~
+19 0 1
+1 0 0 0 
+1 10 0
+#20141
+crown goblin king~
+the crown of the goblins~
+A green crown is on the ground here.~
+~
+9 2 1|16
+10 0 0 0 
+2 100 0
+A
+3 -5
+A
+24 -2
+A
+19 2
+#0
+
+
+#ROOMS
+#20100
+Entrance to a Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20101
+D2
+~
+~
+0 -1 6121
+S
+#20101
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20103
+D2
+~
+~
+0 -1 20100
+S
+#20102
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20108
+D1
+~
+~
+0 -1 20103
+S
+#20103
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D1
+~
+~
+0 -1 20104
+D2
+~
+~
+0 -1 20101
+D3
+~
+~
+0 -1 20102
+S
+#20104
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20110
+D3
+~
+~
+0 -1 20103
+S
+#20105
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20112
+D1
+~
+~
+0 -1 20106
+S
+#20106
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20113
+D3
+~
+~
+0 -1 20105
+S
+#20107
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20114
+D1
+~
+~
+0 -1 20108
+S
+#20108
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20115
+D1
+~
+~
+0 -1 20109
+D2
+~
+~
+0 -1 20102
+D3
+~
+~
+0 -1 20107
+S
+#20109
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+bushes~
+1 -1 20116
+D1
+~
+~
+0 -1 20110
+D3
+~
+~
+0 -1 20108
+S
+#20110
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+bushes~
+1 -1 20117
+D2
+~
+~
+0 -1 20104
+D3
+~
+~
+0 -1 20109
+S
+#20111
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20119
+D1
+~
+~
+0 -1 20112
+S
+#20112
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D1
+~
+~
+0 -1 20113
+D2
+~
+~
+0 -1 20105
+D3
+~
+~
+0 -1 20111
+D5
+~
+dead leaves~
+1 -1 20186
+S
+#20113
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20121
+D2
+~
+~
+0 -1 20106
+D3
+~
+~
+0 -1 20112
+S
+#20114
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20122
+D2
+~
+~
+0 -1 20107
+S
+#20115
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20123
+D2
+~
+~
+0 -1 20108
+S
+#20116
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D1
+~
+bushes~
+1 -1 20117
+D2
+~
+bushes~
+1 -1 20109
+S
+#20117
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+~
+0 -1 20125
+D1
+~
+~
+0 -1 20118
+D2
+~
+bushes~
+1 -1 20110
+D3
+~
+bushes~
+1 -1 20116
+S
+#20118
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D3
+~
+~
+0 -1 20117
+S
+#20119
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D1
+~
+~
+0 -1 20120
+D2
+~
+~
+0 -1 20111
+S
+#20120
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+bushes~
+1 -1 20127
+D3
+~
+~
+0 -1 20119
+S
+#20121
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D1
+~
+~
+0 -1 20122
+D2
+~
+~
+0 -1 20113
+S
+#20122
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D1
+~
+~
+0 -1 20123
+D2
+~
+~
+0 -1 20114
+D3
+~
+~
+0 -1 20121
+S
+#20123
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D1
+~
+~
+0 -1 20124
+D2
+~
+~
+0 -1 20115
+D3
+~
+~
+0 -1 20122
+S
+#20124
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D0
+~
+bushes~
+1 -1 20128
+D3
+~
+~
+0 -1 20123
+S
+#20125
+Mysterious Forest~
+Turn on brief.
+~
+0 4 3
+D1
+~
+~
+0 -1 20126
+D2
+~
+~
+0 -1 20117
+S
+#20126
+A Dirt Path~
+Turn on brief.
+~
+0 0 2
+D1
+~
+~
+0 -1 20159
+D3
+~
+~
+0 -1 20125
+S
+#20127
+Behind the Bushes~
+Turn on brief.
+~
+0 1 3
+D0
+~
+~
+0 -1 20129
+D2
+~
+bushes~
+1 -1 20120
+S
+#20128
+Behind the Bushes~
+Turn on brief.
+~
+0 1 3
+D0
+~
+~
+0 -1 20133
+D2
+~
+bushes~
+1 -1 20124
+S
+#20129
+A Beaten Path~
+Turn on brief.
+~
+0 1 3
+D1
+~
+~
+0 -1 20130
+D2
+~
+~
+0 -1 20127
+S
+#20130
+A Beaten Path~
+Turn on brief.
+~
+0 1 3
+D1
+~
+~
+0 -1 20131
+D3
+~
+~
+0 -1 20129
+S
+#20131
+A Beaten Path~
+Turn on brief.
+~
+0 1 3
+D0
+~
+bushes~
+1 -1 20136
+D1
+~
+~
+0 -1 20132
+D3
+~
+~
+0 -1 20130
+S
+#20132
+A Beaten Path~
+Turn on brief.
+~
+0 1 3
+D1
+~
+~
+0 -1 20133
+D3
+~
+~
+0 -1 20131
+S
+#20133
+A Beaten Path~
+Turn on brief.
+~
+0 1 3
+D1
+~
+bushes~
+1 -1 20134
+D2
+~
+~
+0 -1 20128
+D3
+~
+~
+0 -1 20132
+S
+#20134
+Secret Path~
+Turn on brief.
+~
+0 1|8192 2
+D0
+~
+~
+0 -1 20138
+D3
+~
+bushes~
+1 -1 20133
+S
+#20135
+A Smelly Weapons Room~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 20140
+S
+#20136
+Entrance to a Dark Hole~
+Turn on brief.
+~
+0 1 2
+D0
+~
+~
+0 -1 20141
+D2
+~
+bushes~
+1 -1 20131
+S
+#20137
+A Rusty Armor Room~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 20142
+S
+#20138
+Secret Path~
+Turn on brief.
+~
+0 1 2
+D0
+~
+~
+0 -1 20144
+D2
+~
+~
+0 -1 20134
+S
+#20139
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 20145
+D1
+~
+~
+0 -1 20140
+S
+#20140
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 20141
+D2
+~
+~
+0 -1 20135
+D3
+~
+~
+0 -1 20139
+S
+#20141
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 20147
+D1
+~
+~
+0 -1 20142
+D2
+~
+~
+0 -1 20136
+D3
+~
+~
+0 -1 20140
+S
+#20142
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 20143
+D2
+~
+~
+0 -1 20137
+D3
+~
+~
+0 -1 20141
+S
+#20143
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 20149
+D3
+~
+~
+0 -1 20142
+S
+#20144
+Secret Path~
+Turn on brief.
+~
+0 1 2
+D0
+~
+~
+0 -1 20150
+D2
+~
+~
+0 -1 20138
+S
+#20145
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 20146
+D2
+~
+~
+0 -1 20139
+S
+#20146
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 20147
+D3
+~
+~
+0 -1 20145
+S
+#20147
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 20152
+D1
+~
+~
+0 -1 20148
+D2
+~
+~
+0 -1 20141
+D3
+~
+~
+0 -1 20146
+S
+#20148
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 20149
+D3
+~
+~
+0 -1 20147
+S
+#20149
+Dank Living Quarters~
+Turn on brief.
+~
+0 1 0
+D2
+~
+~
+0 -1 20143
+D3
+~
+~
+0 -1 20148
+S
+#20150
+Secret Path~
+Turn on brief.
+~
+0 1 2
+D0
+~
+~
+0 -1 20154
+D2
+~
+~
+0 -1 20144
+S
+#20151
+A Defiled Kitchen~
+Turn on brief.
+~
+0 0 0
+D1
+~
+~
+0 -1 20152
+S
+#20152
+A Filthy Hallway~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 20155
+D1
+~
+~
+0 -1 20153
+D2
+~
+~
+0 -1 20147
+D3
+~
+~
+0 -1 20151
+S
+#20153
+A Defiled Kitchen~
+Turn on brief.
+~
+0 0 0
+D3
+~
+~
+0 -1 20152
+S
+#20154
+Secret Path~
+Turn on brief.
+~
+0 1 2
+D0
+~
+~
+0 -1 20158
+D2
+~
+~
+0 -1 20150
+S
+#20155
+A Disgusting Lair~
+Turn on brief.
+~
+0 16384 0
+D1
+~
+secret~
+1 -1 20156
+D2
+~
+~
+0 -1 20152
+S
+#20156
+Secret Path~
+Turn on brief.
+~
+0 1 2
+D1
+~
+~
+0 -1 20157
+D3
+~
+secret~
+1 -1 20155
+S
+#20157
+Secret Path~
+Turn on brief.
+~
+0 1 2
+D1
+~
+~
+0 -1 20158
+D3
+~
+~
+0 -1 20156
+S
+#20158
+Secret Path~
+Turn on brief.
+~
+0 1 2
+D2
+~
+~
+0 -1 20154
+D3
+~
+~
+0 -1 20157
+S
+#20159
+A Dirt Path~
+Turn on brief.
+~
+0 1 2
+D1
+~
+~
+0 -1 20160
+D3
+~
+~
+0 -1 20126
+S
+#20160
+Outside the Gates of Seirof~
+Turn on brief.
+~
+0 1 2
+D1
+~
+gate~
+1 -1 20161
+D3
+~
+~
+0 -1 20159
+S
+#20161
+Inside the Gates of Seirof~
+Turn on brief.
+~
+0 0 1
+D1
+~
+~
+0 -1 20162
+D3
+~
+gate~
+1 -1 20160
+S
+#20162
+Inside Seirof~
+Turn on brief.
+~
+0 0 1
+D2
+~
+~
+0 -1 20163
+D3
+~
+~
+0 -1 20161
+S
+#20163
+The Main Intersection in Seirof~
+Turn on brief.
+~
+0 0 1
+D0
+~
+~
+0 -1 20162
+D1
+~
+~
+0 -1 20164
+D2
+~
+~
+0 -1 20169
+S
+#20164
+The Market Street of Seirof~
+Turn on brief.
+~
+0 0 1
+D1
+~
+~
+0 -1 20165
+D2
+~
+~
+0 -1 20170
+D3
+~
+~
+0 -1 20163
+S
+#20165
+The Market Street of Seirof~
+Turn on brief.
+~
+0 0 1
+D0
+~
+~
+0 -1 20167
+D1
+~
+~
+0 -1 20166
+D2
+~
+~
+0 -1 20171
+D3
+~
+~
+0 -1 20164
+S
+#20166
+End of Market Street~
+Turn on brief.
+~
+0 0 1
+D2
+~
+~
+0 -1 20172
+D3
+~
+~
+0 -1 20165
+S
+#20167
+Seirof's Weapon Shop~
+Turn on brief.
+~
+0 0 0
+D2
+~
+~
+0 -1 20165
+S
+#20168
+George's Room~
+Turn on brief.
+~
+0 1 0
+D2
+~
+door~
+1 -1 20173
+S
+#20169
+Main Sreet of Seirof~
+Turn on brief.
+~
+0 0 1
+D0
+~
+~
+0 -1 20163
+D2
+~
+~
+0 -1 20174
+S
+#20170
+Seirof's Food Shop~
+Turn on brief.
+~
+0 0 0
+D0
+~
+~
+0 -1 20164
+S
+#20171
+Seirof's Armor Shop~
+Turn on brief.
+~
+0 0 0
+D0
+~
+~
+0 -1 20165
+S
+#20172
+South Bend in Seirof~
+Turn on brief.
+~
+0 1 2
+D0
+~
+~
+0 -1 20166
+D2
+~
+~
+0 -1 20177
+S
+#20173
+A House in Seirof~
+Turn on brief.
+~
+0 1 0
+D0
+~
+door~
+1 20101 20168
+D1
+~
+~
+0 -1 20174
+S
+#20174
+Main Street of Seirof~
+Turn on brief.
+~
+0 0 1
+D0
+~
+~
+0 -1 20169
+D1
+~
+~
+0 -1 20175
+D2
+~
+~
+0 -1 20180
+D3
+~
+~
+0 -1 20173
+S
+#20175
+A House in Seirof~
+Turn on brief.
+~
+0 1 0
+D3
+~
+~
+0 -1 20174
+S
+#20176
+Seirof's Jeweller Shop~
+Turn on brief.
+~
+0 0 0
+D1
+~
+~
+0 -1 20177
+S
+#20177
+South Bend in Seirof~
+Turn on brief.
+~
+0 0 2
+D0
+~
+~
+0 -1 20172
+D1
+~
+~
+0 -1 20178
+D2
+~
+~
+0 -1 20182
+D3
+~
+~
+0 -1 20176
+S
+#20178
+Seirof's Magic Shop~
+Turn on brief.
+~
+0 1 0
+D3
+~
+~
+0 -1 20177
+S
+#20179
+A House in Seirof~
+Turn on brief.
+~
+0 1 0
+D1
+~
+~
+0 -1 20180
+S
+#20180
+Main Street of Seirof~
+Turn on brief.
+~
+0 0 1
+D0
+~
+~
+0 -1 20174
+D1
+~
+~
+0 -1 20181
+D2
+~
+~
+0 -1 20183
+D3
+~
+~
+0 -1 20179
+S
+#20181
+A House in Seirof~
+Turn on brief.
+~
+0 1 0
+D2
+~
+door~
+1 20100 20184
+D3
+~
+~
+0 -1 20180
+S
+#20182
+The Mage's House~
+Turn on brief.
+~
+0 1 0
+D0
+~
+~
+0 -1 20177
+S
+#20183
+Outside the Mayor's House~
+Turn on brief.
+~
+0 1 1
+D0
+~
+~
+0 -1 20180
+D2
+~
+~
+0 -1 20185
+S
+#20184
+Tim's Room~
+Turn on brief.
+~
+0 1 0
+D0
+~
+door~
+1 -1 20181
+S
+#20185
+The Mayor of Seirof's House~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+~
+0 -1 20183
+S
+#20186
+Entrance To An Evil Abode~
+Turn on brief.
+~
+0 1|16384 0
+D1
+~
+~
+0 -1 20187
+D2
+~
+~
+0 -1 20188
+D4
+~
+dead leaves~
+1 -1 20112
+S
+#20187
+A Dark Hallway~
+Turn on brief.
+~
+0 1|16384 0
+D2
+~
+~
+0 -1 20189
+D3
+~
+~
+0 -1 20186
+S
+#20188
+A Dark, Evil Room~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+~
+0 -1 20186
+D2
+~
+giant doors~
+1 -1 20191
+S
+#20189
+A Dark Hallway~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+~
+0 -1 20187
+D1
+~
+~
+0 -1 20190
+D2
+~
+~
+0 -1 20192
+S
+#20190
+A Room Full of Bones~
+Turn on brief.
+~
+0 1|16384 0
+D3
+~
+~
+0 -1 20189
+S
+#20191
+A Black Library~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+giant doors~
+1 -1 20188
+D2
+~
+~
+0 -1 20194
+S
+#20192
+A Dark Hallway~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+~
+0 -1 20189
+D1
+~
+~
+0 -1 20193
+D2
+~
+~
+0 -1 20195
+S
+#20193
+Strange Chemicals and Smells~
+Turn on brief.
+~
+0 1|16384 0
+D2
+~
+secret~
+1 -1 20196
+D3
+~
+~
+0 -1 20192
+S
+#20194
+A Black Library~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+~
+0 -1 20191
+D2
+~
+~
+0 -1 20197
+S
+#20195
+A Dark Hallway~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+~
+0 -1 20192
+D1
+~
+~
+0 -1 20196
+D2
+~
+~
+0 -1 20198
+S
+#20196
+Strange Reagents and Body Parts~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+secret~
+1 -1 20193
+D3
+~
+~
+0 -1 20195
+S
+#20197
+End of the Black Library~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+~
+0 -1 20194
+S
+#20198
+End of a Dark Hallway~
+Turn on brief.
+~
+0 1|16384 0
+D0
+~
+~
+0 -1 20195
+D1
+~
+giant skull~
+1 20102 20199
+S
+#20199
+The Lair of Pure Evil~
+Turn on brief.
+~
+0 1|16384 0
+D3
+~
+giant skull~
+1 -1 20198
+S
+#0
+
+
+#RESETS
+D 1 20116 1 1			; Mysterious Forest Close East
+D 1 20116 2 1			; Mysterious Forest Close South
+D 1 20117 2 1			; Mysterious Forest Close South
+D 1 20117 3 1			; Mysterious Forest Close West
+D 1 20109 0 1			; Mysterious Forest Close North
+D 1 20110 0 1			; Mysterious Forest Close North
+D 1 20120 0 1			; Mysterious Forest Close North
+D 1 20127 2 1			; Behind the Bushes Close South
+D 1 20124 0 1			; Mysterious Forest Close North
+D 1 20128 2 1			; Behind the Bushes Close South
+D 1 20131 0 1			; A Beaten Path Close North
+D 1 20136 2 1			; Entrance to a Dark Hole Close South
+D 1 20133 1 1			; A Beaten Path Close East
+D 1 20134 3 1			; Secret Path Close West
+D 1 20155 1 1			; A Disgusting Lair Close East
+D 1 20156 3 1			; Secret Path Close West
+D 1 20160 1 1			; Outside the Gates of Seirof Close East
+D 1 20161 3 1			; Inside the Gates of Seirof Close West
+D 1 20168 2 1			; George's Room Close South
+D 1 20173 0 2			; A House in Seirof Lock North
+D 1 20184 0 1			; Tim's Room Close North
+D 1 20181 2 2			; A House in Seirof Lock South
+D 1 20191 0 1			; A Black Library Close North
+D 1 20188 2 1			; A Dark, Evil Room Close South
+D 1 20198 1 2			; End of a Dark Hallway Lock East
+D 1 20199 3 1			; The Lair of Pure Evil Close West
+D 1 20193 2 1			; Strange Chemicals and Smells Close South
+D 1 20196 0 1			; Strange Reagents and Body Parts Close North
+*
+M 1 20100 1 20199			The Lich to The Lair of Pure Evil
+E 1 20103 100 3
+E 1 20104 100 6
+*
+M 1 20101 1 20161			George to Inside the Gates of Seirof
+E 1 20105 100 16
+G 1 20101 100
+*
+M 1 20102 1 20161			Tim to Inside the Gates of Seirof
+E 1 20106 100 7
+G 1 20100 100
+*
+M 1 20103 1 20170			Seirof food to Seirof's Food Shop
+G 1 20107 100
+*
+M 1 20104 1 20167			Seirof weapons to Seirof's Weapon Shop
+G 1 20108 100
+G 1 20109 100
+G 1 20110 100
+*
+M 1 20105 1 20171			Seirof armor to Seirof's Armor Shop
+G 1 20111 100
+G 1 20112 100
+G 1 20113 100
+G 1 20114 100
+G 1 20115 100
+G 1 20117 100
+G 1 20116 100
+G 1 20117 100
+G 1 20118 100
+G 1 20119 100
+G 1 20120 100
+G 1 20121 100
+G 1 20122 100
+*
+M 1 20106 1 20176			Seirof jeweller to Seirof's Jeweller Shop
+G 1 20123 100
+*
+M 1 20107 1 20178			Seirof mage to Seirof's Magic Shop
+G 1 20124 100
+*
+M 1 20108 1 20182			Seirof to The Mage's House
+E 1 20125 100 0
+*
+M 1 20109 1 20182			The mayor of Seirof to The Mage's House
+G 1 20126 100
+*
+M 1 20110 1 20107			A ranger to Mysterious Forest
+E 1 20127 100 3
+E 1 20128 100 16
+*
+M 1 20111 7 20136			A goblin guard to Entrance to a Dark Hole
+E 1 20130 100 5
+E 1 20129 100 16
+*
+M 1 20111 7 20136			A goblin guard to Entrance to a Dark Hole
+E 1 20130 100 5
+E 1 20129 100 16
+*
+M 1 20111 7 20135			A goblin guard to A Smelly Weapons Room
+E 1 20129 100 16
+*
+M 1 20111 7 20137			A goblin guard to A Rusty Armor Room
+E 1 20130 100 5
+*
+M 1 20111 7 20152			A goblin guard to A Filthy Hallway
+E 1 20129 100 16
+*
+M 1 20111 7 20155			A goblin guard to A Disgusting Lair
+E 1 20130 100 5
+*
+M 1 20111 7 20155			A goblin guard to A Disgusting Lair
+E 1 20129 100 16
+*
+M 1 20113 1 20155			The goblin king to A Disgusting Lair
+E 1 20141 100 6
+G 1 20124 100
+*
+M 1 20112 2 20151			A goblin cook to A Defiled Kitchen
+G 1 20139 100
+*
+M 1 20112 2 20153			A goblin cook to A Defiled Kitchen
+G 1 20140 100
+*
+M 1 20114 4 20103			An unseen to Mysterious Forest
+E 1 20131 100 16
+*
+M 1 20114 4 20113			An unseen to Mysterious Forest
+E 1 20131 100 16
+*
+M 1 20114 4 20123			An unseen to Mysterious Forest
+E 1 20131 100 16
+*
+M 1 20114 4 20119			An unseen to Mysterious Forest
+E 1 20131 100 16
+*
+M 1 20115 2 20197			A skeleton to End of the Black Library
+E 1 20132 100 11
+E 1 20133 100 16
+G 1 20102 100
+*
+M 1 20115 2 20195			A skeleton to A Dark Hallway
+E 1 20132 100 11
+E 1 20133 100 16
+*
+M 1 20116 1 20150			A thief to Secret Path
+E 1 20135 100 12
+E 1 20134 100 16
+*
+M 1 20117 3 20169			A citizen of Seirof to Main Sreet of Seirof
+E 1 20111 100 6
+E 1 20117 100 9
+*
+M 1 20117 3 20165			A citizen of Seirof to The Market Street of Seirof
+E 1 20112 100 1
+E 1 20116 100 8
+*
+M 1 20117 3 20177			A citizen of Seirof to South Bend in Seirof
+E 1 20113 100 3
+E 1 20122 100 15
+*
+M 1 20118 2 20183			Seirof the guard to Outside the Mayor's House
+E 1 20114 100 5
+E 1 20119 100 11
+E 1 20108 100 16
+*
+M 1 20118 2 20172			Seirof the guard to South Bend in Seirof
+E 1 20117 100 9
+E 1 20120 100 12
+E 1 20109 100 16
+*
+M 1 20119 2 20168			A mistress to George's Room
+E 1 20136 100 5
+*
+M 1 20119 2 20184			A mistress to Tim's Room
+E 1 20136 100 5
+*
+M 1 20120 1 20116			An old mage to Mysterious Forest
+E 1 20138 100 8
+E 1 20137 100 16
+D 1 20112 5 1			; Mysterious Forest Close Down
+D 1 20186 4 1			; Entrance To An Evil Abode Close Up
+S
+
+
+#SHOPS
+20103 10 26 23 0 0 80 120 0 23
+20104 5 0 0 0 0 70 110 0 23			Seirof
+20105 9 0 0 0 0 70 110 0 23			Seirof
+20106 12 13 0 0 0 110 150 0 23			Seirof
+20107 2 3 0 4 10 100 125 0 23
+0
+
+
+#$

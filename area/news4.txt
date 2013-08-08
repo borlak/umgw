@@ -1,0 +1,122 @@
+
+- {CWed Dec 15{x - Mounts are no longer worth experience.
+
+
+- {CWed Dec 15{x - Anyone may create Kingdoms at the cost of 1000 qp, but ther
+{x{x               e is now a 250 KP/RL_Day upkeep after you get 1000 points.  Help 
+{x{x               leader.
+
+- {CThu Dec 16{x - Help Builder updated.
+
+
+- {CThu Dec 16{x - Fear the Werewolves Greater Klaive.
+
+
+- {CThu Dec 16{x - Werewolves are superior at dodging now. (based on mantis to
+{x{x               tem)
+
+
+- {CThu Dec 16{x - New policy on char sharing.  There is NONE.  No giving away
+{x{x                characters, permanently or temporarily.
+
+
+- {CThu Dec 16{x - klist <kingdom> now shows the kingdoms true total amount of
+{x{x                points that they have gained over time and not used up.
+
+
+- {CThu Dec 16{x - Kenney reported an infinite QP bug using bloodagony.  Needl
+{x{x               ess to say bloodagony doesnt do anything now, and Kenney was
+{x{x                nicely rewarded.
+
+
+- {CFri Dec 17{x - demons can only caust a wpn once now
+
+
+- {CFri Dec 17{x - vamps now come out of vampvanish when they attack
+
+
+- {CFri Dec 17{x - demons can't weapon until they are out of fight timer
+
+
+- {CFri Dec 17{x - leech now starts fights
+
+
+- {CFri Dec 17{x - you shouldn't be able to palm through shadowplane anymore
+
+
+- {CFri Dec 17{x - you can't activate while in safe mode
+
+- {CFri Dec 17{x - atlantis guards will have the keywords 'atlantis guard'.
+
+- {CSat Dec 18{x - Tournament is now working.  Type 'tournament help' for the 
+{x{x               commands.
+
+
+- {CSun Dec 19{x - All the decpitate commands aren't disabled during tournamen
+{x{x               t now, but you can't use them in the tournament.
+
+
+- {CSun Dec 19{x - You can now survey the tournament fight by using the Survey
+{x{x                command (survey on/off).  This just shows the damage done.
+
+- {CSun Dec 19{x - jb was here
+
+
+- {CMon Dec 20{x - Demons get +1hit/dam for every 10,000 dp stored.
+
+
+- {CMon Dec 20{x - You can change your login/logout/enter room/exit room/ mess
+{x{x               ages now with quest points.  Type quest.
+
+
+- {CMon Dec 20{x - You can't quest negative anything now, and -hp affects are 
+{x{x               removed from items if you have any.
+
+
+- {CMon Dec 20{x - if you quest ac with a positive value, it will lower your a
+{x{x               c
+
+
+- {CWed Dec 22{x - Highlanders lost 100 hit/dam.
+
+
+- {CWed Dec 22{x - New area: Inferno, say inferno at midgaard portal room.
+
+
+- {CWed Dec 22{x - New area: Valdur, say valdur at midgaard portal room.
+
+
+- {CWed Dec 22{x - New area: Hellfire, say hellfire at midgaard portal room.
+
+
+- {CThu Dec 23{x - New area: Space Station, say spacestation at midgaard porta
+{x{x               l room.
+
+
+- {CThu Dec 23{x - Area command updated.  It shows average level of mob as well
+{x{x               as vnums.
+
+- {CThu Dec 23{x - New area: Seirof, say seirof at midgaard portal room.
+
+- {CThu Dec 23{x - Monks can't celestial path to Mobs with the Protect flag on
+{x{x               .
+
+
+- {CThu Dec 23{x - Help builder updated.
+
+
+- {CThu Dec 23{x - {RNo more class headquarters.{x "Oh no my transporters!"  Y
+{x{x               es, yes, oh no.
+
+
+- {CThu Dec 23{x - You can now reset the transport location on a transporter, 
+{x{x               for the same cost of 50qp.
+
+
+- {CThu Dec 23{x - New area: Caern, say caern at midgaard portal room.
+
+
+- {CThu Dec 23{x - you can now type 'home temple' to set your recall at the te
+{x{x               mple.
+
+

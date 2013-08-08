@@ -1,0 +1,3966 @@
+#AREA Delmont Hollywood~
+
+#MOBILES
+#7446
+terminator~
+the terminator~
+The terminator stands here, staring at you with big red orbs
+~
+The terminator seems to be reading your facial expressions.
+~
+2|32|64 512 -100 S
+234 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7447
+metallic rat~
+a metallic rat~
+A metallic rat stays perfectly still, trying to blend in
+~
+The metallic rat shrieks and runs!
+~
+2|64 512|65536 0 S
+21 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7448
+robocop~
+Robocop~
+Robocop is here protecting the peace
+~
+Robocop looks hard at you.
+~
+2|64 512 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7449
+robotic receptionist~
+a robotic receptionist~
+A robotic receptionist asks if you need help.
+~
+The robotic receptionist seems eager to help.
+~
+2|64 512 0 S
+123 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7450
+frankenstein~
+Frankenstein~
+Frankenstein is here, staring blankly into space.
+~
+Frankenstein is not interested in you.
+~
+2|64 0 0 S
+242 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7451
+ET~
+ET~
+ET is here, reaching out its hand to you
+~
+ET wants to touch his finger tip to yours!
+~
+2|64 128 0 S
+241 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7452
+iron giant~
+the iron giant~
+The iron giant stares at you and mutters, 'Friend?'
+~
+The iron giants blinks and says, 'Me not gun.'
+~
+2|64 512 0 S
+310 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7453
+R2D2~
+R2D2~
+R2D2 is here, trying to fix the computers
+~
+R2D2 chirps loudly at you.
+~
+2|64 512 0 S
+212 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7454
+droid~
+a droid~
+A droid is here, holding its blaster pointed at you
+~
+The droid clicks loudly and fires!
+~
+2|64 512 0 S
+312 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7455
+optimus prime~
+Optimus Prime~
+Optimus Prime is here, checking the computers
+~
+Optimus Prime seems to be rather busy.
+~
+2|64 512|524288 0 S
+310 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7456
+megatron~
+Megatron~
+Megatron is here, swearing at the computers.
+~
+Megatron seems not to notice you as he continues swearing.
+~
+2|64 512|524288 0 S
+341 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7457
+bartender~
+a bartender~
+The bartender is here, cleaning his counter
+~
+The bartend asks, 'What would you like sir?'
+~
+2|64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7458
+card sharp~
+a card sharp~
+A card sharp is here, looking out for people to con
+~
+The card shap seems interested in your wallet.
+~
+2|64 0 0 S
+231 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7459
+cowboy~
+a cowboy~
+There is a cowboy here, drinking to his hearts contents.
+~
+The cowboy seems to be drunk.
+~
+2|64 0 0 S
+240 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7460
+doctor~
+a doctor~
+A doctor is here, tending to the injured.
+~
+The doctor looks at you and exclaims, 'But you are not ill!'
+~
+2|64 0 0 S
+103 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7461
+hulk hogan~
+Hulk Hogan~
+Hulk Hogan starts ripping off his shirt and howls loudly
+~
+Hulk Hogan seems to be posing for a shot.
+~
+2|64 0 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7462
+bets taker man~
+a bets taker~
+A man walks around, taking bets
+~
+The bets taker looks at you and asks, 'So what is it?'
+~
+2|64 0 0 S
+102 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7463
+karate expert~
+a karate expert~
+A karate expert stares at his opponent.
+~
+The karate seems to ignore you.
+~
+2|64 0 0 S
+231 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7464
+karate expert~
+a karate expert~
+A karate expert looks his opponent up and down slowly.
+~
+The karate expert ignores you.
+~
+2|64 0 0 S
+231 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7465
+shadowy man~
+a shadowy man~
+A shadowy man looks at you through the darkness
+~
+The shadowy man seems to notice your every move.
+~
+2|64 512 0 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7466
+bruce lee~
+Bruce Lee~
+Bruce Lee is here, trembling slightly and screaming loudly
+~
+Bruce Lee seems to be occupied with his screaming.
+~
+2|64 0 0 S
+310 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7467
+conan barbarian adventurer~
+Conan~
+Conan the barbarian rushes at you!
+~
+Conan starts to sing, 'Conan! The adventurer, warrior without fear!'
+~
+64 32768|1048576 0 S
+231 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7468
+needle phoenix~
+Needle~
+A phoenix named 'Needle' flutters about the place
+~
+Needles squawks, 'Big dumb barbarian!'
+~
+64 524288|1048576 0 S
+157 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7469
+quintin macleod~
+Quintin Macleod~
+Quintin Macleod of the clan Macleod smirks at you.
+~
+Quintin screams, 'In the end, there can only be one!'
+~
+32|64 128 0 S
+410 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7470
+tarzen~
+Tarzen~
+Tarzen swings about from vine to vine, screaming off-key.
+~
+Tarzen says, 'Me Tarzen, you Jane!'
+~
+64 0 0 S
+246 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7471
+indiana jones~
+Indiana Jones~
+Indiana Jones grins crookedly at you.
+~
+Indiana Jones says, 'Have you seen the Holy Grail matey?'
+~
+64 32768|65536 0 S
+231 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7472
+wolverine logan~
+Wolverine~
+Wolverine flashes his claws and rushes at you!
+~
+Wolverine seems to heal his wounds almost instantaneously.
+~
+32|64 32768|65536 0 S
+233 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7473
+storm~
+Storm~
+Storm's silver eyes flashes at you
+~
+Storm glances around the room, looking for her fellows.
+~
+64 524288 0 S
+243 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7474
+cyclops~
+Cyclops~
+Cyclops puts his hands to his visor and smiles grimly at you.
+~
+Cyclops gets ready to defend himself.
+~
+64 0 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7475
+jean~
+Jean~
+Jean puts her hand to her head and says, 'I can feel your pain.'
+~
+Jean smiles happily at you.
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7476
+beast blue streak~
+Beast~
+A blue streak jumps from one corner of the room to the other.
+~
+Beast looks at you, lifts his glasses and grins a toothy grin.
+~
+64 32768|65536 0 S
+231 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7477
+jubilee~
+Jubilee~
+Jubilee puts down her shades and waves.
+~
+Jubilee seems to naive to contemplate your evil.
+~
+64 0 0 S
+197 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7478
+gambit~
+Gambit~
+Gambit flicks his hands and a deck of cards magically appears.
+~
+Gambit says, 'Cher wants to deal?'
+~
+64 0 0 S
+237 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7479
+rogue~
+Rogue~
+Rogue flies about the room on invisible hands
+~
+Rogue flies towards you and asks, 'Hi hon, want a kiss?'
+~
+64 524288 0 S
+241 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7480
+morph~
+Morph~
+Morph leans against a wall and smiles mysteriously at you
+~
+Morph does not seem to be what he is!
+~
+64 0 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7481
+professor xavier~
+Professor Xavier~
+Professor Xavier floats around on his hovercar.
+~
+Professor Xavier says, 'Join the X-Men!'
+~
+64 524288 0 S
+312 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7482
+shadowy figure~
+a shadowy figure~
+A shadowy figure is trying to hide from you.
+~
+The shadowy figure seems to be trying to hide.
+~
+2|64 2|32768|65536 0 S
+172 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7483
+sherlock holmes~
+Sherlock Holmes~
+Sherlock Holmes says, 'Elementary my dear Watson!'
+~
+Sherlock Holmes smokes on his pipe quietly.
+~
+64 0 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7484
+rambo~
+Rambo~
+Rambo stalks around the place, looking for Nazis.
+~
+Rambo stalks up to you and asks, 'Seen a Nazi lately?'
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7485
+batman~
+Batman~
+Batman points his harpoon gun at you
+~
+Batman seems too cool to talk to you.
+~
+64 0 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7486
+robin~
+Robin~
+Robin, the boy wonder, wonders at why you are here.
+~
+Robin seems too deep in thoughts.
+~
+64 0 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7487
+rocky boxer~
+Rocky~
+Rocky puts up his fists and challenges you to a fight.
+~
+Rocky grins through broken teeth and says, 'Let's go!'
+~
+64 0 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7488
+james bond~
+James Bond~
+James Bond says, 'My name is Bond, James Bond.'
+~
+James Bond is too cool for you.
+~
+64 0 0 S
+212 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7489
+inspector harry callaghan~
+Inspector Harry Callaghan~
+Inspector Harry Callaghan sighs as you approach.
+~
+Inspector Harry Callaghan seems not to want anything to do with you.
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7490
+inspector clouseau~
+Inspector Clouseau~
+Inspector Clouseau sits at his table and reads a newspaper
+~
+Inspector Clouseau does not seem to notice you.
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7491
+inspector gadget~
+Inspector Gadget~
+Inspector Gadget is here, playing with his toys.
+~
+Inspector Gadget offers you his new inventions.
+~
+64 0 0 S
+198 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7492
+detective john maclean~
+Detective John Maclean~
+Detective John Maclean laughs in your face.
+~
+Detective John Maclean laughs in your face and ignores you.
+~
+64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7493
+m~
+'M'~
+'M' looks at you nervously.
+~
+'M' is old and should be quite an easy target.
+~
+64 0 0 S
+197 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7494
+dick tracy~
+Dick Tracy~
+Dick Tracy stands in his yellow fineries and looks at you.
+~
+Dick Tracy is a busy man.
+~
+64 0 0 S
+210 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7495
+hammerhead~
+Hammerhead~
+Hammerhead snarls at you and attacks!
+~
+Hammerhead is in no mood for chatter.
+~
+32|64 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7496
+austin powers~
+Austin Powers~
+Austin Powers is here, chasing the girls.
+~
+Austin Powers says, 'Check out my mojo!'
+~
+64 0 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7497
+party girl~
+a party girl~
+A party girl is here, dancing to the music.
+~
+The girl grabs your hands and swirls you around your toes.
+~
+64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7498
+bugs bunny~
+Bugs Bunny~
+Bugs Bunny winks at you and says, 'What's up doc?'
+~
+Bugs Bunny chews on his carrot loudly.
+~
+2|64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7499
+elmer fudge~
+Elmer Fudge~
+Elmer Fudge, the rabbit hunter, is here
+~
+Elmer Fudge puts his finger to his lips and says, 'Shhhh.. I am hunting 
+rabbits.'
+~
+2|64 0 0 S
+101 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7500
+babs bunny~
+Babs Bunny~
+Babs Bunny asks, 'Ain't I cute?'
+~
+Babs Bunny smiles sweetly at you.
+~
+2|64 0 0 S
+97 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7501
+buster bunny~
+Buster Bunny~
+Buster Bunny slaps you on the back and grins widely.
+~
+Buster Bunny giggles with you.
+~
+2|64 0 0 S
+99 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7502
+daffy duck~
+Daffy Duck~
+Daffy Duck is here, taking his daily swim
+~
+Daffy Duck struts proudly.
+~
+2|64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7503
+elmira~
+Elmira~
+Elmira runs towards you with her arms spread wide.
+~
+Elmira screams, 'I'll hug you and hold you and kiss you and squeeze you and 
+love you with all my heart!'
+~
+64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7504
+caged bird~
+a caged bird~
+A caged bird chirps sadly at you.
+~
+The bird seems to want freedom.
+~
+2|64 0 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7505
+caged dog~
+a caged dog~
+A caged dog whimpers softly
+~
+The dog seems to want to be free.
+~
+2|64 0 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7506
+granny~
+Granny~
+Granny is here, sitting quietly in her rocking chair.
+~
+Granny peers through her glasses and smiles sweetly at you.
+~
+2|64 0 0 S
+88 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7507
+sylvester~
+Sylvester~
+Sylvester the cat is here, trying to gobble up Tweety
+~
+Sylvester looks at you and exclaims, 'Suckerin' suckertash.. I'll get that 
+canary yet!'
+~
+64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7508
+tweety bird~
+Tweety~
+Tweety bird is here, chirping at you.
+~
+Tweety says, 'I tot I taw a puddin' gat!'
+~
+64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7509
+pigeon~
+a pigeon~
+A small pigeon is here, pecking on the ground.
+~
+The pigeon seems not to be bothered by you.
+~
+2|64 524288 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7510
+spiderman~
+Spiderman~
+Spiderman is here, scaling the walls of the skyscraper
+~
+Spiderman seems at ease with the climbing.
+~
+64 524288 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7511
+king kong gorilla~
+King Kong~
+King Kong, a huge gorilla, is here.
+~
+King Kong slams his chests and howls at you.
+~
+2|64 0 0 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#7512
+swamp thing~
+Swamp Thing~
+Swamp Thing looks at you with deep sad eyes.
+~
+Do not incur the wrath of... Swamp Thing!
+~
+2|64 0 0 S
+150 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7513
+donatello~
+Donatello~
+Donatello the blue ninja turtle is here.
+~
+Donatello waves his bo in front of you threateningly.
+~
+64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7514
+ralpheal~
+Ralpheal~
+Ralpheal is here, weaving an intricate pattern in the air with his sai.
+~
+Ralpheal shouts, 'Cowabunga!'
+~
+64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7515
+leonardo~
+Leonardo~
+Leonardo draws his katana and drops into a fighting stance.
+~
+Leonardo is not to be messed with!
+~
+64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7516
+michaelangelo~
+Michaelangelo~
+Michaelangelo waves a piece of pizza at your face
+~
+Michaelangelo shouts, 'Hey dude!'
+~
+64 0 0 S
+120 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7517
+splinter~
+Splinter~
+Splinter is here, practicing karate
+~
+Splinter balls his fists and drops into a fighting stance.
+~
+64 0 0 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7518
+april o'neil~
+April O'Neil~
+April O'Neil takes out her notepad and looks at you
+~
+April asks, 'What do you have to report?'
+~
+2|64 0 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7519
+news reporter~
+a news reporter~
+A news reporter is here, facing the camera
+~
+The news reporter says, 'And now for today's news....'
+~
+2|64 0 0 S
+90 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7520
+receptionist~
+a receptionist~
+A receptionists steps up and asks if she can help you.
+~
+The receptionist seems like a very polite girl.
+~
+2|64 0 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#7521
+casper~
+Casper~
+Casper, the friendly ghost, is here.
+~
+Casper asks, 'Do you want to be my friend?'
+~
+2|64 2|256|524288|1048576 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7522
+pinky~
+Pinky~
+Pinky the lab mouse is here
+~
+Pinky says, "'Nuff!"
+~
+2|64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7523
+brain~
+Brain~
+Brain, the lab mouse, is here
+~
+Brain says, '... the same thing we do every day, try to take over the 
+world!'
+~
+2|64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7524
+doctor dolittle~
+Doctor Dolittle~
+Doctor Dolittle is here, treating to a suffocating rat.
+~
+Doctor Dolittle bends over and gives the rat mouth to mouth.
+~
+2|64 0 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7525
+dexter~
+Dexter~
+Dexter is here, mixing some chemicals
+~
+Dexter screams at you, 'Get out! Get out! Get out now!'
+~
+2|64 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#7526
+robotic droid~
+a robotic droid~
+A robotic droid beeps quietly to itself as it cleans the room
+~
+The robotic droid only responses to Dexter's commands.
+~
+2|64 512 0 S
+70 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#7446
+broken car~
+a broken car~
+There is a half broken car here~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7447
+dented tin can~
+a dented tin can~
+There is a dented tin can hidden among the piles of rubbish~
+~
+13 0 1|16384
+0 1 6 11
+1 0 0
+#7448
+dirty pot~
+a dirty pot~
+A dirty pot is here~
+~
+15 0 1|16384
+10 0 -1 11
+3 0 0
+#7449
+metallic helmet~
+a metallic helmet~
+There is a metallic helmet here.~
+~
+9 0 1|16
+5 1 6 11
+25 0 0
+#7450
+gun terminator~
+gun of the terminator~
+A large gun lies on the ground~
+~
+5 0 1|8192
+0 1 6 6
+7 0 0
+#7451
+metal junk~
+a piece of junk made of metal~
+There is a piece of junk here~
+~
+13 0 1|16384
+0 1 6 11
+22 0 0
+#7452
+reception table~
+a reception table~
+There is a reception table here, complete with a bell on top of it.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7453
+metallic laser pen~
+a metallic laser pen~
+There is a pen on the ground, emitting a short beam of laser~
+~
+5 1 1|8192
+0 1 4 11
+1 0 0
+#7454
+robocop's helmet~
+robocop's helmet~
+There is a metallic helmet on the ground.~
+~
+9 1|2 1|16
+3 1 6 11
+7 0 0
+#7455
+robocop's pistol~
+robocop's pistol~
+A small pistol branded with Robocop's name is here.~
+~
+5 0 1|8192
+0 2 4 6
+5 0 0
+#7456
+huge table wires~
+a huge table covered with wires~
+There is a huge table covered with wires here.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7457
+small screw~
+a small screw~
+A small screw rolls nonchalantly on the ground~
+~
+9 0 1|16
+1 1 6 11
+1 0 0
+#7458
+shelf~
+a large shelf~
+There is a large shelf leaning against a wall.~
+~
+15 0 0
+9999 0 -1 11
+2000 0 0
+#7459
+screwdriver~
+a screwdriver~
+There is a screwdriver here.~
+~
+5 0 1|8192
+0 1 6 11
+5 0 0
+#7460
+powerdrill~
+a powerdrill~
+There is a powderdrill on the ground.~
+~
+5 0 1|8192
+0 2 4 11
+3 0 0
+#7461
+blade grass~
+a blade of grass~
+There is a blade of grass here~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#7462
+spaceship~
+a spaceship~
+There is a spaceship here, emitting flashes of light~
+~
+27 1 0
+7569 0 0 0
+2000 0 0
+#7463
+plasma gun~
+a plasma gun~
+A small gun lies on the ground.~
+~
+5 0 1|8192
+0 1 6 6
+5 0 0
+#7464
+police car~
+a police car~
+There is a police car with a huge bite mark on it~
+~
+15 1|2 0
+10000 0 1 11
+2000 0 0
+#7465
+metal spire~
+a metal spire~
+A metal spire shaped like a giant toothpick~
+~
+5 0 1|8192
+0 1 6 2
+100 0 0
+#7466
+metallic wrench~
+a metallic wrench~
+There is a metallic wrench on the ground~
+~
+5 0 1|8192
+0 1 4 8
+4 0 0
+#7467
+small blaster~
+a small blaster~
+There is a small blaster on the ground.~
+~
+5 1 1|8192
+0 2 4 6
+2 0 0
+#7468
+control console~
+a control console~
+A control console is here, flashing red alert.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7469
+computer console~
+a computer console~
+A computer console hums quietly to itself.~
+~
+12 2 0
+0 1 6 11
+2000 0 0
+#7470
+mega blaster~
+a mega blaster~
+There is a megablaster on the ground.~
+~
+5 0 1|8192
+0 4 11 6
+7 0 0
+A
+18 2
+#7471
+cleaning cloth~
+a cleaning cloth~
+There is a piece of cloth on the ground.~
+~
+13 0 1|16384
+0 1 6 11
+5 0 0
+#7472
+tapered deck cards~
+a deck of tapered cards~
+There is a deck of cards on the ground.~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#7473
+mug mead~
+a mug of thick mead~
+A mug of thick mead has been left on the ground.~
+~
+17 0 1|16384
+10 10 18 0
+2 0 0
+#7474
+cowboy pistol~
+a cowboy pistol~
+Someone has left a pistol on the ground.~
+~
+5 0 1|8192
+0 2 3 6
+1 0 0
+#7475
+bar counter~
+a bar counter~
+There is a bar counter here, displaying many empty mugs~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7476
+reflex hammer~
+a reflex hammer~
+A reflex hammer has been left carelessly on the ground.~
+~
+5 0 1|8192
+0 1 4 8
+1 0 0
+#7477
+ripped shirt~
+a ripped shirt~
+There is a ripped shirt on the ground~
+~
+9 0 1|8
+2 1 6 11
+3 0 0
+#7478
+notebook~
+a notebook~
+A small notebook is here on the ground.~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#7479
+small table~
+a small table~
+A small table leans against a wall.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7480
+smoking cigar~
+a smoking cigar~
+There is a cigar smoking on the ground.~
+~
+9 0 1|2
+1 1 6 11
+1 0 0
+#7481
+starmetal broadsword~
+a starmetal broadsword~
+There is a huge broadsword carved from starmetal on the ground.~
+~
+5 1024 1|8192
+0 3 10 1
+21 0 0
+#7482
+shield phoenix insignia~
+a shield with a phoenix insignia~
+A shield etched with a phoenix insignia is here~
+~
+9 1024 1|512
+3 1 6 11
+6 0 0
+#7483
+loincloth~
+a loincloth~
+A piece of loincloth is on the ground~
+~
+9 0 1|2048
+1 1 6 11
+1 0 0
+#7484
+highlander katana~
+a highlander's katana~
+A highlander's katana lies at your feet.~
+~
+5 1 1|8192
+0 5 15 1
+3 0 0
+#7485
+piece vine~
+a piece of vine~
+There is a small piece of vine here.~
+~
+13 0 1|16384
+0 1 6 11
+2 0 0
+#7486
+shotgun~
+a long shotgun~
+A long shotgun has been left on the ground.~
+~
+5 0 1|8192
+0 3 7 6
+5 0 0
+#7487
+bandana red~
+a red bandana~
+Someone has left a red bandana here.~
+~
+9 0 1|4
+3 1 6 11
+2 0 0
+#7488
+battered hat~
+a battered hat~
+There is a battered hat on the ground.~
+~
+9 0 1|16
+3 1 6 11
+2 0 0
+#7489
+tall tree~
+a tall tree~
+There is a tall tree here, covered with vines.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7490
+wolverine's suit~
+Wolverine's suit~
+A bright yellow suit is on the ground.~
+~
+9 0 1|8
+12 1 6 11
+12 0 0
+#7491
+adamantite claws~
+A pair of adamantite claws~
+There is a pair of adamantite claws on the ground.~
+~
+9 0 1|128
+2 1 6 11
+3 0 0
+#7492
+ruby red visor~
+a ruby red visor~
+There is a ruby red visor on the ground.~
+~
+9 0 1|16
+2 1 6 11
+2 0 0
+#7493
+cloth hood white ruby~
+a cloth hood with a white ruby~
+There is a hood on the ground.~
+~
+9 0 1|16
+2 1 6 11
+2 0 0
+#7494
+pair glasses~
+a pair of glasses~
+There is a pair of glasses here.~
+~
+9 0 1|16384
+2 1 6 11
+2 0 0
+#7495
+pair shades red~
+a pair of red shades~
+Someone has left a pair of red shades here.~
+~
+9 0 1|16
+4 1 6 11
+2 0 0
+A
+17 -2
+#7496
+playing card ace spades~
+an ace of spades~
+There is a play card here.~
+~
+5 1 1|8192
+0 1 5 1
+1 0 0
+#7497
+yellow gloves~
+a pair of yellow gloves~
+A pair of yellow gloves lie on the ground.~
+~
+9 0 1|128
+2 1 6 11
+1 0 0
+#7498
+pile crates~
+a pile of crates~
+There is a pile of empty crates on the ground.~
+~
+15 0 0
+9999 0 -1 11
+2000 0 0
+#7499
+stash weapons pile~
+a stash of weapons~
+There is a pile of weapons here.~
+~
+8 0 1
+0 1 6 11
+25 0 0
+#7500
+round table~
+a round table~
+A roundtable is here, filled with empty mugs~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7501
+pipe~
+a pipe~
+A small pipe rests here.~
+~
+9 1 1|16384
+2 1 6 11
+1 0 0
+#7502
+checked cap~
+a checked cap~
+There is a checked cap here.~
+~
+9 0 1|16
+1 1 6 11
+2 0 0
+#7503
+checked trenchcoat~
+a checked trenchcoat~
+There is a checked trenchcoat here.~
+~
+9 0 1|8
+2 1 6 11
+5 0 0
+#7504
+huge machinegun~
+a huge machinegun~
+There is a huge machinegun here.~
+~
+5 0 1|8192
+0 2 6 6
+22 0 0
+#7505
+harpoon gun~
+a harpoon gun~
+A harpoon gun lies on the ground.~
+~
+5 0 1|8192
+0 3 6 11
+2 0 0
+#7506
+boxing gloves~
+a pair of boxing gloves~
+A pair of boxing gloves is here.~
+~
+9 0 1|128
+3 1 6 11
+2 0 0
+#7507
+nifty gadget~
+a nifty gadget~
+A nifty gadget sits on the ground.~
+~
+8 0 1|16384
+0 1 6 11
+3 0 0
+#7508
+newspaper~
+a newspaper~
+There is a newspaper here.~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#7509
+tommy gun~
+a tommy gun~
+Dick Tracy's tommy gun is here.~
+~
+5 0 1|8192
+0 4 10 6
+5 0 0
+#7510
+brown car~
+a brown car~
+A small brown car is parked here.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7511
+bright coloured clothes~
+bright coloured clothes~
+Some bright coloured clothes have been left here.~
+~
+9 1 1|8
+1 1 6 11
+6 0 0
+#7512
+skimpy dress~
+a skimpy dress~
+A skimpy dress has been left here.~
+~
+9 0 1|8
+1 1 6 11
+3 0 0
+#7513
+carrot~
+a carrot~
+a carrot has been left here as bait.~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#7514
+toy shotgun~
+a toy shotgun~
+There is a toy shotgun here.~
+~
+5 0 1|8192
+0 1 3 6
+3 0 0
+#7515
+bunny makeup~
+some bunny makeup~
+Someone has left her makeup here.~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#7516
+some seaweed~
+some seaweed~
+There is some seaweed here.~
+~
+8 0 1
+0 1 6 11
+2 0 0
+#7517
+wooden stump table~
+a wooden stump~
+There is a wooden stump here, serving as a table.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7518
+leash~
+a leash~
+There is a small leash here.~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#7519
+empty cage~
+an empty cage~
+There is an empty cage here, big enough to fit you.~
+~
+15 0 0
+99999 0 -1 11
+2000 0 0
+#7520
+rocking chair~
+a rocking chair~
+A rocking chair rocks quietly by itself.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7521
+glasses~
+a pair of glasses~
+Granny has left her glasses here.~
+~
+9 0 1|16
+2 1 6 11
+1 0 0
+#7522
+small television~
+a small television~
+There is a small television here, blaring loudly.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7523
+fountain~
+a small fountain~
+A small fountain sprews forth a stream of water.~
+~
+25 0 0
+0 30 0 0
+2000 0 0
+#7524
+antaena~
+an antaena~
+There is a huge antaena here.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7525
+webshooter~
+a webshooter~
+There is a webshooter here.~
+~
+5 0 1|8192
+0 1 6 6
+1 0 0
+#7526
+refuse~
+a piece of refuse~
+Someone has littered a piece of refuse on the ground.~
+~
+13 0 1|16384
+0 1 6 11
+2 0 0
+#7527
+bo~
+Bo~
+A bo lies on the ground~
+~
+5 0 1|8192
+0 1 5 7
+5 0 0
+#7528
+sai~
+Sai~
+A sai has been left here.~
+~
+5 0 1|8192
+0 1 3 11
+5 0 0
+#7529
+katana~
+a katana~
+A katana has been left here.~
+~
+5 0 1|8192
+0 1 6 1
+5 0 0
+#7530
+piece pizza~
+a piece of pizza~
+There is a piece of pizza here.~
+~
+19 0 1|16384
+10 1 6 11
+3 0 0
+#7531
+microphone~
+a microphone~
+A microphone has been left here.~
+~
+5 0 1|8192
+0 1 3 8
+5 0 0
+#7532
+television camera~
+a huge television camera~
+There is a huge television camera here.~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7533
+testtube~
+a testtube~
+There is a testtube on the ground.~
+~
+8 0 1|16384
+0 1 6 11
+1 0 0
+#7534
+computer~
+a huge computer~
+There is a huge computer here, linked to the wall~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#7535
+large workbench~
+a large workbench~
+There is a large workbench here, filled with all sorts of apparatus~
+~
+12 0 0
+0 1 6 11
+2000 0 0
+#0
+
+
+#ROOMS
+#7446
+Entrance to Hollywood~
+You are standing at the entrance to Hollywood.  Shrieks and screams of all 
+sorts from maniacal to outright fiendish can be heard coming from the east.  
+Maybe you should consider before entering....
+~
+0 0 1
+D1
+~
+~
+0 -1 7447
+S
+#7447
+Broadway~
+This is Broadway, the road which links up all the other roads of Hollywood.  
+You can call it the spine of Hollywood if you wish.
+To the north and south, Toon Street stretches into the horizon.
+~
+0 4 1
+D0
+~
+~
+0 -1 7465
+D1
+~
+~
+0 -1 7448
+D2
+~
+~
+0 -1 7451
+D3
+~
+~
+0 -1 7446
+S
+#7448
+Broadway~
+This is Broadway, the road which links up all the other roads of Hollywood.  
+You can call it the spine of Hollywood if you wish.
+To the north is Spy's Avenue, while to the south is Detective Promenade.
+~
+0 4 1
+D0
+~
+~
+0 -1 7494
+D1
+~
+~
+0 -1 7449
+D2
+~
+~
+0 -1 7507
+D3
+~
+~
+0 -1 7447
+S
+#7449
+Broadway~
+This is Broadway, the road which links up all the other roads of Hollywood.  
+You can call it the spine of Hollywood if you wish.
+To the north is the infamous Barbarian Lane while to the south is the 
+slightly less notorious Fighter Path.
+~
+0 4 1
+D0
+~
+~
+0 -1 7530
+D1
+~
+~
+0 -1 7450
+D2
+~
+~
+0 -1 7520
+D3
+~
+~
+0 -1 7448
+S
+#7450
+Broadway~
+This is Broadway, the road which links up all the other roads of Hollywood.  
+You can call it the spine of Hollywood if you wish.
+To the north and south, Mechanical Drive stretches into the horizon.
+~
+0 4 1
+D0
+~
+~
+0 -1 7549
+D2
+~
+~
+0 -1 7551
+D3
+~
+~
+0 -1 7449
+S
+#7451
+Toon Street~
+You are standing on the wacky Toon Street.  To both the west and east, 
+maniacal laughter and terrifying shrieks can be heard.
+~
+0 0 1
+D0
+~
+~
+0 -1 7447
+D1
+~
+~
+0 -1 7456
+D2
+~
+~
+0 -1 7452
+D3
+~
+~
+1 -1 7455
+S
+#7452
+Toon Street~
+You are standing on the wacky Toon Street.  To both the west and east, 
+maniacal laughter and terrifying shrieks can be heard.
+~
+0 0 1
+D0
+~
+~
+0 -1 7451
+D1
+~
+~
+0 -1 7458
+D2
+~
+~
+0 -1 7453
+D3
+~
+~
+1 -1 7463
+S
+#7453
+Toon Street~
+You are standing on the wacky Toon Street.  To both the west and east, 
+maniacal laughter and terrifying shrieks can be heard.
+~
+0 0 1
+D0
+~
+~
+0 -1 7452
+D2
+~
+~
+0 -1 7454
+D3
+~
+~
+0 -1 7461
+S
+#7454
+Toon Street~
+You are standing on the wacky Toon Street.  To both the west and east, 
+maniacal laughter and terrifying shrieks can be heard.
+~
+0 0 1
+D0
+~
+~
+0 -1 7453
+D1
+~
+~
+0 -1 7460
+S
+#7455
+An old house~
+You stand in an old house filled with eerie sounds.  Piano music drifts to 
+you from nowhere, playing a discorded old piece.  The staircase leading up 
+is no longer functional and you can see that neither are the lights.
+~
+0 1|8 0
+D1
+~
+~
+1 -1 7451
+S
+#7456
+Level 1 of Channel 8 News Tower~
+You are on Level 1 of Channel 8 News Tower.  This is where April O'Neil the 
+news-reporter works.  Apparently, business at the news tower has been good 
+for reporters rush all over the place, waving their scripts.
+~
+0 8 0
+D2
+~
+~
+0 -1 7458
+D3
+~
+~
+0 -1 7451
+D4
+~
+~
+0 -1 7457
+S
+#7457
+Level 2 of Channel 8 News Tower~
+You are on Level 2 of Channel 8 News Tower.  This is where the daily news is 
+broadcast to the city.  With the recent increase in strife and crime, it's 
+no wonder that the news has gone 24 hours!
+~
+0 8 0
+D2
+~
+~
+0 -1 7459
+D5
+~
+~
+0 -1 7456
+S
+#7458
+Level 1 of Channel 8 News Tower~
+You are on Level 1 of Channel 8 News Tower.  This is where April O'Neil the 
+news-reporter works.  Apparently, business at the news tower has been good 
+for reporters rush all over the place, waving their scripts.
+~
+0 8 0
+D0
+~
+~
+0 -1 7456
+D3
+~
+~
+0 -1 7452
+D4
+~
+~
+0 -1 7459
+S
+#7459
+Level 2 of Channel 8 News Tower~
+You are on Level 2 of Channel 8 News Tower.  This is where the daily news is 
+broadcast to the city.  With the recent increase in strife and crime, it's 
+no wonder that the news has gone 24 hours!
+~
+0 8 0
+D0
+~
+~
+0 -1 7457
+D5
+~
+~
+0 -1 7458
+S
+#7460
+A small town square~
+You are at a small town square.  The ground is covered with scattered grains 
+of rice and hundreds of pigeons are hopping across the ground, pecking on 
+the rice.
+~
+0 0 1
+D3
+~
+~
+0 -1 7454
+S
+#7461
+A large laboratory~
+You stand before a huge table filled with all sorts of measuring instruments 
+and container filled with myriad coloured liquids.  The place is well-lit by 
+a pair of huge lamps hanging overhead.
+A staircase at the back of the room leads towards the cellar.
+~
+0 8 0
+D0
+~
+~
+1 -1 7463
+D1
+~
+~
+0 -1 7453
+D5
+~
+~
+0 -1 7462
+S
+#7462
+Dexter's lab~
+You are in Dexter's lab.  Dexter, the child genius, has built this lab when 
+he was three years old and from the small room that it was, it has developed 
+into the world class laboratory that it is today.
+~
+0 8 0
+D0
+~
+~
+0 -1 7464
+D4
+~
+~
+0 -1 7461
+S
+#7463
+A large laboratory~
+You stand before a huge table filled with all sorts of measuring instruments 
+and container filled with myriad coloured liquids.  The place is well-lit by 
+a pair of huge lamps hanging overhead.
+A staircase at the back of the room leads towards the cellar.
+~
+0 0 1
+D1
+~
+~
+1 -1 7452
+D2
+~
+~
+1 -1 7461
+D5
+~
+~
+0 -1 7464
+S
+#7464
+Dexter's lab~
+You are in Dexter's lab.  Dexter, the child genius, has built this lab when 
+he was three years old and from the small room that it was, it has developed 
+into the world class laboratory that it is today.
+~
+0 8 0
+D2
+~
+~
+0 -1 7462
+D4
+~
+~
+0 -1 7463
+S
+#7465
+Toon Street~
+You are standing on the wacky Toon Street.  To both the west and east, 
+maniacal laughter and terrifying shrieks can be heard.
+~
+0 4 1
+D0
+~
+~
+0 -1 7466
+D1
+~
+~
+0 -1 7490
+D2
+~
+~
+0 -1 7447
+D3
+~
+~
+0 -1 7491
+D5
+~
+~
+0 -1 7493
+S
+#7466
+Toon Street~
+You are standing on the wacky Toon Street.  To both the west and east, 
+maniacal laughter and terrifying shrieks can be heard.
+~
+0 0 1
+D0
+~
+~
+0 -1 7467
+D1
+~
+~
+0 -1 7486
+D2
+~
+~
+0 -1 7465
+D3
+~
+~
+0 -1 7485
+S
+#7467
+Toon Street~
+You are standing on the wacky Toon Street.  To both the west and east, 
+maniacal laughter and terrifying shrieks can be heard.
+~
+0 4 1
+D0
+~
+~
+0 -1 7468
+D1
+~
+~
+1 -1 7481
+D2
+~
+~
+0 -1 7466
+D3
+~
+~
+0 -1 7479
+S
+#7468
+Toon Street~
+You are standing on the wacky Toon Street.  To both the west and east, 
+maniacal laughter and terrifying shrieks can be heard.
+~
+0 4 1
+D1
+~
+~
+1 -1 7469
+D2
+~
+~
+0 -1 7467
+D3
+~
+~
+0 -1 7471
+S
+#7469
+A small comfortable house~
+You are in a small comfortable house.  The furnishings and decor are all 
+fitted together to piece a beautiful jigsaw that sends to you a sensation of 
+extreme peace.
+~
+0 8 0
+D3
+~
+~
+1 -1 7468
+D4
+~
+~
+0 -1 7470
+S
+#7470
+2nd floor of a comfortable house~
+You are on the 2nd floor of a comfortable house.  As is the first floor, the 
+furnishings and decor complement each other and form a picture of 
+tranquility.
+~
+0 8 0
+D5
+~
+~
+0 -1 7469
+S
+#7471
+Bottom of a tall skyscraper~
+You are standing at the foot of a tall skyscraper.  The building is covered 
+on all sides by thick glass with small streaks of grey that is the cement 
+holding up the glass panes.  The entrance to the building seems to be 
+locked.
+~
+0 0 1
+D0
+~
+~
+0 -1 7474
+D1
+~
+~
+0 -1 7468
+D3
+~
+~
+0 -1 7472
+D4
+~
+~
+0 -1 7475
+S
+#7472
+Bottom of a skyscraper~
+You are standing at the foot of a tall skyscraper.  The building is covered 
+on all sides by thick glass with small streaks of grey that is the cement 
+holding up the glass panes.  The entrance to the building seems to be 
+locked.
+~
+0 0 1
+D0
+~
+~
+0 -1 7473
+D1
+~
+~
+0 -1 7471
+S
+#7473
+Bottom of a skyscraper~
+You are standing at the foot of a tall skyscraper.  The building is covered 
+on all sides by thick glass with small streaks of grey that is the cement 
+holding up the glass panes.  The entrance to the building seems to be 
+locked.
+~
+0 0 1
+D1
+~
+~
+0 -1 7474
+D2
+~
+~
+0 -1 7472
+S
+#7474
+Bottom of a skyscraper~
+You are standing at the foot of a tall skyscraper.  The building is covered 
+on all sides by thick glass with small streaks of grey that is the cement 
+holding up the glass panes.  The entrance to the building seems to be 
+locked.
+~
+0 0 1
+D2
+~
+~
+0 -1 7471
+D3
+~
+~
+0 -1 7473
+S
+#7475
+Halfway up a skyscraper~
+After climbing for hours, you managed to reach halfway up the skyscraper.  
+Your arms ache from the exhaustion and the very thought of reaching out for 
+another handhold sends pain through your limbs.
+~
+0 0 1
+D3
+~
+~
+0 -1 7476
+D5
+~
+~
+0 -1 7471
+S
+#7476
+A ledge halfway up a skyscraper~
+You are walking along a ledge halfway up a skyscraper.  After the hours of 
+climbing you spent to reach here, you are determined not to climb up anymore 
+if you can help it.
+~
+0 0 1
+D0
+~
+~
+0 -1 7477
+D1
+~
+~
+0 -1 7475
+S
+#7477
+A ledge halfway up a skyscraper~
+You are walking along a ledge halfway up a skyscraper.  After the hours of 
+climbing you spent to reach here, you are determined not to climb up anymore 
+if you can help it.
+~
+0 0 1
+D2
+~
+~
+0 -1 7476
+D4
+~
+~
+0 -1 7478
+S
+#7478
+Top of a skyscraper~
+You have finally climbed to the top of the skyscraper.  Even though your 
+arms and legs ached at the extreme exertion, you feel a sense of triumph at 
+conquering the building.
+~
+0 0 1
+D5
+~
+~
+0 -1 7477
+S
+#7479
+Entrance of a rabbit hole~
+You stand before the entrance of a rabbit hole.  Although a rabbit hole, it 
+is actually the size of a man.  Looking down the rabbit hole, all you see is 
+darkness.  Perhaps you should go down it.
+~
+0 0 1
+D1
+~
+~
+0 -1 7467
+D5
+~
+~
+0 -1 7480
+S
+#7480
+Inside a rabbit hole~
+You are standing inside a rabbit hole.  The size of a small room, the rabbit 
+hole is the home of Bugs Bunny and his friends.
+~
+0 8 0
+D4
+~
+~
+0 -1 7479
+S
+#7481
+Elmira's home~
+You are standing in Elmira's home.  Squeals and shrieks of trapped and 
+over-pampered animals drifts to your ears from all around.  You had better 
+leave before you join their fate!
+~
+0 8 0
+D1
+~
+~
+0 -1 7482
+D2
+~
+~
+0 -1 7484
+D3
+~
+~
+1 -1 7467
+S
+#7482
+Elmira's home~
+You are standing in Elmira's home.  Squeals and shrieks of trapped and 
+over-pampered animals drifts to your ears from all around.  You had better 
+leave before you join their fate!
+~
+0 8 0
+D2
+~
+~
+0 -1 7483
+D3
+~
+~
+0 -1 7481
+S
+#7483
+Elmira's home~
+You are standing in Elmira's home.  Squeals and shrieks of trapped and 
+over-pampered animals drifts to your ears from all around.  You had better 
+leave before you join their fate!
+~
+0 8 0
+D0
+~
+~
+0 -1 7482
+D3
+~
+~
+0 -1 7484
+S
+#7484
+Elmira's home~
+You are standing in Elmira's home.  Squeals and shrieks of trapped and 
+over-pampered animals drifts to your ears from all around.  You had better 
+leave before you join their fate!
+~
+0 8 0
+D0
+~
+~
+0 -1 7481
+D1
+~
+~
+0 -1 7483
+S
+#7485
+A duck pond~
+You stand waist deep in a duck pond.  Several passer-bys are throwing pieces 
+of bread into the pond... and onto your hair.  You feel very humiliated.
+~
+0 0 6
+D1
+~
+~
+0 -1 7466
+S
+#7486
+An old warehouse~
+You are in an old warehouse.  Crates of all shapes and sizes line the back 
+of the room living little space for you to maneuver freely.
+~
+0 8 0
+D3
+~
+~
+0 -1 7466
+D5
+~
+~
+2 -1 7487
+S
+#7487
+Underground passage~
+You are in an underground passage.  The passage does not seem to lead 
+anywhere at all.  You might very well be wasting your time.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 7488
+D4
+~
+~
+2 -1 7486
+S
+#7488
+Underground passage~
+You are in an underground passage.  The passage does not seem to lead 
+anywhere at all.  You might very well be wasting your time.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 7500
+D2
+~
+~
+0 -1 7489
+D3
+~
+~
+0 -1 7487
+S
+#7489
+Underground passage~
+You are in an underground passage.  The passage does not seem to lead 
+anywhere at all.  You might very well be wasting your time.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 7488
+D4
+~
+~
+0 -1 7490
+S
+#7490
+An old warehouse~
+You are in an old warehouse.  Crates of all shapes and sizes line the back 
+of the room living little space for you to maneuver freely.
+~
+0 8 0
+D3
+~
+~
+0 -1 7465
+D5
+~
+~
+0 -1 7489
+S
+#7491
+Sewage treatment plant~
+You are at a sewage treatment plant.  The stench of excretion and rotting 
+garbage assaults your unprotected nose and you gingerly wrinkle it slightly.
+~
+0 8 0
+D1
+~
+~
+0 -1 7465
+D5
+~
+~
+0 -1 7492
+S
+#7492
+The sewers~
+You are in the sewers of Hollywood.  Even though the glamourous buildings 
+and people on the surface, the sewers of Hollywood are like any other -- 
+dark, dank, damp and smelly.
+~
+0 1|8 0
+D1
+~
+~
+0 -1 7493
+D4
+~
+~
+0 -1 7491
+S
+#7493
+The sewers~
+You are in the sewers of Hollywood.  Even though the glamourous buildings 
+and people on the surface, the sewers of Hollywood are like any other -- 
+dark, dank, damp and smelly.
+~
+0 1|8 0
+D3
+~
+~
+0 -1 7492
+D4
+~
+~
+0 -1 7465
+S
+#7494
+Spy's Avenue~
+The silence of the road announces like a loud gong that you are on Spy's 
+Avenue.  Spies from across the centuries gather here to celebrate their 
+spydom, and to spy on each other.
+~
+0 4 1
+D0
+~
+~
+0 -1 7495
+D1
+~
+~
+0 -1 7501
+D2
+~
+~
+0 -1 7448
+D3
+~
+~
+0 -1 7498
+S
+#7495
+Spy's Avenue~
+The silence of the road announces like a loud gong that you are on Spy's 
+Avenue.  Spies from across the centuries gather here to celebrate their 
+spydom, and to spy on each other.
+~
+0 4 1
+D0
+~
+~
+0 -1 7496
+D1
+~
+~
+0 -1 7503
+D2
+~
+~
+0 -1 7494
+D3
+~
+~
+0 -1 7504
+S
+#7496
+Spy's Avenue~
+The silence of the road announces like a loud gong that you are on Spy's 
+Avenue.  Spies from across the centuries gather here to celebrate their 
+spydom, and to spy on each other.
+~
+0 4 1
+D0
+~
+~
+2 -1 7497
+D1
+~
+~
+0 -1 7505
+D2
+~
+~
+0 -1 7495
+S
+#7497
+MI6 HQ~
+You are standing in MI6 HQ.  No one is allowed in here except for the 
+agents.  If you are not one of them, then GET OUT!
+~
+0 8 0
+D2
+~
+~
+2 -1 7496
+S
+#7498
+Haunted castle~
+You are in a haunted castle.  Cries and moans of anguish can be heard 
+somewhere to the back of the castle, though you cannot see anything.  
+Perhaps it is time to leave.
+~
+0 8 0
+D1
+~
+~
+0 -1 7494
+D5
+~
+~
+2 -1 7499
+S
+#7499
+Underground passage~
+You are in an underground passage.  The passage does not seem to lead 
+anywhere at all.  You might very well be wasting your time.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 7500
+D4
+~
+~
+2 -1 7498
+S
+#7500
+Underground passage~
+You are in an underground passage.  The passage does not seem to lead 
+anywhere at all.  You might very well be wasting your time.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 7499
+D3
+~
+~
+0 -1 7488
+S
+#7501
+A party hall~
+You are in a huge party hall.  Disco lights play across the walls in ever 
+changing colours and loud music blares from the speakers at the sides of the 
+room.
+~
+0 8 0
+D0
+~
+~
+0 -1 7502
+D3
+~
+~
+0 -1 7494
+S
+#7502
+A party hall~
+You are in a huge party hall.  Disco lights play across the walls in ever 
+changing colours and loud music blares from the speakers at the sides of the 
+room.
+~
+0 8 0
+D0
+~
+~
+0 -1 7503
+D2
+~
+~
+0 -1 7501
+S
+#7503
+A party hall~
+You are in a huge party hall.  Disco lights play across the walls in ever 
+changing colours and loud music blares from the speakers at the sides of the 
+room.
+~
+0 8 0
+D2
+~
+~
+0 -1 7502
+D3
+~
+~
+0 -1 7495
+S
+#7504
+A carpark~
+Ever noticed how carparks are always the center of attention for spy hiding 
+places?  Well, in Hollywood, we have our own carpark to cater to all the 
+needs of the spies!
+~
+0 0 1
+D1
+~
+~
+0 -1 7495
+S
+#7505
+Abandoned factory~
+There is an abandoned factory where you stand.  The factory used to be used 
+for producing weaponry, now, it is just an old dilapidated building... or is 
+it?
+~
+0 8 0
+D3
+~
+~
+0 -1 7496
+D5
+~
+~
+2 -1 7506
+S
+#7506
+Secret hideout~
+You've found the secret hideout of Hammerhead!  Looking around the room, you 
+can't help but wonder at just what conspires in here.
+~
+0 8 0
+D4
+~
+~
+2 -1 7505
+S
+#7507
+Detective Promenade~
+Detective Promenade is named thus because of the very fact that all the 
+detectives ever known reside here.  To both the west and east, men in trench 
+coats with large magnifying glasses walk about looking lost.
+~
+0 4 1
+D0
+~
+~
+0 -1 7448
+D1
+~
+~
+1 -1 7514
+D2
+~
+~
+0 -1 7508
+S
+#7508
+Detective Promenade~
+Detective Promenade is named thus because of the very fact that all the 
+detectives ever known reside here.  To both the west and east, men in trench 
+coats with large magnifying glasses walk about looking lost.
+~
+0 4 1
+D0
+~
+~
+0 -1 7507
+D1
+~
+~
+0 -1 7516
+D2
+~
+~
+0 -1 7509
+D3
+~
+~
+0 -1 7518
+S
+#7509
+Detective Promenade~
+Detective Promenade is named thus because of the very fact that all the 
+detectives ever known reside here.  To both the west and east, men in trench 
+coats with large magnifying glasses walk about looking lost.
+~
+0 4 1
+D0
+~
+~
+0 -1 7508
+D3
+~
+~
+0 -1 7519
+S
+#7514
+Abandoned warehouse~
+You are standing in an abandoned warehouse.  Many crates have been piled up 
+along the lengths of the walls and although you cannot prove it, you sense a 
+hidden mystery in this place.
+~
+0 8 0
+D3
+~
+~
+1 -1 7507
+D5
+~
+~
+1 -1 7515
+S
+#7515
+Hidden room~
+You are in a hidden room.  The lights in the room seem to have fused, 
+leaving the room in perpetual darkness.  Even though the darkness, you can 
+see a shadowy figure near the exit.
+~
+0 1|8 0
+D4
+~
+~
+1 -1 7514
+S
+#7516
+A forbidding house~
+You stand inside a forbidding looking house.  The walls of the house are 
+covered with moss and lichens and the furniture are all covered up with 
+white cloth.  As you walk along the seeming haunted house, you can't help 
+but notice a flicker of movement to your left.
+~
+0 8 0
+D3
+~
+~
+0 -1 7508
+D4
+~
+~
+1 -1 7517
+S
+#7517
+A forgotten attic~
+You are in the attic of the forbidding looking house.  Having been abandoned 
+for years by human occupants, this house is said to be haunted.  The attic 
+of the house flashes now and then when lightning plays across the sky and 
+lights up the room.
+~
+0 8 0
+D5
+~
+~
+1 -1 7516
+S
+#7518
+Detectives' Bar~
+You are in a smokey bar.  To the side of the room, there is a bar counter 
+where a bartender is trying his best to sell his wares.
+~
+0 8 0
+D1
+~
+~
+0 -1 7508
+D2
+~
+~
+0 -1 7519
+S
+#7519
+Detectives' Bar~
+You are in a smokey bar.  To the side of the room, there is a bar counter 
+where a bartender is trying his best to sell his wares.
+~
+0 8 0
+D0
+~
+~
+0 -1 7518
+D1
+~
+~
+0 -1 7509
+S
+#7520
+Fighter Path~
+Many have fought for the greater good of Hollywood and here, on the length 
+of this street, they rest their retired bodies.  Welcome to Fighter Path, 
+the resort of the Hollywood fighters.
+~
+0 0 1
+D0
+~
+~
+0 -1 7449
+D1
+~
+~
+0 -1 7527
+D2
+~
+~
+0 -1 7521
+D3
+~
+~
+0 -1 7526
+S
+#7521
+Fighter Path~
+Many have fought for the greater good of Hollywood and here, on the length 
+of this street, they rest their retired bodies.  Welcome to Fighter Path, 
+the resort of the Hollywood fighters.
+~
+0 0 1
+D0
+~
+~
+0 -1 7520
+D2
+~
+~
+0 -1 7522
+D3
+~
+~
+0 -1 7524
+S
+#7522
+Fighter Path~
+Many have fought for the greater good of Hollywood and here, on the length 
+of this street, they rest their retired bodies.  Welcome to Fighter Path, 
+the resort of the Hollywood fighters.
+~
+0 0 1
+D0
+~
+~
+0 -1 7521
+D1
+~
+~
+0 -1 7523
+S
+#7523
+Hospital~
+The most important place in any fighter's heart -- the hospital.  The 
+hispital here is quite empty at the moment.  Perhaps it is time for the 
+fighting to begin....
+~
+0 8 0
+D3
+~
+~
+0 -1 7522
+S
+#7524
+Entrance to an illegal gambling den~
+You are at the entrance of an illegal gambling den.  Screams and shouts of 
+excitement can be heard coming from downstairs.  Excited, you decide to 
+hurry onwards.
+~
+0 8 0
+D1
+~
+~
+0 -1 7521
+D5
+~
+~
+0 -1 7525
+S
+#7525
+A wrestling ring~
+You are standing in a room full of spectators.  In the center of the huge 
+room, there is a wrestling ring with two wrestlers screaming curses at each 
+other.
+~
+0 8 0
+D4
+~
+~
+0 -1 7524
+S
+#7526
+A saloon~
+You are standing in a saloon, with all the well-known poker players, 
+gunsters and the ever-polite bartender.
+~
+0 8 0
+D1
+~
+~
+0 -1 7520
+S
+#7527
+A karate dojo~
+Standing inside a karate dojo, you can't help but marvel at the two neat 
+rows of fighters standing in front of you.  Everyone seems to be queueing up 
+to enter the room to the south, where screams of anguish can be heard.
+~
+0 8 0
+D2
+~
+~
+0 -1 7528
+D3
+~
+~
+0 -1 7520
+S
+#7528
+A karate fighting mat~
+In the center of the room, there is a soft mat with two karate experts 
+fighting on it.  Both men seems to be concentrating on the other.  It would 
+be an easy matter disposing of them....
+~
+0 8 0
+D0
+~
+~
+0 -1 7527
+D5
+~
+~
+1 -1 7529
+S
+#7529
+A hidden den~
+Smoke from a cigar fills the room you are in with an obscuring fog.  Without 
+taking your eyes off the shadowy man, you slowly unsheath your weapons.
+~
+0 1|8 0
+D4
+~
+~
+1 -1 7528
+S
+#7530
+Barbarian Lane~
+Conan the barbarian would be proud of these surroundings.  Filled with 
+myriad castles and other interesting buildings where barbarians dwell, this 
+is Barbarian Lane.
+~
+0 4 1
+D0
+~
+~
+0 -1 7531
+D1
+~
+~
+0 -1 7537
+D2
+~
+~
+0 -1 7449
+D3
+~
+~
+0 -1 7535
+S
+#7531
+Barbarian Lane~
+Conan the barbarian would be proud of these surroundings.  Filled with 
+myriad castles and other interesting buildings where barbarians dwell, this 
+is Barbarian Lane.
+~
+0 4 1
+D0
+~
+~
+0 -1 7532
+D2
+~
+~
+0 -1 7530
+D3
+~
+~
+1 -1 7536
+S
+#7532
+Barbarian Lane~
+Conan the barbarian would be proud of these surroundings.  Filled with 
+myriad castles and other interesting buildings where barbarians dwell, this 
+is Barbarian Lane.
+~
+0 4 1
+D1
+~
+~
+0 -1 7533
+D2
+~
+~
+0 -1 7531
+S
+#7533
+An artificial forest~
+You are in an artificial forest made of plywood and fibreglass.  The sounds 
+of animals and birds can be heard coming from the speakers hidden among the 
+leaves and foliage.
+~
+0 0 3
+D2
+~
+~
+0 -1 7534
+D3
+~
+~
+0 -1 7532
+S
+#7534
+An artificial forest~
+You are in an artificial forest made of plywood and fibreglass.  The sounds 
+of animals and birds can be heard coming from the speakers hidden among the 
+leaves and foliage.
+~
+0 0 2
+D0
+~
+~
+0 -1 7533
+S
+#7535
+A mound of rock~
+You are standing on a mound of rock.  There is a castle to the north of 
+here, silhouetted against the sky by many streaks of lightning playing 
+across the sky.
+~
+0 0 1
+D0
+~
+~
+1 -1 7536
+D1
+~
+~
+0 -1 7530
+S
+#7536
+A castle~
+You stand inside a castle on Barbarian Lane.  From all sides, cinematic 
+lightning flash across the sky, lighting up the windows and creating an 
+unbearable din.
+~
+0 8 0
+D1
+~
+~
+1 -1 7531
+D2
+~
+~
+1 -1 7535
+S
+#7537
+Entrance of the X-Men's HQ~
+You are standing in the entrance to the X-Men's Headquarters.  Even without 
+the presence of any of the X-Men, you can easily sense the tinge of 
+adventure in the air.
+~
+0 8 0
+D1
+~
+~
+0 -1 7538
+D2
+~
+~
+0 -1 7540
+D3
+~
+~
+0 -1 7530
+D4
+~
+~
+0 -1 7541
+S
+#7538
+Level 1 of the X-Men's HQ~
+You are on level 1 of the X-Men's HQ.  Large computers cover the sides of 
+the walls from end to end.  All the computers seem to be blinking 
+uncontrollably.
+~
+0 8 0
+D2
+~
+~
+0 -1 7539
+D3
+~
+~
+0 -1 7537
+S
+#7539
+Level 1 of the X-Men's HQ~
+You are on level 1 of the X-Men's HQ.  Large computers cover the sides of 
+the walls from end to end.  All the computers seem to be blinking 
+uncontrollably.
+~
+0 8 0
+D0
+~
+~
+0 -1 7538
+D3
+~
+~
+0 -1 7540
+S
+#7540
+Level 1 of the X-Men's HQ~
+You are on level 1 of the X-Men's HQ.  Large computers cover the sides of 
+the walls from end to end.  All the computers seem to be blinking 
+uncontrollably.
+~
+0 8 0
+D0
+~
+~
+0 -1 7537
+D1
+~
+~
+0 -1 7539
+S
+#7541
+The Danger Room~
+You are in the Danger Room of the X-Men's HQ.  Designed to simulate the 
+environment which the occupant most fear, this is the best training 
+simulation you have ever seen.
+~
+0 8 0
+D0
+~
+~
+0 -1 7544
+D1
+~
+~
+0 -1 7542
+D5
+~
+~
+0 -1 7537
+S
+#7542
+The Danger Room~
+You are in the Danger Room of the X-Men's HQ.  Designed to simulate the 
+environment which the occupant most fear, this is the best training 
+simulation you have ever seen.
+~
+0 8 0
+D0
+~
+~
+0 -1 7543
+D3
+~
+~
+0 -1 7541
+S
+#7543
+The Danger Room~
+You are in the Danger Room of the X-Men's HQ.  Designed to simulate the 
+environment which the occupant most fear, this is the best training 
+simulation you have ever seen.
+~
+0 8 0
+D2
+~
+~
+0 -1 7542
+D3
+~
+~
+0 -1 7544
+S
+#7544
+The Danger Room~
+You are in the Danger Room of the X-Men's HQ.  Designed to simulate the 
+environment which the occupant most fear, this is the best training 
+simulation you have ever seen.
+~
+0 8 0
+D1
+~
+~
+0 -1 7543
+D2
+~
+~
+0 -1 7541
+D4
+~
+~
+0 -1 7545
+S
+#7545
+Sleeping chambers~
+You are on the top floor of the X-Men's HQ.  This is the sleeping chambers 
+where the X-Men take their little naps and snoring sleep.
+~
+0 8 0
+D0
+~
+~
+0 -1 7548
+D1
+~
+~
+0 -1 7546
+D5
+~
+~
+0 -1 7544
+S
+#7546
+Sleeping chambers~
+You are on the top floor of the X-Men's HQ.  This is the sleeping chambers 
+where the X-Men take their little naps and snoring sleep.
+~
+0 8 0
+D0
+~
+~
+0 -1 7547
+D3
+~
+~
+0 -1 7545
+S
+#7547
+Sleeping chambers~
+You are on the top floor of the X-Men's HQ.  This is the sleeping chambers 
+where the X-Men take their little naps and snoring sleep.
+~
+0 8 0
+D2
+~
+~
+0 -1 7546
+D3
+~
+~
+0 -1 7548
+S
+#7548
+Sleeping chambers~
+You are on the top floor of the X-Men's HQ.  This is the sleeping chambers 
+where the X-Men take their little naps and snoring sleep.
+~
+0 8 0
+D1
+~
+~
+0 -1 7547
+D2
+~
+~
+0 -1 7545
+S
+#7549
+Mechanical Drive~
+Despite the parody in the name of this road, it is still highly respected.  
+Mechanical Drive, the home of the destitute and lost robots that have been 
+featured in Hollywood films.  They have a rumour that somewhere on these 
+streets is an unwelcomed visitor....
+~
+0 0 1
+D0
+~
+~
+0 -1 7550
+D1
+~
+~
+0 -1 7555
+D2
+~
+~
+0 -1 7450
+D3
+~
+~
+0 -1 7553
+S
+#7550
+Mechanical Drive~
+Despite the parody in the name of this road, it is still highly respected.  
+Mechanical Drive, the home of the destitute and lost robots that have been 
+featured in Hollywood films.  They have a rumour that somewhere on these 
+streets is an unwelcomed visitor....
+~
+0 0 1
+D1
+~
+~
+0 -1 7559
+D2
+~
+~
+0 -1 7549
+D3
+~
+~
+0 -1 7557
+S
+#7551
+Mechanical Drive~
+Despite the parody in the name of this road, it is still highly respected.  
+Mechanical Drive, the home of the destitute and lost robots that have been 
+featured in Hollywood films.  They have a rumour that somewhere on these 
+streets is an unwelcomed visitor....
+~
+0 0 1
+D0
+~
+~
+0 -1 7450
+D1
+~
+~
+0 -1 7563
+D2
+~
+~
+0 -1 7552
+D3
+~
+~
+0 -1 7561
+S
+#7552
+Mechanical Drive~
+Despite the parody in the name of this road, it is still highly respected.  
+Mechanical Drive, the home of the destitute and lost robots that have been 
+featured in Hollywood films.  They have a rumour that somewhere on these 
+streets is an unwelcomed visitor....
+~
+0 0 1
+D0
+~
+~
+0 -1 7551
+D1
+~
+~
+0 -1 7567
+D3
+~
+~
+0 -1 7565
+S
+#7553
+Terminated room~
+You are in a room strewn with metallic objects.  From large fragments of car 
+parts to small tin cans, this room is filled with them!
+~
+0 8 0
+D0
+~
+~
+0 -1 7554
+D1
+~
+~
+0 -1 7549
+S
+#7554
+The terminal stop~
+The workshop of the terminator to the south seems to spill over to this 
+room.  Myriad pieces of metallic objects are thrown all over the place, 
+leaving it as a metallic dumping ground.
+~
+0 8 0
+D2
+~
+~
+0 -1 7553
+S
+#7555
+Metro Police Station~
+You are in Metro Police Station, the largest (and only) police station in 
+Hollywood.  Although it is completely devoid of human beings, you do notice 
+some pieces of metallic junk.
+~
+0 8 0
+D0
+~
+~
+1 -1 7556
+D3
+~
+~
+0 -1 7549
+S
+#7556
+Robocop's office~
+You are standing in the private office of Robocop.  The robotic policeman 
+would not be pleased at this intrusion!!
+~
+0 8 0
+D2
+~
+~
+1 -1 7555
+S
+#7557
+A laboratory~
+The room is in a mess!  Computers big and small line the walls of the room 
+while wires with no obvious purpose nor origin line the floors in a 
+haphazard pattern.  From what you can see, you are standing in a huge 
+laboratory.
+~
+0 8 0
+D0
+~
+~
+1 -1 7558
+D1
+~
+~
+0 -1 7550
+S
+#7558
+Dirty storeroom~
+You are in a dirty storeroom.  The floors are littered with all manners of 
+rubbish, from papers to small pieces of metal to, yes, pieces of flesh!
+~
+0 8 0
+D2
+~
+~
+1 -1 7557
+S
+#7559
+A sprawling garden~
+You stand on a sprawling garden.  There seem to be no gardener's around, 
+even though the garden has been kept meticulously clean.  There is a house 
+to the north of here with bright lights coming from the backyard.
+~
+0 0 1
+D0
+~
+~
+0 -1 7560
+D3
+~
+~
+0 -1 7550
+S
+#7560
+Backyard~
+You are standing in the backyard of a house.  Taking a glance, you see 
+immediately what is emitting the flashes of light you have been seeing.  
+There is a spaceship here!!
+~
+0 0 1
+D2
+~
+~
+0 -1 7559
+S
+#7561
+A power station~
+You are at a power station, and all that that implies.  The generators seem 
+to have been crushed, more like bitten actually, with huge gaping holes in 
+some of them.  The fence around the entire premise has been torn.
+~
+0 0 1
+D1
+~
+~
+0 -1 7551
+D2
+~
+~
+0 -1 7562
+S
+#7562
+The back of a power station~
+You are at the back of a power station.  Except for the piles of metallic 
+scrap and bright flashing lights, there is nothing here.
+~
+0 0 1
+D0
+~
+~
+0 -1 7561
+S
+#7563
+A room decorated like a spaceship~
+You are in a room decorated like the inside of a spaceship.  Control 
+consoles bleep loudly and flashing lights are going off everywhere.
+~
+0 8 0
+D2
+~
+~
+0 -1 7564
+D3
+~
+~
+0 -1 7551
+S
+#7564
+A room decorated like a spaceship~
+You are in a room decorated like the inside of a spaceship.  Control 
+consoles bleep loudly and flashing lights are going off everywhere.
+~
+0 0 1
+D0
+~
+~
+0 -1 7563
+S
+#7565
+Entrance to a dark cave~
+You have walked into the entrance of a dark cave.  To the south, the cave 
+extends beyond your sight.  Interesting to note though, the walls of the 
+caves seem to be lined with minute wires, each humming and glowing softly.
+~
+0 8 0
+D1
+~
+~
+0 -1 7552
+D2
+~
+~
+0 -1 7566
+S
+#7566
+A dark cave~
+You are within the confines of a dark cave.  Even though it is called a 
+cave, you can see clearly that the walls of the cave are lined with computer 
+consoles, all of them humming softly.
+~
+0 1|8 0
+D0
+~
+~
+0 -1 7565
+S
+#7567
+Entrance to a huge spaceship~
+You are at the front entrance of a huge spaceship, half buried in the 
+ground.  Whichever place this came from, it certainly is not known to you!
+~
+0 0 1
+D2
+~
+~
+0 -1 7568
+D3
+~
+~
+0 -1 7552
+S
+#7568
+Inside a huge spaceship~
+You are standing inside a huge spaceship.  From the looks of things, you are 
+at the command center.  Computers beep quietly and lights flash malevolently 
+at you.
+~
+0 8 0
+D0
+~
+~
+0 -1 7567
+S
+#7569
+Inside~
+You are inside a metallic hunk of metal with no exits to the outside.  It 
+would seem that you are trapped.
+~
+0 8 0
+D0
+~
+~
+0 -1 7570
+S
+#7570
+Inside~
+You are inside a metallic hunk of metal with no exits to the outside.  It 
+would seem that you are trapped.
+~
+0 8|1024 0
+D1
+~
+~
+0 -1 3207
+D2
+~
+~
+0 -1 7569
+D3
+~
+~
+0 -1 7571
+S
+#7571
+Inside~
+You are inside a metallic hunk of metal with no exits to the outside.  It 
+would seem that you are trapped.
+~
+0 8|1024 0
+D1
+~
+~
+0 -1 7570
+S
+#0
+
+
+#RESETS
+* This area file is
+M 1 7446 1 7553
+E 1 7450 100 16
+O 1 7446 100 7553
+O 1 7447 100 7554
+O 1 7448 100 7554
+O 1 7449 100 7553
+*
+M 1 7447 1 7554
+*
+M 1 7448 1 7556
+E 1 7454 100 6
+E 1 7455 100 16
+O 1 7451 100 7555
+O 1 7452 100 7555
+*
+M 1 7449 1 7555
+E 1 7453 100 16
+*
+M 1 7450 1 7557
+E 1 7457 100 6
+O 1 7456 100 7557
+O 1 7458 100 7558
+P 1 7459 100 7458
+P 1 7460 100 7458
+D 1 7558 2 1
+O 1 7461 100 7559
+O 1 7462 100 7560
+*
+M 1 7451 1 7560
+E 1 7463 100 16
+*
+M 1 7452 1 7561
+E 1 7465 100 16
+O 1 7464 100 7562
+*
+M 1 7453 1 7563
+E 1 7466 100 16
+*
+M 1 7454 1 7564
+E 1 7467 100 16
+O 1 7468 100 7563
+O 1 7468 100 7564
+O 1 7469 100 7566
+*
+M 1 7455 1 7566
+E 1 7470 100 16
+O 1 7469 100 7568
+*
+M 1 7456 1 7568
+E 1 7470 100 16
+*
+M 1 7457 1 7526
+E 1 7471 100 17
+*
+M 1 7458 1 7526
+E 1 7472 100 17
+*
+M 1 7459 1 7526
+E 1 7474 100 16
+E 1 7473 100 17
+O 1 7475 100 7526
+*
+M 1 7460 1 7523
+E 1 7476 100 16
+*
+M 1 7461 1 7525
+G 1 7477 100
+*
+M 1 7462 1 7525
+E 1 7478 100 17
+D 1 7528 5 2
+*
+M 1 7463 1 7528
+*
+M 1 7464 1 7528
+O 1 7479 100 7527
+O 1 7479 100 7529
+*
+M 1 7465 1 7529
+E 1 7480 100 1
+*
+M 1 7466 1 7528
+D 1 7536 1 1
+D 1 7536 2 1
+*
+M 1 7467 1 7536
+E 1 7482 100 11
+E 1 7481 100 16
+E 1 7483 100 13
+*
+M 1 7468 1 7536
+*
+M 1 7469 1 7535
+E 1 7484 100 16
+*
+M 1 7470 1 7534
+E 1 7483 100 13
+E 1 7485 100 17
+*
+M 1 7471 1 7533
+E 1 7487 100 3
+E 1 7488 100 6
+E 1 7486 100 16
+O 1 7489 100 7534
+*
+M 1 7472 1 7542
+E 1 7490 100 5
+E 1 7491 100 9
+*
+M 1 7473 1 7539
+*
+M 1 7474 1 7540
+E 1 7492 100 6
+*
+M 1 7475 1 7540
+E 1 7493 100 6
+*
+M 1 7476 1 7541
+E 1 7494 100 17
+*
+M 1 7477 1 7545
+E 1 7495 100 6
+*
+M 1 7478 1 7538
+E 1 7496 100 16
+*
+M 1 7479 1 7544
+E 1 7497 100 9
+*
+M 1 7480 1 7546
+*
+M 1 7481 1 7547
+D 1 7514 3 2
+D 1 7514 5 1
+O 1 7498 100 7514
+P 1 7499 100 7498
+*
+M 1 7482 1 7515
+O 1 7500 100 7519
+O 1 7500 100 7518
+D 1 7517 5 1
+*
+M 1 7483 1 7516
+E 1 7503 100 5
+E 1 7502 100 6
+E 1 7501 100 17
+*
+M 1 7484 1 7520
+E 1 7487 100 3
+E 1 7504 100 16
+*
+M 1 7486 1 7521
+E 1 7505 100 16
+*
+M 1 7485 1 7521
+E 1 7505 100 16
+*
+M 1 7487 1 7522
+E 1 7506 100 9
+*
+M 1 7488 1 7497
+E 1 7507 100 17
+*
+M 1 7489 1 7518
+*
+M 1 7490 1 7519
+E 1 7508 100 17
+*
+M 1 7491 1 7518
+E 1 7507 100 17
+*
+M 1 7492 1 7519
+D 1 7497 2 2
+*
+M 1 7493 1 7497
+D 1 7505 5 2
+*
+M 1 7494 1 7519
+E 1 7509 100 16
+*
+M 1 7495 1 7506
+E 1 7509 100 16
+O 1 7510 100 7504
+O 1 7500 100 7502
+*
+M 1 7496 1 7502
+E 1 7511 100 5
+*
+M 1 7497 4 7501
+E 1 7512 100 5
+*
+M 1 7497 4 7502
+E 1 7512 100 5
+*
+M 1 7497 4 7503
+E 1 7512 100 5
+D 1 7498 5 2
+D 1 7486 5 2
+O 1 7513 100 7479
+*
+M 1 7498 1 7480
+E 1 7513 100 17
+*
+M 1 7499 1 7479
+E 1 7514 100 16
+*
+M 1 7500 1 7480
+E 1 7515 100 17
+*
+M 1 7501 1 7480
+E 1 7513 100 17
+*
+M 1 7502 1 7485
+O 1 7516 100 7485
+O 1 7517 100 7480
+D 1 7481 3 0
+*
+M 1 7503 1 7483
+E 1 7518 100 17
+O 1 7519 100 7482
+*
+M 1 7504 1 7484
+*
+M 1 7505 1 7482
+O 1 7520 100 7469
+D 1 7469 3 0
+*
+M 1 7506 1 7469
+E 1 7521 100 6
+*
+M 1 7507 1 7470
+*
+M 1 7508 1 7470
+O 1 7522 100 7469
+O 1 7523 100 7460
+*
+M 1 7509 5 7460
+O 1 7524 100 7478
+*
+M 1 7510 1 7476
+E 1 7525 100 16
+*
+M 1 7511 1 7478
+*
+M 1 7512 1 7491
+E 1 7526 100 17
+O 1 7526 100 7491
+*
+M 1 7513 1 7493
+E 1 7527 100 16
+*
+M 1 7514 1 7493
+E 1 7528 100 16
+*
+M 1 7515 1 7492
+E 1 7529 100 16
+*
+M 1 7516 1 7492
+E 1 7530 100 17
+*
+M 1 7517 1 7492
+*
+M 1 7518 1 7457
+E 1 7478 100 17
+*
+M 1 7519 1 7459
+E 1 7531 100 16
+O 1 7532 100 7459
+*
+M 1 7520 2 7456
+*
+M 1 7520 2 7458
+D 1 7455 1 1
+*
+M 1 7521 1 7455
+D 1 7463 1 1
+D 1 7461 0 0
+*
+M 1 7523 1 7463
+*
+M 1 7522 1 7463
+*
+M 1 7524 1 7461
+E 1 7476 100 16
+*
+M 1 7525 1 7464
+E 1 7533 100 17
+O 1 7534 100 7462
+O 1 7535 100 7464
+*
+M 1 7526 1 7462
+S
+
+#$
+

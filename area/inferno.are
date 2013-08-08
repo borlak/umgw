@@ -1,0 +1,2029 @@
+#AREA  Delmont Inferno~
+
+#MOBILES
+#4358
+alvar kresh~
+Alvar Kresh~
+Alvar Kresh, the governor, stands here looking at the world go by
+~
+Alvar Kresh stares at you with the eyes of experience and smiles warmly.
+~
+64 128 1000 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4359
+fredda leving governor wife~
+Fredda Leving~
+Fredda Leving, wife of the governor,  is here.
+~
+The governor's wife looks at you and frowns.
+~
+2|64 128|32768|1048576 800 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4360
+caliban red robot~
+Caliban~
+Caliban, the no-law robot, stares out at space
+~
+Caliban looks at you with its deep red eyes.
+~
+64|128 128|512|1048576 1000 S
+780 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4361
+prospero robot leader~
+Prospero~
+Prospero, leader of the New Laws, is here
+~
+Prospero screams, 'DEATH to the humans who dare betray our kind!'
+~
+2|4|64 128|512|1048576 0 S
+746 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4362
+tonya welton leader settler~
+Tonya Welton~
+Tonya Welton, leader of the Settlers, is here
+~
+Tonya stares into space and says, 'The comet shall be the undoing of us 
+all!'
+~
+2|64 128 0 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4363
+donald robot blue police alvar~
+Donald~
+Donald, a blue police robot, is here.
+~
+Donald says, 'How may I serve you?'
+~
+2|64 128|512 890 S
+758 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4364
+simcor beddle leader ironheads~
+Simcor Beddle~
+Simcor Beddle, leader of the Ironheads, is here
+~
+Simcor Beddle does not seem to be disturbed by your presence
+~
+2|64 128 -100 S
+799 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4365
+small cleaning droid~
+A small cleaning droid~
+A small cleaning droid is here, sweeping up the place.
+~
+The droid seems to be ignoring you.
+~
+2|4|64 512|32768 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4366
+large maintenance robot~
+A large maintenance robot~
+A large maintenance robot is here checking the infrastructure to ensure the 
+safety of humans
+~
+A large maintenance robots says, 'How may I serve you?'
+~
+64|128 512|32768 0 S
+550 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4367
+cat~
+a small cat~
+A small cat wanders the streets
+~
+A small cat purrs contentedly at you
+~
+64|128 32768|65536|1048576 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4368
+sss agent~
+A SSS agent~
+A SSS agent stands before you, staring hard.
+~
+The SSS agent considers your motives in coming here.
+~
+32|64 8|32|32768 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4369
+citizen hades~
+A citizen of Hades~
+A citizen of Hades looks at you
+~
+The citizen of Hades is curious as to why you are here.
+~
+64|128 0 0 S
+403 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4370
+personal robot~
+A personal robot~
+The personal robot of a citizen of Hades is here.
+~
+The robot asks, 'May I help you?'
+~
+4|64 512 0 S
+640 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4371
+cinta melloy~
+Melloy Cinta~
+Melloy Cinta stands before you.
+~
+Melloy Cinta is the head of the SSS and a tough woman.
+~
+2|32|64 128|8192 -10 S
+789 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4372
+settler male~
+A male settler~
+A male settler hurries about on his business
+~
+The male settler seems to be in a rush.
+~
+64|128 0 0 S
+460 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4373
+female settler~
+A female settler~
+The female settler is taking her time strolling about.
+~
+The female settler does not seemt o be interested in you.
+~
+64|128 0 0 S
+430 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4374
+sentinel settler~
+Settler sentinel~
+A Settler sentinel is here, guarding the place.
+~
+A Settler sentinel is not amused by you.
+~
+2|32|64 0 0 S
+746 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4375
+shop attendant robot~
+A shop attendant robot~
+A shop attendant robot is here, awaiting your orders.
+~
+The shop attendant seems eager to serve you.
+~
+2|64 512 0 S
+321 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4376
+repair robot~
+A repair robot~
+A robot is here repairing other damaged robots.
+~
+The robot seems engrossed in its work.
+~
+2|64 512 0 S
+595 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4377
+receptionist~
+A receptionist~
+A receptionist is here, ready to answer your questions.
+~
+The receptionist smiles at you and asks if you need help.
+~
+2|64 0 0 S
+320 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#4378
+guard robot sapper~
+A sapper~
+A sapper is here, guarding the place.
+~
+The sapper looks at you and bows.
+~
+2|64 128|512 0 S
+789 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4379
+ironhead fanatic~
+An Ironhead fanatic~
+An Ironhead fanatic screams and rushes at you!
+~
+The Ironhead seems to be beyond reason.
+~
+32|64 8|32 0 S
+497 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4380
+newlaw robot law~
+A New-Law robot~
+A New-Law robot is here, minding his own business.
+~
+The New-Law robot is not compelled to serve you and seems to ignore you.
+~
+64 512 0 S
+756 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#4358
+blaster~
+a standard blaster~
+A small handheld blaster lies here.~
+~
+5 2|128|1024|2048 1|8192
+0 4 8 6
+5 0 0
+A
+3 0
+#4359
+manual robotics book advanced~
+a manual on advanced robotics~
+A large book lies on the ground~
+~
+13 128 1|16384
+0 1 6 11
+3 0 0
+A
+4 0
+#4360
+governor ring wedding~
+the governor's wedding ring~
+A small ring lies on the ground~
+~
+9 1|1024 1|2
+3 1 6 11
+1 0 0
+A
+3 0
+#4361
+governor wife wedding ring~
+the governor's wife's wedding ring~
+A small wedding ring twinkles as sunlight play off it~
+~
+9 1 1|2
+5 1 6 11
+1 0 0
+#4362
+settler stunner red~
+a Settler's stunner~
+A bright red stunner lies on the ground~
+~
+5 1|2 1|8192
+0 3 8 6
+5 0 0
+A
+1 0
+#4363
+diary tonya welton~
+tonya Welton's diary~
+A small diary is on the ground~
+~
+13 128 1|16384
+0 1 6 11
+3 0 0
+A
+3 0
+#4364
+portable hyperwave transmitter~
+a portable hyperwave transmitter~
+A small hyperwave transmitter is here, beeping softly~
+~
+8 2 1
+0 1 6 11
+15 0 0
+#4365
+key aircar~
+a small aircar key~
+A small key lies at your feet.~
+~
+18 0 1
+0 1 6 11
+1 0 0
+#4366
+aircar brown~
+a small brown aircar~
+A small brown aircar stands at your feet.~
+~
+15 2 8192
+99999 15 4365 11
+1000 0 0
+#4367
+simcor beddle diary small book~
+simcor Beddle's diary~
+A small diary lies on the ground~
+~
+13 0 1
+0 1 6 11
+2 0 0
+#4368
+bottle whisky small~
+a bottle of fine whisky~
+A small bottle of whisky glisters at your feet~
+~
+17 0 1
+5 5 5 0
+5 0 0
+#4369
+small ring~
+a small ring~
+A small ring is here, half-buried in the ground~
+~
+9 0 1|2
+3 1 6 11
+1 0 0
+#4370
+pants fashionable~
+a pair of fashionable pants~
+There is a pair of pants here~
+~
+9 0 1|32
+5 1 6 11
+3 0 0
+A
+14 0
+#4371
+small portable computer~
+a small portable computer~
+There is a small portable computer here.~
+~
+8 1|2 1|16384
+0 1 6 11
+20 0 0
+A
+4 0
+A
+3 0
+#4372
+small notepad~
+a small notepad~
+Someone has left a notepad half opened here~
+~
+2 0 1|16384
+10 70 70 62
+1 0 0
+#4373
+pants settler-made~
+a Settler-made pants~
+A pair of brown pants is here.~
+~
+9 0 1|32
+4 1 6 11
+2 0 0
+#4374
+cap settler-made~
+a Settler-made cap~
+There is a small cap on the ground~
+~
+9 0 1|16
+3 1 6 11
+2 0 0
+#4375
+ruby ring~
+a small ruby ring~
+There is a small ring encrusted with a ruby here~
+~
+9 1 1|2
+1 1 6 11
+0 0 0
+#4376
+walkie talkie~
+a walkie talkie~
+There is a small walkie talkie here~
+~
+13 2 1|16384
+0 1 6 11
+2 0 0
+#4377
+pesonal computer~
+a personal computer~
+A personal computer is here, quietly humming to itself~
+~
+13 1|2 1
+0 1 6 11
+30 0 0
+#4378
+chair~
+a large comfortable chair~
+A large comfortable chair is here, beckoning your attention~
+~
+12 0 0
+0 1 6 11
+59 0 0
+#4379
+large aircar~
+a large opulent aircar~
+There is a large opulent aircar packed here.~
+~
+12 0 0
+0 1 6 11
+1000 0 0
+#4380
+gardening shears~
+a pair of gardening shears~
+A pair of gardening shears has been left on the ground.~
+~
+5 0 1|8192
+0 1 2 11
+3 0 0
+#4381
+damaged robot~
+a heavily damaged robot~
+There is a heavily damaged robot here.~
+~
+13 0 0
+0 1 6 11
+35 0 0
+#0
+
+
+#ROOMS
+#4358
+Town square~
+You are at the center of the town central.  Although the streets are 
+relatively quiet, you notice that many aircars whizzing about above your 
+head.  This is Hades, the capital city of Inferno.
+~
+0 4|1024 1
+D0
+~
+~
+0 -1 4363
+D1
+~
+~
+0 -1 4365
+D2
+~
+~
+0 -1 4359
+D3
+~
+~
+0 -1 4361
+S
+#4359
+Town central~
+The town central is, as usual, bustling with robotic life, though human life 
+is sadly lacking.  With the advent use of robots, humans are becoming more 
+and more reclusive.
+~
+0 0 1
+D0
+~
+~
+0 -1 4358
+D1
+~
+~
+0 -1 4366
+D2
+~
+~
+0 -1 4401
+D3
+~
+~
+0 -1 4360
+S
+#4360
+Town central~
+The town central is, as usual, bustling with robotic life, though human life 
+is sadly lacking.  With the advent use of robots, humans are becoming more 
+and more reclusive.
+~
+0 0 1
+D0
+~
+~
+0 -1 4361
+D1
+~
+~
+0 -1 4359
+D2
+~
+~
+0 -1 4400
+D3
+~
+~
+1 -1 4367
+S
+#4361
+Town central~
+The town central is, as usual, bustling with robotic life, though human life 
+is sadly lacking.  With the advent use of robots, humans are becoming more 
+and more reclusive.
+~
+0 0 1
+D0
+~
+~
+0 -1 4362
+D1
+~
+~
+0 -1 4358
+D2
+~
+~
+0 -1 4360
+D3
+~
+~
+0 -1 4371
+S
+#4362
+Town central~
+The town central is, as usual, bustling with robotic life, though human life 
+is sadly lacking.  With the advent use of robots, humans are becoming more 
+and more reclusive.
+~
+0 0 1
+D1
+~
+~
+0 -1 4363
+D2
+~
+~
+0 -1 4361
+S
+#4363
+Town central~
+The town central is, as usual, bustling with robotic life, though human life 
+is sadly lacking.  With the advent use of robots, humans are becoming more 
+and more reclusive.
+~
+0 0 1
+D0
+~
+~
+0 -1 4368
+D1
+~
+~
+0 -1 4364
+D2
+~
+~
+0 -1 4358
+D3
+~
+~
+0 -1 4362
+S
+#4364
+Town central~
+The town central is, as usual, bustling with robotic life, though human life 
+is sadly lacking.  With the advent use of robots, humans are becoming more 
+and more reclusive.
+~
+0 0 1
+D2
+~
+~
+0 -1 4365
+D3
+~
+~
+0 -1 4363
+S
+#4365
+Town central~
+The town central is, as usual, bustling with robotic life, though human life 
+is sadly lacking.  With the advent use of robots, humans are becoming more 
+and more reclusive.
+~
+0 0 1
+D0
+~
+~
+0 -1 4364
+D1
+~
+~
+0 -1 4372
+D2
+~
+~
+0 -1 4366
+D3
+~
+~
+0 -1 4358
+S
+#4366
+Town central~
+The town central is, as usual, bustling with robotic life, though human life 
+is sadly lacking.  With the advent use of robots, humans are becoming more 
+and more reclusive.
+~
+0 0 1
+D0
+~
+~
+0 -1 4365
+D1
+~
+~
+1 -1 4370
+D3
+~
+~
+0 -1 4359
+S
+#4367
+A small abandoned warehouse~
+You stand inside a small abandoned warehouse.  Although abandoned, 
+multitudes of serving and cleaning robots daily maintain it to keep it 
+spotless and clean.
+~
+0 1|8 0
+D1
+~
+~
+1 -1 4360
+S
+#4368
+A street in Hades~
+The street is relatively devoid of human beings, though robots of all shapes 
+and sizes roam hurriedly, most of them with a purpose that is purely of no 
+importance.
+~
+0 0 1
+D0
+~
+~
+0 -1 4369
+D1
+~
+~
+0 -1 4399
+D2
+~
+~
+0 -1 4363
+D3
+~
+~
+1 -1 4398
+S
+#4369
+A street in Hades~
+The street is relatively devoid of human beings, though robots of all shapes 
+and sizes roam hurriedly, most of them with a purpose that is purely of no 
+importance.
+~
+0 0 1
+D0
+~
+~
+1 -1 4395
+D1
+~
+~
+0 -1 4397
+D2
+~
+~
+0 -1 4368
+D3
+~
+~
+0 -1 4396
+S
+#4370
+A large abandoned building~
+You are inside a large abandoned building.  From the many chairs and tables 
+in the place, you realise that this had once been an office tower.
+~
+0 1|8 0
+D3
+~
+~
+1 -1 4366
+S
+#4371
+Western entrance to the city of Hades~
+You stand before the western entrance of the largest city (the capital) of 
+Inferno -- Hades.  Aircars and airtransports from all over the planet arrive 
+at the city in a constant stream of flashy metal.
+~
+0 0 1
+D0
+~
+~
+0 -1 4419
+D1
+~
+~
+0 -1 4361
+S
+#4372
+Eastern entrance of the city of Hades~
+You stand before the eastern entrance of the largest city (the capital) of 
+Inferno -- Hades.  Aircars and airtransports from all over the planet arrive 
+at the city in a constant stream of flashy metal.
+~
+0 0 1
+D1
+~
+~
+0 -1 4373
+D3
+~
+~
+0 -1 4365
+S
+#4373
+A trail through the wilderness~
+You stand in a large field of rocks and small patches of greenery.  Although 
+terraforming of the planet has been in progress for a good number of years 
+and with considerable success, most of the planet is still barren -- a stark 
+contrast from this place.
+~
+0 4 3
+D1
+~
+~
+0 -1 4374
+D3
+~
+~
+0 -1 4372
+S
+#4374
+A trail through the wilderness~
+You stand in a large field of rocks and small patches of greenery.  Although 
+terraforming of the planet has been in progress for a good number of years 
+and with considerable success, most of the planet is still barren -- a stark 
+contrast from this place.
+~
+0 4 3
+D0
+~
+~
+0 -1 4375
+D2
+~
+~
+0 -1 4384
+D3
+~
+~
+0 -1 4373
+S
+#4375
+Entrance to the Settler Secret Service headquarters~
+The Settler Secret Service (or SSS for short) is the single largest legal 
+policeforce that the Settlers employ.  Although not as considerable as the 
+Spacers' police departments, its much more advanced technology and almost 
+unlimited resources make it a force to be reckoned with.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 4378
+D1
+~
+~
+0 -1 4376
+D2
+~
+~
+0 -1 4374
+S
+#4376
+1st floor of the SSS HQ~
+You are in the 1st floor of the SSS HQ.  Although you are not of Spacer 
+origin, it is still not advisable to be here.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 4377
+D3
+~
+~
+0 -1 4375
+S
+#4377
+1st floor of the SSS HQ~
+You are in the 1st floor of the SSS HQ.  Although you are not of Spacer 
+origin, it is still not advisable to be here.
+
+There is a staircase at the corner of the room leading upwards
+~
+0 8|8192 0
+D2
+~
+~
+0 -1 4376
+D3
+~
+~
+0 -1 4378
+D4
+~
+~
+0 -1 4379
+S
+#4378
+1st floor of the SSS HQ~
+You are in the 1st floor of the SSS HQ.  Although you are not of Spacer 
+origin, it is still not advisable to be here.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 4377
+D2
+~
+~
+0 -1 4375
+S
+#4379
+2nd floor of the SSS HQ~
+You are on the 2nd floor of the SSS HQ.  Although you are not of Spacer 
+origin, it is still not advisable to be here.
+
+There is a staircase at the back of the room leading up and down
+~
+0 8|8192 0
+D2
+~
+~
+0 -1 4382
+D3
+~
+~
+0 -1 4380
+D4
+~
+~
+1 -1 4383
+D5
+~
+~
+0 -1 4377
+S
+#4380
+2nd floor of the SSS HQ~
+You are on the 2nd floor of the SSS HQ.  Although you are not of Spacer 
+origin, it is still not advisable to be here.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 4379
+D2
+~
+~
+0 -1 4381
+S
+#4381
+2nd floor of the SSS HQ~
+You are on the 2nd floor of the SSS HQ.  Although you are not of Spacer 
+origin, it is still not advisable to be here.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 4380
+D1
+~
+~
+0 -1 4382
+S
+#4382
+2nd floor of the SSS HQ~
+You are on the 2nd floor of the SSS HQ.  Although you are not of Spacer 
+origin, it is still not advisable to be here.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 4379
+D3
+~
+~
+0 -1 4381
+S
+#4383
+Melloy Cinta's office~
+You are standing in Melloy Cinta's office.  Although she is the head of the 
+SSS, her name is not widely known on Inferno, with the exceptions of the 
+governor, his aids and the Settlers.
+~
+0 8|8192 0
+D5
+~
+~
+1 -1 4379
+S
+#4384
+The entrance of Settler Town~
+Settler Town, an underground city devoted to the Settlers, is well known for 
+its many luxurious apartments, beautiful lighting --- and lack of robots.
+~
+0 0 1
+D0
+~
+~
+0 -1 4374
+D5
+~
+~
+0 -1 4385
+S
+#4385
+Level 1 of Settler Town~
+You are on level 1 of the underground Settler Town.  Although it is deep 
+beneath the surface of the planet, the city is well-lit by myriad coloured 
+lights hanging overhead.
+~
+0 8 0
+D1
+~
+~
+0 -1 4388
+D2
+~
+~
+0 -1 4386
+D4
+~
+~
+0 -1 4384
+S
+#4386
+Level 1 of Settler Town~
+You are on level 1 of the underground Settler Town.  Although it is deep 
+beneath the surface of the planet, the city is well-lit by myriad coloured 
+lights hanging overhead.
+~
+0 8 0
+D0
+~
+~
+0 -1 4385
+D1
+~
+~
+0 -1 4387
+D3
+~
+~
+0 -1 4389
+S
+#4387
+Level 1 of Settler Town~
+You are on level 1 of the underground Settler Town.  Although it is deep 
+beneath the surface of the planet, the city is well-lit by myriad coloured 
+lights hanging overhead.
+
+There is an elevator here leading down.
+~
+0 8 0
+D0
+~
+~
+0 -1 4388
+D3
+~
+~
+0 -1 4386
+D5
+~
+~
+0 -1 4390
+S
+#4388
+Level 1 of Settler Town~
+You are on level 1 of the underground Settler Town.  Although it is deep 
+beneath the surface of the planet, the city is well-lit by myriad coloured 
+lights hanging overhead.
+~
+0 8 0
+D2
+~
+~
+0 -1 4387
+D3
+~
+~
+0 -1 4385
+S
+#4389
+A small underground cafeteria~
+You are in a small underground cafeteria.  Sweet aromas of boiling coffee 
+and bubbling tea drifts from the kitchen at the back of the room and you 
+smile in delight.  A perfect hideaway!
+~
+0 8|1024 0
+D1
+~
+~
+0 -1 4386
+S
+#4390
+Level 2 of Settler Town~
+You are on level 2 of the underground Settler Town.  Although it is deep 
+beneath the surface of the planet, the city is well-lit by myriad coloured 
+lights hanging overhead.
+~
+0 8|8192 0
+D3
+~
+~
+0 -1 4391
+D4
+~
+~
+0 -1 4387
+S
+#4391
+Level 2 of Settler Town~
+You are on level 2 of the underground Settler Town.  Although it is deep 
+beneath the surface of the planet, the city is well-lit by myriad coloured 
+lights hanging overhead.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 4390
+D5
+~
+~
+0 -1 4392
+S
+#4392
+Deep underground in Settler Town~
+You are deep within the planet's crust in the very bowels of Settler Town.  
+The air is chilly here and even though the area is well-lit, you can not 
+stop the feeling of fear from creeping up to you.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 4393
+D4
+~
+~
+0 -1 4391
+S
+#4393
+Deeper within Settler Town~
+You are deep within the planet's crust in the very bowels of Settler Town.  
+The air is chilly here and even though the area is well-lit, you can not 
+stop the feeling of fear from creeping up to you.
+~
+0 8|8192 0
+D1
+~
+~
+1 -1 4394
+D3
+~
+~
+0 -1 4392
+S
+#4394
+Tonya Welton's office~
+You are in Tonya Welton's personal office.  Not many of the Settlers and no 
+Spacers, with the exception of her lover, has ever stepped foot into this 
+room.  As you watch in amazement at the many humming computers all around 
+you, you cannot help but gasp at the operations of the Settlers.
+~
+0 8|8192 0
+D3
+~
+~
+1 -1 4393
+S
+#4395
+A small clothes shop~
+You are in a small clothes shop selling all sorts of clothing, from 
+Spacer-made to Settler-made.  Although the shop is run mainly by robots, the 
+buyers have a few humans among them.
+~
+0 8 0
+D2
+~
+~
+1 -1 4369
+S
+#4396
+A sprawling aircar mall~
+You are in a large sprawling aircar mall.  Tens of aircars of all shapes and 
+sizes are lined up along the sides of the mall, awaiting inspection of 
+buyers.
+~
+0 8 0
+D1
+~
+~
+0 -1 4369
+S
+#4397
+Garden of a large house~
+You are standing in the garden of a large house.  The lawn is kept 
+meticulously neat and tidy by an army of cleaning droids.  However, their 
+prescence makes the whole atmosphere seem almost artificial.
+~
+0 0 1
+D3
+~
+~
+0 -1 4369
+S
+#4398
+The Hades Court of Law~
+You are standing in the Hades Court of law, completely alone.  The peaceful 
+city has not seen any major crimes for quite some time.
+~
+0 8 0
+D1
+~
+~
+1 -1 4368
+S
+#4399
+A robots repair bay~
+Hundreds of robots, working or spoilt, are in the large repair bay.  Most of 
+the robots sent for repairs are not severely damaged but merely have their 
+paint scratched and their owners, ever so wasteful, have sent them for 
+replacement.
+~
+0 8 0
+D3
+~
+~
+0 -1 4368
+S
+#4400
+Hades Avenue~
+Beneath your feet is the famous Hades Avenue, the widest road in the whole 
+of Inferno.
+~
+0 0 1
+D0
+~
+~
+0 -1 4360
+D1
+~
+~
+0 -1 4401
+D2
+~
+~
+0 -1 4403
+D3
+~
+~
+0 -1 4412
+S
+#4401
+Hades Avenue~
+Beneath your feet is the famous Hades Avenue, the widest road in the whole 
+of Inferno.
+~
+0 0 1
+D0
+~
+~
+0 -1 4359
+D2
+~
+~
+0 -1 4402
+D3
+~
+~
+0 -1 4400
+S
+#4402
+Hades Avenue~
+Beneath your feet is the famous Hades Avenue, the widest road in the whole 
+of Inferno.
+~
+0 0 1
+D0
+~
+~
+0 -1 4401
+D3
+~
+~
+0 -1 4403
+S
+#4403
+Hades Avenue~
+Beneath your feet is the famous Hades Avenue, the widest road in the whole 
+of Inferno.
+~
+0 4 1
+D0
+~
+~
+0 -1 4400
+D1
+~
+~
+0 -1 4402
+D2
+~
+~
+0 -1 4404
+S
+#4404
+Lobby of Governor's House~
+Governor's House, or more appropriately Governor's Office, is where governor 
+Alvar Kresh and his whole hierachy of staff works.  Although it is the 
+largest building in the whole of Hades, it is by no means the most opulent.  
+In fact, Kresh seems to pride himself on being a thrifty person.
+~
+0 8 0
+D0
+~
+~
+0 -1 4403
+D1
+~
+~
+0 -1 4405
+D2
+~
+~
+0 -1 4407
+S
+#4405
+1st floor of Governor's House~
+You are on the 1st floor of Governor's House.  Staff from receptionists to 
+policy-makers surround you, constantly rushing about.
+
+A lift at the side of the room presents a way towards the top.
+~
+0 8 0
+D2
+~
+~
+0 -1 4406
+D3
+~
+~
+0 -1 4404
+D4
+~
+~
+0 -1 4408
+S
+#4406
+1st floor of Governor's House~
+You are on the 1st floor of Governor's House.  Staff from receptionists to 
+policy-makers surround you, constantly rushing about.
+~
+0 8 0
+D0
+~
+~
+0 -1 4405
+D3
+~
+~
+0 -1 4407
+S
+#4407
+1st floor of Governor's House~
+You are on the 1st floor of Governor's House.  Staff from receptionists to 
+policy-makers surround you, constantly rushing about.
+~
+0 8 0
+D0
+~
+~
+0 -1 4404
+D1
+~
+~
+0 -1 4406
+S
+#4408
+2nd floor of Governor's House~
+You are on the 2nd floor of Governor's House.  Unlike the 1st floor, this 
+floor is filled with people seated behind desks and quietly doing their 
+work.
+~
+0 8 0
+D3
+~
+~
+0 -1 4409
+D5
+~
+~
+0 -1 4405
+S
+#4409
+2nd floor of Governor's House~
+You are on the 2nd floor of Governor's House.  Unlike the 1st floor, this 
+floor is filled with people seated behind desks and quietly doing their 
+work.
+~
+0 8 0
+D1
+~
+~
+0 -1 4408
+D2
+~
+~
+0 -1 4410
+S
+#4410
+2nd floor of Governor's House~
+You are on the 2nd floor of Governor's House.  Unlike the 1st floor, this 
+floor is filled with people seated behind desks and quietly doing their 
+work.
+~
+0 8 0
+D0
+~
+~
+0 -1 4409
+D4
+~
+~
+1 -1 4411
+S
+#4411
+Governor's Office~
+You are in Alvar Kresh's personal office.  Although it is not hard to see 
+that he is a particularly neat and tidy person, the fact that robots are a 
+widely used tool on Inferno is not lost to you.
+~
+0 8 0
+D5
+~
+~
+1 -1 4410
+S
+#4412
+Hades Avenue~
+Beneath your feet is the famous Hades Avenue, the widest road in the whole 
+of Inferno.
+
+There is a building to the south.
+~
+0 4 1
+D1
+~
+~
+0 -1 4400
+D2
+~
+~
+0 -1 4413
+S
+#4413
+A large opulent building~
+You stand within the walls of a large opulent building, bustling with 
+robotic life.  Everywhere you look, robots rush about, trying their best to 
+stay out of each other's way, yet accomplish their tasks.
+~
+0 4 1
+D0
+~
+~
+0 -1 4412
+D4
+~
+~
+0 -1 4414
+S
+#4414
+Ironhead Headquarters~
+You are in the secret headquarters of the Ironhead, a mob-like organisation 
+which strongly opposes the presence of the Settlers and encourage the use of 
+robotic labour.
+~
+0 8|8192 0
+D3
+~
+~
+0 -1 4415
+D5
+~
+~
+0 -1 4413
+S
+#4415
+Ironhead Headquarters~
+You are in the secret headquarters of the Ironhead, a mob-like organisation 
+which strongly opposes the presence of the Settlers and encourage the use of 
+robotic labour.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 4414
+D2
+~
+~
+0 -1 4416
+S
+#4416
+Ironhead Headquarters~
+You are in the secret headquarters of the Ironhead, a mob-like organisation 
+which strongly opposes the presence of the Settlers and encourage the use of 
+robotic labour.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 4415
+D1
+~
+~
+0 -1 4417
+S
+#4417
+Ironhead Headquarters~
+You are in the secret headquarters of the Ironhead, a mob-like organisation 
+which strongly opposes the presence of the Settlers and encourage the use of 
+robotic labour.
+~
+0 8|8192 0
+D3
+~
+~
+0 -1 4416
+D4
+~
+~
+1 -1 4418
+S
+#4418
+Private office of Simcor Beddle~
+You are in the private office of Simcor Beddle, leader of the Ironheads.  
+Although the leader of a semi-religious groups, his personal intentions are 
+purely political.  His room is filled with secret information on the 
+organisation as well as plans of coming and previous attacks on the 
+government and the Settlers.  You are not welcomed here, you realised.
+~
+0 8|8192 0
+D5
+~
+~
+1 -1 4417
+S
+#4419
+The wilderness of Inferno~
+You stand on the plains of Terra Grande, the largest piece of barren land on 
+the whole of Inferno.
+~
+0 4 4
+D0
+~
+~
+0 -1 4420
+D2
+~
+~
+0 -1 4371
+S
+#4420
+The wilderness of Interno~
+You stand on the plains of Terra Grande, the largest piece of barren land on 
+the whole of Inferno.
+~
+0 0 4
+D0
+~
+~
+0 -1 4421
+D2
+~
+~
+0 -1 4419
+S
+#4421
+The wilderness of Inferno~
+You stand on the plains of Terra Grande, the largest piece of barren land on 
+the whole of Inferno.
+
+There is a large pool here.
+~
+0 0 4
+D2
+~
+~
+0 -1 4420
+D5
+~
+~
+0 -1 4422
+S
+#4422
+Under the pool~
+You are at the bottom of a large pool.  There seems to be light coming from 
+the hole to the south.
+~
+0 1|4 6
+D2
+~
+~
+0 -1 4423
+D4
+~
+~
+0 -1 4421
+S
+#4423
+Entrance of Valhalla~
+You are at the entrance of Valhalla.  The hidden city of the New-Law robots. 
+  The city has been a gift to the New-Law robots by the previous governor, 
+Chanto Grieg.  Although assasinated, his memory will always remain within 
+this city.
+~
+0 8 0
+D0
+~
+~
+0 -1 4422
+D3
+~
+~
+0 -1 4424
+S
+#4424
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D1
+~
+~
+0 -1 4423
+D2
+~
+~
+0 -1 4427
+D3
+~
+~
+0 -1 4425
+S
+#4425
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D1
+~
+~
+0 -1 4424
+D2
+~
+~
+0 -1 4426
+S
+#4426
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D0
+~
+~
+0 -1 4425
+D1
+~
+~
+0 -1 4427
+D2
+~
+~
+0 -1 4428
+S
+#4427
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D0
+~
+~
+0 -1 4424
+D1
+~
+~
+0 -1 4430
+D2
+~
+~
+0 -1 4429
+D3
+~
+~
+0 -1 4426
+S
+#4428
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D0
+~
+~
+0 -1 4426
+D1
+~
+~
+0 -1 4429
+S
+#4429
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D0
+~
+~
+0 -1 4427
+D1
+~
+~
+0 -1 4431
+D2
+~
+~
+0 -1 4432
+D3
+~
+~
+0 -1 4428
+S
+#4430
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D2
+~
+~
+0 -1 4431
+D3
+~
+~
+0 -1 4427
+S
+#4431
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D0
+~
+~
+0 -1 4430
+D2
+~
+~
+0 -1 4433
+D3
+~
+~
+0 -1 4429
+S
+#4432
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D0
+~
+~
+0 -1 4429
+D1
+~
+~
+0 -1 4433
+S
+#4433
+Valhalla, Level 1~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8 0
+D0
+~
+~
+0 -1 4431
+D3
+~
+~
+0 -1 4432
+D5
+~
+~
+0 -1 4434
+S
+#4434
+Valhalla, Level 2~
+You are on level 2 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8|8192 0
+D0
+~
+~
+0 -1 4436
+D3
+~
+~
+0 -1 4435
+D4
+~
+~
+0 -1 4433
+D5
+~
+~
+1 -1 4437
+S
+#4435
+Valhalla, Level 2~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8|8192 0
+D1
+~
+~
+0 -1 4434
+S
+#4436
+Valhalla, Level 2~
+You are on level 1 of the underground city of Valhalla.  All around you, 
+New-Law robots are rushing about on their daily business.  No one seems to 
+be paying you any attention.
+~
+0 8|8192 0
+D2
+~
+~
+0 -1 4434
+S
+#4437
+Prospero's private room~
+You have intruded upon Prospero's private office.  As the self-proclaimed 
+leader of the New-Law robots, Prospero has done much to further the cause of 
+the NL robots -- to survive.
+~
+0 8|8192 0
+D4
+~
+~
+1 -1 4434
+S
+#0
+
+
+#RESETS
+D 1 4437 4 1
+D 1 4418 5 1
+D 1 4411 5 1
+D 1 4395 2 1
+D 1 4367 1 2
+D 1 4370 3 2
+D 1 4383 5 2
+D 1 4394 3 2
+*
+M 1 4358 1 4411            Alvar Kresh to Governor's Office
+E 1 4358 100 16
+E 1 4360 100 1
+G 1 4365 100
+*
+M 1 4359 1 4411            Fredda Leving to Governor's Office
+E 1 4359 100 17
+E 1 4361 100 1
+G 1 4364 100
+*
+M 1 4360 1 4358            Caliban to Town central
+E 1 4358 100 16
+G 1 4364 100
+G 1 4365 100
+*
+M 1 4361 1 4437            Prospero to Prospero's private room
+E 1 4358 100 16
+G 1 4359 100
+*
+M 1 4362 1 4394            Tonya Welton to Tonya Welton's office
+E 1 4362 100 16
+G 1 4363 100
+*
+M 1 4363 1 4411            Donald to Governor's Office
+E 1 4358 100 16
+G 1 4365 100
+*
+M 1 4364 1 4418            Simcor Beddle to Private office of Simcor Beddle
+E 1 4358 100 16
+G 1 4367 100
+G 1 4368 100
+*
+O 1 4366 100 4358            a small brown aircar to Town central
+P 1 4364 0 4366
+P 1 4358 0 4366
+*
+*
+M 1 4365 10 4367            A small cleaning droid to A small abandoned warehouse
+*
+M 1 4366 20 4362            A large maintenance robot to Town central
+*
+M 1 4366 20 4364            A large maintenance robot to Town central
+*
+M 1 4367 5 4365            a small cat to Town central
+*
+M 1 4367 5 4368            a small cat to A street in Hades
+O 1 4365 100 4368            a small aircar key to A street in Hades
+*
+M 1 4365 10 4370            A small cleaning droid to A large abandoned building
+*
+M 1 4368 5 4375            A SSS agent to Entrance to the Settler Secret Service headquarters
+E 1 4362 100 16
+E 1 4369 100 1
+*
+M 1 4369 2 4369            A citizen of Hades to A street in Hades
+E 1 4369 100 1
+E 1 4370 100 7
+*
+M 1 4370 10 4369            A personal robot to A street in Hades
+G 1 4365 100
+*
+M 1 4370 10 4372            A personal robot to Eastern entrance of the city of Hades
+*
+M 1 4368 5 4380            A SSS agent to 2nd floor of the SSS HQ
+E 1 4362 100 16
+G 1 4365 100
+*
+M 1 4368 5 4382            A SSS agent to 2nd floor of the SSS HQ
+E 1 4362 100 16
+G 1 4364 100
+*
+M 1 4371 1 4383            Melloy Cinta to Melloy Cinta's office
+E 1 4362 100 16
+E 1 4371 100 17
+G 1 4364 100
+G 1 4372 100
+*
+M 1 4372 6 4384            A male settler to The entrance of Settler Town
+E 1 4374 100 6
+*
+M 1 4373 3 4386            A female settler to Level 1 of Settler Town
+E 1 4373 100 7
+E 1 4369 100 1
+E 1 4375 100 2
+*
+M 1 4367 5 4388            a small cat to Level 1 of Settler Town
+*
+M 1 4374 2 4390            Settler sentinel to Level 2 of Settler Town
+E 1 4362 100 16
+E 1 4376 100 17
+*
+M 1 4374 2 4391            Settler sentinel to Level 2 of Settler Town
+E 1 4362 100 16
+G 1 4376 100
+O 1 4377 100 4394            a personal computer to Tonya Welton's office
+O 1 4378 100 4394            a large comfortable chair to Tonya Welton's office
+O 1 4373 100 4395            a Settler-made pants to A small clothes shop
+O 1 4370 100 4395            a pair of fashionable pants to A small clothes shop
+*
+M 1 4375 7 4395            A shop attendant robot to A small clothes shop
+*
+M 1 4375 7 4396            A shop attendant robot to A sprawling aircar mall
+O 1 4366 100 4396            a small brown aircar to A sprawling aircar mall
+O 1 4379 100 4396            A large opulent aircar to A sprawling aircar mall
+*
+M 1 4365 10 4397            A small cleaning droid to Garden of a large house
+E 1 4380 100 16
+O 1 4381 100 4399            A heavily damaged robot to A robots repair bay
+*
+M 1 4376 2 4399            A repair robot to A robots repair bay
+*
+M 1 4365 10 4404            A small cleaning droid to Lobby of Governor's House
+O 1 4379 100 4403            A large opulent aircar to Hades Avenue
+*
+M 1 4377 2 4404            A receptionist to Lobby of Governor's House
+O 1 4378 100 4411            a large comfortable chair to Governor's Office
+O 1 4377 100 4411            a personal computer to Governor's Office
+*
+M 1 4377 2 4413            A receptionist to A room
+*
+M 1 4378 2 4413            A sapper to A large opulent building
+E 1 4358 100 16
+*
+M 1 4379 3 4414            An Ironhead fanatic to Ironhead Headquarters
+*
+M 1 4365 10 4414            A small cleaning droid to Ironhead Headquarters
+*
+M 1 4378 2 4415            A sapper to Ironhead Headquarters
+E 1 4358 100 16
+*
+M 1 4379 3 4416            An Ironhead fanatic to Ironhead Headquarters
+E 1 4358 100 16
+*
+M 1 4370 10 4417            A personal robot to Ironhead Headquarters
+G 1 4365 100
+O 1 4378 100 4418            a large comfortable chair to Private office of Simcor Beddle
+O 1 4368 100 4418            a bottle of fine whisky to Private office of Simcor Beddle
+O 1 4379 100 4423            a large opulent aircar to Entrance of Valhalla
+O 1 4366 100 4423            a small brown aircar to Entrance of Valhalla
+*
+M 1 4380 10 4423            A New-Law robot to Entrance of Valhalla
+*
+M 1 4380 1 4429            A New-Law robot to Valhalla, Level 1
+E 1 4358 100 16
+*
+M 1 4380 1 4429            A New-Law robot to Valhalla, Level 1
+G 1 4365 100
+*
+M 1 4376 2 4433            A repair robot to Valhalla, Level 1
+O 1 4378 100 4434            a large comfortable chair to Valhalla, Level 2
+O 1 4377 100 4434            a personal computer to Valhalla, Level 2
+O 1 4377 100 4437            a personal computer to Prospero's private room
+O 1 4378 100 4437            a large comfortable chair to Prospero's private 
+S
+
+
+
+#$
+

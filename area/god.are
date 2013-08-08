@@ -1,0 +1,51 @@
+#AREA	XeNos   The Gods Area~
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#1200
+The Chat Room~
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  There are no doors out.  Clearly
+the owner of this room needs none.
+~
+0 4|8|16|1024 0
+S
+
+#1201
+The God's Lounge~
+You are in a large room with many chairs and footrests, some fabric, some
+leather.  A fireplace burns brightly here, and you feel at peace.  There are 
+no doors leading to or from this mystical place.
+~
+0 4|8|16|1024 0
+S
+
+#1202
+Da Fuzzy One, High Lord of (HEMP) Outdoors Indoors~
+It is hard to tell if you just stepped outdoors or you are still
+inside. This room rests against an enormous redwood tree, which forms the 
+inner wall.  Some lower branches reach out across the room towards the
+sunlight which streams through the glass ceiling.  Large Wratton basket
+chairs filled with enormous soft cushions swing from the tree's branches. 
+During the heat of the day, or when da Wolf seeks night, the glass
+ceiling darkens until the room has the comfort of a shaded spot in deep
+forest or a cave buried in the face of a mountain.  The roof slants
+gradually from its peak 20 feet up the side of the tree to a bare 8
+inches from the thick dark green moss which cushions the floor.  A very
+fine screen forms the short remaining wall.  The mesh seems to disappear
+when you attempt to look closely at it.  A bubbling stream fills the pond 
+at the center of the room, and the force of the water forms a small
+fountain.
+~
+0 4|8|16|1024 0 
+S
+#0
+#$

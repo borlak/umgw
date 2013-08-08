@@ -1,0 +1,90 @@
+- {CFri Dec 24{x - New area: Lycaria, say lycaria at midgaard portal room.
+
+- {CFri Dec 24{x - New area: Firetop Mountain, say firetop at midgaard portal 
+{x{x               room.
+
+- {CFri Dec 24{x - New area: Hollywood, say hollywood at midgaard portal room.
+
+- {CFri Dec 24{x - Each areas "average level of mobs" is now randomized each r
+{x{x               eboot, with the exception of areas that have a "*" by their 
+{x{x               name.
+
+- {CMon Dec 27{x - Kingdom report is in, this can be abbreviated (kingdom rep)
+{x{x               .  Shows the condition of everyone in your kingdom, where th
+{x{x               ey are at, and if they are fighting.
+
+- {CMon Dec 27{x - The area command now sorts each area according to their avg
+{x{x               . level.
+
+- {CMon Dec 27{x - Kingdoms are now notified when one of their members get att
+{x{x               acked.
+
+- {CMon Dec 27{x - You can type "area <level>" to list areas only of <level> a
+{x{x               nd greater.
+
+- {CTue Dec 28{x - Emote/pose now has ansi.
+
+- {CTue Dec 28{x - Lych is a donkey raping ass shit eater.
+
+- {CWed Dec 29{x - Crash bug from vamp skill potency fixed.
+
+- {CWed Dec 29{x - New area: Hell, say hell at midgaard portal room.  This fun
+{x{x               ctions the same as the old hell.  The old Hell is gone.
+
+- {CWed Dec 29{x - Anyone can recall straight to midgaard by typing either rec
+{x{x               all2 or '?'  This in effect gives you two recalls.
+
+- {CWed Dec 29{x - New area: Baldur's Gate, say baldurs at midgaard portal roo
+{x{x               m.
+
+- {CThu Dec 30{x - Kingdom Recall is in.  Leaders go to a room they want to be
+{x{x                the recall and type "kingdom recall"  This costs 100 points.
+{x{x                Then members can use KRECALL (or kr) to recall to this point.
+
+- {CThu Dec 30{x - wimpy mobs no longer flee if they are over level 100.
+
+- {CThu Dec 30{x - cursing in safe rooms should definately be fixed now
+
+- {CThu Dec 30{x - there may be special bonuses who happen to be online when y
+{x{x               2k system time hits
+
+- {CThu Dec 30{x - If an immortal thinks you are giving away caps for free, th
+{x{x               en you will be deleted.
+
+- {CFri May  4{x - Fear.
+
+- {CWed May 16{x - disabled pinging until we move to a server with better proc
+{x{x               essor
+
+- {CThu Jun 14{x - can receieve up to 3 times regular experience
+
+- {CSat Jun 16{x - moved to a new server... umgw.genesismuds.com. ping back in
+{x{x               .
+
+- {CSat Jun 16{x - posted promotion on mudconnector, and am waiting for submis
+{x{x               sion on mudconnector's list.
+
+- {CSat Jun 16{x - bounty system added.  50 qp minimum to place a bounty!
+
+- {CSat Jun 16{x - black shimmering swords now have a +100 damroll bonus
+
+- {CSun Jun 17{x - everyone can walk through doors now
+
+- {CSun Jun 17{x - under 20 hours gets 300% bonus besides random 5* multiplier
+
+- {CSun Jun 17{x - limbo doesn't kick you out anymore...
+
+- {CSun Jun 17{x - and autoquit is off for now
+
+- {CSun Jun 17{x - if you try to find help on a word that isn't there, it will
+{x{x                add the word to a list to be added later
+
+- {CSun Jun 17{x - new help system.  check it out, note comments.
+
+- {CMon Jun 18{x - portal now will work for mob.  however, some rooms you can'
+{x{x               t portal from and some rooms you can't portal to.
+
+- {CMon Jun 18{x - poisonous bite should now work for werewolves, 30% chance p
+{x{x               er each time it checks.
+
+

@@ -1,0 +1,38 @@
+#! /bin/csh -f
+# Written by Furey.
+# With additions from Tony.
+
+# Set the port number.
+set port = 5666
+if ( "$1" != "" ) set port="$1"
+
+# Change to area directory.
+cd ../area
+
+# Set limits.
+nohup
+nice
+limit stack 1024k
+if ( -e shutdown.txt ) rm -f shutdown.txt
+
+while ( 1 )
+    # If you want to have logs in a different directory,
+    #   change the 'set logfile' line to reflect the directory name.
+    set index = 100
+    while ( 1 )
+	set logfile = ../log/$index.log
+	if ( ! -e $logfile ) break
+	@ index++
+    end
+
+    # Run merc.
+    ../src/merc $port >&! $logfile
+#    ../src/merc
+
+    # Restart, giving old connections a chance to die.
+    if ( -e shutdown.txt ) then
+	rm -f shutdown.txt
+    endif
+
+    sleep 45
+end

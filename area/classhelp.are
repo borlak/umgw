@@ -1,0 +1,204 @@
+#HELPS
+
+-1 NINJA1~
+
+{WNinja's are a simple but powerful class which can be hard to handle 
+if you know nothing about them.{n
+
+{wThe command to learn discipline:
+{Y-syntax:{B principle{n
+
+{wThen you choose one of the following:
+{w-sora
+-chikyu
+-ningenno.
+-example: {gprinciple {Y<{gsora{Y|{gchikyu{Y|{gningenno{Y>{g improve{n
+
+{Y-Syntax: {Bmichi
+{w-Michi is a rage-like command that will give you extra hitroll and
+damroll, therefore increasing damage and increases chance of hitting. 
+Typing michi once will get you +200 hitroll and damroll and cannot be 
+done until it drops back down to 0.{n
+
+{Y-Tip:{w When michi is under 100.. Type calm to bring your michi
+completely down to 0 and then michi up so this will increase it 
+higher and you wouldn't have to wait as long.{n
+
+{wNinja's Weaponskills:
+{g-Ninja's weaponskills go up to 300 each.  Train them to parry/dodge
+better.{n
+
+{WTo make Ninja Armor, type:
+{Y-syntax:{B ninja
+{wIt would look like this:
+-Please specify which piece of ninja armor you wish to make: 
+Cloak Mask Dagger.
+You would be able to create a ninjitsu cloak, a ninjitsu mask,
+or a ninjitsu dagger. Each costing 60 primal each.{n
+
+{Y-syntax:{B dice
+{wThis command will give a random effect that works only in combat 
+that either affects you or your enemy in a bad or good way.  There
+are 6 different types of affects.
+
+{Y-syntax:{B circle
+{wThis command does random damage in combat that can do more damage 
+above your damcap to a player which is considered deadly to you.  
+Can only be used with a piercing weapon, i.e. ninjitsu dagger.'
+
+{YSEE: {BHELP SORA {g, {BHELP CHIKYU {g, {BHELP NINGENNO  {wfor more
+information on ninja disciplines.{n
+
+{wThis Ninja helpfile was created by NeoKiD =) {n
+
+~
+
+-1 WARLOCK1~
+
+Here are some useful commands for the warlock class:
+
+spheres		perception	objectgate	mgate
+polyappear	discharge	telekinetics	calllightning
+controlweather	earthembrace	tempest		embrace	
+quintessence	enchant		magetalk	magearmor
+
+Warlocks can write thier own spells (see magespells) but they DO NOT SAVE!
+More Rune Spells will be added as well.
+
+These are probably not all the powers, this is just to get you started.
+~
+
+-1 DROW1~
+
+Here are some useful commands for the drow class:
+
+sign		favor		grant		drows
+drowsight	drowshield	drowfire	drowhate
+drowpowers	darkness	earthshatter	shadowwalk
+drowcreate	heal		garotte		dgarotte
+spiderform	chaosblast	glamour		confuse
+
+These are probably not all the powers, this is just to get you started.
+~
+
+-1 VAMPIRE1~
+
+Here are some useful commands for the vampire class:
+
+powers		bite		change		clandiscipline
+frenzy		majesty		mask		mortal
+disablerise	bonemod		serenity	vclan
+vtalk		awe		vsilence	flamehands
+dragonform	bloodwall	zuloform	fear
+
+These are probably not all the powers, this is just to get you started.
+~
+
+-1 WEREWOLF1~
+
+Here are some useful commands for the werewolf class:
+
+howl		claw		flex		web
+burrow		klaive		totems
+tribe		vanish		talon
+
+These are probably not all the powers, this is just to get you started.
+~
+
+-1 MONK1 MONKS~
+Monks are warriors of the holy guide. 
+They are defensive warriors who keep peace amongst the good.
+They ARE strong fighters, don't underestimate the power of good.
+
+{RSyntax{x: {Wmantra [power] improve{x
+The command to train a mantra.
+ie. {Wmantra 'heart of oak' improve{x
+In order to train mantra you need to train primal by 10's.
+Also see {WHELP MANTRA{x for a listing of mantras.
+
+{RSyntax{x: {Wpalm (player or mob){x
+Palmthrust is not a mantra. 
+This attack used as an initial attack or inround attack.
+It's a group of small attacks which supposedly punctures opponent's armor.
+The cost to use palmthrust is a minimum amount of mana.
+ie. random spells like faerie fire, curse, harm spell, heal, magic missiles.
+
+{GTo activate the powers: {x
+Type the name of the mantra.  However, the following are automatic:
+trio mantra, heart of oak, fists of fury, and cloak of life.
+
+{GTo create monk armor: {x
+type monkarmor and it will show you a list
+ie. {Wmonkarmor bracer{x
+
+see {WHELP MONK2{x to continue.
+~
+
+-1 MONK2 MONKS2~
+{GWeapon training for monks: {x
+As you may notice, monks cannot wield weapons, but, to train
+the coders has made it possible for monks to gain weapon levels 
+without wielding.  In order to to this, you have to fight a mob 
+or player with that weapon
+type.  Maxed level of monk weapon is 300.
+
+{RSyntax{x: {Wtrain generation{x
+Generation 1 gives 4000 damcap for monks and costs exp.
+
+The guide command is useless here so don't worry about it.
+You can't induct anyone that is already classed.
+We use kingdoms to replace classtalk and class induction.
+
+Steel Shield mantra was removed due to people abusing it.
+
+{YMonk helpfile created by Trevrik ;]{x
+see {WHELP MONK1{x for first half of this file.
+~
+
+-1 HIGHLANDER1~
+{WThe Highlander class are based on their weaponskill levels.  They
+ can be powerful, but will take skill and time to train even though it
+looks like an easy class.
+
+{RWeaponskill:
+{G-Highlanders can train their weapons up to 1000 each (This will take
+time). As your slice goes up, your hitroll and damroll will go up. It is still a
+good idea to train your other weaponskills because it will improve you
+parry/dodge against players using that weapontype.{n
+
+{WHighlander Armor:
+-Highlanders arent affected by armor in stats.  So they don't have any
+class armor.  You can just wear any type of armor since it wont matter. But,
+you are affected by spells on armos so you should quest it on whatever armor
+you use. Example: Sanctuary.
+
+{YSyntax: {RKatana
+{G-Highlanders only have one class eq which is a weapon.  They can create
+katana's which are a very good slicing weapon.  They have a high average and costs
+100 primal each.{n
+
+{YSyntax: {RTruesight
+{G-Highlanders have truesight.  This lets you see everything.{n
+
+{YSyntax: {RSwordtech
+{G-This is a highlander combat combo sort of thing.  Each swordtech costs
+850move and after you use one in battle, you'll have to wait awhile before you
+can use a second time. If you are generation 1, you would have to still wait, but
+not as long.{n
+
+{wThis highlander helpfile was created by Lance.
+~
+
+-1 DEMON1~
+
+Here are some useful commands for the demon class:
+
+inpart		travel		wings		hooves
+weapon		fangs		tail		horns
+demonarmor	graft		pray		inferno
+
+These probably arent all the commands, this is just to get you started.
+~
+
+0$~
+#$
