@@ -38,5 +38,13 @@ Notable additions:
 This code is designed to be compiled and run on linux.  cd to the /src directory and type 'make'.  
 This should create the executable 'merc'.  I believe in order to get this to run correctly you have
 to cd to the /area directory and run merc from there, ie: ../src/merc &
+<br>
+You can login with the user 'Admin', blank password.
+
+<hr>
+Example of what the Ascii Map looks like:
+<br>
+![Map example](/doc/map_example.png)
+
 
 
