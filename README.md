@@ -21,8 +21,9 @@ Notable additions:
   <li>Kingdoms</li>
 	<li>Highlander class</li>
   <li>Random line of code echo (random weirdness was a common theme of our MUD)</li>
-	<li>Hackify and Colorize modes (changes all output in the game, EXP bonus, random fun)</li>
+	<li>Hackify and Colorize modes (changes all output in the game, gives EXP bonus)</li>
   <li>Trivia</li>
+  <li>Voting</li>
   <li>Random quest token drops (globally announced so players can hunt for them)</li>
   <li>Insult code (randomly makes 1 player insult another one)</li>
   <li>News board</li>
