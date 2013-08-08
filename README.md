@@ -16,7 +16,7 @@ The original Godwars code and gameplay had some...vulgar themes.  I removed what
 <br>
 Notable additions:
 <ul>
-  <li>A 2d colorized ascii-map based on the surrounding room structure, also showed mobile locations</li>
+  <li>A 2d colorized ascii-map based on the surrounding room structure, also shows mobile locations</li>
   <li>Tournaments</li>
   <li>Kingdoms</li>
 	<li>Highlander class</li>
